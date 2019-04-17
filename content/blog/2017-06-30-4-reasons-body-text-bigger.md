@@ -1,0 +1,28 @@
+---
+id: 3227
+title: 4 Reasons Why Your Body Text Should be Bigger
+date: 2017-06-30T08:54:22+00:00
+author: Anton Sten
+layout: blogpost
+guid: https://antonsten.com/?p=3227
+permalink: /4-reasons-body-text-bigger/
+---
+Great piece on why minimal body text is hurting our user experience.
+
+The <a href="https://designshack.net/articles/graphics/4-reasons-why-your-body-text-should-be-bigger/" target="_blank">entire article is well worth a read</a> but here is the outline:
+
+1. **It&#8217;s easier to read**
+
+Readability is a big deal. Why would you design a website that is difficult for a user to read?
+
+2. **It Makes the Design More Intuitive**
+
+The size of text contributes to the overall usability of a website design. If all text is scaled proportionately, larger body copy also helps bump of the size of other user interface elements such as navigation links or button text. It can help contribute to overall flow.
+
+3. **It Reduces Fatigue**
+
+Most people look at screens all day long, from glancing at phones to playing games to tablets to working on computers or watching television. Larger text sizes can help decrease some of this screen fatigue.
+
+4. **It Increases Visual Impact**
+
+The unintended consequence of using larger body type is that most everything else in your design will likely enlarge as well. This is most likely the case with space. Larger type will help you create room for more space in the design. More space often creates a more comfortable user experience and adds an element of contrast that helps draw users to the occupied parts of the design.

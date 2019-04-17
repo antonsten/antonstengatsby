@@ -1,0 +1,14 @@
+---
+layout: blogpost
+title: 'Cheap Shower Curtains'
+date: '2018-07-16T11:18:53+02:00'
+permalink: /cheap-shower-curtains/
+---
+>The unskilled cost accountant might suggest you outfit your new hotel with cheap shower curtains. After all, if you save $50 a room and have 200 rooms, pretty soon, we're talking real money.
+<br /><br />
+On the other hand, experience will demonstrate that cheap shower curtains let the water out, causing a minor flood, every day, room after room. And they wear out faster. Cheap shower curtains aren't actually cheap.
+<br /><br />
+Productivity pays for itself.
+<br /><br />
+Once you start looking for metaphorical cheap shower curtains, they're everywhere.
+**[{{page.title}}](https://seths.blog/2018/07/cheap-shower-curtains/){:target="_blank"}**
