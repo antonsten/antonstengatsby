@@ -1,40 +1,29 @@
 import React from "react"
-import { Link } from "gatsby"
+import Header from './header.js'
+import '../css/style.css'
 
 class Layout extends React.Component {
   render() {
-    const { location, title, children } = this.props
-    const rootPath = `${__PATH_PREFIX__}/`
-    let header
-
-    if (location.pathname === rootPath) {
-      header = (
-        <h1>
-          <Link
-            to={`/`}
-          >
-            {title}
-          </Link>
-        </h1>
-      )
-    } else {
-      header = (
-        <h3>
-          <Link
-            to={`/`}
-          >
-            {title}
-          </Link>
-        </h3>
-      )
-    }
+    const { children } = this.props
     return (
       <div>
-        <header>{header}</header>
-        <main>{children}</main>
-        <footer>
-          Footer
-        </footer>
+        <Header/>
+        <main className="max-w-xl mx-auto flex flex-wrap">
+          {children}
+          <footer className="w-full py-4 mb-4 mt-16 flex justify-end">
+            <ul className="list-reset">
+              <li className="inline-block pl-4">
+                <a className="text-black no-underline" href="mailto:anton@antonsten.com">Email</a>
+              </li>
+              <li className="inline-block pl-4">
+                <a className="text-black no-underline" href="https://twitter.com/antonsten">Twitter</a>
+              </li>
+              <li className="inline-block pl-4">
+                <a className="text-black no-underline" href="https://www.linkedin.com/in/antonsten/">Linkedin</a>
+              </li>
+            </ul>
+          </footer>
+        </main>
       </div>
     )
   }

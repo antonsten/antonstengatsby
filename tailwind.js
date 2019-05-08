@@ -46,7 +46,7 @@ let defaultConfig = require('tailwindcss/defaultConfig')()
 let colors = {
   'transparent': 'transparent',
 
-  'black': '#22292f',
+  'black': '#4a4a4a',
   'grey-darkest': '#3d4852',
   'grey-darker': '#606f7b',
   'grey-dark': '#8795a1',
@@ -67,7 +67,7 @@ let colors = {
   'orange-darkest': '#462a16',
   'orange-darker': '#613b1f',
   'orange-dark': '#de751f',
-  'orange': '#f6993f',
+  'orange': '#fe6963',
   'orange-light': '#faad63',
   'orange-lighter': '#fcd9b6',
   'orange-lightest': '#fff5eb',
@@ -257,7 +257,7 @@ module.exports = {
     'base': '1rem',     // 16px
     'lg': '1.125rem',   // 18px
     'xl': '1.25rem',    // 20px
-    '2xl': '1.5rem',    // 24px
+    '2xl': '1.75rem',    // 24px
     '3xl': '1.875rem',  // 30px
     '4xl': '2.25rem',   // 36px
     '5xl': '3rem',      // 48px
@@ -308,7 +308,7 @@ module.exports = {
   leading: {
     'none': 1,
     'tight': 1.25,
-    'normal': 1.5,
+    'normal': 1.7,
     'loose': 2,
   },
 
@@ -614,7 +614,7 @@ module.exports = {
     'sm': '30rem',
     'md': '40rem',
     'lg': '50rem',
-    'xl': '60rem',
+    'xl': '840px',
     '2xl': '70rem',
     '3xl': '80rem',
     '4xl': '90rem',
