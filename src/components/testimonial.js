@@ -2,9 +2,7 @@ import React from "react"
 
 class Testimonial extends React.Component {
   render() {
-    const location = window.location.href.includes("/work");
-
-    let classes = location ? 'testimonial mt-4 sm:mt-8 w-full px2 sm:px-4' : 'testimonial mt-4 sm:mt-8 w-full';
+    let classes = 'testimonial mt-4 sm:mt-8 w-full';
     const innerHtml = { __html: this.props.text }
 
     return (
