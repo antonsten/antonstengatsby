@@ -17,10 +17,8 @@
 
 
 /* header */ 
-header {
-}
 
-header > div {
+header > div > div {
   border-bottom: 1px dotted #abb6bb;
 }
 

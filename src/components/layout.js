@@ -13,13 +13,13 @@ class Layout extends React.Component {
           <footer className="w-full py-4 mb-4 mt-16 flex justify-end">
             <ul className="list-reset">
               <li className="inline-block pl-4">
-                <a className="text-black no-underline" href="mailto:anton@antonsten.com">Email</a>
+                <a className="text-black no-underline hover:text-orange" href="mailto:anton@antonsten.com">Email</a>
               </li>
               <li className="inline-block pl-4">
-                <a className="text-black no-underline" href="https://twitter.com/antonsten">Twitter</a>
+                <a className="text-black no-underline hover:text-orange" href="https://twitter.com/antonsten">Twitter</a>
               </li>
               <li className="inline-block pl-4">
-                <a className="text-black no-underline" href="https://www.linkedin.com/in/antonsten/">Linkedin</a>
+                <a className="text-black no-underline hover:text-orange" href="https://www.linkedin.com/in/antonsten/">Linkedin</a>
               </li>
             </ul>
           </footer>
