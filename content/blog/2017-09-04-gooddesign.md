@@ -10,7 +10,7 @@ image: 'images/blog/martone.jpg'
 
 ~~There are just as many opinions on what ‘good design’ is as there are ‘designed’ objects. While some believe that good design is merely a visual characteristic, others claim that function should always trump form to be good design.~~
 
-Dieter Rams, legendary designer, crafted ten rules of what good design is. Even if you’re not familiar with Dieter’s work, you’re probably familiar with work that’s highly [inspired](http://www.apartmenttherapy.com/apple-design-doesnt-fall-far-from-brauns-tree-176668){:target="_blank"} by it!
+Dieter Rams, legendary designer, crafted ten rules of what good design is. Even if you’re not familiar with Dieter’s work, you’re probably familiar with work that’s highly [inspired](http://www.apartmenttherapy.com/apple-design-doesnt-fall-far-from-brauns-tree-176668) by it!
 
 Anyways, the ten rules that Dieter set were the following:
 
@@ -33,7 +33,7 @@ Dieter clearly states that making a product ‘useful’ and ‘understandable�
 
 ## Good Design is as Little Design as Possible
 
-Some weeks ago I relaunched my website and one of the [comments over at DesignerNews](https://www.designernews.co/stories/86573-anton-sten--a-redesign){:target="_blank"} was the following:
+Some weeks ago I relaunched my website and one of the [comments over at DesignerNews](https://www.designernews.co/stories/86573-anton-sten--a-redesign) was the following:
 
 >Redesign? There is no design? Simple white page with text..
 
@@ -41,7 +41,7 @@ While I can see what this person means in theory - I’m confused as what would 
 
 ![Rothko](/images/blog/rothko.jpg)
 
->You know bad design when you encounter it. From every chair you’ve sat in that hurt your ass, to every coffee cup that burned your hand, to every time your finger triggered the wrong link on your phone, to every airline booking site that pissed you off. You know bad design. You hate it. [-Mike Monteiro](https://antonsten.com/ux-designer/){:target="_blank"}
+>You know bad design when you encounter it. From every chair you’ve sat in that hurt your ass, to every coffee cup that burned your hand, to every time your finger triggered the wrong link on your phone, to every airline booking site that pissed you off. You know bad design. You hate it. [-Mike Monteiro](https://antonsten.com/ux-designer/)
 
 Everything is designed. The only difference is how much effort that has been put into the design. Nothing is “un-designed”. Even that Comic Sans note in your copier room - is designed by someone (who clearly shouldn't be in charge of making notes).
 

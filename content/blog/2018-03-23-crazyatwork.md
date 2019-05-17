@@ -12,6 +12,6 @@ The answer isn’t more hours, it’s less bullshit. Less waste, not more produc
 Stress is an infection passed down from organization to employee, from employee to employee, and then from employee to customer. And it’s becoming resistant to traditional treatments. The same old medicine is only making it worse.<br /><br />
 And remember, stress can not be contained. It never stops at the edge of work. It always bleeds into life. It infects your relationships with your friends, your family, your kids.
 <br /><br />
-If it’s constantly crazy at work, we have two words for you: Fuck that. And two more: Enough already.**[It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm){:target="_blank"}**
+If it’s constantly crazy at work, we have two words for you: Fuck that. And two more: Enough already.**[It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm)**
 
-Very excited about the upcoming book from 37Signals - [It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm){:target="_blank"}.
+Very excited about the upcoming book from 37Signals - [It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm).

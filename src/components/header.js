@@ -3,9 +3,9 @@ import { Link } from "gatsby"
 
 function Header() {
   return (
-    <header className="mb-12 px-4">
+    <header className="mb-12">
       <div className="max-w-xl mx-auto">
-        <div className="flex items-center justify-between w-full py-6">
+        <div className="flex items-center justify-between w-full py-6 border-dashed border-b border-grey">
           <Link to="/"><img alt="anton sten" style={{ width: '98px' }} src="/images/antonsten.svg"/></Link>
           <ul className="list-reset">
             <li className="inline-block pl-6">

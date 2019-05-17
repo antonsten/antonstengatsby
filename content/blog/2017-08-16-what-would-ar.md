@@ -7,7 +7,7 @@ permalink: /whatwouldar/
 image: 'images/blog/ww_augmentreality1_2x.png'
 ---
 
-~~Great piece of thinking on what AR would mean for ordinary people in a not too distant future (say, October 2017?) by [Luke Wroblewski](https://www.lukew.com/ff/entry.asp?1974){:target="_blank"}.~~
+~~Great piece of thinking on what AR would mean for ordinary people in a not too distant future (say, October 2017?) by [Luke Wroblewski](https://www.lukew.com/ff/entry.asp?1974).~~
 
 ![What would AR](/images/blog/ww_augmentreality1_2x.png)
 

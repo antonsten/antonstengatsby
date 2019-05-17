@@ -15,11 +15,14 @@
   display: inline;
 } 
 
-
 /* header */ 
 
-header > div > div {
-  border-bottom: 1px dotted #abb6bb;
+header a {
+  border: none;
+}
+
+header a:hover {
+  border: none;
 }
 
 header ul {
@@ -38,6 +41,14 @@ header li {
 
 footer {
   border-top: 1px dotted #abb6bb;
+}
+
+footer a {
+  border: none;
+}
+
+footer a:hover {
+  border: none;
 }
 
 footer li {
@@ -73,7 +84,6 @@ h1 {
   }
 }
 
-
 h2 {
   margin-top: 2rem;
   margin-bottom: 1rem;
@@ -105,6 +115,84 @@ del {
 
 @screen sm {
   del {
-    @apply text-2xl leading-normal;;
+    @apply text-2xl leading-normal;
   }
+}
+
+blockquote {
+}
+
+/* testimonial */ 
+
+.tesimonial-logo {
+  max-width: 160px;
+  max-height: 80px;
+  height: auto !important;
+}
+
+/* components */ 
+
+.btn {
+  @apply bg-orange uppercase font-bold text-white text-xs px-8 py-4 cursor-pointer inline-block;
+  border-radius: 5px;
+  letter-spacing: 1px;
+}
+
+.btn:hover {
+  @apply text-white;
+}
+
+a {
+  color: #fe6963;
+  text-decoration: none;
+  border-bottom: 2px dotted #fe6963;
+}
+
+a:hover {
+  color: #fe6963;
+  border-bottom: 2px solid #fe6963;
+}
+
+blockquote {
+  @apply bg-white p-6 rounded-sm mb-8;
+}
+
+blockquote a, blockquote strong {
+  @apply block border-none mt-4 text-xs font-bold uppercase tracking-wide -mb-4;
+}
+
+blockquote a:hover {
+  @apply border-none;
+}
+
+form input {
+  -webkit-appearance: none;
+  height: 46px;
+}
+
+/* helpers */ 
+
+.truncate {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 550px;
+
+  /* reset a border */
+  border: none;
+}
+
+.truncate:hover {
+  /* reset a border */
+  border: none;
+}
+
+.client a {
+  /* reset a border */
+  border: none;
+}
+
+.client a:hover {
+  /* reset a border */
+  border: none;
 }

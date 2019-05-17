@@ -11,7 +11,7 @@ description: We like to blame Facebook and Google for all of our tech issues (pr
 
 ~~The tech industry is growing at an exponential rate influencing society to the point that we are seeing the biggest shift, perhaps ever, in man-kind. Some tech services actually have billions of users. You read that right, not thousands, not millions, but BILLIONS of human beings using them regularly. It would be arrogant not to say that these services are forming our society and shaping our norms while their only objective was to keep the growth curve… growing.~~
 
-This has resulted in an increased public focus on the [ethics](/ai-ethics){:target="_blank"} and responsibilities these companies have to their users and society. There’s demand for governments to regulate, a growing concern about user privacy, and concerns within the companies about the ethical choices they make on a daily basis. It seems like there’s one thing we can all agree and that is that there’s reason for concern.
+This has resulted in an increased public focus on the [ethics](/ai-ethics) and responsibilities these companies have to their users and society. There’s demand for governments to regulate, a growing concern about user privacy, and concerns within the companies about the ethical choices they make on a daily basis. It seems like there’s one thing we can all agree and that is that there’s reason for concern.
 
 
 ## But what about me?
@@ -25,13 +25,13 @@ _(Please excuse the severe examples I use, but I think they are needed to make m
 When there’s a drunk driving accident, you don’t see anyone blaming the liquor company. They aren’t blaming the bar. It’s the individual who should have acted more responsibly. The blame for a school shooting doesn’t lie with the gun manufacturer. It belongs to the shooter. In the US, states are even held responsible for not having stricter laws instead of those manufacturers. In Europe, where guns are strictly regulated, the story is the same. It’s the individual that is responsible. It’s the user’s fault.
 
 >Technology isn’t bad. If you know what you want in life, technology can help you get it. But if you don’t know what you want in life, it will be all too easy for technology to shape your aims for you and take control of your life. Especially as technology gets better at understanding humans, you might increasingly find yourself serving it, instead of it serving you.
-**[YUVAL NOAH HARARI ON WHAT THE YEAR 2050 HAS IN STORE FOR HUMANKIND](https://www.wired.co.uk/article/yuval-noah-harari-extract-21-lessons-for-the-21st-century){:target="_blank"}**
+**[YUVAL NOAH HARARI ON WHAT THE YEAR 2050 HAS IN STORE FOR HUMANKIND](https://www.wired.co.uk/article/yuval-noah-harari-extract-21-lessons-for-the-21st-century)**
 
 I think this is key because, frankly speaking, most of us have no idea what we want.
 
 >Most people hardly know themselves, and when they try to “listen to themselves” they easily become prey to external manipulations. The voice we hear inside our heads was never trustworthy, because it always reflected state propaganda, ideological brainwashing and commercial advertisement, not to mention biochemical bugs.<br />
 As biotechnology and machine learning improve, it will become easier to manipulate people’s deepest emotions and desires, and it will become more dangerous than ever to just follow your heart.
-**[YUVAL NOAH HARARI ON WHAT THE YEAR 2050 HAS IN STORE FOR HUMANKIND](https://www.wired.co.uk/article/yuval-noah-harari-extract-21-lessons-for-the-21st-century){:target="_blank"}**
+**[YUVAL NOAH HARARI ON WHAT THE YEAR 2050 HAS IN STORE FOR HUMANKIND](https://www.wired.co.uk/article/yuval-noah-harari-extract-21-lessons-for-the-21st-century)**
 
 As AI evolves and corporations get even more information about their users (e.g. YOU), the possibilities of influencing the choices you make will be even greater. It’s no longer just your friends, family, and peers that influence you - it’s also Amazon, Apple, Google and Baidu.
 
@@ -54,7 +54,7 @@ I think regulation is needed to rebalance the provider/user relationship. I full
 How hard would it be, for example, to have a team in place reserved exclusively for large-scale breaking news events to do what outside observers have been doing: scan and monitor for clearly misleading conspiratorial content inside its top searches and trending modules?
 <br /><br />     
 It’s not a foolproof solution. But it’s something.
-**[WHY CAN EVERYONE SPOT FAKE NEWS BUT YOUTUBE, FACEBOOK AND GOOGLE?](https://www.buzzfeed.com/charliewarzel/why-can-everyone-spot-fake-news-but-the-tech-companies?utm_term=.rxRvBV89q#.djz6P2NKz){:target="_blank"}**
+**[WHY CAN EVERYONE SPOT FAKE NEWS BUT YOUTUBE, FACEBOOK AND GOOGLE?](https://www.buzzfeed.com/charliewarzel/why-can-everyone-spot-fake-news-but-the-tech-companies?utm_term=.rxRvBV89q#.djz6P2NKz)**
 
 I should reiterate that tech companies need to address this problem more aggressively than they are. The fact that their business model is increasingly dependent on fake news and fake accounts isn’t a realistic sustainable business model, so there’s no excuse for doing nothing. I do, however, think it is odd that we continuously blame tech companies for fake news and trolls when we’re the ones clicking those links. Every time you click a “…you won’t believe what happened next” you need to own what happens next. That’s not the tech company’s problem, it’s yours.
 

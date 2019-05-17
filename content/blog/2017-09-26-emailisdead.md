@@ -8,7 +8,7 @@ description: Using e-mail can sometimes a bad experience, but is it e-mail itsel
 image: 'images/blog/giphy-email.gif'
 ---
 
-~~For years now, our community has believed in the idea that ‘Email is broken’ and even gone as far as sharing advice on how to [Escape E-mail Hell](https://medium.com/the-year-of-the-looking-glass/escaping-e-mail-hell-f55905f3862f){:target="_blank"}. There are countless companies that have set their mission on ‘fixing e-mail’. While I love tools like Slack, it’s not there to ‘fix e-mail’ because, as far as I’m concerned, e-mail isn’t broken.~~
+~~For years now, our community has believed in the idea that ‘Email is broken’ and even gone as far as sharing advice on how to [Escape E-mail Hell](https://medium.com/the-year-of-the-looking-glass/escaping-e-mail-hell-f55905f3862f). There are countless companies that have set their mission on ‘fixing e-mail’. While I love tools like Slack, it’s not there to ‘fix e-mail’ because, as far as I’m concerned, e-mail isn’t broken.~~
 
 The saying ‘don’t try to fix what ain’t broken’ applies really well to this scenario. E-mail as a protocol is great and most e-mail apps do exactly what they promise. They’re (usually) stable, quick, and even novice users can get started with the really basic functions (compose, send, reply) of e-mail pretty quickly.
 
@@ -23,23 +23,23 @@ E-mail is broken<br>
 vs.<br>
 People’s usage of e-mail is broken
 
-Simply put, too much of anything will kill you and that goes for e-mail too. E-mail isn’t broken, but people who see no problem in sending/receiving hundreds of e-mails every day are. Just like spamming any [Slack](https://slack.com){:target="_blank"} channel by using @channel for everything you write - you will eventually kill it. People should really consider if the email they are about to send needs sending and if it should have those additional 14 people cc’ed.
+Simply put, too much of anything will kill you and that goes for e-mail too. E-mail isn’t broken, but people who see no problem in sending/receiving hundreds of e-mails every day are. Just like spamming any [Slack](https://slack.com) channel by using @channel for everything you write - you will eventually kill it. People should really consider if the email they are about to send needs sending and if it should have those additional 14 people cc’ed.
 
 ![E-mail is broken](/images/blog/giphy-email.gif)
 
 >Email is broken, but so is our attitude towards it: our dependancy on its promise; our addiction to activity; our insistence for information in ignorance of the quantity or quality that may follow; our inability to distinguish between the brief and the self-indulgent. In a noisy world, a quiet inbox unnerves us. “Is anybody else having trouble with their email?” we’ll ask our colleagues when an expected response fails to arrive. And when did you last meet someone who didn’t have an email address? What year was that, exactly?<br>
-[E-mail is broken but so are you](https://medium.com/@paul_a_smith/email-is-broken-but-so-are-you-bc5f24fc8a97){:target="_blank"}
+[E-mail is broken but so are you](https://medium.com/@paul_a_smith/email-is-broken-but-so-are-you-bc5f24fc8a97)
 
 E-mail as a protocol is, especially considering it’s age, an amazing protocol. I would delete so many things from my life before even considering removing e-mail. Social Media? Bye-bye! Slack? Nice knowing you!
 
 >Facebook is on their third generation of plans to kill email. Mobile messaging has been going to kill email for the past four years. This year, Slack is going to kill email. Asana might still be going to kill email. Maybe the thing that saves Twitter’s stock price will be killing email.<br>
-[It’s your fault e-mail is broken](https://techcrunch.com/2015/07/22/its-your-fault-email-is-broken/){:target="_blank"}
+[It’s your fault e-mail is broken](https://techcrunch.com/2015/07/22/its-your-fault-email-is-broken/)
 
 Personally, I love e-mail. For some reason it seems most of the e-mail I get is good news whereas most of the traditional post is bad news with invoices/bills making up a large portion. Set up correctly, e-mail is not as invasive as phone calls, yet it can offer almost the same personal touch.
 
 >It takes courage to admit it, but the real problem with email isn’t with email at all. It’s with human nature, and with the nature of knowledge work.
 In a recent study by Kostadin Kushlev and Elizabeth W. Dunn, they found that over 81 percent of U.S. employees respond to emails within an hour (32 percent within 15 minutes). What’s even more surprising, though, is that 6 percent of respondents checked their email while they or their spouses were in labor. That’s not email — that’s us.<br>
-[It’s your fault e-mail is broken](https://techcrunch.com/2015/07/22/its-your-fault-email-is-broken/){:target="_blank"}
+[It’s your fault e-mail is broken](https://techcrunch.com/2015/07/22/its-your-fault-email-is-broken/)
 
 So instead of trying to fix e-mail, why not turn our energy to the things that actually needs fixing? There are complicated matters that need solutions far greater than a getting a new Sketch template. Why do we see so few Medium posts proposing better solutions to health care? Medical software interfaces? Airport way finding? Insurance claim filing? I’d love to see more designers tackle real stuff.
 

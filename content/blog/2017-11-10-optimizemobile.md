@@ -6,7 +6,7 @@ author: Anton Sten
 permalink: /checkoutforwinners/
 description: In his Checkout for Winners presentation at Google Conversions 2017 in Dublin Ireland, Andrey Lipattsev talked through two new APIs for improving sign-in/sign-up and checkout on the Web.
 ---
-~~Great notes from [Luke W](https://www.lukew.com/ff/entry.asp?1980){:target="_blank"} from Andrey Lipattsev's talk Checkout for Winners.~~
+~~Great notes from [Luke W](https://www.lukew.com/ff/entry.asp?1980) from Andrey Lipattsev's talk Checkout for Winners.~~
 
 Bullet points that stuck out to me:
 >- The Web is better than ever before. You can build fast, rich, app-like experiences but many companies opt to route people to native experiences instead of optimizing the Web experiences. That needs to change.

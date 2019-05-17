@@ -1,6 +1,7 @@
 import React from "react"
 import Header from './header.js'
 import '../css/style.css'
+import Popup from '../components/popup'
 
 class Layout extends React.Component {
   render() {
@@ -8,7 +9,7 @@ class Layout extends React.Component {
     return (
       <div>
         <Header/>
-        <main className="max-w-xl mx-auto flex flex-wrap">
+        <main className="max-w-xl mx-auto flex flex-wrap flex-start pt-6 pb-16">
           {children}
           <footer className="w-full py-4 mb-4 mt-16 flex justify-end">
             <ul className="list-reset">
@@ -24,6 +25,8 @@ class Layout extends React.Component {
             </ul>
           </footer>
         </main>
+
+        <Popup type="custom"/>
       </div>
     )
   }

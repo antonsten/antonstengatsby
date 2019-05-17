@@ -1,12 +1,18 @@
 import React from "react"
 import '../css/style.css'
+import { Link } from "gatsby"
+
 import Layout from "../components/layout"
 import Testimonial from '../components/testimonial';
+import Client from '../components/client';
+import Form from "../components/signupform"
+import SEO from "../components/seo"
 
 class Grid extends React.Component {
   render() {
       return (
         <Layout>
+          <SEO title="Work"/>
           <div className="w-full">
             <h1>Creating better user experiences</h1>
             <del>
@@ -75,6 +81,18 @@ class Grid extends React.Component {
 
               <Testimonial text="Outrageously good. Few people have Anton’s eye for details. I have hired Anton for several projects ranging from brand strategy, UX/UI makeovers to complete front-end designs. He has always delivered top notch, stellar work. I was deeply impressed by his ability to take an overly complex user interface and make it easy to use in just a few steps. <span class='highlight'>You can easily tell that his decade of acquired knowledge in design and usability makes him stand out among other UX experts.</span> It’s always reassuring to know he is on your side no matter what design project you have." author="STEFAN HELGESSON, STRATEGIC DIRECTOR, KEYSTONE"/>
 
+              <div className="px-2 sm:px-4">
+                <h2>User experience design</h2>
+                <p>Like it or not, these days your success is tied to how your user feels about you and your product. We can forge strong, long-term relationships with your users by taking the time to understand who those users are, how they interact with your product, and how your brand impacts them, and then designing with those insights in mind. So in the end, your product works the way your users expect and adds value to their lives.</p>
+
+                <h2>Conversion design</h2>
+                <p>You know your e-commerce site could be converting better, but don’t know where to start to improve. Don’t worry, you’re not alone. Many e-commerce website owners spend way too much time struggling to keep their conversion rates up. I can help zero in on the issues that might be causing your high bounce rates and craft solutions to get your conversion rates where they should be.</p>
+
+                <h2>Speaking engagements</h2>
+                <p>I’ll talk about creating engaging user experiences to anyone who’ll listen, and I’ve been privileged to speak to all sorts of audiences (and more than a few patient people I’ve cornered at parties). I believe when you are passionate about something, it’s important to share it with others. I’d love to talk to you and your crowd about UX, higher user engagement, improving business through design, or the challenges and rewards of being a one man company. <Link to="/contact">Get in touch here.</Link></p>
+
+                <Form/> 
+              </div> 
             </div>
         </Layout>
       );
@@ -82,34 +100,3 @@ class Grid extends React.Component {
 }
 
 export default Grid
-
-class Client extends React.Component {
-  render() {
-    let classes = 'client w-1/3 flex px-2 sm:px-4 mt-4 sm:mt-8 sm:h-48 '
-    let imgClasses = 'case-image pb-6 sm:pb-0 pt-6 sm:pt-0 pl-6 sm:pl-12 pr-6 sm:pr-12'
-    const noProps = !this.props.link && !this.props.case
-
-    return (
-      <div className={ classes }>
-        <div className="w-full flex items-center justify-center h-full bg-white relative">
-          { this.props.link &&
-            <a rel="noopener noreferrer" target="_blank" className="no-underline" href={ this.props.link }>
-              <img alt={this.props.logo} className={ imgClasses } src={ this.props.logo }/>
-            </a>
-          }
-          { noProps &&
-            <img alt={this.props.logo} className={ imgClasses } src={ this.props.logo }/>
-          }
-          { this.props.case &&
-            <span className="w-full flex items-center justify-center h-full bg-white relative">
-              <a className="no-underline" href={ this.props.case }>
-                <img alt={this.props.logo} className={ imgClasses } src={ this.props.logo }/>
-              </a>
-              <a href={ this.props.case } className="case-link link invisible sm:visible">View case →</a>
-            </span>
-          }
-        </div>
-      </div>
-    )
-  }
-}

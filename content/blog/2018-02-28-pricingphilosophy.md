@@ -6,4 +6,4 @@ author: Anton Sten
 permalink: /pricingphilosophy/
 ---
 
->Business is creative. You can do things any way you want. There’s no need to adhere to norms. Norms are for businesses without personality.**[Pricing Philisophy](https://sivers.org/pp){:target="_blank"}**
+>Business is creative. You can do things any way you want. There’s no need to adhere to norms. Norms are for businesses without personality.**[Pricing Philisophy](https://sivers.org/pp)**

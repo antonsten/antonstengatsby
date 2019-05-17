@@ -9,6 +9,6 @@ permalink: /morgan-google/
 
 >If your team, say on Gmail or Android, was to integrate Google+’s features then your team would be awarded a 1.5-3x multiplier on top of your yearly bonus. Your bonus was already something like 15% of your salary.
 <br /><br />
-You read that correctly. A fuck ton of money to ruin the product you were building with bloated garbage that no one wanted. No one really liked this. People drank the kool-aid though, but mostly because it was green and made of paper.**[{{page.title}}](https://twitter.com/morganknutson/status/1049523067506966529){:target="_blank"}**
+You read that correctly. A fuck ton of money to ruin the product you were building with bloated garbage that no one wanted. No one really liked this. People drank the kool-aid though, but mostly because it was green and made of paper.**[{{page.title}}](https://twitter.com/morganknutson/status/1049523067506966529)**
 
-The [entire thread](https://twitter.com/morganknutson/status/1049523067506966529){:target="_blank"} is just an insane look into how one of the world's most powerful companies is managed. 
+The [entire thread](https://twitter.com/morganknutson/status/1049523067506966529) is just an insane look into how one of the world's most powerful companies is managed. 

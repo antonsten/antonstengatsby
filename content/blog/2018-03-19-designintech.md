@@ -16,6 +16,6 @@ And too many creative leaders are quick to deem all the business aspects that un
 <br /><br />
 Breaking news: If you can't sell, educate or execute, your ideas are worth shit, y'all.
 <br /><br />
-So now it's time to educate ourselves, if we don't want to be as irrelevant as some of the people we are critiquing ourselves. More than ever, learn business and tech or die.**[Zelia Sakhi](https://www.linkedin.com/feed/update/urn:li:activity:6378688861597499392){:target="_blank"}**
+So now it's time to educate ourselves, if we don't want to be as irrelevant as some of the people we are critiquing ourselves. More than ever, learn business and tech or die.**[Zelia Sakhi](https://www.linkedin.com/feed/update/urn:li:activity:6378688861597499392)**
 
-[Zélia](https://twitter.com/ilovegraphics){:target="_blank"} is one of the brightest people I've ever had the honour of working with. For years, one of my strengths have been my understanding and interest of business and not just 'design'. I've been a long believer of that the question of wether or not designers should learn to code is inferior to wether designers should learn business. 
+[Zélia](https://twitter.com/ilovegraphics) is one of the brightest people I've ever had the honour of working with. For years, one of my strengths have been my understanding and interest of business and not just 'design'. I've been a long believer of that the question of wether or not designers should learn to code is inferior to wether designers should learn business. 

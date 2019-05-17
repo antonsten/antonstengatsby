@@ -11,6 +11,6 @@ image: '/images/blog/makemethink.gif'
 But we don’t see — let alone understand — what is going on behind the scenes, behind the simple appearance. We are kept in the dark.<br /><br />
 ...<br /><br />
 We fail to appreciate and to empathise because we don’t understand what is going on.<br /><br />
-[Make me think](https://blog.prototypr.io/make-me-think-90b46aa50513){:target="_blank"}
+[Make me think](https://blog.prototypr.io/make-me-think-90b46aa50513)
 
 I gave this a solid 50 👏🏼 on Medium. You should too. 

@@ -1,7 +1,9 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 
+import Testimonial from '../components/testimonial';
 import Layout from "../components/layout"
+import Form from "../components/signupform"
 import SEO from "../components/seo"
 
 class BlogIndex extends React.Component {
@@ -13,9 +15,9 @@ class BlogIndex extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
-          title="UX-lead"
+          title="Home"
         />
-        <div className="">
+        <div className="w-full">
           <h1 className="pr-0 sm:pr-12">Anton Sten leads UX for design-driven companies.</h1>
           <del className="mb-2">
             That’s me! My specialty? Using my design skills and business knowledge to not just make your digital product look pretty, but to make it work.
@@ -42,17 +44,22 @@ class BlogIndex extends React.Component {
             That’s something I’m really proud of. 
           </p>
 
+          <Link to="work" className="btn mt-8 mb-6">Find out more</Link>
+
+          <Testimonial logo="/images/clients/spotify.png" text="Anton was thorough and a pleasure to work with. He’s a great collaborator and partner to work through product solutions alongside. He does what he says and never misses a deadline, an unfortunate rarity these days that you don’t have to worry about with Anton." author="TRAVIS SCHMEISSER, FOUNDER & PARTNER, FIRST PRINCIPLE"/>
+
+          <Form/>
 
           <h2 className="mt-16">Latest blog posts</h2>
           {posts.map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
             return (
               <div key={node.fields.slug}>
-                <p className="flex justify-between py-4 font-normal mb-0">
-                  <Link className="no-underline text-black hover:text-orange" to={node.fields.slug}>
+                <p className="flex justify-between py-4 font-normal mb-0 border-dashed border-b border-grey">
+                  <Link className="no-underline text-black hover:text-orange truncate" to={node.fields.slug}>
                     {title}
                   </Link>
-                  <span>{node.frontmatter.date}</span>
+                  <span className="hidden sm:block">{node.frontmatter.date}</span>
                 </p>
                 
               </div>

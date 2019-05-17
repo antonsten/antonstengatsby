@@ -6,7 +6,7 @@ author: Anton Sten
 permalink: /pattern-names/
 ---
 
->But perhaps even more than that, they knew they needed to _talk_ about their design patterns more consistently. As they started creating an inventory of all their existing patterns, they found one team used “atoms” to refer to each of its components, whereas another team used “atoms” and “organisms” interchangeably, regardless of how complex a given pattern might be; one team might refer to a specific kind of design pattern as a banner, while another might call a near-identical pattern featured hero; and so on.**[What's in a pattern name](https://ethanmarcotte.com/wrote/whats-in-a-pattern-name/){:target="_blank"}**
+>But perhaps even more than that, they knew they needed to _talk_ about their design patterns more consistently. As they started creating an inventory of all their existing patterns, they found one team used “atoms” to refer to each of its components, whereas another team used “atoms” and “organisms” interchangeably, regardless of how complex a given pattern might be; one team might refer to a specific kind of design pattern as a banner, while another might call a near-identical pattern featured hero; and so on.**[What's in a pattern name](https://ethanmarcotte.com/wrote/whats-in-a-pattern-name/)**
 
 I can highly relate to what Ethan Marcotte is describing. I've worked with teams that refer to visual design as 'wireframes'. I'm especially intrigued by the final part of his piece: 
 
