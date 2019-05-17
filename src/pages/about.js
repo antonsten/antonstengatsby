@@ -1,4 +1,7 @@
 import React from "react"
+import { graphql } from "gatsby"
+import Img from "gatsby-image"
+
 import '../css/style.css'
 import Layout from "../components/layout"
 import Testimonial from '../components/testimonial';
@@ -6,10 +9,13 @@ import SEO from "../components/seo"
 
 class About extends React.Component {
   render() {
+    const { data } = this.props
+    console.log(data)
       return (
         <Layout>
           <SEO title="About"/>
-            <img className="mb-6 flex" alt="Anton Sten" src="/images/anton.jpg"/>
+            <Img fluid={data.fileName.childImageSharp.fluid} />
+
             <h1>About</h1>
             <p>
               I’ve been making digital products for 20 years (yes, that IS a lot of websites). In that time, I’ve helped some big names provide awesome experiences for their users, by getting to know a brand’s audience and balancing careful attention to design, product planning, crafting copy, and much more.
@@ -28,3 +34,15 @@ class About extends React.Component {
 }
 
 export default About
+
+export const query = graphql`
+  query {
+    fileName: file(relativePath: { eq: "anton.jpg" }) {
+      childImageSharp {
+        fluid {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
+  }
+`

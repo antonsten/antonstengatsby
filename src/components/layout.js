@@ -9,7 +9,7 @@ class Layout extends React.Component {
     return (
       <div>
         <Header/>
-        <main className="max-w-xl mx-auto flex flex-wrap flex-start pt-6 pb-16">
+        <main className="max-w-xl mx-auto pt-6 pb-16">
           {children}
           <footer className="w-full py-4 mb-4 mt-16 flex justify-end">
             <ul className="list-reset">
