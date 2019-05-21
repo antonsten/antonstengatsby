@@ -11,7 +11,6 @@ class Popup extends React.Component {
     this.hidePopup = this.hidePopup.bind(this);
   }
 
-
   hidePopup() {
     console.log('lmao')
     this.setState(state => ({

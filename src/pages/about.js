@@ -10,12 +10,10 @@ import SEO from "../components/seo"
 class About extends React.Component {
   render() {
     const { data } = this.props
-    console.log(data)
       return (
         <Layout>
           <SEO title="About"/>
             <Img fluid={data.fileName.childImageSharp.fluid} />
-
             <h1>About</h1>
             <p>
               I’ve been making digital products for 20 years (yes, that IS a lot of websites). In that time, I’ve helped some big names provide awesome experiences for their users, by getting to know a brand’s audience and balancing careful attention to design, product planning, crafting copy, and much more.
@@ -26,7 +24,6 @@ class About extends React.Component {
             <p>
               The company is just me and my co-founder, Meta, a 13-year-old miniature pinscher. When she’s not napping in the corner of my office, she’s silently critiquing my work. Or maybe she’s just trying to tell me it’s time for a walk..
             </p>
-
             <Testimonial text="It’s quite simple, really. If you hire Anton you will be very happy with the end result. When we hired Anton he worked from his office in Malmö and the majority of our collaboration was made online. Usually this poses a problem when debating/talking about design but with Anton it worked effortlessly. He had no problem transforming our wishes into a design that felt spot on.”" author="JOEL SANDÉN, CREATIVE DIRECTOR, TELIA"/>
         </Layout>
       );

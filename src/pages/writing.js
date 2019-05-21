@@ -3,6 +3,8 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Form from "../components/signupform"
+import Testimonial from '../components/testimonial';
 
 class Writing extends React.Component {
   render() {
@@ -58,6 +60,10 @@ class Writing extends React.Component {
               </div>
             </div>
           </div>
+
+          <Testimonial text="Outrageously good. Few people have Anton’s eye for details. I have hired Anton for several projects ranging from brand strategy, UX/UI makeovers to complete front-end designs. I was deeply impressed by his ability to take an overly complex user interface and make it easy to use in just a few steps. You can easily tell that his decade of acquired knowledge in design and usability makes him stand out among other UX experts." author="Stefan Helgesson, Strategic Director, Keystone"/>
+
+          <Form/>
 
           <h2 className="mt-16">All posts</h2>
           {posts.map(({ node }) => {
