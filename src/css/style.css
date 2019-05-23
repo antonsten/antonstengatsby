@@ -11,7 +11,7 @@
 }
 
 .highlight {
-  background: rgba(254, 105, 99, .15);
+  background: rgba(156, 0, 97, .15);
   display: inline;
 } 
 
@@ -39,7 +39,7 @@ header li {
 }
 
 [aria-current] {
-  color: #fe6963;
+  color: #9C0061;
 }
 
 /* footer */
@@ -159,14 +159,14 @@ del {
 }
 
 a {
-  color: #fe6963;
+  color: #9C0061;
   text-decoration: none;
-  border-bottom: 2px dotted #fe6963;
+  border-bottom: 2px dotted #9C0061;
 }
 
 a:hover {
-  color: #fe6963;
-  border-bottom: 2px solid #fe6963;
+  color: #9C0061;
+  border-bottom: 2px solid #9C0061;
 }
 
 blockquote {
