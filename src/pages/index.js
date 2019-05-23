@@ -24,12 +24,12 @@ class BlogIndex extends React.Component {
             <br></br><br></br>
             Here’s what I’ve done for people like you:
           </del>
-          
+
           <ul className="pl-4">
-            <li>Helped plan, build, and implement scaleable design systems for NE.se and city of Falkenberg</li>
+            <li>Helped plan, build, and implement scaleable design systems for <link to="/case/ne">NE.se</link> and <link to="case/falkenberg-kommun">city of Falkenberg</link></li>
             <li>Designed the shopping and buying experience for one of the world’s largest home retailers</li>
-            <li>Set the UX and design strategy for Fortune 500 companies like E.ON</li>
-            <li>Optimized e-commerce for a boost in conversions for skin care company Frank Body</li>
+            <li>Set the UX and design strategy for Fortune 500 companies like <link to="/case/eon">E.ON</link></li>
+            <li>Optimized e-commerce for a boost in conversions for skin care company <link to="/case/frank">Frank Body</link></li>
           </ul>
 
           <p>
@@ -41,12 +41,12 @@ class BlogIndex extends React.Component {
           </p>
 
           <p>
-            That’s something I’m really proud of. 
+            That’s something I’m really proud of.
           </p>
 
           <Link to="work" className="btn mt-8 mb-6">Find out more</Link>
 
-          <Testimonial logo="/images/clients/spotify.png" text="Anton was thorough and a pleasure to work with. He’s a great collaborator and partner to work through product solutions alongside. He does what he says and never misses a deadline, an unfortunate rarity these days that you don’t have to worry about with Anton." author="TRAVIS SCHMEISSER, FOUNDER & PARTNER, FIRST PRINCIPLE"/>
+          <Testimonial logo="/images/clients/spotify.png" text="Whenever someone asks me if I know any good freelance UX designers I always answer with Anton. <span class='highlight'>He’s a great designer with superior business understanding who always put the user in the front seat and delivers bloody good work.</span> If you ever get a chance to work with Anton, don’t miss it." author="Christian Wilsson, Head of Design, Spotify"/>
 
           <Form/>
 
@@ -61,7 +61,7 @@ class BlogIndex extends React.Component {
                   </Link>
                   <span className="hidden sm:block">{node.frontmatter.date}</span>
                 </p>
-                
+
               </div>
             )
           })}
