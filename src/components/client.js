@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 class Client extends React.Component {
   render() {
-    let classes = 'client w-1/3 flex px-2 sm:px-4 sm:h-48 mt-8'
+    let classes = 'client w-1/3 flex px-2 sm:px-4 sm:h-48'
     let imgClasses = 'case-image pb-6 sm:pb-0 pt-6 sm:pt-0 pl-6 sm:pl-12 pr-6 sm:pr-12'
     const noProps = !this.props.link && !this.props.case
 
