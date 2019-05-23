@@ -54,8 +54,7 @@ module.exports = {
                       }
                       frontmatter {
                         date(formatString: "MMMM DD, YYYY")
-                        title,
-                        permalink
+                        title
                       }
                     }
                   }
