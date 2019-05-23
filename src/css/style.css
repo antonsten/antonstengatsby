@@ -19,6 +19,7 @@
 
 header {
   background: #fcfbf8;
+  z-index: 99999;
 }
 
 header a {
