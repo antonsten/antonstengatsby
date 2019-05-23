@@ -64,8 +64,6 @@ footer li {
 
 blockquote {
   margin-top: 2.5rem;
-  border-style: dashed;
-  border-width: 1px;
   font-family: 'FreightDispProBook-Regular';
 }
 
@@ -130,7 +128,7 @@ del {
   width: 100%;
   font-style: normal;
 
-  @apply text-lg leading-normal;
+  @apply text-lg leading-loose;
 }
 
 @screen sm {

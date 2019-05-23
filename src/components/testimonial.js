@@ -8,7 +8,7 @@ class Testimonial extends React.Component {
 
     return (
       <div className={ classes }>
-        <blockquote className="bg-white p-8 rounded-sm border-dashed border">
+        <blockquote className="bg-white p-8 rounded-sm">
           <div className="w-full h-full">
             { this.props.logo && <img alt={this.props.author} className="tesimonial-logo mb-4" src={ this.props.logo }/>}
             <div className="text-sm sm:text-lg" dangerouslySetInnerHTML={innerHtml}></div>
