@@ -65,7 +65,7 @@ class Header extends React.Component {
               </div>
             }
             
-            <ul className="list-reset float-right hidden sm:inline-block">
+            <ul className="list-reset float-right hidden sm:inline-block text-lg">
               <li className="inline-block pl-6">
                 <Link className="text-black no-underline hover:text-orange" to="/about" rel="prev">
                   About
