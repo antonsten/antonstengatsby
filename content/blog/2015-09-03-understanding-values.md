@@ -5,7 +5,7 @@ date: 2015-09-03T12:10:23+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1091
-slug: /understanding-values/
+slug: understanding-values/
 ---
 ~~The office ecosystem is an unusual place. <a href="http://www.mediaevolutioncity.se/en/" target="_blank">The building</a> where I have my office is large by any standards. There are roughly 100 different companies with more than 500 actual people working for them.~~
 

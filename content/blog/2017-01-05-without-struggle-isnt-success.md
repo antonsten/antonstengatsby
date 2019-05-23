@@ -5,7 +5,7 @@ date: 2017-01-05T14:07:19+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=2661
-slug: /without-struggle-isnt-success/
+slug: without-struggle-isnt-success/
 ---
 ~~Those of you that have been following my writing during the past year have surely realised that there are two topics that are recurring and that gets my heart racing. How to create great user experiences and freelancing. But to be honest, it’s not really freelancing that’s my true calling &#8211; it’s finding a way of working that suits you. For me, that happens to be freelancing, but for you it’s surely different in many ways. All that really matters is that you find ways to enjoy your life by working in a way that suits you through the creation, and use, of products that feel natural to you. We all deserve to have these great user experiences in all aspects of our lives.~~
 

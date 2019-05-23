@@ -2,7 +2,7 @@
 layout: blogpost
 title: 'Cheap Shower Curtains'
 date: '2018-07-16T11:18:53+02:00'
-slug: /cheap-shower-curtains/
+slug: cheap-shower-curtains/
 ---
 >The unskilled cost accountant might suggest you outfit your new hotel with cheap shower curtains. After all, if you save $50 a room and have 200 rooms, pretty soon, we're talking real money.
 <br /><br />

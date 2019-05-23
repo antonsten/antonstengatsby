@@ -3,7 +3,7 @@ layout: blogpost
 title: "Whose risk?"
 date: 2018-04-09T07:39:07+00:00
 author: Anton Sten
-slug: /whoserisk/
+slug: whoserisk/
 ---
 
 >We cannot be part of a discussion on what risks a certain technology has without asking whose risks. It makes an awful lot of difference. …It’s quite pointless to talk about risk-benefit without saying, “Are those who are at risk also getting the benefits, or are those who are getting the benefits very far removed from risk?”<br /><br />

@@ -5,7 +5,7 @@ date: 2016-10-11T09:25:43+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=2348
-slug: /product-sales/
+slug: product-sales/
 ---
 ~~Which comes first: the chicken or the egg? A company I’m working with is facing a choice that most startups share. Should we focus on making the product go from good to great &#8211; or &#8211; should we focus on sales and user growth?~~
 

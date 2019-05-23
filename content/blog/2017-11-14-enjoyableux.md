@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Enjoyable UX vs. Usable UX'
 date: 2017-11-14T03:38:07+00:00
 author: Anton Sten
-slug: /enjoyableux/
+slug: enjoyableux/
 description: Do user experiences need to be enjoyable to be effective? Not always.
 image: '/images/maslow.jpg'
 ---

@@ -3,7 +3,7 @@ layout: blogpost
 title: 'How to succeed at freelancing'
 date: 2018-02-06T05:38:07+00:00
 author: Anton Sten
-slug: /succeedfreelancing/
+slug: succeedfreelancing/
 description: Are you feeling your work is meaningless? Does that make you meaningless? I recently gave a presentation at a local co-working space and talked about that. How finding meaning can inspire good work and good work can give you meaning.
 image: '/images/toolsoftitans.jpg'
 ---

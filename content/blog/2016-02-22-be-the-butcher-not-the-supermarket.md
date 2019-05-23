@@ -5,7 +5,7 @@ date: 2016-02-22T11:35:29+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1473
-slug: /be-the-butcher-not-the-supermarket/
+slug: be-the-butcher-not-the-supermarket/
 ---
 ## Stop being a one-stop-shop and start providing value to your clients
 

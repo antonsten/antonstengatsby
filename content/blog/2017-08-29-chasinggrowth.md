@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Chasing Growth'
 date: 2017-08-29T06:38:07+00:00
 author: Anton Sten
-slug: /chasinggrowth/
+slug: chasinggrowth/
 description: How do you value growth? Is it the most important factor in today’s economy or just a bad way of measuring success?
 image: 'images/blog-chasinggrowth.png'
 ---

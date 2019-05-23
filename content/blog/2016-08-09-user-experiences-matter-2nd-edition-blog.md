@@ -5,7 +5,7 @@ date: 2016-08-09T10:49:49+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1959
-slug: /user-experiences-matter-2nd-edition-blog/
+slug: user-experiences-matter-2nd-edition-blog/
 ---
 ~~It’s a simple truth, I love using products that offer great user experiences. I think about user experiences… _a lot_. So much so that I’ve dedicated nearly 20 years of my life learning what techniques work and how to stir up emotions in users that get great outcomes. I’ve worked with companies like IKEA, Spotify, and Mercedes-Benz to craft amazing experiences for their clients and customers. I count myself as blessed that I get to work with these open-minded companies who keep their users as their number one focus. Now I’m at the point where I have learned so much that I can’t help but share it with you all.~~
 

@@ -5,7 +5,7 @@ date: 2017-06-06T10:38:22+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://antonsten.com/?p=3165
-slug: /vox-media-accessibility-guidelines/
+slug: vox-media-accessibility-guidelines/
 ---
 > &#8220;Making work accessible creates a better experience across the board. Use this checklist to help build accessibility into your process no matter your role or stage in a project.&#8221;
 

@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Make me think'
 date: 2018-02-01T05:38:07+00:00
 author: Anton Sten
-slug: /makemethink/
+slug: makemethink/
 image: '/images/makemethink.gif'
 ---
 

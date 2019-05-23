@@ -5,7 +5,7 @@ date: 2017-06-08T09:18:56+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://antonsten.com/?p=3176
-slug: /designers-start-writing/
+slug: designers-start-writing/
 ---
 <a href="https://blog.prototypr.io/10-reasons-why-all-designers-should-start-writing-more-f34646a6e06b" target="_blank">Great list from Alana Brajdic</a>, especially fond of this:
 

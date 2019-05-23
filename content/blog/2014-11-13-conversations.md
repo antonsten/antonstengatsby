@@ -5,7 +5,7 @@ date: 2014-11-13T14:14:05+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=588
-slug: /conversations/
+slug: conversations/
 ---
 Do you remember the last time you had a really great conversation? Regardless if it was with a friend, a colleague or a stranger, I imagine that it was a rewarding experience. The two of you talking, listening, interacting, engaging with each other. I’m pretty sure you felt there was a mutual respect. Maybe you gained some new insights or was touched by something they said. Perhaps it made you look at something from a new perspective?
 

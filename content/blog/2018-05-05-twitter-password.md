@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Twitter logged all user’s passwords in plain text'
 date: 2018-05-05T06:30:07+00:00
 author: Anton Sten
-slug: /twitter-password/
+slug: twitter-password/
 ---
 
 Pre-context: Twitter admitted they had found a bug that showed all passwords in plain text rather than masked and encrypted. Their CTO Parag Agrawal commented: 

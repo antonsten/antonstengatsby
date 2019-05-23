@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Why don’t we just use Material Design?'
 date: 2019-04-24T04:01:11+00:00
 author: Anton Sten
-slug: /materialdesign/
+slug: materialdesign/
 ---
 
 >Material Design is astronomically popular. So popular in fact that I’ve spoken to numerous designers who refer to their work as “Material Design” when they have either never read the specification, or are ignoring it entirely.<br /><br />

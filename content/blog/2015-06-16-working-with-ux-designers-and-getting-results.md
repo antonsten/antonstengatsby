@@ -5,7 +5,7 @@ date: 2015-06-16T10:30:35+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=903
-slug: /working-with-ux-designers-and-getting-results/
+slug: working-with-ux-designers-and-getting-results/
 ---
 ## What UX Is and What It Isn’t
 

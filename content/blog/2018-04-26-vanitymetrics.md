@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Vanity Metrics'
 date: 2018-04-26T04:39:07+00:00
 author: Anton Sten
-slug: /vanitymetrics/
+slug: vanitymetrics/
 image: '/images/graph.png'
 topImage: '/images/graph.png'
 description: We live in a sea of data - follower count, revenue, subscribers, website visits. What if I told you they are just Vanity Metrics and don't mean much?

@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Serving your customer, valuing yourself'
 date: 2018-09-10T04:39:07+00:00
 author: Anton Sten
-slug: /serving-customer/
+slug: serving-customer/
 image: '/images/man_computer_large.png'
 topImage: '/images/man_computer_large.png'
 description: Want to raise your rates, but don’t know how? Packaging your services might be the right choice for you!

@@ -5,7 +5,7 @@ date: 2015-07-13T06:00:39+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=976
-slug: /i-am-professional-because-i-am-personal/
+slug: i-am-professional-because-i-am-personal/
 ---
 ~~Just like all small business owners, I want to improve everything about my business. I want to find new ways of connecting with audiences, use better tools to work more efficiently, and manage my cash flow with expertise. So I hunt for the perfect solution that will result in amazing client satisfaction, increased income, and more time to invest in my personal growth. I work most evenings and spend my weekends and holidays with business on my mind.~~
 

@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Accessibility, a powerful design tool'
 date: 2019-03-06T04:39:07+00:00
 author: Anton Sten
-slug: /accessibility/
+slug: accessibility/
 ---
 
 >When given the choice between an accessible bathroom or a non-accessible one, many people would pick the accessible one: there’s more space, it’s more comfortable, it’s a no-brainer. Digital products are the same. When given the choice, people naturally prefer what’s easier for them to use, to read, or to understand.<br /><br />

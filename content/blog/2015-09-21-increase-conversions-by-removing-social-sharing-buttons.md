@@ -5,7 +5,7 @@ date: 2015-09-21T10:34:54+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1131
-slug: /increase-conversions-by-removing-social-sharing-buttons/
+slug: increase-conversions-by-removing-social-sharing-buttons/
 ---
 Just like I outlined in a previous popular post, [&#8220;What&#8217;s the cost of &#8216;sharing&#8217;?&#8221;](https://www.antonsten.com/what-is-the-cost-of-sharing/) &#8211; conversions might actually benefit from not having social sharing buttons.
 

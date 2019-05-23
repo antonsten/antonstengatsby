@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Why I hate your fake redesign'
 date: 2018-03-16T05:39:07+00:00
 author: Anton Sten
-slug: /fakeredesign/
+slug: fakeredesign/
 ---
 
 >UI/UX work is not just about creating a beautiful picture. It’s about addressing your clients’ needs by providing new experiences for users and inspiring them to take action. It’s vital to do your research, discuss ideas with product managers, understand business needs, and check your assumptions. Only after all of that can you begin drawing.**[Why I hate your fake redesign](https://medium.com/pixelpoint/why-i-hate-your-fake-redesign-177a626d7f95)**

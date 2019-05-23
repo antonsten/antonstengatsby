@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Apple Should Make an Instagram Clone'
 date: 2018-04-27T06:30:07+00:00
 author: Anton Sten
-slug: /apple-instagram/
+slug: apple-instagram/
 ---
 
 >Instagram is one of the last social networks I use these days, which I actually enjoy visiting. But I always get a little twitchy using it because it's owned by Facebook (which I'm really not a fan of). And the ads are getting pretty annoying these days.

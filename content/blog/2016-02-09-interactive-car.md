@@ -5,7 +5,7 @@ date: 2016-02-09T10:26:30+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1454
-slug: /interactive-car/
+slug: interactive-car/
 ---
 ~~Your car’s interface has come a long way, but has a long way to go.~~
 

@@ -5,7 +5,7 @@ date: 2015-04-14T09:27:58+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=593
-slug: /ux-design-explained/
+slug: ux-design-explained/
 ---
 ~~There’s something distinctively special about the way digital designers think. They keep weird hours, exhibit odd habits and they throw a lot of jargon around – leaving those in the offline community a little dazed and confused.~~
 

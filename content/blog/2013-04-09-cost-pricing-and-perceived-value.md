@@ -5,7 +5,7 @@ date: 2013-04-09T14:15:53+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=590
-slug: /cost-pricing-and-perceived-value/
+slug: cost-pricing-and-perceived-value/
 ---
 There’s a very simple pricing strategy I like. Wether you’re selling a physical product, a digital product or a service — it’s price is related to three different factors.
 

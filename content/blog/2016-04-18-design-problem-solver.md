@@ -5,7 +5,7 @@ date: 2016-04-18T15:25:50+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1568
-slug: /design-problem-solver/
+slug: design-problem-solver/
 ---
 Like many of you, I have a place where I write down my ideas when they come to me. It’s called “Blog post & Ideas” and I keep it in my iCloud Notes library. I use Notes because it’s so heavily tied into both the OSX and iOS workflows that it becomes effortless to add an item. I might just add a URL from Safari, a random quote, or a vague idea that comes to me while walking my dog.
 

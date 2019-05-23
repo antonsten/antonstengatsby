@@ -5,7 +5,7 @@ date: 2016-09-28T13:51:09+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=2271
-slug: /failure-reflect-renew/
+slug: failure-reflect-renew/
 ---
 ~~This past week I interviewed <a href="https://pjrvs.com" target="_blank">Paul Jarvis</a> for my upcoming book, <a href="https://masteringfreelance.com" target="_blank">Mastering Freelance</a>. Paul, for those who don’t know his work, is a guy best described as a freelancing superstar &#8211; selling books, digital courses, software, and a creative class. He was just featured in the latest copy of <a href="http://www.offscreenmag.com/issue15/" target="_blank">Offscreen</a> and it’s definitely worth the read.~~
 

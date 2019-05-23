@@ -5,7 +5,7 @@ date: 2015-05-05T14:48:28+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=678
-slug: /working-with-me/
+slug: working-with-me/
 ---
 A couple of weeks ago I sent a small survey to selected clients. I wanted a quick and easy way for them to be able to tell me what they think of working with me and the work I deliver. Each client could leave a comment and decide if they wanted to leave their name or not.
 

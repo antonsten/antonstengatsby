@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Voice Input is the Next Big Thing - Or is It?'
 date: 2018-03-04T05:39:07+00:00
 author: Anton Sten
-slug: /voiceinput/
+slug: voiceinput/
 image: '/images/homepod.png'
 description: Do you have a voice assistant (Google Home, Amazon Alexa, Apple HomePod, Siri) at home? Does it live up to the hype? I bought a HomePod and it’s amazing and also not amazing.
 ---

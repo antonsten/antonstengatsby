@@ -5,7 +5,7 @@ date: 2017-06-30T08:47:50+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://antonsten.com/?p=3225
-slug: /no-share-buttons-mobile-sites/
+slug: no-share-buttons-mobile-sites/
 ---
 > Only 2 out of every 1000 mobile web users ever tap a custom share button—like even once—according to a Moovweb study. We found similarly tiny numbers during our research designing Philly.com and verticals for About.com. That means people are over 11 times more likely to tap a mobile advertisement than a mobile share button for Facebook, Twitter, Pinterest, etc.
 

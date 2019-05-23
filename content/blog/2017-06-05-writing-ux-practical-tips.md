@@ -5,7 +5,7 @@ date: 2017-06-05T15:04:52+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://antonsten.com/?p=3159
-slug: /writing-ux-practical-tips/
+slug: writing-ux-practical-tips/
 ---
 <a href="https://blog.prototypr.io/writing-for-ux-some-practical-tips-f44b1d6c3927" target="_blank">Anjana Menon</a> with some great practical tips on how to write for better UX:
 

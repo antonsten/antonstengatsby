@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Google Debuts a Standalone To-Do App, Google Tasks'
 date: 2018-04-27T06:29:07+00:00
 author: Anton Sten
-slug: /google-tasks/
+slug: google-tasks/
 ---
 
 >According to their announcement of Product Sans and their new logo, the typeface was supposed to be used in promotional materials and lockups, but there’s no mention of it being used for product UIs. In fact, the only other product I can find that has this same inconsistent mix is the new Gmail.com, also previewed today.

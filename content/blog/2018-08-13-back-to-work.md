@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Back to Work!'
 date: 2018-08-13T04:39:07+00:00
 author: Anton Sten
-slug: /back-to-work/
+slug: back-to-work/
 image: '/images/book.png'
 topImage: '/images/book.png'
 description: I learn more about UX from books NOT about UX. Check out what was on my reading list this summer.

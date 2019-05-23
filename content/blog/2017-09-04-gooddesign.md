@@ -3,7 +3,7 @@ layout: blogpost
 title: 'What´s Good Design?'
 date: 2017-09-04T11:38:07+00:00
 author: Anton Sten
-slug: /gooddesign/
+slug: gooddesign/
 description: Good design is sometimes hard to find, but you know it when you find it. Why? How did they do it?
 image: 'images/martone.jpg'
 ---

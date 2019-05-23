@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Voice Input’s Effect on Social Norms'
 date: 2018-08-28T04:39:07+00:00
 author: Anton Sten
-slug: /voiceinput-socialnorms/
+slug: voiceinput-socialnorms/
 image: '/images/googlehome.png'
 topImage: '/images/googlehome.png'
 description: Are Alexa, Siri, and GoogleAssistant changing us? The questions of privacy, respect, and inclusion in voice input has come up a lot, but we don’t often hear how it’s changing society. Is it for the better or the worse? You be the judge.

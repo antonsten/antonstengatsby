@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Morgan Knutson on Working as a Designer on Google+'
 date: 2018-10-16T05:39:07+00:00
 author: Anton Sten
-slug: /morgan-google/
+slug: morgan-google/
 
 ---
 

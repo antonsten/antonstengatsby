@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Your competitors don’t matter'
 date: 2018-03-15T07:39:07+00:00
 author: Anton Sten
-slug: /competitors/
+slug: competitors/
 ---
 
 >By signing up for your competitor’s product, all you get is feature parity.

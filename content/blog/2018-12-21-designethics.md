@@ -3,7 +3,7 @@ layout: blogpost
 title: 'What We Talk About When We Talk About Design Ethics'
 date: 2018-12-20T05:39:07+00:00
 author: Anton Sten
-slug: /ifyoulike/
+slug: ifyoulike/
 
 ---
 

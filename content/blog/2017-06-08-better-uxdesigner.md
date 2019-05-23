@@ -5,7 +5,7 @@ date: 2017-06-08T08:35:17+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://antonsten.com/?p=3170
-slug: /better-uxdesigner/
+slug: better-uxdesigner/
 ---
 <span class="preamble">Getting older has taught me that the more you know, the more you </span>realize <span class="preamble">how little you actually know. Over my </span>20 year <span class="preamble">design career, I’ve been a web designer, digital art director, UX-designer and while the titles may have changed my passion is still the same. As I’ve gotten more and more confident, I’m finding myself saying the three words that the 21-year old me was afraid to. (Hint: It’s not ‘I love you’).</span>
 

@@ -3,7 +3,7 @@ layout: blogpost
 title: 'There’s no crazy like soccer crazy'
 date: 2019-05-10T04:02:11+00:00
 author: Anton Sten
-slug: /soccer/
+slug: soccer/
 ---
 
 >In the space of 24 hours, a pair of English clubs considered dead on the mat somehow lifted themselves to improbable victories. If you did, you won’t forget them. If you merely know someone who watched them, a warning: They are never going to stop talking about them.**[{{page.title}}](https://www.wsj.com/articles/theres-no-crazy-like-soccer-crazy-11557408560?tesla=y)**

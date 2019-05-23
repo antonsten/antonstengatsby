@@ -5,7 +5,7 @@ date: 2016-05-17T09:42:43+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1613
-slug: /making-promises-clients-will-feel/
+slug: making-promises-clients-will-feel/
 ---
 ~~This weekend I was excited to see my site was <a href="https://www.designernews.co/stories/69095-ask-dn-any-inspiration-for-sites-designed-for-small-business-clients-as-opposed-to-agency-clients#comment-216710" target="_blank">highlighted as an example of a portfolio</a> site that clearly speaks of the benefits of a service rather than the technical processes that lie beneath it. Not only was I humbled to be recognized, but it told me that I am succeeding in fulfilling part of my promise to my clients.~~
 

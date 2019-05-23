@@ -5,7 +5,7 @@ date: 2016-01-25T18:23:57+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1409
-slug: /simplicity-be-your-own-mvp/
+slug: simplicity-be-your-own-mvp/
 ---
 ~~It’s a new year and, to many of us, that means we’re able to start with a clean slate. People all over the world say that THIS is the year of change and vow to change something about themselves &#8211; more exercise, healthier foods, less alcohol, more love, the list goes on and on. Don’t get me wrong, I’m a strong support of the things above, but my promise this year is a bit different.~~
 

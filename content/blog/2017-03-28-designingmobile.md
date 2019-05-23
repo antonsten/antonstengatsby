@@ -5,7 +5,7 @@ date: 2017-03-28T08:35:27+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://antonsten.com/?p=2976
-slug: /designingmobile/
+slug: designingmobile/
 ---
 ~~I recently started up a couple of bigger projects and it&#8217;s got me thinking about my processes. You see, for years I have been telling my clients about how crucial mobile is. Mobile traffic will very soon outrank desktop traffic if it hasn’t already. It’s your number one opportunity for more sales and reaching higher conversion rates. The mobile experience is often the first experience a customer has with your brand. Clients are beginning to realize this and are eager to adopt it.~~
 

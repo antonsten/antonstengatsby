@@ -5,7 +5,7 @@ date: 2017-06-30T08:43:19+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://antonsten.com/?p=3221
-slug: /the-why-before-the-why/
+slug: the-why-before-the-why/
 ---
 > Before someone goes buying, there’s a reason they go shopping.
 >

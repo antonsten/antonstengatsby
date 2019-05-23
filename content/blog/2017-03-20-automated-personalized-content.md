@@ -5,7 +5,7 @@ date: 2017-03-20T12:04:38+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=2897
-slug: /automated-personalized-content/
+slug: automated-personalized-content/
 ---
 ~~I had my birthday recently and was, once again, surprised at how many people cared enough to take 10 seconds to congratulate me on Facebook. Along with these wishes from people near and far, my inbox also filled with messages from various sites and services all wanting to wish me a special day (and offer free shipping too!).~~
 

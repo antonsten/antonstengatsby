@@ -5,7 +5,7 @@ date: 2015-06-23T09:19:02+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=931
-slug: /the-days-are-long-but-the-decades-are-short/
+slug: the-days-are-long-but-the-decades-are-short/
 ---
 ~~Over and over my mind wanders <a href="http://blog.samaltman.com/the-days-are-long-but-the-decades-are-short" target="_blank">back to this great post by Sam Altman</a>. It&#8217;s a while since I turned 30 but I can honestly say that I wasn&#8217;t as clear thinking and had as much perspective as Sam seems to have.~~
 

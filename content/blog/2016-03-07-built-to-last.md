@@ -5,7 +5,7 @@ date: 2016-03-07T11:12:50+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1483
-slug: /built-to-last/
+slug: built-to-last/
 ---
 ## Pushing Back Against the Hurry for Quality’s Sake
 

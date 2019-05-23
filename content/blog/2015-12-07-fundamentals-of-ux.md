@@ -5,7 +5,7 @@ date: 2015-12-07T10:46:48+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1264
-slug: /fundamentals-of-ux/
+slug: fundamentals-of-ux/
 
 ---
 ~~There’s a seriously misguided tendency for people to focus more on the _‘design’_ in user experience design than the ‘user’. But no matter how well designed your site is, if your user can’t do what they want, when they want, they’ll leave unhappy, and you’ll lose a potential sale.~~

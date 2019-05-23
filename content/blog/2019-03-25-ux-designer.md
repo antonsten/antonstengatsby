@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Working as a UX designer'
 date: 2019-03-25T04:39:07+00:00
 author: Anton Sten
-slug: /uxdesigner/
+slug: uxdesigner/
 image: '/images/man_computer_large.png'
 description: Ask a group of UX-designers what they do and you'll get a bunch of different answers. The truth is they will also all be right. How can this be possible? UX fits into so many different fields, technologies, and applications that the options are endless. Read here to see how I narrow it down.
 ---

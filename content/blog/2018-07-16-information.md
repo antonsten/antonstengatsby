@@ -2,7 +2,7 @@
 layout: blogpost
 title: 'Rands Information Practises'
 date: '2018-07-16T12:28:53+02:00'
-slug: /rands/
+slug: rands/
 ---
 >Your most precious asset is your time. You can start and adopt the following set of habits right now to give yourself hours of your life back.<br />
 Make a copy of your bookmarks somewhere safe. Now delete all your current bookmarks. Wiggle uncomfortably in your chair a bit. Breathe deeply.

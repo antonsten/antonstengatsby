@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Has Apple lost its design mojo?'
 date: 2018-01-05T05:38:07+00:00
 author: Anton Sten
-slug: /appledesignmojo/
+slug: appledesignmojo/
 description: Pick just about any time in Apple’s history, and you’ll find a similar set of worrying choices and seeming failures — even during those halcyon days of Steve Jobs’ triumphant second tenure at the company.
 ---
 

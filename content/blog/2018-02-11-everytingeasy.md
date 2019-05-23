@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Everything Easy is Hard Again'
 date: 2018-02-11T07:38:07+00:00
 author: Anton Sten
-slug: /everythingeasy/
+slug: everythingeasy/
 description:
 image: 'https://frankchimero.com/writing/everything-easy-is-hard-again/images/whoa.png'
 ---

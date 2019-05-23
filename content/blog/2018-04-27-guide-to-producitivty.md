@@ -3,7 +3,7 @@ layout: blogpost
 title: 'A Modest Guide to Productivity'
 date: 2018-04-27T06:29:07+00:00
 author: Anton Sten
-slug: /modest-guide-to-productivity/
+slug: modest-guide-to-productivity/
 ---
 
 > A person is not a brain driving a meat robot; it all runs together. If work is stymied, ask: are you eating clean? Getting enough sleep? Did your heart pump more than a sloth today? Start with your body, not your work methods. _Trust me._**[A Modest Guide to Productivity](https://frankchimero.com/blog/2018/productivity-guide/)**

@@ -3,7 +3,7 @@ layout: blogpost
 title: 'What do you do?'
 date: 2017-10-31T03:38:07+00:00
 author: Anton Sten
-slug: /whatdoyoudo/
+slug: whatdoyoudo/
 description: What do you do? is a question we all dread. What if I told you I had a better question?
 image: 'images/ian-schneider-66374.jpg'
 ---

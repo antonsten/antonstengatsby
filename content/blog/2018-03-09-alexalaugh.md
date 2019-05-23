@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Amazon has a fix for Alexa’s creepy laughs'
 date: 2018-03-09T05:39:07+00:00
 author: Anton Sten
-slug: /alexalaughs/
+slug: alexalaughs/
 description: Over the past few days, users with Alexa-enabled devices have reported hearing strange, unprompted laughter.
 ---
 

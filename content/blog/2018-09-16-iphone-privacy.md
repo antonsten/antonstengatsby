@@ -2,7 +2,7 @@
 layout: blogpost
 title: Forget the new iPhones - Apple’s best product is now privacy
 date: '2018-09-16T06:10:01+02:00'
-slug: /iphone-privacy/
+slug: iphone-privacy/
 ---
 >I now believe the best product Apple offers is intangible, yet far more valuable than a flagship smartphone. The best product Apple has–and the single biggest reason that consumers should choose an Apple device over competing devices–is privacy.**[{{page.title}}](https://www.fastcompany.com/90236195/forget-the-new-iphones-apples-best-product-is-now-privacy){:target=”_blank”}**
 

@@ -5,7 +5,7 @@ date: 2017-05-22T13:54:34+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://antonsten.com/?p=3126
-slug: /you-are-the-alfred-to-batman/
+slug: you-are-the-alfred-to-batman/
 ---
 ![Alfred to Batman](../images/storytelling-principles-03-1024x553.jpg)
 

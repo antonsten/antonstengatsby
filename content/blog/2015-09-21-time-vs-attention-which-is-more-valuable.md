@@ -5,7 +5,7 @@ date: 2015-09-21T09:39:17+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1126
-slug: /time-vs-attention-which-is-more-valuable/
+slug: time-vs-attention-which-is-more-valuable/
 ---
 ~~tl:dr For those who’ve used up their attention for the day: Design for your users attention span more than their time, it’s what really matters.~~
 

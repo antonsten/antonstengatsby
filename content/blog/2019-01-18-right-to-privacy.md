@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Right to privacy'
 date: 2019-01-18T04:39:07+00:00
 author: Anton Sten
-slug: /right-to-privacy/
+slug: right-to-privacy/
 
 ---
 

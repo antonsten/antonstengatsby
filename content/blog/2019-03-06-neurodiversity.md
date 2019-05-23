@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Neurodiversity and the Digital Divide: how our neurological differences shape the way we experience the web'
 date: 2019-03-06T04:39:08+00:00
 author: Anton Sten
-slug: /neurodiversity/
+slug: neurodiversity/
 ---
 
 >Because neurodiversity can cover such a wide range of individual differences, it’s not easy to specify what that translates to in terms of design standards, for example. If we got ten autistic people in a room and asked them about what makes for a good user experience, we’d probably get ten very different perspectives, just like you would if you asked ten non-autistic people.

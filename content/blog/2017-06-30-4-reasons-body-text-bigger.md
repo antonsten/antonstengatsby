@@ -5,7 +5,7 @@ date: 2017-06-30T08:54:22+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://antonsten.com/?p=3227
-slug: /4-reasons-body-text-bigger/
+slug: 4-reasons-body-text-bigger/
 ---
 Great piece on why minimal body text is hurting our user experience.
 

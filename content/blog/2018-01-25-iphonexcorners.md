@@ -3,7 +3,7 @@ layout: blogpost
 title: 'No Cutting Corners on the iPhone X'
 date: 2018-01-22T05:38:07+00:00
 author: Anton Sten
-slug: /iphonexcorners/
+slug: iphonexcorners/
 image: '/images/iphonexcorners.gif'
 ---
 

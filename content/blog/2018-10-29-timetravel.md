@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Time travel through words with Merriam-Webster'
 date: 2018-10-29T05:39:07+00:00
 author: Anton Sten
-slug: /timetravel/
+slug: timetravel/
 
 ---
 

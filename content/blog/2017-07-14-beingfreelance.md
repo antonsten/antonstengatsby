@@ -3,7 +3,7 @@ title: 'Being Freelance Podcast: Episode 100'
 date: 2017-07-14T20:52:07+00:00
 author: Anton Sten
 layout: blogpost
-slug: /beingfreelance/
+slug: beingfreelance/
 
 ---
 

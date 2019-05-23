@@ -3,7 +3,7 @@ title: How better onboarding cut our drop-off rate dramatically
 date: 2017-05-22T13:35:31+00:00
 author: Anton Sten
 layout: blogpost
-slug: /better-onboarding-cut-drop-off-rate-dramatically/
+slug: better-onboarding-cut-drop-off-rate-dramatically/
 ---
 Rob McWhirter in a great piece on how they worked with Twine’s onboarding to dramatically improve their onboarding:
 

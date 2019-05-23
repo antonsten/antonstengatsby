@@ -5,7 +5,7 @@ date: 2015-06-30T09:29:24+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=937
-slug: /mvp-is-your-product-really-minimum-and-viable/
+slug: mvp-is-your-product-really-minimum-and-viable/
 ---
 Our tech community loves the term MVP (minimum viable product) to describe the first version of their product. Unfortunately, many ambitious product launches show that they are neither viable or minimum. They prove to be far too complicated to really connect to the user. Staying true to the core functionality of a product may be difficult, but it is necessary to finding success.
 

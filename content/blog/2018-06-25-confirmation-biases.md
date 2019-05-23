@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Confirmation Bias in Design'
 date: 2018-06-25T04:39:07+00:00
 author: Anton Sten
-slug: /confirmation-bias/
+slug: confirmation-bias/
 image: '/images/idk.jpg'
 topImage: '/images/idk.jpg'
 description: Do your user’s actions not line up with their feedback? Don’t worry, it’s pretty common. It’s actually part of their (and yours) confirmation biases!

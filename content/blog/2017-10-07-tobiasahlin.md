@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Tobias Ahlin: Where´d all the feelings go?'
 date: 2017-10-03T06:38:07+00:00
 author: Anton Sten
-slug: /feelings/
+slug: feelings/
 ---
 ~~Great talk by [Tobias Ahlin](http://tobiasahlin.com) at [Nordic Design](http://nordic.design/). Love this quote:
 "I forgot that simple and easy to use is not in conflicting with expressive and engaging.~~

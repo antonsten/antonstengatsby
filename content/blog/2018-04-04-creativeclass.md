@@ -3,7 +3,7 @@ layout: blogpost
 title: "Creative Class is open"
 date: 2018-04-09T03:39:07+00:00
 author: Anton Sten
-slug: /cc/
+slug: cc/
 ---
 
 >I believe freelancing is the ultimate way to take control of my life, my finances and my daily happiness. I don’t freelance as an interim step until I build a huge company. This is a long-term, long-lasting career that’s now more stable than any corporate job. I freelance because I love being a freelancer. <br /><br />It gives me the ability to chart my own path in life, not to mention working in my underwear (with my clients being none-the-wiser). I choose who I work with, when I work, and most importantly, when I don’t need to work.**Paul Jarvis [pjrvs.com](https://creativeclass.co/ref/50/)**

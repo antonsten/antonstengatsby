@@ -3,7 +3,7 @@ layout: blogpost
 title: 'It Doesn’t Have to Be Crazy at Work'
 date: 2018-03-23T05:39:07+00:00
 author: Anton Sten
-slug: /crazyatwork/
+slug: crazyatwork/
 ---
 
 >Out of the 60, 70, 80 hours a week many are expected to pour into work, how many of those hours are really spent on the work itself? And how many are tossed away in meetings, lost to distraction, and withered away by inefficient business practices? The bulk.<br /><br />

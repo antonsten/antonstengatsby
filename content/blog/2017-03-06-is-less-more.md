@@ -5,7 +5,7 @@ date: 2017-03-06T13:20:25+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=2873
-slug: /is-less-more/
+slug: is-less-more/
 ---
 ~~A couple of weeks ago during a dinner with friends, we started discussing the idea that less is more. It has become popular among our peers and society in general that we ALWAYS need to strive for less.~~
 

@@ -5,7 +5,7 @@ date: 2017-06-30T08:59:22+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://antonsten.com/?p=3229
-slug: /creating-great-user-experiences/
+slug: creating-great-user-experiences/
 ---
 > &#8220;But the skilled and ethical sales person, now they know that a potential user doesn&#8217;t care about you as much as he cares about what this means for him. The good sales person knows you don&#8217;t care about technical details or even features. You care about what those features mean to you. The good sales person knows it isn&#8217;t even about benefits, but about the benefits you care about.&#8221;
 

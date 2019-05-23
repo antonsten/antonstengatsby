@@ -3,7 +3,7 @@ layout: blogpost
 title: 'What’s a UX Strategy?'
 date: 2019-04-23T04:39:07+00:00
 author: Anton Sten
-slug: /uxstrategy/
+slug: uxstrategy/
 image: '/images/uxis.png'
 description: UX strategy is more than a catch phrase. It's becoming necessary part of the development process of all the great products you use everyday.
 ---

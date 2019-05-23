@@ -5,7 +5,7 @@ date: 2017-06-20T08:33:23+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://antonsten.com/?p=3193
-slug: /betterdesigns/
+slug: betterdesigns/
 ---
 <span class="preamble">Artists have the freedom to pursue new ways of creating art in ways that designers don’t. While innovation is encouraged for designers, we need to first focus on creating solutions that feel intuitive for the user based on their past experiences. That doesn’t leave us a lot of room for creating new ways of solving problems.</span>
 

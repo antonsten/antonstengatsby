@@ -3,7 +3,7 @@ title: What is a Great User Experience?
 date: 2015-11-17T11:08:03+00:00
 author: Anton Sten
 layout: blogpost
-slug: /what-is-a-great-user-experience/
+slug: what-is-a-great-user-experience/
 medium_post:
   - 'O:11:"Medium_Post":7:{s:16:"author_image_url";s:75:"https://cdn-images-2.medium.com/fit/c/200/200/1*sBkMGX19CG9furNqzt-uBg.jpeg";s:10:"author_url";s:29:"https://medium.com/@antonsten";s:10:"cross_link";s:3:"yes";s:2:"id";s:12:"62c541d86bd5";s:7:"license";s:19:"all-rights-reserved";s:6:"status";s:5:"draft";s:3:"url";s:42:"https://medium.com/@antonsten/62c541d86bd5";}'
 ---

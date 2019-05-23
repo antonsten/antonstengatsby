@@ -3,7 +3,7 @@ layout: blogpost
 title: 'The iPhone X is Apple’s underrated masterpiece'
 date: 2018-02-02T05:38:07+00:00
 author: Anton Sten
-slug: /iphonemasterpiece/
+slug: iphonemasterpiece/
 image: '/images/iphone-x-lock-screen-notifications.jpg'
 ---
 

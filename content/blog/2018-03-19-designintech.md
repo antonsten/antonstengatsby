@@ -3,7 +3,7 @@ layout: blogpost
 title: 'The seat at the table'
 date: 2018-03-19T05:39:07+00:00
 author: Anton Sten
-slug: /seatattable/
+slug: seatattable/
 ---
 
 >The only thing I would and to expand on is the question of "the seat at the table." Yes, there are many organizations that still, to this day, do not see the value of creative & design work. But.

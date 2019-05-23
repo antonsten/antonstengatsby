@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Designer Ethics & The Moral Implications of our Apps'
 date: 2018-06-11T04:39:07+00:00
 author: Anton Sten
-slug: /moral-implications-apps/
+slug: moral-implications-apps/
 image: '/images/home-white.png'
 topImage: '/images/home-white.png'
 description: Lawyers and doctors have ethical standards taught to them, but designers don't. For many apps and features, it takes a backseat to the the “wow" factor. I’m not just talking to Google here, it falls on ALL our shoulders.

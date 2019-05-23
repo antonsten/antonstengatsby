@@ -5,7 +5,7 @@ date: 2015-04-23T15:16:33+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=642
-slug: /planners-and-ux-designers/
+slug: planners-and-ux-designers/
 ---
 Chloe Gottlieb on <a href="https://www.thinkwithgoogle.com/articles/4-things-strategists-can-learn-from-ux-designers.html" target="_blank">planners and UX-designers</a>:
 

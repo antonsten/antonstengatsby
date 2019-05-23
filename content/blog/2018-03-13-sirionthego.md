@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Apple’s "Sound on the Go" Strategy'
 date: 2018-03-13T05:39:07+00:00
 author: Anton Sten
-slug: /applesoundonthego/
+slug: applesoundonthego/
 image: '/images/homepod.png'
 ---
 

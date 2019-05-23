@@ -5,7 +5,7 @@ date: 2017-05-28T21:44:13+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://antonsten.com/?p=3140
-slug: /attract-top-recruiting-talent/
+slug: attract-top-recruiting-talent/
 ---
 Lem Diaz from GV in <a href="https://library.gv.com/ive-advised-recruiting-operations-at-close-to-300-startups-ranging-from-a-five-person-team-at-220959eebc25" target="_blank">How to attract top recruiting talent</a>
 

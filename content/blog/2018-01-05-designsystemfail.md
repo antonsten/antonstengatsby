@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Why Design Systems fail'
 date: 2018-01-05T05:38:07+00:00
 author: Anton Sten
-slug: /designsystemfail/
+slug: designsystemfail/
 description: To have a successful design system, you need to make a continuous effort to invest resources into it.
 ---
 

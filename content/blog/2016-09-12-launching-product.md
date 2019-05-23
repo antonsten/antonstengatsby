@@ -5,7 +5,7 @@ date: 2016-09-12T15:06:47+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=2215
-slug: /launching-product/
+slug: launching-product/
 ---
 
 ~~When friends and acquaintances learn more about what I do they often ask, “I have an amazing idea for an app, would you be able to help me?” While I would LOVE to help everyone, there simply aren’t enough hours in the day or enough dollars in my bank account to make that a reality. What I can do is share some of the tricks I’ve learned about how get your product from a great idea to the hands of your customer.~~

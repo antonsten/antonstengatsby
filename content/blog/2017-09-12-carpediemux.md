@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Carpe Diem UX-designers'
 date: 2017-09-11T13:38:07+00:00
 author: Anton Sten
-slug: /carpediem/
+slug: carpediem/
 description: Clichés can help you in life and #business. Don’t believe me? #ux #design #carpediem
 image: 'images/carpediem.gif'
 ---

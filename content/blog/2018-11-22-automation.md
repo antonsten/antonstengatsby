@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Why do we feel so busy? It’s all our hidden ‘shadow work’'
 date: 2018-11-22T05:39:07+00:00
 author: Anton Sten
-slug: /shadow-work/
+slug: shadow-work/
 
 ---
 

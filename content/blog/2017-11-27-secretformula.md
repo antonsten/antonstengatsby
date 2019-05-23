@@ -3,7 +3,7 @@ layout: blogpost
 title: 'The secret formula for great user experiences'
 date: 2017-11-27T03:38:07+00:00
 author: Anton Sten
-slug: /secretformulaforux/
+slug: secretformulaforux/
 description: Designers and business owners have been searching for something that their users want more than anything else. An amazing user experience. This is really hard to pull off as sometimes throwing features at solution isn't the right move. It just adds friction. So how do you pull it off? Sometimes it's just knowing the secret formula.
 image: '/images/iphone-x-lock-screen-notifications.jpg'
 ---

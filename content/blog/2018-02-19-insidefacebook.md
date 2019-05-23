@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Inside Facebook´s Hellish Two Years'
 date: 2018-02-19T05:34:07+00:00
 author: Anton Sten
-slug: /insidefacebook/
+slug: insidefacebook/
 image: '/images/cover_facebook.jpg'
 ---
 

@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Diversity in the design industry'
 date: 2018-03-15T06:39:07+00:00
 author: Anton Sten
-slug: /diversity/
+slug: diversity/
 ---
 
 >I’ve been working as a designer in some fashion for more than two decades—as an employee and as an entrepreneur, in small studios and in large agencies, and at tiny startups and late-stage enterprises. What I’ve seen is that as an industry, we are teeming with progressive-leaning professionals, most of whom would avidly applaud the idea of greater diversity and inclusion in design workplaces.<br /><br />

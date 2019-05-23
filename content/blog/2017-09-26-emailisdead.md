@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Stop Saying E-mail is Broken'
 date: 2017-09-25T03:38:07+00:00
 author: Anton Sten
-slug: /emailbroken/
+slug: emailbroken/
 description: Using e-mail can sometimes a bad experience, but is it e-mail itself or HOW we use it?
 image: 'images/giphy-email.gif'
 ---

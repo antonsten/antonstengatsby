@@ -3,7 +3,7 @@ layout: blogpost
 title: 'What’s in a pattern name'
 date: 2018-05-05T06:34:07+00:00
 author: Anton Sten
-slug: /pattern-names/
+slug: pattern-names/
 ---
 
 >But perhaps even more than that, they knew they needed to _talk_ about their design patterns more consistently. As they started creating an inventory of all their existing patterns, they found one team used “atoms” to refer to each of its components, whereas another team used “atoms” and “organisms” interchangeably, regardless of how complex a given pattern might be; one team might refer to a specific kind of design pattern as a banner, while another might call a near-identical pattern featured hero; and so on.**[What's in a pattern name](https://ethanmarcotte.com/wrote/whats-in-a-pattern-name/)**

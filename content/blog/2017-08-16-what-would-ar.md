@@ -3,7 +3,7 @@ layout: blogpost
 title: 'What Would Augment Reality?'
 date: 2017-08-16T06:37:07+00:00
 author: Anton Sten
-slug: /whatwouldar/
+slug: whatwouldar/
 image: 'images/ww_augmentreality1_2x.png'
 ---
 

@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Calling bullshit on ‘Apple is really bad at design’'
 date: 2017-10-16T03:38:07+00:00
 author: Anton Sten
-slug: /appledesign/
+slug: appledesign/
 description: Too soon to judge. The iPhoneX notch may not as bad as people are complaining about.
 image: 'images/iphonex-splash.jpg'
 ---

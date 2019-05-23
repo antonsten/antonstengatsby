@@ -5,7 +5,7 @@ date: 2017-02-21T10:31:27+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=2832
-slug: /designing-for-accessibility/
+slug: designing-for-accessibility/
 ---
 ~~When I first started doing web design it was the late 90’s and there weren’t too many bells and whistles besides animated gifs and the blink-tag. As web design evolved, we began creating more and more sites using technologies like flash that ended up being even worse for the user.~~
 

@@ -3,7 +3,7 @@ layout: blogpost
 title: "Phone Bored"
 date: 2018-04-09T05:39:07+00:00
 author: Anton Sten
-slug: /phonebored/
+slug: phonebored/
 ---
 
 >Phone boredom occurs when you’re technically “on your phone,” but you’re still bored out of your mind. It’s that feeling when you’re mindlessly clicking around, opening and closing apps, looking for something to do digitally and finding the options uninteresting.<br /><br />Whereas previous generations may have scrolled through channels on the radio, wandered into different rooms in their house, or flicked through countless TV channels, today’s teens say they’ll sometimes open and close up to 20-30 apps, hoping that something, anything, will catch their attention.**[Generation Z Is Already Bored by the Internet](https://www.thedailybeast.com/generation-z-is-already-bored-by-the-internet)**
