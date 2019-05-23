@@ -13,9 +13,9 @@
 .highlight {
   background: rgba(156, 0, 97, .15);
   display: inline;
-} 
+}
 
-/* header */ 
+/* header */
 
 header {
   background: #fcfbf8;
@@ -59,11 +59,11 @@ footer li {
   font-size: 15px;
 }
 
-/* content */ 
+/* content */
 
 blockquote {
   margin-top: 2.5rem;
-  font-family: 'FreightDispProBook-Regular';
+  font-family: 'EB Garamond Regular', serif;
 }
 
 .Work blockquote {
@@ -149,7 +149,7 @@ del {
 }
 
 
-/* testimonial */ 
+/* testimonial */
 
 .tesimonial-logo {
   max-width: 160px;
@@ -157,7 +157,7 @@ del {
   height: auto !important;
 }
 
-/* components */ 
+/* components */
 
 .btn {
   @apply bg-orange uppercase font-bold text-white text-xs px-8 py-4 cursor-pointer inline-block;
@@ -195,7 +195,7 @@ blockquote a:hover {
 
 blockquote div div a {
   display: inline-block;
-  font-family: 'FreightDispProBook-Regular';
+  font-family: 'EB Garamond Regular', serif;
   text-transform: none;
   font-weight: normal;
   letter-spacing: 0;
@@ -218,7 +218,7 @@ form input {
   height: 46px;
 }
 
-/* helpers */ 
+/* helpers */
 
 .truncate {
   white-space: nowrap;

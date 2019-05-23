@@ -9,8 +9,36 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-@import url("//hello.myfonts.net/count/395f2a");
-  
+/* eb-garamond-regular - latin */
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/eb-garamond-v10-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('EB Garamond Regular'), local('EBGaramond-Regular'),
+       url('/fonts/eb-garamond-v10-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/eb-garamond-v10-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/eb-garamond-v10-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('/fonts/eb-garamond-v10-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/fonts/eb-garamond-v10-latin-regular.svg#EBGaramond') format('svg'); /* Legacy iOS */
+}
+/* eb-garamond-italic - latin */
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: italic;
+  font-weight: 400;
+  src: url('/fonts/eb-garamond-v10-latin-italic.eot'); /* IE9 Compat Modes */
+  src: local('EB Garamond Italic'), local('EBGaramond-Italic'),
+       url('/fonts/eb-garamond-v10-latin-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/eb-garamond-v10-latin-italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/eb-garamond-v10-latin-italic.woff') format('woff'), /* Modern Browsers */
+       url('/fonts/eb-garamond-v10-latin-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/fonts/eb-garamond-v10-latin-italic.svg#EBGaramond') format('svg'); /* Legacy iOS */
+}
+
+/* @import url("//hello.myfonts.net/count/395f2a");
+
 @font-face {font-family: 'FreightDispProBook-Regular';src: url('/fonts/webfonts/395F2A_0_0.eot');src: url('/fonts/webfonts/395F2A_0_0.eot?#iefix') format('embedded-opentype'),url('/fonts/webfonts/395F2A_0_0.woff2') format('woff2'),url('/fonts/webfonts/395F2A_0_0.woff') format('woff'),url('/fonts/webfonts/395F2A_0_0.ttf') format('truetype');}
 @font-face {font-family: 'FreightDispProBook-Italic';src: url('/fonts/webfonts/395F2A_1_0.eot');src: url('/fonts/webfonts/395F2A_1_0.eot?#iefix') format('embedded-opentype'),url('/fonts/webfonts/395F2A_1_0.woff2') format('woff2'),url('/fonts/webfonts/395F2A_1_0.woff') format('woff'),url('/fonts/webfonts/395F2A_1_0.ttf') format('truetype');}
- 
+
+*/
