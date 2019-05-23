@@ -3,7 +3,7 @@ const path = require(`path`)
 module.exports = {
   siteMetadata: {
     title: `antonsten.com`,
-    author: `Alexander Hansson`,
+    author: `Anton Sten`,
     description: `I help companies succeed with their products by designing user experiences that consider the user first - solving the problem and getting you back on track.`,
     siteUrl: `https://antonsten.com`,
     social: {
@@ -13,7 +13,7 @@ module.exports = {
   plugins: [
     `gatsby-plugin-postcss`,
     `gatsby-plugin-sitemap`,
-    `gatsby-plugin-stripe`,
+    `gatsby-plugin-feed`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
