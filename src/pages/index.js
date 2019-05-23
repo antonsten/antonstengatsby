@@ -46,7 +46,7 @@ class BlogIndex extends React.Component {
 
           <Link to="/work" className="btn mt-8 mb-6">Find out more</Link>
 
-          <Testimonial logo="/images/clients/spotify.png" text="Whenever someone asks me if I know any good freelance UX designers I always answer with Anton. <span class='highlight'>He’s a great designer with superior business understanding who always put the user in the front seat and delivers bloody good work.</span> If you ever get a chance to work with Anton, don’t miss it." author="Christian Wilsson, Head of Design, Spotify"/>
+          <Testimonial logo="/images/clients/spotify.png" text="Whenever someone asks me if I know any good freelance UX designers I always answer with Anton. He’s a great designer with superior business understanding who always put the user in the front seat and delivers bloody good work. If you ever get a chance to work with Anton, don’t miss it." author="Christian Wilsson, Head of Design, Spotify"/>
 
           <Form/>
 
