@@ -308,7 +308,7 @@ module.exports = {
 
   leading: {
     'none': 1,
-    'tight': 1.25,
+    'tight': 1.4,
     'normal': 1.6,
     'loose': 1.7,
   },
@@ -330,7 +330,7 @@ module.exports = {
   tracking: {
     'tight': '-0.05em',
     'normal': '0',
-    'wide': '0.2em',
+    'wide': '0.1em',
   },
 
 

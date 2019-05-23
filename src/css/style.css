@@ -85,7 +85,7 @@ ul, ol, p {
 }
 
 blockquote, blockquote p {
-  @apply text-lg;
+  @apply text-lg leading-tight;
 }
 
 @screen sm {
@@ -94,7 +94,7 @@ blockquote, blockquote p {
   }
 
   blockquote, blockquote p {
-    @apply text-xl;
+    @apply text-xl leading-tight;
   }
 }
 
@@ -201,12 +201,12 @@ blockquote div div a {
   letter-spacing: 0;
   margin-top: 0;
 
-  @apply text-sm;
+  @apply text-lg;
 }
 
 @screen sm {
   blockquote div div a {
-    @apply text-lg;
+    @apply text-xl;
   }
 }
 
