@@ -28,8 +28,9 @@ class Grid extends React.Component {
               Large or small, my clients always come with specific needs and goals—not to mention an array of constraints and business requirements that must be fulfilled—and I’m proud of the consistently positive results I’ve produced in each unique case
             </p>
           </div>
-            <div className="block flex-wrap flex -mx-2 sm:-mx-4">
-            <Testimonial logo="/images/clients/spotify.png" text="Whenever someone asks me if I know any good freelance UX designers I always answer with Anton. <span class='highlight'>He’s a great designer with superior business understanding who always put the user in the front seat and delivers bloody good work.</span> If you ever get a chance to work with Anton, don’t miss it." author="christian wilsson, head of design - spotify"/>
+          
+          <div className="block flex-wrap flex -mx-2 sm:-mx-4">
+          <Testimonial logo="/images/clients/spotify.png" text="Whenever someone asks me if I know any good freelance UX designers I always answer with Anton. <span class='highlight'>He’s a great designer with superior business understanding who always put the user in the front seat and delivers bloody good work.</span> If you ever get a chance to work with Anton, don’t miss it." author="christian wilsson, head of design - spotify"/>
 
           <Client logo="/images/clients/lysa.png" link="https://lysa.se"/>
           <Client logo="/images/clients/eon.png" case="/case/eon" />

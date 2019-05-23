@@ -137,8 +137,6 @@ del {
   }
 }
 
-blockquote {
-}
 
 /* testimonial */ 
 
@@ -182,6 +180,27 @@ blockquote a, blockquote strong {
 blockquote a:hover {
   @apply border-none;
 }
+
+
+blockquote div div a {
+  display: inline-block;
+  font-family: 'FreightDispProBook-Regular';
+  text-transform: none;
+  font-weight: normal;
+  letter-spacing: 0;
+  margin-top: 0;
+
+  @apply text-sm;
+}
+
+@screen sm {
+  blockquote div div a {
+    @apply text-lg;
+  }
+}
+
+
+
 
 form input {
   -webkit-appearance: none;
