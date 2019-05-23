@@ -63,6 +63,10 @@ blockquote {
   border-width: 1px;
 }
 
+ul:not(.float-right), ol {
+  @apply w-full block float-left;
+}
+
 ul, ol, p, blockquote {
   margin-bottom: 1rem;
 
@@ -201,4 +205,21 @@ form input {
 .client a:hover {
   /* reset a border */
   border: none;
+}
+
+.gatsby-image-wrapper {
+  width: 100%;
+  margin-left: 0;
+}
+
+@screen sm {
+  .gatsby-image-wrapper {
+    width: 110%;
+    margin-left: -5%;
+  }
+}
+
+hr {
+  height: 1px;
+  background-color: #E5E5E5;
 }

@@ -24,7 +24,7 @@ class BlogIndex extends React.Component {
             <br></br><br></br>
             Here’s what I’ve done for people like you:
           </del>
-
+          
           <ul className="pl-4">
             <li>Helped plan, build, and implement scaleable design systems for NE.se and city of Falkenberg</li>
             <li>Designed the shopping and buying experience for one of the world’s largest home retailers</li>

@@ -41,7 +41,7 @@ class Writing extends React.Component {
 
                 <div className="flex w-full items-center mt-6 self-end">
                   <a className="btn mr-6" href="">Purchase $9</a>
-                  <Link className="border-none text-xs uppercase font-bold tracking-wide">Find out more</Link>
+                  <Link to="/books/user-experiences-matter" className="border-none text-xs uppercase font-bold tracking-wide">Find out more</Link>
                 </div>
               </div>
             </div>
@@ -55,7 +55,7 @@ class Writing extends React.Component {
 
                 <div className="flex w-full self-end items-center mt-6">
                   <a className="btn mr-6" href="">Purchase $19</a>
-                  <Link className="border-none text-xs uppercase font-bold tracking-wide">Find out more</Link>
+                  <Link to="/books/masteringfreelance" className="border-none text-xs uppercase font-bold tracking-wide">Find out more</Link>
                 </div>
               </div>
             </div>

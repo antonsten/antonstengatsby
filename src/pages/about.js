@@ -13,7 +13,7 @@ class About extends React.Component {
       return (
         <Layout>
           <SEO title="About"/>
-            <Img fluid={data.fileName.childImageSharp.fluid} />
+            <Img className="rounded-sm shadow-md mb-12" fluid={data.fileName.childImageSharp.fluid} />
             <h1>About</h1>
             <p>
               I’ve been making digital products for 20 years (yes, that IS a lot of websites). In that time, I’ve helped some big names provide awesome experiences for their users, by getting to know a brand’s audience and balancing careful attention to design, product planning, crafting copy, and much more.

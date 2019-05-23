@@ -7,7 +7,7 @@ function Header() {
       <div className="max-w-xl mx-auto">
         <div className="flex items-center justify-between w-full py-6 border-dashed border-b border-grey">
           <Link to="/"><img alt="anton sten" style={{ width: '98px' }} src="/images/antonsten.svg"/></Link>
-          <ul className="list-reset">
+          <ul className="list-reset float-right">
             <li className="inline-block pl-6">
               <Link className="text-black no-underline hover:text-orange" to="/about" rel="prev">
                 About
