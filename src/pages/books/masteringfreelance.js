@@ -35,11 +35,7 @@ The book covers things like finding your reason for freelancing (important), how
 <br /><br />
 To top it all off, I’ve picked the brains of some of the best freelancers in the world, including <a href="http://jessicahische.is" target="_blank">Jessica Hische</a>, <a href="http://danmall.me" target="_blank">Dan Mall</a>, <a href="https://pjrvs.com" target="_blank">Paul Jarvis</a>, <a href="https://www.kaleighmoore.com" target="_blank">Kaleigh Moore</a> and many others!</p>
 
-            <Testimonial text="
-        I'm just dipping my toes into the freelancing pool now while still having the security of my permanent position. I'm already confident though that this is the life I'm looking for - a life with more flexibility and power to control - and a lot more personal responsibilities! I think it's important for any freelancer to try out new things. Making mistakes is inevitable, learning from them is what will make me successful!
-
-        Mastering Freelance is one of the things that has made me take the leap from a steady pay check to a new life with possibilities. It gave me the right push I needed at the right moment so I’m super glad I bought it. "/>
-
+            <Testimonial text="I'm just dipping my toes into the freelancing pool now while still having the security of my permanent position. I'm already confident though that this is the life I'm looking for - a life with more flexibility and power to control - and a lot more personal responsibilities! I think it's important for any freelancer to try out new things. Making mistakes is inevitable, learning from them is what will make me successful!<br /><br />Mastering Freelance is one of the things that has made me take the leap from a steady pay check to a new life with possibilities. It gave me the right push I needed at the right moment so I’m super glad I bought it. "/>
 
             <h2>Here's what you'll learn</h2>
             <p className="mb-12">I’ve poured 10 years of freelancing experience into this book, so I’m confident that it’ll help you take confident steps towards success. I’ve intentionally kept it short; it’s just under 100 pages. Anyone can write a long book, but keeping it short and to the point required me to find the essence of every subject. A song doesn’t get better if it’s 10 minutes long versus 4, it’s just…longer. I wrote Mastering Freelance to get to the core of the subject and get you out and applying it!</p>
@@ -71,8 +67,9 @@ To top it all off, I’ve picked the brains of some of the best freelancers in t
             </p>
             <hr/>
 
-            <Form name="masteringfreelance" title="Get a free 4-day email course" text="Get a free preview of the book through 4 topics over 4 days."/>
+            <Form name="masteringfreelance" title="Get a free 4-day email course" text="Get a free preview of the book through 4 topics over 4 days"/>
 
+            <hr/>
             <h2>About the author</h2>
             <p className="mb-12">Hey, I’m Anton Sten – a designer and a business owner. Last year I wrote a book called <a href="https://www.antonsten.com/books/user-experiences-matter/" target="_blank">User Experience that Matter</a> and through this book, <a href="https://www.antonsten.com/newsletter" target="_blank">my newsletter</a>, and <a href="https://www.antonsten.com/blog" target="_blank">blog</a>, I’ve helped hundreds of companies create better user experiences for their customers. Now my goal is to help you!
 <br /><br />
@@ -91,13 +88,9 @@ For just $19 you’ll get:<br />
 
 The <a href="https://www.antonsten.com/tools" target="_blank">List of Tools I Use to Run My Business</a> is now available and open to all and doesn't require a purchase.</p>
 
-<script src="https://js.stripe.com/v3"></script>
 <a class="btn" id="checkout-button-sku_F49OkPghAVw5kM" role="link">Buy Mastering Freelance</a>
 
 <Testimonial text="I’m just starting up so everything is new right now and I don’t know what obstacles I might encounter but one thing that your book gave me is confidence in myself."/>
-
-<div id="error-message"></div>
-
           </div>
       </Layout>
     )
