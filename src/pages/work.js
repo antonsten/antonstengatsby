@@ -28,49 +28,49 @@ class Grid extends React.Component {
               Large or small, my clients always come with specific needs and goals—not to mention an array of constraints and business requirements that must be fulfilled—and I’m proud of the consistently positive results I’ve produced in each unique case
             </p>
           </div>
-          
+
           <div className="block flex-wrap flex -mx-2 sm:-mx-4">
-          <Testimonial logo="/images/clients/spotify.png" text="Whenever someone asks me if I know any good freelance UX designers I always answer with Anton. <span class='highlight'>He’s a great designer with superior business understanding who always put the user in the front seat and delivers bloody good work.</span> If you ever get a chance to work with Anton, don’t miss it." author="christian wilsson, head of design - spotify"/>
+          <Testimonial logo="/images/clients/spotify.png" text="Whenever someone asks me if I know any good freelance UX designers I always answer with Anton. He’s a great designer with superior business understanding who always put the user in the front seat and delivers bloody good work. If you ever get a chance to work with Anton, don’t miss it." author="christian wilsson, head of design - spotify"/>
 
-          <Client logo="/images/clients/lysa.png" link="https://lysa.se"/>
+          <Client logo="/images/clients/lysa.png"/>
           <Client logo="/images/clients/eon.png" case="/case/eon" />
-          <Client logo="/images/clients/izettle.png" link="https://www.izettle.com/?stay"/>
+          <Client logo="/images/clients/izettle.png"/>
 
-          <Testimonial case="test" logo="/images/clients/firstprinciple.png" text="Anton was thorough and a pleasure to work with. He’s a great collaborator and partner to work through product solutions alongside. <span class='highlight'>He does what he says and never misses a deadline, an unfortunate rarity these days</span> that you don’t have to worry about with Anton." author="TRAVIS SCHMEISSER, FOUNDER & PARTNER, FIRST PRINCIPLE"/>
+          <Testimonial case="test" logo="/images/clients/firstprinciple.png" text="Anton was thorough and a pleasure to work with. He’s a great collaborator and partner to work through product solutions alongside. He does what he says and never misses a deadline, an unfortunate rarity these days that you don’t have to worry about with Anton." author="TRAVIS SCHMEISSER, FOUNDER & PARTNER, FIRST PRINCIPLE"/>
 
           <Client logo="/images/clients/mercedes.png"/>
           <Client logo="/images/clients/elle.png"/>
           <Client logo="/images/clients/telia.png" case="/case/telia" />
 
-          <Testimonial logo="/images/clients/swedbank.png" text="I had the pleasure of working with Anton on one of our highest priority projects. He was able to <span class='highlight'>quickly familiarize himself with the challenges at hand and produced conceptual UX designs that not only met the demands, but even exceeded expectations.</span> Anton has been a great co-creator with both a positive attitude and openness for feedback, as well as able to get the job done on time. " author="GREG HENRIQUES, HEAD OF CUSTOMER EXPERIENCE, SWEDBANK"/>
+          <Testimonial logo="/images/clients/swedbank.png" text="I had the pleasure of working with Anton on one of our highest priority projects. He was able to quickly familiarize himself with the challenges at hand and produced conceptual UX designs that not only met the demands, but even exceeded expectations. Anton has been a great co-creator with both a positive attitude and openness for feedback, as well as able to get the job done on time. " author="GREG HENRIQUES, HEAD OF CUSTOMER EXPERIENCE, SWEDBANK"/>
 
           <Client logo="/images/clients/apotekhjartat.png"/>
           <Client logo="/images/clients/frank.png" case="/case/frank" />
-          <Client logo="/images/clients/hyperisland.png" link="https://www.hyperisland.com"/>
+          <Client logo="/images/clients/hyperisland.png"/>
 
-          <Testimonial logo="/images/clients/5th.png" text="We've worked with Anton on many occasions; usually at each new iteration of our website. <span class='highlight'>Anton is not only very responsive and easy to work with but he provided a thorough and clear action list for us to follow.</span> As the way that <a href='https://www.shopify.com/enterprise/australian-ecommerce-fashion-the-5th' target='_blank'>we release products on our website</a> is a little different to traditional retailers Anton needed to be creative with his solutions for us, which he was, and the results showed every time. A very fluid and successful partnership." author="Alex McBride, Founder, the 5th"/>
+          <Testimonial logo="/images/clients/5th.png" text="We've worked with Anton on many occasions; usually at each new iteration of our website. Anton is not only very responsive and easy to work with but he provided a thorough and clear action list for us to follow. As the way that <a href='https://www.shopify.com/enterprise/australian-ecommerce-fashion-the-5th' target='_blank'>we release products on our website</a> is a little different to traditional retailers Anton needed to be creative with his solutions for us, which he was, and the results showed every time. A very fluid and successful partnership." author="Alex McBride, Founder, the 5th"/>
 
           <Client logo="/images/clients/ica.png"/>
           <Client logo="/images/clients/ericsson.png"/>
           <Client logo="/images/clients/fbg-kommun.png" case="/case/falkenberg-kommun" />
 
-          <Testimonial case="/case/falkenberg" logo="/images/clients/fbg.png" text="Working with Anton was like catching up with a childhood friend.. Instantly he understood our situation, challenges as desires, and was able to give raw, honest, constructive feedback.  <span class='highlight'>He truly understands the business part and is able to conceptualise complex scenarios into clean UX designs that appeal the end user.</span>  Working with Anton was a grateful experience and I strongly recommend him for a positive and painless workflow." author="Kristján Fannar, Destination developer, Destination Falkenberg"/>
+          <Testimonial case="/case/falkenberg" logo="/images/clients/fbg.png" text="Working with Anton was like catching up with a childhood friend.. Instantly he understood our situation, challenges as desires, and was able to give raw, honest, constructive feedback.  He truly understands the business part and is able to conceptualise complex scenarios into clean UX designs that appeal the end user.  Working with Anton was a grateful experience and I strongly recommend him for a positive and painless workflow." author="Kristján Fannar, Destination developer, Destination Falkenberg"/>
 
-          <Client logo="/images/clients/nudie.png" link="https://www.nudiejeans.com"/>
+          <Client logo="/images/clients/nudie.png"/>
           <Client logo="/images/clients/volvo.png"/>
           <Client logo="/images/clients/cdon.png"/>
 
-          <Testimonial case="/case/ne" logo="/images/clients/ne.png" text="I have had the pleasure of working with Anton in a visual and UX redesign of our services. <span class='highlight'>I am enthused and impressed by how Anton chooses simplicity over complexity and keeps the design interesting, appealing and accessible.</span> Furthermore, he is a humble and unassuming person that is a pleasure to work with." author="HUBERT KJELLBERG, PRESIDENT, BROCKHAUS & NATIONALENCYKLOPEDIN"/>
+          <Testimonial case="/case/ne" logo="/images/clients/ne.png" text="I have had the pleasure of working with Anton in a visual and UX redesign of our services. I am enthused and impressed by how Anton chooses simplicity over complexity and keeps the design interesting, appealing and accessible. Furthermore, he is a humble and unassuming person that is a pleasure to work with." author="HUBERT KJELLBERG, PRESIDENT, BROCKHAUS & NATIONALENCYKLOPEDIN"/>
 
           <Client logo="/images/clients/absolutvodka.png"/>
           <Client logo="/images/clients/rga.png"/>
           <Client logo="/images/clients/suzuki.png"/>
 
-          <Testimonial logo="/images/clients/keystone.png" text="Outrageously good. Few people have Anton’s eye for details. I have hired Anton for several projects ranging from brand strategy, UX/UI makeovers to complete front-end designs. He has always delivered top notch, stellar work. I was deeply impressed by his ability to take an overly complex user interface and make it easy to use in just a few steps. <span class='highlight'>You can easily tell that his decade of acquired knowledge in design and usability makes him stand out among other UX experts.</span> It’s always reassuring to know he is on your side no matter what design project you have." author="STEFAN HELGESSON, STRATEGIC DIRECTOR, KEYSTONE"/>
+          <Testimonial logo="/images/clients/keystone.png" text="Outrageously good. Few people have Anton’s eye for details. I have hired Anton for several projects ranging from brand strategy, UX/UI makeovers to complete front-end designs. He has always delivered top notch, stellar work. I was deeply impressed by his ability to take an overly complex user interface and make it easy to use in just a few steps. You can easily tell that his decade of acquired knowledge in design and usability makes him stand out among other UX experts. It’s always reassuring to know he is on your side no matter what design project you have." author="STEFAN HELGESSON, STRATEGIC DIRECTOR, KEYSTONE"/>
 
           <Testimonial text="We went through a huge redesign as part of a mobile initiative for the business and migrate the site to a responsive design and optimise user journeys for mobile users. Anton was provided with wireframes and journey documents and got to work. He followed the brief but was not afraid to voice his opinion and advise where he felt things could be improved. The project was extremely well managed with clear milestones which eliminated scope creep. The result was an extremely clean and smart interface which has been great for our business.
           <br><br>
-          The entire project was run remotely between our London office, Bulgaria office and Anton. We still marvel at the fact that we never spoke to one of the most important people of the overall project. <span class='highlight'>Everything was communicated over email and Skype chat with zero dramas, exactly how we like it. On top of all of that Anton is clearly ahead of the game when it comes to UX, Interface design and being a total professional.</span>
+          The entire project was run remotely between our London office, Bulgaria office and Anton. We still marvel at the fact that we never spoke to one of the most important people of the overall project. Everything was communicated over email and Skype chat with zero dramas, exactly how we like it. On top of all of that Anton is clearly ahead of the game when it comes to UX, Interface design and being a total professional.
           <br><br>
           Beware of friendly Swedish User Interface Designers who come equipped with positive open attitudes and sharp clean design principles. They are usually right, just nod and agree." author="TOM HARROW, MULTIPLE STARTUP FOUNDER"/>
 
