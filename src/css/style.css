@@ -69,7 +69,7 @@ blockquote {
   font-family: 'FreightDispProBook-Regular';
 }
 
-blockquote strong {
+blockquote strong, blockquote a {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
@@ -252,4 +252,12 @@ hr {
 
 .blog-post img {
   margin: 2rem 0;
+}
+
+.btn-light {
+  background: #FCFBF8;
+  width: 220px;
+  max-width: 100%;
+
+  @apply py-3 px-3 flex justify-between;
 }

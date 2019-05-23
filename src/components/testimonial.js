@@ -1,4 +1,5 @@
 import React from "react"
+import { Link } from "gatsby"
 
 class Testimonial extends React.Component {
   render() {
@@ -12,6 +13,9 @@ class Testimonial extends React.Component {
             { this.props.logo && <img alt={this.props.author} className="tesimonial-logo mb-4" src={ this.props.logo }/>}
             <div className="text-sm sm:text-lg" dangerouslySetInnerHTML={innerHtml}></div>
             <strong className="pt-6 inline-block tracking-wide text-orange text-xs uppercase">{this.props.author}</strong>
+            { this.props.case &&
+              <Link to={ this.props.case } className="btn-light mb-2" to={ this.props.case }><span>View case</span><img src="/images/arrow-right.svg"/></Link>
+            }
           </div>
         </blockquote>
       </div>
