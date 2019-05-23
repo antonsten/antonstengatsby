@@ -60,7 +60,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
       }
     }
-    allMarkdownRemark(limit: 5, sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
       edges {
         node {
           excerpt
