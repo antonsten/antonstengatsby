@@ -83,7 +83,7 @@ For just $14 you’ll get:<br />
 
 The <a href="https://www.antonsten.com/tools" target="_blank">List of Tools I Use to Run My Business</a> is now available and open to all and doesn't require a purchase.</p>
 
-<button className="btn" id="checkout-button-sku_F6hMzF2xIxTBk2" role="link">Buy User Experiences that Matter</button>
+<a className="btn" href="https://gumroad.com/l/userexperiencesmatter" role="link">Buy User Experiences that Matter</a>
 
 <Testimonial text="Anton is clearly ahead of the game when it comes to UX, Interface design and being a total professional. Beware of friendly Swedish User Interface Designers who come equipped with positive open attitudes and sharp clean design principles. They are usually right, just nod and agree."/>
 

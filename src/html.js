@@ -29,46 +29,46 @@ export default function HTML(props) {
           <script
             dangerouslySetInnerHTML={{
               __html: `
-                var stripe = Stripe('pk_live_ySOjGzWMlJJ1IcFO0PVVQgGf');
+                // var stripe = Stripe('pk_live_ySOjGzWMlJJ1IcFO0PVVQgGf');
 
-                setTimeout(function() {
-                  var checkoutButton = document.getElementById('checkout-button-sku_F49OkPghAVw5kM');
+                // setTimeout(function() {
+                //   var checkoutButton = document.getElementById('checkout-button-sku_F49OkPghAVw5kM');
                   
-                  if(typeof checkoutButton !== null ) {
-                    checkoutButton.addEventListener('click', function () {
-                      stripe.redirectToCheckout({
-                        items: [{sku: 'sku_F49OkPghAVw5kM', quantity: 1}],
-                        successUrl: 'https://antonsten.com/success',
-                        cancelUrl: 'https://antonsten.com/canceled',
-                      })
-                      .then(function (result) {
-                        if (result.error) {
-                          var displayError = document.getElementById('error-message');
-                          displayError.textContent = result.error.message;
-                        }
-                      });
-                    });
-                  }
+                //   if(typeof checkoutButton !== null ) {
+                //     checkoutButton.addEventListener('click', function () {
+                //       stripe.redirectToCheckout({
+                //         items: [{sku: 'sku_F49OkPghAVw5kM', quantity: 1}],
+                //         successUrl: 'https://antonsten.com/success',
+                //         cancelUrl: 'https://antonsten.com/canceled',
+                //       })
+                //       .then(function (result) {
+                //         if (result.error) {
+                //           var displayError = document.getElementById('error-message');
+                //           displayError.textContent = result.error.message;
+                //         }
+                //       });
+                //     });
+                //   }
 
-                  var checkoutButton2 = document.getElementById('checkout-button-sku_F6hMzF2xIxTBk2');
+                //   var checkoutButton2 = document.getElementById('checkout-button-sku_F6hMzF2xIxTBk2');
                   
-                  if(typeof checkoutButton2 !== null ) {
-                    console.log('här')
-                    checkoutButton2.addEventListener('click', function () {
-                      stripe.redirectToCheckout({
-                        items: [{sku: 'sku_F6hMzF2xIxTBk2', quantity: 1}],
-                        successUrl: 'https://antonsten.com/success',
-                        cancelUrl: 'https://antonsten.com/canceled',
-                      })
-                      .then(function (result) {
-                        if (result.error) {
-                          var displayError = document.getElementById('error-message');
-                          displayError.textContent = result.error.message;
-                        }
-                      });
-                    });
-                  }
-                }, 2000)
+                //   if(typeof checkoutButton2 !== null ) {
+                //     console.log('här')
+                //     checkoutButton2.addEventListener('click', function () {
+                //       stripe.redirectToCheckout({
+                //         items: [{sku: 'sku_F6hMzF2xIxTBk2', quantity: 1}],
+                //         successUrl: 'https://antonsten.com/success',
+                //         cancelUrl: 'https://antonsten.com/canceled',
+                //       })
+                //       .then(function (result) {
+                //         if (result.error) {
+                //           var displayError = document.getElementById('error-message');
+                //           displayError.textContent = result.error.message;
+                //         }
+                //       });
+                //     });
+                //   }
+                // }, 2000)
               `,
             }}
           />

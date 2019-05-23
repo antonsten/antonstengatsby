@@ -88,7 +88,7 @@ For just $19 you’ll get:<br />
 
 The <a href="https://www.antonsten.com/tools" target="_blank">List of Tools I Use to Run My Business</a> is now available and open to all and doesn't require a purchase.</p>
 
-<a class="btn" id="checkout-button-sku_F49OkPghAVw5kM" role="link">Buy Mastering Freelance</a>
+<a className="btn" href="https://gumroad.com/l/masteringfreelance?wanted=true" role="link">Buy Mastering Freelance</a>
 
 <Testimonial text="I’m just starting up so everything is new right now and I don’t know what obstacles I might encounter but one thing that your book gave me is confidence in myself."/>
           </div>
