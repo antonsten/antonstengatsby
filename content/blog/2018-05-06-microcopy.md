@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Microcontent: A Few Small Words Have a Mega Impact on Business'
 date: 2018-05-06T06:30:07+00:00
 author: Anton Sten
-permalink: /microcontent/
+slug: /microcontent/
 ---
 
 > Microcontent is a type of UX copywriting in the form of short text fragments or phrases, often presented with no additional contextual support.

@@ -2,7 +2,7 @@
 layout: blogpost
 title: 'The Race to a Trillion'
 date: '2018-07-16T12:18:53+02:00'
-permalink: /race-to-trillion/
+slug: /race-to-trillion/
 ---
 >Historically, there has been diversification among the largest public companies. For decades, the top five companies have included representatives from different segments of the economy such as the tech, industrial, energy, and financial sectors. Many have looked at today's giants and concluded such diversification has disappeared. However, upon closer examination, a different picture comes into focus. There is still diversity at the top:<br />
 - Apple is a design company selling tools that empower people.

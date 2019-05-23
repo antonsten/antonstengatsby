@@ -3,8 +3,8 @@ layout: blogpost
 title: 'A better user experience...or?'
 date: 2018-02-19T05:38:07+00:00
 author: Anton Sten
-permalink: /abetteruserexperience/
-image: '/images/blog/rahul-chakraborty-fb-unsplash.jpg'
+slug: /abetteruserexperience/
+image: '/images/rahul-chakraborty-fb-unsplash.jpg'
 Description: FacebookProtect on iOS is an app built for your safety and security. What if I told you that wasn’t true? Not all good user experiences are honest when your data is on the line. In fact, they may be used against you.
 ---
 

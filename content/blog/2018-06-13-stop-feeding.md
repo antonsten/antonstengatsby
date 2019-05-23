@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Stop “feeding” your users'
 date: 2018-06-13T04:39:07+00:00
 author: Anton Sten
-permalink: /stop-feeding/
+slug: /stop-feeding/
 ---
 
 >But the longer I’ve spent working on Shopify Home, the more I’ve realized that feeds create user experience problems too. Machine learning is evolving and becoming more powerful everyday, but the way we design machine learning interfaces is stuck in 2006 — the year Facebook first launched News Feed.**[{{page.title}}](https://ux.shopify.com/stop-feeding-your-users-a859730a86d6)**

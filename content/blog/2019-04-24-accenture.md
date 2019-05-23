@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Accenture sued $32m+ over website redesign for Hertz'
 date: 2019-04-24T04:00:11+00:00
 author: Anton Sten
-permalink: /accenture/
+slug: /accenture/
 ---
 
 >Among the most mind-boggling allegations in Hertz's filed complaint is that Accenture didn't incorporate a responsive design, in which webpages automatically resize to accommodate the visitor's screen size whether they are using a phone, tablet, desktop, or laptop.

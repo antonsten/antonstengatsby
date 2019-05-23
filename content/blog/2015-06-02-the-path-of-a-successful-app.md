@@ -5,7 +5,7 @@ date: 2015-06-02T15:59:49+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=864
-permalink: /the-path-of-a-successful-app/
+slug: /the-path-of-a-successful-app/
 ---
 ~~Thought this was a great post from <a href="https://medium.com/user-experience-design-1/user-is-the-king-part-2-af6edf9b11dc" target="_blank">Benjamin Burger</a> on how to build great user experiences.~~
 

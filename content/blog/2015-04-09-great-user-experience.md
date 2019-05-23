@@ -5,7 +5,7 @@ date: 2015-04-09T11:15:53+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=184
-permalink: /great-user-experience/
+slug: /great-user-experience/
 ---
 There&#8217;s a great post over at boagworld called <a href="https://boagworld.com/usability/user-experience-design-is-not-what-you-think/" target="_blank">User Experience Design is not what you think</a>. I was particularly fascinated by the following:
 

@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Flight Crews Don’t Decide Where To Fly'
 date: 2018-03-21T05:39:07+00:00
 author: Anton Sten
-permalink: /flightcrew/
+slug: /flightcrew/
 ---
 
 >On most flights, this crew is working together for the first time. A given flight’s crew usually didn’t train together. Often, they don’t see the exact plane they need to operate until they step aboard. How does a group of people who have never met fly 100 people in a 600-metric-ton metal tube across the world so safely?<br />

@@ -5,7 +5,7 @@ date: 2016-07-11T13:54:14+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1799
-permalink: /5-things-football-teach-us-building-products/
+slug: /5-things-football-teach-us-building-products/
 ---
 ~~Football draws the eye of the world and this last week’s European Championship in France was no different. The eliminations of Belgium and Germany surprised many in the football community and lead to the grand finale between Portugal and France. There’s a classic saying in football that it’s a game between two teams for 90 minutes and in the end Germany wins. This time that didn’t happen. As much as a shock it was for football fanatics like myself, I love these kinds of tournaments! Now that Premier League is just around the corner, I’ve realized that there are many similarities between being successful in football and building a GREAT product.~~
 
@@ -31,7 +31,7 @@ There’s no better way of performing well than to do something you truly love. 
 
 > “Some people believe football is a matter of life and death, I am very disappointed with that attitude. I can assure you it is much, much more important than that.”
 
-![5Things Football Teach Us About Building Products](../images/blog/pablo-2-1024x512.png)
+![5Things Football Teach Us About Building Products](../images/pablo-2-1024x512.png)
 
 I love the Beats commercial with Neymar released ahead of the World Cup in Brazil in 2014. In the beginning, Neymar talking to his father: <br>“Today, be happy. Enjoy. Don’t hold back.”
 

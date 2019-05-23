@@ -3,9 +3,9 @@ layout: blogpost
 title: 'How to succeed at freelancing'
 date: 2018-02-06T05:38:07+00:00
 author: Anton Sten
-permalink: /succeedfreelancing/
+slug: /succeedfreelancing/
 description: Are you feeling your work is meaningless? Does that make you meaningless? I recently gave a presentation at a local co-working space and talked about that. How finding meaning can inspire good work and good work can give you meaning.
-image: '/images/blog/toolsoftitans.jpg'
+image: '/images/toolsoftitans.jpg'
 ---
 
 >The essential principal of business —of occupation in the world — is this: figure out some way in which you get paid for playing.**Allan Watts**
@@ -14,7 +14,7 @@ Let me begin by saying that while this has worked well for me, it may not work f
 
 I don’t know about the freelancers here, but whenever I tell someone I’m a freelancer I seem to get a variation of this reaction.
 
-![awww](/images/blog/awww.gif)
+![awww](/images/awww.gif)
 
 People seem to react as if I just told them I was let go from my job. Surely, working by yourself can’t be something I’ve chosen, right? Some seem to think that this is just an “in-between jobs” kinda thing and I’ll get a full-time position eventually because that’s the “safe” choice. People also ask me whether or not I’m “still working by myself” assuming that if I don’t want to get a full-time job, surely I should hire co-workers, right?
 

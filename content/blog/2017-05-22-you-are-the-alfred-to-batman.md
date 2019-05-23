@@ -5,9 +5,9 @@ date: 2017-05-22T13:54:34+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://antonsten.com/?p=3126
-permalink: /you-are-the-alfred-to-batman/
+slug: /you-are-the-alfred-to-batman/
 ---
-![Alfred to Batman](../images/blog/storytelling-principles-03-1024x553.jpg)
+![Alfred to Batman](../images/storytelling-principles-03-1024x553.jpg)
 
 >You, your product, service or brand are NOT the heroes. Your users, customers or the human beings you serve are. You are the enabler, the helper, the sidekick. You are the Alfred to Batman and not the other way around. You are here to serve and help your user achieve a goal and get shit done, even if it is only about creating joy and pleasure!&#8221;
 

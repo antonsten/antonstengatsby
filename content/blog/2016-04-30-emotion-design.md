@@ -5,7 +5,7 @@ date: 2016-04-30T11:52:37+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1578
-permalink: /emotion-design/
+slug: /emotion-design/
 ---
 ~~Let’s take a minute and do a quick experiment. Are you sitting down? I want you to think of a conversation that you recently had &#8211; one that really meant something to you. Got it? Now close your eyes and try to remember everything you can. You may find that you can’t actually remember conversation at all. Don’t worry, that’s not unusual. We tend to remember the emotion associated with the conversation more than the conversation itself.~~
 
@@ -25,7 +25,7 @@ Truly successful products incorporate multiple design philosophies like these in
 
 Personally, I can’t remember what the first song I played using Spotify, but I can clearly remember feeling empowered. I had almost every song available to me with just a few taps on the keyboard and loved the experience from day one.
 
-![Designing happy emotions](/images/blog/image.gif)
+![Designing happy emotions](/images/image.gif)
 
 ## Emotion as a design philosophy
 

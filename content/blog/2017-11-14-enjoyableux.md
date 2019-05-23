@@ -3,9 +3,9 @@ layout: blogpost
 title: 'Enjoyable UX vs. Usable UX'
 date: 2017-11-14T03:38:07+00:00
 author: Anton Sten
-permalink: /enjoyableux/
+slug: /enjoyableux/
 description: Do user experiences need to be enjoyable to be effective? Not always.
-image: '/images/blog/maslow.jpg'
+image: '/images/maslow.jpg'
 ---
 ~~I recently had the opportunity to be interviewed by [Adobe Creative blog](https://blogs.adobe.com/creativecloud/qa-with-anton-sten-author-of-user-experiences-that-matter/?segment=design&scid=social74607337&adbid=927536817544372226&adbpl=tw&adbpr=3689838915) on how I create meaningful user experiences. During that interview we talked about a lot of different things, but it mostly revolved around topics that I discussed in my book, [User Experiences that Matter](https://antonsten.com/books/user-experiences-matter/). A few years have passed since I wrote it, but I’m pleased to see that it continues to give it’s readers value. One of the things I discuss in the book is the extra mile that’s required to create a user experience that’s actually enjoyable. If you haven’t read it already, you can find the essence of it’s in one of my older posts called [The Extra Effort for Great UX.](https://antonsten.com/great-ux/)~~
 
@@ -13,7 +13,7 @@ One of the perks of writing and why I think all [designers should write](https:/
 
 I used Maslow’s hierarchy of needs to describe the different steps of user experiences and how they would affect the user.
 
-![Maslow hierarchy UX](/images/blog/maslow.jpg)
+![Maslow hierarchy UX](/images/maslow.jpg)
 
 How does this relate to UX Design in the digital and physical world? Maslow gives us the method to understanding the needs of our users. Take online banking for an example:
 

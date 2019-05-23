@@ -3,7 +3,7 @@ layout: blogpost
 title: 'The One Ingredient All Great User Experiences Share'
 date: 2017-08-09T20:52:07+00:00
 author: Anton Sten
-permalink: /greatuserexperiences/
+slug: /greatuserexperiences/
 ---
 
 I have to admit that one of my biggest splurges in life is traveling and staying in great hotels. One of the things I love analyzing while staying in these hotels is how they care for their customers (aka users). You see, there’s one ingredient that I think is the base ingredient for any great user experience and while you’ll might find it more at high-end places, it actually has nothing to do with money.

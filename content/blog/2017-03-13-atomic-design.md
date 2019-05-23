@@ -5,7 +5,7 @@ date: 2017-03-13T19:30:11+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=2889
-permalink: /atomic-design/
+slug: /atomic-design/
 ---
 <span class="preamble">Some people say design is like science and I think they’re on to something. You see, these past weeks I’ve been working a lot with defining design systems and I couldn’t help but see the resemblance.</span>
 

@@ -3,9 +3,9 @@ layout: blogpost
 title: 'What´s Good Design?'
 date: 2017-09-04T11:38:07+00:00
 author: Anton Sten
-permalink: /gooddesign/
+slug: /gooddesign/
 description: Good design is sometimes hard to find, but you know it when you find it. Why? How did they do it?
-image: 'images/blog/martone.jpg'
+image: 'images/martone.jpg'
 ---
 
 ~~There are just as many opinions on what ‘good design’ is as there are ‘designed’ objects. While some believe that good design is merely a visual characteristic, others claim that function should always trump form to be good design.~~
@@ -39,7 +39,7 @@ Some weeks ago I relaunched my website and one of the [comments over at Designer
 
 While I can see what this person means in theory - I’m confused as what would require for something to ‘be a design’. Colors? Shapes? Is a Mark Rothko not as much a painting as a da Vinci because it has no clear motif?
 
-![Rothko](/images/blog/rothko.jpg)
+![Rothko](/images/rothko.jpg)
 
 >You know bad design when you encounter it. From every chair you’ve sat in that hurt your ass, to every coffee cup that burned your hand, to every time your finger triggered the wrong link on your phone, to every airline booking site that pissed you off. You know bad design. You hate it. [-Mike Monteiro](https://antonsten.com/ux-designer/)
 
@@ -51,7 +51,7 @@ I want my content to be in focus. I want to give my readers a pleasant reading e
 ## What I’m missing - Good Design is Uniting
 One of my favorite designed products is my bike. Even though I’m a neutral-colored kinda guy , I love the look of my golden Martone bike.
 
-![Martone](/images/blog/martone.jpg)
+![Martone](/images/martone.jpg)
 
 I love it’s clean lines combined with the attitude of that golden yellow color. I use it far too little, but whenever I do I hear people - mostly 15-year old boys - shout, “Wow, look at that cool bike!” So while the design preferences of myself and a 15-year old boy is surely different from each other, we’re still united in our love of this designed product.
 

@@ -5,7 +5,7 @@ date: 2016-08-09T10:49:49+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1959
-permalink: /user-experiences-matter-2nd-edition-blog/
+slug: /user-experiences-matter-2nd-edition-blog/
 ---
 ~~It’s a simple truth, I love using products that offer great user experiences. I think about user experiences… _a lot_. So much so that I’ve dedicated nearly 20 years of my life learning what techniques work and how to stir up emotions in users that get great outcomes. I’ve worked with companies like IKEA, Spotify, and Mercedes-Benz to craft amazing experiences for their clients and customers. I count myself as blessed that I get to work with these open-minded companies who keep their users as their number one focus. Now I’m at the point where I have learned so much that I can’t help but share it with you all.~~
 
@@ -15,7 +15,7 @@ So, being focused on creating great user experiences, I couldn’t help but take
 
 In a couple of weeks there will be a HUGE update to the book. I have added additional chapters talking about everything from emotion driven design to how to build a product that lasts. I took time to sit down with more leaders in industry and get their take on building amazing user experiences. I want for you to think of this as a second edition release because not only will it feature tons of new content, but it has been completely redesigned from the ground up.
 
-![User Experiences that Matter](../images/blog/book_hero-1.jpg)
+![User Experiences that Matter](../images/book_hero-1.jpg)
 
 Whether you’re a professional supplying services to clients, building a new product, or marketing the next great solution, this book is for you. A great user experience can give your product a boost to that next level of success. Let this new and revised User Experiences that Matter be your guide!
 

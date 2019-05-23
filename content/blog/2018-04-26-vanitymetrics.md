@@ -3,15 +3,15 @@ layout: blogpost
 title: 'Vanity Metrics'
 date: 2018-04-26T04:39:07+00:00
 author: Anton Sten
-permalink: /vanitymetrics/
-image: '/images/blog/graph.png'
-topImage: '/images/blog/graph.png'
+slug: /vanitymetrics/
+image: '/images/graph.png'
+topImage: '/images/graph.png'
 description: We live in a sea of data - follower count, revenue, subscribers, website visits. What if I told you they are just Vanity Metrics and don't mean much?
 ---
 
 I don’t know about your morning routines, but my mornings are pretty much the same every day. During the week, I get up at around 6am and one of the first things I do is check my phone. I don’t dwell too long, but one of the highlights of my mornings is my [GoSquared](https://www.gosquared.com) daily report. It’s a beautifully designed email showing the number of people that visited my website the day before. It give me information like where they are based, what referral they came through (basically on what site they did click on a link to my website), how long they stayed, and so on. 
 
-![iPhone with GoSquared](/images/blog/gosquared.jpg)
+![iPhone with GoSquared](/images/gosquared.jpg)
 
 Now you might not think this is weird since my website is an important piece in running my business and a big component of having the role of UX-lead. The higher the number of visitors, the happier I am! It also shows a percentage based on the same day the week before. My mind spills out questions like, “Is this Tuesday better than the week before?” And “Ooh looks like there’s a link to my website from smashingmagazine.com, that oughta be great for SEO right?” Those seem fair and worthwhile, right?
 

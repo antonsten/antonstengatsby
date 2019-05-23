@@ -2,7 +2,7 @@
 layout: blogpost
 title: The Netflix Binge Factory
 date: '2018-06-15T09:52:13+02:00'
-permalink: /netflix-binge/
+slug: /netflix-binge/
 ---
 >Mysterious though it may seem, Netflix operates by a simple logic, long understood by such tech behemoths as Facebook and Amazon: Growth begets more growth begets more growth. When Netflix adds more content, it lures new subscribers and gets existing ones to watch more hours of Netflix. As they spend more time watching, the company can collect more data on their viewing habits, allowing it to refine its bets about future programming. ‘More shows, more watching; more watching, more subs; more subs, more revenue; more revenue, more content,’ explains Ted Sarandos, Netflix’s chief content officer.**[{{page.title}}](http://www.vulture.com/2018/06/how-netflix-swallowed-tv-industry.html)**
 

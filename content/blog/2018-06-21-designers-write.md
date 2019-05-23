@@ -2,7 +2,7 @@
 layout: blogpost
 title: Good product writing is conversational
 date: '2018-06-21T07:39:07+00:00'
-permalink: /writing-conversational/
+slug: /writing-conversational/
 ---
 
 >Good product writing is conversational. So use words people would actually say to each other in a conversation. Imagine you’re talking to a neighbor or friend you admire. How would you describe this feature to them? Think out loud to them as you write, and read your work aloud to review it. Keep editing and refining the language until everything is clear, friendly, and useful.**[{{page.title}}](https://medium.com/@jesseddy/tips-for-designers-to-become-better-copywriters-from-the-experts-part-1-cbd3720cbd88)**

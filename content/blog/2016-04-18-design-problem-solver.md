@@ -5,7 +5,7 @@ date: 2016-04-18T15:25:50+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1568
-permalink: /design-problem-solver/
+slug: /design-problem-solver/
 ---
 Like many of you, I have a place where I write down my ideas when they come to me. It’s called “Blog post & Ideas” and I keep it in my iCloud Notes library. I use Notes because it’s so heavily tied into both the OSX and iOS workflows that it becomes effortless to add an item. I might just add a URL from Safari, a random quote, or a vague idea that comes to me while walking my dog.
 
@@ -30,7 +30,7 @@ Tobias writes:
 
 Even though there have been some significant gains (HTML emails, attachments, links, signatures, etc), I think Tobias really hits the note when he says “and that’s the problem”. As an example, the first cars in the early 1900’s got you from point A to point B, but today’s cars are faster, more reliable, and have many more options &#8211; much like email. They have been redesigned countless times, but has their function improved? It’s still four tires on the pavement resulting in traffic jams, maintenance bills, and fuel costs. The redesign we need is the one that solves those type of problems.
 
-![Design as a problem solver](/images/blog/giphy-1.gif)
+![Design as a problem solver](/images/giphy-1.gif)
 
 ## The real question: Is the problem the product or it’s users?
 

@@ -17,7 +17,7 @@ class BlogPostTemplate extends React.Component {
           description={post.excerpt}
         />
         <h1>{post.frontmatter.title}</h1>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
+        <div className="blog-post" dangerouslySetInnerHTML={{ __html: post.html }} />
 
         <h2 className="mt-16 pt-12">Latest writing</h2>
         <div className="w-full pb-12">
@@ -57,8 +57,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY"),
-        permalink
+        date(formatString: "MMMM DD, YYYY")
       }
     }
     allMarkdownRemark(limit: 5, sort: { fields: [frontmatter___date], order: DESC }) {
@@ -70,8 +69,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
-            title,
-            permalink
+            title
           }
         }
       }

@@ -3,7 +3,7 @@ layout: blogpost
 title: 'What “intuitive” really means'
 date: 2019-05-13T04:02:11+00:00
 author: Anton Sten
-permalink: /intuitive/
+slug: /intuitive/
 ---
 
 >No one writes the i-word down because they are naive, or because they don’t mean good. They write it as a reminder of how important it is that, throughout the design process, the simplicity of the experience gets prioritized over less important things.<br /><br />

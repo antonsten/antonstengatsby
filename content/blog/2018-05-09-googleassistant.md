@@ -3,7 +3,7 @@ layout: blogpost
 title: 'The New Google Assistant'
 date: 2018-05-09T06:30:07+00:00
 author: Anton Sten
-permalink: /google-assistant/
+slug: /google-assistant/
 ---
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/JvbHu_bVa_g?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

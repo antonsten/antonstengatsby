@@ -5,7 +5,7 @@ date: 2016-04-04T09:38:10+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1529
-permalink: /secret-feature/
+slug: /secret-feature/
 ---
 When someone talks about great features, what do you think of? If you are anything like me, you instantly think of functions. To me, a function is something that allows me to do something. The push of a button makes an action happen: add to cart, navigate to page. However, I believe HOW a feature functions for the user is just as important as WHAT it does.
 

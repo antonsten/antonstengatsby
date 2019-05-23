@@ -5,13 +5,13 @@ date: 2017-01-05T14:07:19+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=2661
-permalink: /without-struggle-isnt-success/
+slug: /without-struggle-isnt-success/
 ---
 ~~Those of you that have been following my writing during the past year have surely realised that there are two topics that are recurring and that gets my heart racing. How to create great user experiences and freelancing. But to be honest, it’s not really freelancing that’s my true calling &#8211; it’s finding a way of working that suits you. For me, that happens to be freelancing, but for you it’s surely different in many ways. All that really matters is that you find ways to enjoy your life by working in a way that suits you through the creation, and use, of products that feel natural to you. We all deserve to have these great user experiences in all aspects of our lives.~~
 
 Finding a way that suits you can prove to be difficult for you and sometimes even provocative for others. Lately, I’ve been reading Mark Manson’s ‘<a href="https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713/ref=as_li_ss_tl?ie=UTF8&#038;qid=1468352752&#038;sr=8-1-fkmr0&#038;keywords=subtle+art+of+not+giving+a+fuck&#038;linkCode=sl1&#038;tag=entsblo-20&#038;linkId=a81bfe2b59e0df18b29f6d08a6c2db00" target="_blank">The Subtle Art of Not Giving a Fuck</a>’. You can read the <a href="https://markmanson.net/not-giving-a-fuck" target="_blank">first chapter</a> for free on his website.
 
-![Without struggle, There isn't success](../images/blog/tim_optimized.png)
+![Without struggle, There isn't success](../images/tim_optimized.png)
 
 There’s one part of his book that has stayed with me as I’ve been thinking about why I decided to <a href="https://masteringfreelance.com" target="_blank">start freelancing</a>. The question that Marks asks is what pain do you want in your life? <a href="https://markmanson.net/question" target="_blank">What are you willing to struggle for?</a> Too often we’re asking ourselves the other side of that question; what do you want in your life? And we answer things like, “I want to have a job that I like. I want to have a great family. I want to be happy.” While that’s really cute, it doesn’t really mean anything.
 

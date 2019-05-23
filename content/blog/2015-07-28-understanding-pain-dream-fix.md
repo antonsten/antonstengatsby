@@ -5,11 +5,11 @@ date: 2015-07-28T08:49:06+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=982
-permalink: /understanding-pain-dream-fix/
+slug: /understanding-pain-dream-fix/
 ---
 ~~I absolutely love this image. It clearly communicates how we should be thinking about developing and marketing our products. The customer is focused on their pain point and looking to the open market to provide them with their solution. Your product isn’t what they want, the end result is. Your customer doesn’t want your vacuum cleaner, they want a clean apartment. They don’t want an iPhone, they want the solutions it brings: the mobile business management, staying in touch with friends and family, etc.~~
 
-![Pain, dream, fix](/images/blog/1434045296884.png)
+![Pain, dream, fix](/images/1434045296884.png)
 
 ## Pain Dream Fix
 

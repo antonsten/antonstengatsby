@@ -5,13 +5,13 @@ date: 2016-02-09T10:26:30+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1454
-permalink: /interactive-car/
+slug: /interactive-car/
 ---
 ~~Your car’s interface has come a long way, but has a long way to go.~~
 
 Ok, I want you to do something for me. Take a minute and look at the image below. Just stare at it and try to figure out the use&#8230;
 
-![WTF Dashboard](/images/blog/ecoatm.jpg)
+![WTF Dashboard](/images/ecoatm.jpg)
 
 This is a picture of a dashboard/control panel that has been floating around the internet for a couple of weeks. Apparently someone shared a screenshot of what it looks like when accessing an ATM’s “Admin Panel”. I’ve kept this image on my desktop and occasionally open it just to stare and wonder about what the different levelers, buttons, and inputs do. I am especially intrigued by the bowling alley in the top right corner.
 

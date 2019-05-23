@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Is this Finnish school the perfect design?'
 date: 2018-02-26T05:39:07+00:00
 author: Anton Sten
-permalink: /finnishschool/
+slug: /finnishschool/
 ---
 
 >Ms Grahn-Laasonen said: <i>“Schools can choose a theme like climate change and you can look at it from very different perspectives, from very different subjects like mathematics … It's giving our children skills to think about subjects like climate change from different perspectives.”</i><br />Proponents of PBL say it helps to equip students with the critical thinking skills they need to flourish today. Kirsti Lonka, a professor of educational psychology at Helsinki University, told the BBC: <i>“When it comes to real life, our brain is not sliced into disciplines ... we are thinking in a very holistic way. And when you think about the problems in the world – global crises, migration, the economy, the post-truth era – we really haven’t given our children the tools to deal with this inter-cultural world.”</i>**[Is this Finnish school the perfect design?](https://www.weforum.org/agenda/2017/10/why-finland-is-tearing-down-walls-in-schools/)**

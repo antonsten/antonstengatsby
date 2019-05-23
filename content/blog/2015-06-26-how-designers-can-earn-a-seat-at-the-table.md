@@ -5,7 +5,7 @@ date: 2015-06-26T09:44:18+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=935
-permalink: /how-designers-can-earn-a-seat-at-the-table/
+slug: /how-designers-can-earn-a-seat-at-the-table/
 ---
 ~~Spot on from <a href="https://www.designernews.co/stories/51481-ama-marc-hemeon-cofounder-north-designer-at-hodinkee--" target="_blank">Marc Hemeon in this AMA</a> on how designers can earn a seat at the table and gain more influence. I thought all of his answers were really good but this stood out to me.~~
 

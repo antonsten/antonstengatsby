@@ -2,7 +2,7 @@
 layout: blogpost
 title: How I kicked my email compulsion
 date: '2018-08-28T05:10:01+02:00'
-permalink: /email-compulsion/
+slug: /email-compulsion/
 ---
 >I’ve been checking my personal emails 3 times a day or less for the last 2 months, and it’s had a noticeable effect on my mood, happiness and self-esteem.<br /><br />
 Your compulsion of choice might be Twitter, Instagram, or Reddit. Whatever it is, you might be a bit happier if you used it a bit less, so here are the habits and thought patterns that helped me with my emails.

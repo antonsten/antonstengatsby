@@ -3,8 +3,8 @@ layout: blogpost
 title: 'What’s a UX Strategy?'
 date: 2019-04-23T04:39:07+00:00
 author: Anton Sten
-permalink: /uxstrategy/
-image: '/images/blog/uxis.png'
+slug: /uxstrategy/
+image: '/images/uxis.png'
 description: UX strategy is more than a catch phrase. It's becoming necessary part of the development process of all the great products you use everyday.
 ---
 
@@ -26,13 +26,13 @@ One thing that I often come across is a very distinct focus on *features.* It ma
 
 Secondly, describing features runs the risk of focusing on *what* but not *how.* I realize that this is a bit harder to grasp so I try to offer real-world examples that my team are familiar with. Here's one of the images I use as a discussion point:
 
-![iphone vs. Android](/images/blog/phones.png)
+![iphone vs. Android](/images/phones.png)
 
 Most of us are familiar with both iPhones and Android Phones. Most of us also have, for one reason or another, a strong preference. Why? If you look at their features, they are, more or less, identical. You can make calls, browse the web, send emails, listen to music - the list goes on and on. Most third-party apps are even available on both platforms! Even so, most of us would not consider switching if asked. Why? Because of *how they work* rather than *what they do.* So clearly, how something works can play a huge role in your product's success (just ask Tim Cook).
 
 I like to say that the user experience is primarily made out of three different things:
 
-![User Experience is](/images/blog/uxis.png)
+![User Experience is](/images/uxis.png)
 
 1. **Visual design -** Not long ago, this is what most people assumed was the user experience. How things look. Even when Material Design was first launched, the discussion was primarily focused around how it looked, not how it should be adapted, combined with words, or the interaction!
 2. **Content design -** During the last year, there's been more and more discussion about the importance of [UX writing](https://www.antonsten.com/uxwriter/) (even [by yours truly](https://www.antonsten.com/writing-ux/)). This is not just because of a sudden trend, but more because words play a crucial role when creating a user experience. Written content is a great way to add personality, but also a way to remove friction and insecurity - the stepping stones of good UX.

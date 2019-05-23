@@ -5,7 +5,7 @@ date: 2017-07-10T13:13:40+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://antonsten.com/?p=3243
-permalink: /design-quotes/
+slug: /design-quotes/
 ---
 Loved this one especially from <a href="http://bokardo.com/about/" target="_blank">Joshua Porter</a>:
 

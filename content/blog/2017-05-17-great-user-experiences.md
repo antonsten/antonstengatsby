@@ -5,7 +5,7 @@ date: 2017-05-17T12:44:21+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://antonsten.com/?p=3110
-permalink: /great-user-experiences/
+slug: /great-user-experiences/
 ---
 ~~It’s been <a href="https://antonsten.com/hey-siri-whats-the-future-of-user-interfaces/" target="_blank">nearly two years since I got my Apple Watch</a> and while it’s been heavily criticized since it launched, I still believe it’s a product with great potential.~
 
@@ -39,7 +39,7 @@ Rumors are that the next Apple Watch will be able to actively <a href="http://bg
 
 For a diabetic like myself, this capability would introduce a completely new benefit of using the device. It would essentially take a task that today requires effort (take out glucose meter, get blood, watch for results) and simplify it by a huge factor. Essentially &#8211; this would take what today is a complex task and make it completely painless &#8211; literally and figuratively!
 
-![Great User Experiences Chart 2](../images/blog/userexperience-chart2-1024x576.png)
+![Great User Experiences Chart 2](../images/userexperience-chart2-1024x576.png)
 
 ## Complexity of task / Effort required = User Experience Score
 

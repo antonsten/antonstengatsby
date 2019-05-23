@@ -3,12 +3,12 @@ layout: blogpost
 title: 'Voice Input is the Next Big Thing - Or is It?'
 date: 2018-03-04T05:39:07+00:00
 author: Anton Sten
-permalink: /voiceinput/
-image: '/images/blog/homepod.png'
+slug: /voiceinput/
+image: '/images/homepod.png'
 description: Do you have a voice assistant (Google Home, Amazon Alexa, Apple HomePod, Siri) at home? Does it live up to the hype? I bought a HomePod and it’s amazing and also not amazing.
 ---
 
-![Apple HomePod](/images/blog/homepod.png)
+![Apple HomePod](/images/homepod.png)
 
 For the past few weeks I’ve been testing the new Apple HomePod. Ever since it’s announcement, I’ve been curious about how intuitive the voice experience would feel as the primary input. I’ve personally never been a big user of Siri on my phone outside of setting timers, but I’ve slowly found myself using it to accomplish other tasks. When driving, I’m very used to a handsfree environment and prefer interacting through voice (although it’s not as precise as I’d wish - more on this later in this post). It’s clear that voice can serve as a great input, but is the technology really ready? Only one way to find out and that’s getting my hands on a HomePod.
 

@@ -5,7 +5,7 @@ date: 2015-04-13T09:09:03+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=284
-permalink: /look-and-feel-and-feel/
+slug: /look-and-feel-and-feel/
 ---
 Jason Fried makes a great point in his latest post <a href="https://signalvnoise.com/posts/3868-look-and-feel-and-feel" target="_blank">Look and Feel and Feel</a>.
 

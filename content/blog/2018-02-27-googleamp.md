@@ -3,7 +3,7 @@ layout: blogpost
 title: 'AMP for email is a terrible idea'
 date: 2018-02-27T05:39:07+00:00
 author: Anton Sten
-permalink: /googleamp/
+slug: /googleamp/
 ---
 
 >Google just announced a plan to “modernize” email with its Accelerated Mobile Pages platform, allowing “engaging, interactive, and actionable email experiences.” Does that sound like a terrible idea to anyone else? It sure sounds like a terrible idea to me, and not only that, but an idea borne out of competitive pressure and existing leverage rather than user needs. Not good, Google. Send to trash.<br /><br />See, email belongs to a special class. Nobody really likes it, but it’s the way nobody really likes sidewalks, or electrical outlets, or forks. It not that there’s something wrong with them. It’s that they’re mature, useful items that do exactly what they need to do. **[AMP for email is a terrible idea](https://techcrunch.com/2018/02/13/amp-for-email-is-a-terrible-idea/)**

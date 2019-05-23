@@ -5,7 +5,7 @@ date: 2015-07-27T13:18:15+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=991
-permalink: /what-movies-ive-watched-and-books-ive-read/
+slug: /what-movies-ive-watched-and-books-ive-read/
 ---
 Getting two weeks of vacation from work means getting time to catch up on things I&#8217;ve been meaning to watch, read and do. Here&#8217;s what I&#8217;ve enjoyed the most the past two weeks:
 

@@ -3,7 +3,7 @@ layout: blogpost
 title: 'How To Predict Your Future'
 date: 2017-09-25T03:38:07+00:00
 author: Anton Sten
-permalink: /predictfuture/
+slug: /predictfuture/
 ---
 
 >What you do today does impact your future.<br>

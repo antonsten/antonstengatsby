@@ -5,7 +5,7 @@ date: 2017-04-05T12:58:01+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://antonsten.com/?p=2990
-permalink: /isnewbetter/
+slug: /isnewbetter/
 ---
 Yesterday, while I was having the tires changed on my car, I had to borrow one to get me around. I took this opportunity to borrow the newest version of the car I currently have and experience the differences &#8211; like trying an iPhone 6S when you are used to an iPhone 6 &#8211; even though the look identical. When I first took this brand new car for a drive, I wasn’t overwhelmed. Sure the technology was newer and better and they have surely been working to catch up with the user experience of forefront brands like Tesla. It was good, but it wasn’t a totally new experience.
 

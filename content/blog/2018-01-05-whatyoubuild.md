@@ -3,7 +3,7 @@ layout: blogpost
 title: 'What You Build'
 date: 2018-01-05T04:38:07+00:00
 author: Anton Sten
-permalink: /whatyoubuild/
+slug: /whatyoubuild/
 description: But what is more important? The naming convention you chose or if your user can actually book a flight? Which state store library you picked or if you actually had the scarf your user was looking for?
 ---
 

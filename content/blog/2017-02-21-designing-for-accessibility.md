@@ -5,7 +5,7 @@ date: 2017-02-21T10:31:27+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=2832
-permalink: /designing-for-accessibility/
+slug: /designing-for-accessibility/
 ---
 ~~When I first started doing web design it was the late 90’s and there weren’t too many bells and whistles besides animated gifs and the blink-tag. As web design evolved, we began creating more and more sites using technologies like flash that ended up being even worse for the user.~~
 
@@ -19,7 +19,7 @@ One of the hardest things when designing for some of my clients is that I’m ju
 
 If your client is in the broad consumer market &#8211; chances are you’ll be better educated, have a higher literacy level, and be younger than your average user. This means you’re more likely to have better eye sight, better dexterity, and more sophisticated skills using computers and smartphones.
 
-![Designing for Accessibility](../images/blog/designingforaccessibility.png)
+![Designing for Accessibility](../images/designingforaccessibility.png)
 
 A team that has been forced to think about designing for everyone &#8211; just like I am now &#8211; is the excellent team behind gov.uk. Here’s an excerpt from <a href="https://www.gov.uk/design-principles" target="_blank">their design principles</a>:
 
@@ -36,7 +36,7 @@ I admit wholeheartedly that I occasionally design based on my own experiences an
 
 >“Across 33 rich countries, only 5% of the population has high computer-related abilities, and only a third of people can complete medium-complexity tasks.”
 
-![Designing for Accessibility](../images/blog/computer-skill-levels-by-country.png)
+![Designing for Accessibility](../images/computer-skill-levels-by-country.png)
 
 As a reader of this blog (THANK YOU!) you most certainly fall in the top category of computer skills &#8211; level 3. In Sweden/Scandinavia, only 7% are at this level, in the US it’s only 5%. So in the future when designing products and interfaces, you need to think about the rest of the 90+% of people who surely will try to use your product.
 

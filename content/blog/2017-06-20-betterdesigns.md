@@ -5,7 +5,7 @@ date: 2017-06-20T08:33:23+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://antonsten.com/?p=3193
-permalink: /betterdesigns/
+slug: /betterdesigns/
 ---
 <span class="preamble">Artists have the freedom to pursue new ways of creating art in ways that designers don’t. While innovation is encouraged for designers, we need to first focus on creating solutions that feel intuitive for the user based on their past experiences. That doesn’t leave us a lot of room for creating new ways of solving problems.</span>
 
@@ -21,7 +21,7 @@ So what made Jeff act more like an artist than a designer?
 
 Bill Hewlett and Dave Packard said, “The biggest competitive advantage is doing the right thing at the worst time.” Bezos was doing the right thing at the worst time &#8211; being incredibly optimistic of the internet’s future and investing accordingly.
 
-![Better designs goes across your organisation](../images/blog/Jeff-Bezos-Quotes-1-1024x454.jpg)
+![Better designs goes across your organisation](../images/Jeff-Bezos-Quotes-1-1024x454.jpg)
 
 ## The challenge
 

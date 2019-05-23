@@ -3,9 +3,9 @@ layout: blogpost
 title: 'Five questions UX employers should be asking'
 date: 2018-07-23T04:39:07+00:00
 author: Anton Sten
-permalink: /5-ux-questions/
-image: '/images/blog/dialog-trans.png'
-topImage: '/images/blog/dialog-trans.png'
+slug: /5-ux-questions/
+image: '/images/dialog-trans.png'
+topImage: '/images/dialog-trans.png'
 description: How do you even start talking about UX so everyone at the table gets it? Here's my five questions that will change the way we talk about UX.
 ---
 

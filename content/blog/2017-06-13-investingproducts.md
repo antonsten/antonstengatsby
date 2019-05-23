@@ -5,11 +5,11 @@ date: 2017-06-13T08:31:25+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://antonsten.com/?p=3188
-permalink: /investingproducts/
+slug: /investingproducts/
 ---
 <span class="preamble">For the past ten years, I’ve been getting more and more into stock trading and long term investing. As I’ve become more diverse in what I select to invest in &#8211; mostly publicly traded companies like Apple, Netflix, or Square &#8211; I have even been blessed to have the <a href="https://instagram.com/p/BQxrHJvBYDnjObGWHyvmXIrxaZDLjlPjjHj3zs0/" target="_blank">opportunity to invest</a> in other ventures like <a href="https://www.hyperisland.com/" target="_blank">Hyper Island</a>.</span>
 
-![Investing in products](../images/blog/Screen-Shot-2017-06-13-at-08.26.20-1024x777.png)
+![Investing in products](../images/Screen-Shot-2017-06-13-at-08.26.20-1024x777.png)
 
 It can be a bit daunting to jump into investing, but I developed a couple of simple rules I follow that have helped me a lot. (Note: I sometimes fail at following them, oops!) Though they may seem extremely naive, you’d be amazed at the valuations these investments have that don’t pass the test.
 

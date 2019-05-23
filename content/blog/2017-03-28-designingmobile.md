@@ -5,7 +5,7 @@ date: 2017-03-28T08:35:27+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://antonsten.com/?p=2976
-permalink: /designingmobile/
+slug: /designingmobile/
 ---
 ~~I recently started up a couple of bigger projects and it&#8217;s got me thinking about my processes. You see, for years I have been telling my clients about how crucial mobile is. Mobile traffic will very soon outrank desktop traffic if it hasn’t already. It’s your number one opportunity for more sales and reaching higher conversion rates. The mobile experience is often the first experience a customer has with your brand. Clients are beginning to realize this and are eager to adopt it.~~
 
@@ -15,7 +15,7 @@ While I do understand the key role mobile plays, I find myself thinking about &#
 
 So here&#8217;s my challenge to myself: start with designing for mobile on these projects and see what happens. I&#8217;ll make sure to report back to you on my experience! I&#8217;d also love to get your wisdom on this &#8211; especially designers (product, UX, UI) &#8211; what your experience was when you made this transition.
 
-![Designing for mobile - iPhone - what now?](../images/blog/jamie-street-113843-1024x714.jpg)
+![Designing for mobile - iPhone - what now?](../images/jamie-street-113843-1024x714.jpg)
 
 Notes on the subject from <a href="https://twitter.com/ani_c_mohan?lang=en" target="_blank">Ani Mohan</a> in his <a href="https://www.youtube.com/user/conversionsatgoogle" target="_blank">Next Generation Web</a> presentation at Google Conversions 2017 in Dublin via <a href="http://www.lukew.com/ff/entry.asp?1966" target="_blank">Luke Wroblekski</a>
 

@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Who would you trust more with your data, Apple or the government?'
 date: 2018-05-08T06:32:07+00:00
 author: Anton Sten
-permalink: /apple-data/
+slug: /apple-data/
 ---
 
 >The theory is that one highly-protected database could be safer than having our personal data scattered throughout thousands of different databases.

@@ -3,8 +3,8 @@ layout: blogpost
 title: 'Make me think'
 date: 2018-02-01T05:38:07+00:00
 author: Anton Sten
-permalink: /makemethink/
-image: '/images/blog/makemethink.gif'
+slug: /makemethink/
+image: '/images/makemethink.gif'
 ---
 
 >Fortunately, UX (User eXperience) designers have found ways to design beautiful interfaces that are easy to use. Their process can resemble a philosophical enquiry, where they constantly asks questions such as: What is this really about? How do we perceive this? What is our mental model?<br /><br />Today, as a result of their efforts, we interact with wonderfully designed interfaces. Designers have been taming complexity for us. They make extremely sophisticated technology appear simple and easy to use.<br /><br />

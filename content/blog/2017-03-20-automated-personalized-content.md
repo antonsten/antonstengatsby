@@ -5,7 +5,7 @@ date: 2017-03-20T12:04:38+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=2897
-permalink: /automated-personalized-content/
+slug: /automated-personalized-content/
 ---
 ~~I had my birthday recently and was, once again, surprised at how many people cared enough to take 10 seconds to congratulate me on Facebook. Along with these wishes from people near and far, my inbox also filled with messages from various sites and services all wanting to wish me a special day (and offer free shipping too!).~~
 
@@ -15,7 +15,7 @@ I want to talk to you about the three different birthday experiences through aut
 
 The first one to wish me a happy birthday was my phone carrier. The text was pretty straight forward and said:
 
-![Tele2 Automated Personalized Content](../images/blog/Screen-Shot-2017-03-05-at-18.48.25.png)
+![Tele2 Automated Personalized Content](../images/Screen-Shot-2017-03-05-at-18.48.25.png)
 
 Hi Anton,
 
@@ -29,7 +29,7 @@ They may have gotten the facts right, but there are no emotions attached to it. 
 
 The second birthday wish also came in the form of a text message &#8211; this time though from my dog’s veterinary clinic. YES, YOU READ THAT RIGHT. Here’s their text:
 
-![Evidensia Automated Personalized Content](../images/blog/Screen-Shot-2017-03-05-at-18.56.33.png)
+![Evidensia Automated Personalized Content](../images/Screen-Shot-2017-03-05-at-18.56.33.png)
 
 Happy birthday!
 
@@ -47,7 +47,7 @@ The third one came in the form of an email and the sender was my stock broker/ba
 
 The email itself is pretty simple but communicated with a personal tone:
 
-![Avanza Automated Personalized Content](..images/blog/Screen-Shot-2017-03-05-at-18.59.56.png)
+![Avanza Automated Personalized Content](..images/Screen-Shot-2017-03-05-at-18.59.56.png)
 
 Happy birthday!
 

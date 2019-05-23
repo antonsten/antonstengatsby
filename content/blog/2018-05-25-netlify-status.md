@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Netlify now shows your deploy status on its favicon'
 date: 2018-05-25T05:39:07+00:00
 author: Anton Sten
-permalink: /netlify-status/
+slug: /netlify-status/
 ---
 
 >The colorized indicator overlay solved some of the problems we had with the colorized logos, but a large issue remained. Color blind and vision impaired individuals may have trouble distinguishing the red, yellow and green colors of the dots if they lack any distinguishing features independent of color.

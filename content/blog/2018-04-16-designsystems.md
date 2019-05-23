@@ -3,9 +3,9 @@ layout: blogpost
 title: 'Design Systems: Better UX through Defined Standards'
 date: 2018-04-16T05:39:07+00:00
 author: Anton Sten
-permalink: /designsystems/
-image: '/images/blog/designsystems.jpg'
-topImage: '/images/blog/designsystems.jpg'
+slug: /designsystems/
+image: '/images/designsystems.jpg'
+topImage: '/images/designsystems.jpg'
 description: The phrase “Design System” is getting tossed around a lot in design circles. They say it’s vital to a growth centered company and I 100% agree.
 ---
 

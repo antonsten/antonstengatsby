@@ -2,7 +2,7 @@
 layout: blogpost
 title: 'What Elon Musk Should Learn From the Thailand Cave Rescue'
 date: '2018-07-16T10:18:53+02:00'
-permalink: /elon-musk-thailand/
+slug: /elon-musk-thailand/
 ---
 >Silicon Valley moguls seem to believe they can fix most anything, and they appear befuddled when their attempts to do so aren’t met with unbridled enthusiasm.<br /><br />He directed his engineers to build a miniature “submarine” (basically a sophisticated metal cylinder) that he hoped could be used for the rescue. He shared videos of the submarine with his 22 million followers on Twitter. And he received widespread media coverage and encouragement from his many fans.<br /><br />
 Mr. Musk’s desire to help was commendable. But when the head of the rescue operation, Narongsak Osottanakorn, declared that Mr. Musk’s contraption was impractical for the task at hand — a task that had been completed, at that point, by some of the world’s top cave divers — Mr. Musk responded with irritation. He insisted on Twitter that leaders of the operation had in fact welcomed his assistance and that Mr. Narongsak was not the “subject matter expert.” He also expressed frustration that he was being criticized while trying to help.

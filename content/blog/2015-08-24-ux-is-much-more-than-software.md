@@ -5,7 +5,7 @@ date: 2015-08-24T14:13:06+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1074
-permalink: /ux-is-much-more-than-software/
+slug: /ux-is-much-more-than-software/
 ---
 ## My Process for Understanding the FULL User Experience
 
@@ -19,7 +19,7 @@ When working with e-commerce companies, I like to run through a full sales proce
 
   * I do a google search for a product and company name. This is the way most users will find your product, not through the homepage and category pages. Have I understood where I’ve ended up? Does the site give me a trustworthy experience? Can I easily get back to the previous category listing? What about the homepage?
   * From that product page I’ll go back to the homepage and then find my way to another product. Am I recommended other products that might be of interest to me? Is crucial information clearly displayed (size, color, price, delivery time)? This is where most UX-Checks usually end, but I’m just getting started.
-  ![IPhone_6_unboxing](/images/blog/IPhone_6_unboxing.jpg)
+  ![IPhone_6_unboxing](/images/IPhone_6_unboxing.jpg)
 
   * I contact customer support one more time to ask questions about my product. How quick was the response time? Under 24 hours? What was the tone like? Friendly or sour?
 

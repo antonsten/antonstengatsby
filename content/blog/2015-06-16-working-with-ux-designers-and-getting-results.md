@@ -5,7 +5,7 @@ date: 2015-06-16T10:30:35+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=903
-permalink: /working-with-ux-designers-and-getting-results/
+slug: /working-with-ux-designers-and-getting-results/
 ---
 ## What UX Is and What It Isn’t
 
@@ -21,7 +21,7 @@ For the past year, I’ve been honored to work with the amazing people at <a hre
 
 Frank already works with a great team of very capable designers and developers, <a href="http://loveandmoney.agency" target="_blank">Love+Money</a>, who were responsible for the creative concept and development of the new website. Frank wisely figured that a second pair of eyes could help make things even better.
 
-![Frank Body](/images/blog/frank.jpg)
+![Frank Body](/images/frank.jpg)
 
 Because they already had designers that created both wireframes and designs, nearly all of my deliverables have mainly been through e-mail. I would look at the existing designs and give them my detailed opinion on how conversions could be improved. It could be really minor suggestions &#8211; like the wording in a button and it’s placement, or it could be more complex &#8211; like the flow of the shopping cart.
 
@@ -38,7 +38,7 @@ When I help clients like <a href="http://www.eon.se" target="_blank">E.ON</a> wi
 
 From this meeting/learning process, I’ll head back to my office and assemble a very rough wireframe or sketch about the desired functionality and the flow of the feature. Basically I am nailing down how the user is presented information and all the different options and functionality. These will go back and forth a couple of times until it is well defined as being user friendly enough for the average user, but is still functional enough for the advanced user.
 
-![Eon sketches](/images/blog/eon.jpg)
+![Eon sketches](/images/eon.jpg)
 
 * If it’s a feature/subject or area where I can see a need for improvement, I approach it differently. Even though I’m not generally the target for the product, it’s my job to think like them and consider features that I would have like to see. These are usually presented in an e-mail, during an informal meeting, or using Keynote.
 

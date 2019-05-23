@@ -3,8 +3,8 @@ title: Everyone is a UX-designer and Why I Hate the Term
 date: 2015-10-19T13:07:11+00:00
 author: Anton Sten
 layout: blogpost
-permalink: /ux-designer/
-image: 'images/blog/Screen-Shot-2015-09-11-at-14.31.59.jpg'
+slug: /ux-designer/
+image: 'images/Screen-Shot-2015-09-11-at-14.31.59.jpg'
 medium_post:
   - 'O:11:"Medium_Post":7:{s:16:"author_image_url";s:75:"https://cdn-images-2.medium.com/fit/c/200/200/1*sBkMGX19CG9furNqzt-uBg.jpeg";s:10:"author_url";s:29:"https://medium.com/@antonsten";s:10:"cross_link";s:3:"yes";s:2:"id";s:12:"5a13e46c1c72";s:7:"license";s:19:"all-rights-reserved";s:6:"status";s:5:"draft";s:3:"url";s:42:"https://medium.com/@antonsten/5a13e46c1c72";}'
 ---
@@ -42,4 +42,4 @@ Even though my title might be UX-designer, the user experience consists of every
 
 From #mobX speaker Cat Noon (image by <a href="https://twitter.com/dolbydigger" target="_blank">Thorsten Jonas</a>):
 
-![A great user experience](/images/blog/Screen-Shot-2015-09-11-at-14.31.59.jpg)
+![A great user experience](/images/Screen-Shot-2015-09-11-at-14.31.59.jpg)

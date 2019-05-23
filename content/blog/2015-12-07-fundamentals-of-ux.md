@@ -5,7 +5,7 @@ date: 2015-12-07T10:46:48+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1264
-permalink: /fundamentals-of-ux/
+slug: /fundamentals-of-ux/
 
 ---
 ~~There’s a seriously misguided tendency for people to focus more on the _‘design’_ in user experience design than the ‘user’. But no matter how well designed your site is, if your user can’t do what they want, when they want, they’ll leave unhappy, and you’ll lose a potential sale.~~
@@ -132,7 +132,7 @@ Bad reviews? The CUXO’s job would be to understand why your customers are unha
 
 Low conversions? Again, what experience is holding the customer back from completing their purchase?
 
-![fundamentals of UX](/images/blog/pablo-5-1024x512.png)
+![fundamentals of UX](/images/pablo-5-1024x512.png)
 
 As design of all types becomes more and more of a differentiator for online businesses, your experience is what will set you apart from the competition. Don’t lose out because you’re unwilling to see the power of a good, clean start-to-finish experience.
 

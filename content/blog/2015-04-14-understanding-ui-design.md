@@ -5,7 +5,7 @@ date: 2015-04-14T09:32:55+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=595
-permalink: /understanding-ui-design/
+slug: /understanding-ui-design/
 ---
 ~~UI Design looks familiar… <br>If you’ve been looking around the digital sphere, you may recognize the term UI Design, or perhaps you might know its counter part, UX Design.~~
 

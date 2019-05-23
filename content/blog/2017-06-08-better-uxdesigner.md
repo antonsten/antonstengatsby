@@ -5,7 +5,7 @@ date: 2017-06-08T08:35:17+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://antonsten.com/?p=3170
-permalink: /better-uxdesigner/
+slug: /better-uxdesigner/
 ---
 <span class="preamble">Getting older has taught me that the more you know, the more you </span>realize <span class="preamble">how little you actually know. Over my </span>20 year <span class="preamble">design career, I’ve been a web designer, digital art director, UX-designer and while the titles may have changed my passion is still the same. As I’ve gotten more and more confident, I’m finding myself saying the three words that the 21-year old me was afraid to. (Hint: It’s not ‘I love you’).</span>
 
@@ -15,7 +15,7 @@ One thing you will rarely hear designers say, especially to clients, are the thr
 
 **I don’t know.**
 
-![Become a better UX-Designer](../images/blog/ios-10-shrug-emoji.0.png-1024x683.jpeg)
+![Become a better UX-Designer](../images/ios-10-shrug-emoji.0.png-1024x683.jpeg)
 
 I think it’s probably because we’re the ones that are SUPPOSED to have the right answers. Here’s the thing though, in UX-design there’s very rarely a definite “right” answer. It all depends on so many things. A UX-designer’s primary focus should always be the end-user, but we end up having to think about so much more to actually pull off a successful outcome. The project’s stake holders, the current technology possibilities and limitations, budgets, and business objectives all play a role. So while there may be one answer for the end-user, it might not align with the rest.
 

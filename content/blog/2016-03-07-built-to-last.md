@@ -5,7 +5,7 @@ date: 2016-03-07T11:12:50+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1483
-permalink: /built-to-last/
+slug: /built-to-last/
 ---
 ## Pushing Back Against the Hurry for Quality’s Sake
 
@@ -37,7 +37,7 @@ What I do believe is that we are NOT creating things that last. If that’s some
 
 Most likely, you’ve seen this before, but I want to highlight it again because it works across so many industries and fits our topic:
 
-![Time, Cost, Quality](/images/blog/triangle-1024x658.png)
+![Time, Cost, Quality](/images/triangle-1024x658.png)
 
 Let me ask you this. If you were to remove &#8216;time&#8217; (fast) EVERY time you produced something for a client &#8211; Would your client ALWAYS get an affordable, high-quality long-lasting product? You bet. Unfortunately, that’s not always the option.
 

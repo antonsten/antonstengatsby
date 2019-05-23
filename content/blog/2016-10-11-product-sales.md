@@ -5,7 +5,7 @@ date: 2016-10-11T09:25:43+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=2348
-permalink: /product-sales/
+slug: /product-sales/
 ---
 ~~Which comes first: the chicken or the egg? A company I’m working with is facing a choice that most startups share. Should we focus on making the product go from good to great &#8211; or &#8211; should we focus on sales and user growth?~~
 
@@ -13,6 +13,6 @@ The chicken response would be for a making great product. If we don’t have a g
 
 The egg response would be to focus on user growth. A product can be on the edge of being shut down if it doesn’t reach it’s goals and <a href="https://en.wikipedia.org/wiki/Performance_indicator" target="_blank">KPI’s</a>. Without focus on the user first, there may not be enough time or money to develop an even mildly good product. This is the bitter truth about business &#8211; even VC funded ones &#8211; is that in the end, there are goals that need to be met and evaluated. Exceed those goals and your product is in a better position for the future.
 
-![Chicken or egg? Product or Sales?](../images/blog/giphy.gif)
+![Chicken or egg? Product or Sales?](../images/giphy.gif)
 
 What will you do when you reach this crossroads? Will it be the chicken… or the egg?

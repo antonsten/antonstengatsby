@@ -5,7 +5,7 @@ date: 2015-04-07T15:00:14+00:00
 author: Anton Sten
 layout: blogpost
 guid: http://dev.antonsten.com/?p=28
-permalink: /golden-krishna-on-our-job-as-designers/
+slug: /golden-krishna-on-our-job-as-designers/
 ---
 > I believe our job as designers is to give you what you need as quickly and as elegantly as we can. Our job as designers is to take you away from technology. Our job as designers is to make you smile. To make a profit by providing you something that enhances your life in the most seamless and wonderful way possible.
 

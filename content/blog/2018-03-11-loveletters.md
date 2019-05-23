@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Love letters to trees'
 date: 2018-03-11T05:39:07+00:00
 author: Anton Sten
-permalink: /loveletters/
+slug: /loveletters/
 description: The city of Melbourne assigned trees email addresses so citizens could report problems. Instead, people wrote thousands of love letters to their favorite trees.
 ---
 

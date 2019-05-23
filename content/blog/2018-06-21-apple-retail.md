@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Retail is Not Dying, But it Has to Evolve'
 date: 2018-06-21T06:39:07+00:00
 author: Anton Sten
-permalink: /apple-retail/
+slug: /apple-retail/
 ---
 
 >Looking to the future of retail in general, Ahrendts mentioned numbers from an analytic firm that suggest while the majority of shopping will move online, many customers will still venture out to physical locations to finalize a purchase. This means that shoppers will use apps and online websites to research products and items, and perhaps reserve them for in-store pickup, much like Apple already does today.<br />

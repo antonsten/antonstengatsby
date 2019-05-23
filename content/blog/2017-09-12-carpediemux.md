@@ -3,9 +3,9 @@ layout: blogpost
 title: 'Carpe Diem UX-designers'
 date: 2017-09-11T13:38:07+00:00
 author: Anton Sten
-permalink: /carpediem/
+slug: /carpediem/
 description: Clichés can help you in life and #business. Don’t believe me? #ux #design #carpediem
-image: 'images/blog/carpediem.gif'
+image: 'images/carpediem.gif'
 ---
 
 ~~I’ve just finished reading Tools of Titans by Tim Ferriss. It’s a massive 600+ page book, but because it’s split up in three major sections (Healthy, Wealthy and Wise) it’s still still feels like a pretty light read. One of my favorite chapters was about Shay Carl.~~
@@ -18,7 +18,7 @@ Shay himself lost over 100 lbs and cites the example of ‘eat more vegetables�
 
 There are so many different proverbs that have become clichés in our languages. My favorite is “Carpe Diem”, Latin for seize the day. It has to be one of the best known, right? Well, turns out, it’s actually quite powerful despite it’s misuse. To live a happier life, stop stressing about the future (or even worse, the past). Just be there in the moment.
 
-![Carpe Diem B*tches](/images/blog/carpediem.gif)
+![Carpe Diem B*tches](/images/carpediem.gif)
 
 Actions speak louder than words. Exercise regularly. Get 8 hours of sleep. Show up and do the work. The list goes on, but once you actually commit to them you’re more than guaranteed to see a real change in your well-being. These clichés can hold powerful truths, but we don’t always put them into practice. At the end of the day, it’s the simple things in life that work.
 

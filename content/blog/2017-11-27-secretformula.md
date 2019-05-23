@@ -3,9 +3,9 @@ layout: blogpost
 title: 'The secret formula for great user experiences'
 date: 2017-11-27T03:38:07+00:00
 author: Anton Sten
-permalink: /secretformulaforux/
+slug: /secretformulaforux/
 description: Designers and business owners have been searching for something that their users want more than anything else. An amazing user experience. This is really hard to pull off as sometimes throwing features at solution isn't the right move. It just adds friction. So how do you pull it off? Sometimes it's just knowing the secret formula.
-image: '/images/blog/iphone-x-lock-screen-notifications.jpg'
+image: '/images/iphone-x-lock-screen-notifications.jpg'
 ---
 ~~I’m intrigued about learning more about what makes a great user experience. The topic is so  complex and there’s a lot of scenarios to consider. There’s a very basic formula though that’s been playing around in my mind lately.<br><br>While I initially thought about it regarding digital products, I’ve been surprised at how many different levels in my life it seems to work. It may seem basic, even trivial to most, yet so many of us mess up over and over.<br><br>A great user experience needs to deliver a delight filled experience with as little friction as possible.~~
 

@@ -5,7 +5,7 @@ date: 2016-12-10T16:19:33+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=2578
-permalink: /email-marketing/
+slug: /email-marketing/
 ---
 ~~I recently tried out <a href="https://unroll.me" target="_blank">Unroll.me</a>, a service that taps into your email account and lists what newsletters you are subscribed to. It provides you with a single, user-friendly interface to unsubscribe from unwanted emails.~~
 
@@ -13,7 +13,7 @@ It surprised me to learn that I had subscribed to more than 2000 newsletters and
 
 <a href="https://www.campaignmonitor.com/company/annual-report/2016/" target="_blank">Campaign Monitor reports</a> that in 2016 every $1 spent in email marketing results in a $44 return on investment (ROI). That means it has a 174% higher conversion rate than social media! We do know that paying special attention to <a href="https://www.antonsten.com/why-user-experiences-matter/" target="_blank">UX provides a far higher ROI</a> than email, but the numbers are still pretty astounding.
 
-![Email marketing](../images/blog/Screen-Shot-2016-12-10-at-15.10.58.png)
+![Email marketing](../images/Screen-Shot-2016-12-10-at-15.10.58.png)
 
 ## Low investment, high rewards
 

@@ -3,8 +3,8 @@ title: Why Designers Need to Write
 date: 2017-05-25T10:02:11+00:00
 author: Anton Sten
 layout: blogpost
-image: 'images/blog/1kfmKVXeoae-q61nW3WE7jw.png'
-permalink: /designers-write/
+image: 'images/1kfmKVXeoae-q61nW3WE7jw.png'
+slug: /designers-write/
 ---
 ~~A couple of years ago, there was a huge discussion online about whether or not designers should know how to code. The people who believed this argued that unless you know how to build what you design, you aren’t able to understand if it’s doable or not. I strongly disagree with this way of thinking.~~
 
@@ -32,4 +32,4 @@ Now, as a team of one, hiring a writer isn’t really an option for me (except f
 
 Great example of how writing creates a better product by Slack:
 
-![Designers need to write to make better user experiences](/images/blog/1kfmKVXeoae-q61nW3WE7jw.png)
+![Designers need to write to make better user experiences](/images/1kfmKVXeoae-q61nW3WE7jw.png)

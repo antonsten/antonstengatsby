@@ -5,7 +5,7 @@ date: 2017-02-07T09:55:15+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=2790
-permalink: /simple-is-hard/
+slug: /simple-is-hard/
 ---
 ~~For most of us, designing simple user interfaces, simple user interactions, and simple user experiences are things we strive for when making new products. We recognize that this simplicity makes our product desirable to the user and why a product gets labeled as “good”. What we rarely talk about though, is how hard simple is.~~
 
@@ -36,4 +36,4 @@ It&#8217;s worth it to think critically about simplicity and how to apply it to 
 
 Your customers are just like you. They prefer simple.
 
-![Simple is Hard](../images/blog/simple-hard.png)
+![Simple is Hard](../images/simple-hard.png)

@@ -5,7 +5,7 @@ date: 2015-07-13T06:00:39+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=976
-permalink: /i-am-professional-because-i-am-personal/
+slug: /i-am-professional-because-i-am-personal/
 ---
 ~~Just like all small business owners, I want to improve everything about my business. I want to find new ways of connecting with audiences, use better tools to work more efficiently, and manage my cash flow with expertise. So I hunt for the perfect solution that will result in amazing client satisfaction, increased income, and more time to invest in my personal growth. I work most evenings and spend my weekends and holidays with business on my mind.~~
 
@@ -30,6 +30,6 @@ Sometimes it can be hard to find the balance between your professional and perso
 
 I am writing this on a plane to Stockholm. I am meeting with a potential client in the banking industry that I would love to work with. They do amazing stuff by operating primarily with individuals who trade stock (think: Robinhood.com), so it’s an area that’s close to my heart. Often when I go into meetings like this, I feel the need to dress up. On this occasion though, I think I will stick to who I am. A real person in jeans and a t-shirt. I have decided to stay confident in who I am, what I do, and how I do it. This is what it’s like doing business with me. I am professional because I am personal.
 
-![Me and my dog](/images/blog/F783A161-9D49-4145-88A5-86B049753C4A.jpg)
+![Me and my dog](/images/F783A161-9D49-4145-88A5-86B049753C4A.jpg)
 
 I am happy to say that I am taking two weeks of vacation starting July 10th. Here’s to making these weeks just about personal development and relaxation! I will be back around the 27th more enthusiastic, more personally evolved, more relaxed, and an even better businessman.

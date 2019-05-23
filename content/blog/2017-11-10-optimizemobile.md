@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Checkout for Winners'
 date: 2017-11-10T03:38:07+00:00
 author: Anton Sten
-permalink: /checkoutforwinners/
+slug: /checkoutforwinners/
 description: In his Checkout for Winners presentation at Google Conversions 2017 in Dublin Ireland, Andrey Lipattsev talked through two new APIs for improving sign-in/sign-up and checkout on the Web.
 ---
 ~~Great notes from [Luke W](https://www.lukew.com/ff/entry.asp?1980) from Andrey Lipattsev's talk Checkout for Winners.~~

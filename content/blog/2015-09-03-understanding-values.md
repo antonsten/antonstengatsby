@@ -5,7 +5,7 @@ date: 2015-09-03T12:10:23+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1091
-permalink: /understanding-values/
+slug: /understanding-values/
 ---
 ~~The office ecosystem is an unusual place. <a href="http://www.mediaevolutioncity.se/en/" target="_blank">The building</a> where I have my office is large by any standards. There are roughly 100 different companies with more than 500 actual people working for them.~~
 
@@ -17,7 +17,7 @@ You see, relationships have their foundation in values. It’s about what you br
 
 MY DOG brings me happiness, daily exercise, and a feeling of responsibility and caring. In return, she gets exercise, food, shelter, and &#8211; most importantly &#8211; love in return.
 
-![Happy dog, happy life](/images/blog/ezgif-3104760706.gif)
+![Happy dog, happy life](/images/ezgif-3104760706.gif)
 
 MY CLIENTS get an agency-like quality delivery without the bureaucracy. They’ll get it on-time and hassle free. In return, I get long-term engagements and clients that adapt to my way of working.
 

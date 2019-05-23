@@ -5,7 +5,7 @@ date: 2016-05-30T13:07:22+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1628
-permalink: /conversion-change-quick-results-take-time/
+slug: /conversion-change-quick-results-take-time/
 ---
 ~~A few weeks back, I took a break and watched Freakonomics, a documentary based on the book with the same name. Even if you’ve already read the book, I’d recommend taking the time to watch it &#8211; it’s excellent! One of the things they address is our inability to see what’s actually in front of us; to see the big picture.~~
 
@@ -20,7 +20,7 @@ I was recently working with a small startup to improve their signup processes. W
 
 Around the same time, I heard back from a client that I had worked with a couple of years earlier. They let me know that their project had seen a 900% increase in conversion. 900%! I was feeling on top of the world. I am the conversion mastermind!
 
-![Austin Powers Mojo!](/images/blog/giphy-austin.gif)
+![Austin Powers Mojo!](/images/giphy-austin.gif)
 
 Soon the results for the startup’s project came in and, it turns out, we didn’t see that magical 900% increase. In fact, we saw a DECREASE in conversions! I was speechless. Had I lost my conversion mojo?
 

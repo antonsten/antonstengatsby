@@ -3,13 +3,13 @@ layout: blogpost
 title: 'Calling bullshit on ‘Apple is really bad at design’'
 date: 2017-10-16T03:38:07+00:00
 author: Anton Sten
-permalink: /appledesign/
+slug: /appledesign/
 description: Too soon to judge. The iPhoneX notch may not as bad as people are complaining about.
-image: 'images/blog/iphonex-splash.jpg'
+image: 'images/iphonex-splash.jpg'
 ---
 ~~There’s one thing that’s really been itching a nerve with me. Lately, there’s been a lot of “Apple has lost it’s innovation” or “Apple sucks at design” pieces in personal blogs and in major news outlets. One of the most shared posts [“Apple is really bad at design”](https://theoutline.com/post/2352/apple-is-really-bad-at-design) (how’s that for a clickbait title?) makes me twitch.~~
 
-![iPhone X splash](/images/blog/iphonex-splash.jpg)
+![iPhone X splash](/images/iphonex-splash.jpg)
 
 Any opinion that you state as a hard fact without having the research to back it up is pretty much lying to your audience. To me, making sure that we have all of the necessary information before bashing other people’s work is one of the most ethically important processes we have as designers. Unfortunately, others seem to believe that having a strong opinion is far more important than having a validated one.
 

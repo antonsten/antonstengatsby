@@ -5,7 +5,7 @@ date: 2017-03-06T13:20:25+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=2873
-permalink: /is-less-more/
+slug: /is-less-more/
 ---
 ~~A couple of weeks ago during a dinner with friends, we started discussing the idea that less is more. It has become popular among our peers and society in general that we ALWAYS need to strive for less.~~
 
@@ -17,7 +17,7 @@ But is Less really More? Short answer? It depends. It depends on whether you’v
 
 In France there’s a famous restaurant chain called le <a href="https://relaisennr.cluster011.ovh.net/?lang=en" target="_blank">Relais de l’Entrecote</a> that serves only one dish &#8211; you guessed it, entrecote. They’ve absolutely mastered everything about making it. Every night, they have <a href="http://www.sugarednspiced.com/paris-le-relais-de-lentrecote/" target="_blank">people queuing up in long lines</a> before they even open! Now compare this to a all-you-can-eat buffet with chicken wings, salad, vegetables, and meats in all sizes and cuts (including entrecote). Because they have chosen to serve everything &#8211; their entrecote is nowhere near as good as le Relais de l’Entrecote’s. This ‘okay’ entrecote is fine for most cases, but if you want a really great entrecote, you go somewhere they focus on it. At le Relais de l’Entrecote’s, less is more and profitably so.
 
-![Is Less More?](../images/blog/islessmore.png)
+![Is Less More?](../images/islessmore.png)
 
 This same principle applies to your products. The better you can define your product, the better chance your core audience has of falling in love with it. Your product’s ‘less’ is what people will rave about. They don’t want a buffet.
 

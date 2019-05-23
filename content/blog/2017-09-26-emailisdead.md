@@ -3,9 +3,9 @@ layout: blogpost
 title: 'Stop Saying E-mail is Broken'
 date: 2017-09-25T03:38:07+00:00
 author: Anton Sten
-permalink: /emailbroken/
+slug: /emailbroken/
 description: Using e-mail can sometimes a bad experience, but is it e-mail itself or HOW we use it?
-image: 'images/blog/giphy-email.gif'
+image: 'images/giphy-email.gif'
 ---
 
 ~~For years now, our community has believed in the idea that ‘Email is broken’ and even gone as far as sharing advice on how to [Escape E-mail Hell](https://medium.com/the-year-of-the-looking-glass/escaping-e-mail-hell-f55905f3862f). There are countless companies that have set their mission on ‘fixing e-mail’. While I love tools like Slack, it’s not there to ‘fix e-mail’ because, as far as I’m concerned, e-mail isn’t broken.~~
@@ -25,7 +25,7 @@ People’s usage of e-mail is broken
 
 Simply put, too much of anything will kill you and that goes for e-mail too. E-mail isn’t broken, but people who see no problem in sending/receiving hundreds of e-mails every day are. Just like spamming any [Slack](https://slack.com) channel by using @channel for everything you write - you will eventually kill it. People should really consider if the email they are about to send needs sending and if it should have those additional 14 people cc’ed.
 
-![E-mail is broken](/images/blog/giphy-email.gif)
+![E-mail is broken](/images/giphy-email.gif)
 
 >Email is broken, but so is our attitude towards it: our dependancy on its promise; our addiction to activity; our insistence for information in ignorance of the quantity or quality that may follow; our inability to distinguish between the brief and the self-indulgent. In a noisy world, a quiet inbox unnerves us. “Is anybody else having trouble with their email?” we’ll ask our colleagues when an expected response fails to arrive. And when did you last meet someone who didn’t have an email address? What year was that, exactly?<br>
 [E-mail is broken but so are you](https://medium.com/@paul_a_smith/email-is-broken-but-so-are-you-bc5f24fc8a97)

@@ -3,8 +3,8 @@ title: The future of the UX-Designer
 date: 2017-05-30T19:21:47+00:00
 author: Anton Sten
 layout: blogpost
-image: 'images/blog/Where-is-the-future-of-voice-recognition-and-AI.jpg'
-permalink: /future-ux-designer/
+image: 'images/Where-is-the-future-of-voice-recognition-and-AI.jpg'
+slug: /future-ux-designer/
 
 ---
 ~~There’s been a lot of press lately on how AI-powered assistants will make our lives better/easier/more manageable very soon.~~

@@ -3,9 +3,9 @@ layout: blogpost
 title: 'What about ’my’ responsibilities?'
 date: 2018-09-24T04:39:07+00:00
 author: Anton Sten
-permalink: /my-responsibilities/
-image: '/images/blog/idea.jpg'
-topImage: '/images/blog/idea.jpg'
+slug: /my-responsibilities/
+image: '/images/idea.jpg'
+topImage: '/images/idea.jpg'
 description: We like to blame Facebook and Google for all of our tech issues (privacy concerns, fake news), but aren’t we responsible too? If we didn’t click, read, and believe then we would be better off today. The change starts with you and I.
 ---
 

@@ -5,7 +5,7 @@ date: 2016-08-23T09:22:00+00:00
 author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=2159
-permalink: /conversions/
+slug: /conversions/
 ---
 ~~When I talk to people about maximizing conversions, it always surprises me how many think that it’s only applies e-commerce sales. Conversions are actually a way of measuring the outcome of a clearly stated goal &#8211; it could be anything. From the first day working on a project, I am considering those goals in every design choice for the website or app. I want the users to feel so comfortable in their experience that clicking that ‘add to cart’ button or signing up for your newsletter is a natural next step.~~
 
