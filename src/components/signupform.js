@@ -14,6 +14,7 @@ class Form extends React.Component {
           <input type="text" placeholder="email" name="email" className="text-xs uppercase rounded-sm font-bold tracking-wide px-4 w-full sm:w-64 mr-4"/>
           <input type="submit" value="Sign up" className="btn mt-4 sm:mt-0"/>
         </div>
+        <input type="hidden" name="form-name" value={ this.props.name ? this.props.name : 'newsletter' } />
       </form>
     )
   }
