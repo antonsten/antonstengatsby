@@ -23,7 +23,7 @@ class Client extends React.Component {
               <Link className="no-underline" to={ this.props.case }>
                 <img alt={this.props.logo} className={ imgClasses } src={ this.props.logo }/>
               </Link>
-              <Link to={ this.props.case } className="btn-light case-link mb-3 w-full absolute pin-b pb-4 text-xs uppercase tracking-wide font-bold link invisible sm:visible"><span>View case</span><img src="/images/arrow-right.svg"/></Link>
+              <Link to={ this.props.case } className="text-center case-link mb-1 w-full absolute pin-b pb-4 text-xs uppercase tracking-wide font-bold link invisible sm:visible">View case</Link>
             </span>
           }
         </div>
