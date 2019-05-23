@@ -24,7 +24,7 @@ class Masteringfreelance extends React.Component {
               I want to help you avoid these struggles and find your success even faster.
             </del>
 
-            <Img className="w-full" fluid={data.image1.childImageSharp.fluid} />
+            <Img className="w-full rounded-sm shadow-md" fluid={data.image1.childImageSharp.fluid} />
 
             <h2>Find success</h2>
             <p className="mb-12">Have you dreamed of freelancing while stuck in your cubicle? Have you already struck out on your own and are struggling to making ends meet? Don’t worry; you’re not alone. I set out on my freelancing journey ten years ago, struggled, found success, and haven’t looked back.

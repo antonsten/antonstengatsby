@@ -21,7 +21,7 @@ class Masteringfreelance extends React.Component {
               Great user experiences create happy, loyal users. They love spending time and money with companies who have invested in their experience. But where do you start in creating a great user experience? Let this book help you with that.
             </del>
 
-            <Img className="w-full" fluid={data.image1.childImageSharp.fluid} />
+            <Img className="w-full rounded-sm shadow-md" fluid={data.image1.childImageSharp.fluid} />
 
             <h2>What's inside</h2>
             <p className="mb-12">With so many wildly successful businesses out there, we are left wondering what they did to get there and how they stay there. Is there a magic bullet? Did they make a deal with the devil? The answer is actually far more simple than you’d imagine. It turns out that they just value their customers by creating great user experiences for them. Whether it’s their product, their website, or even their customer service – a business rises or falls on the experience their customers have.<br /></p>
