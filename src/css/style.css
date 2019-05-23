@@ -78,15 +78,23 @@ ul:not(.float-right), ol {
   @apply w-full block float-left;
 }
 
-ul, ol, p, blockquote {
+ul, ol, p {
   margin-bottom: 1rem;
 
   @apply text-sm leading-normal font-normal;
 }
 
+blockquote, blockquote p {
+  @apply text-lg;
+}
+
 @screen sm {
-  ul, ol, p, blockquote {
+  ul, ol, p {
     @apply text-lg leading-normal;
+  }
+
+  blockquote, blockquote p {
+    @apply text-xl;
   }
 }
 
