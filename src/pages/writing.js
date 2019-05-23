@@ -40,7 +40,7 @@ class Writing extends React.Component {
                 <p className="text-sm">It turns out that they just value their customers by creating great user experiences for them. Whether it’s their product, their website, or even their customer service – a business rises or falls on the experience their customers have.</p>
 
                 <div className="flex w-full items-center mt-6 self-end">
-                  <a className="btn mr-6" href="">Purchase $9</a>
+                  <button className="btn mr-6" id="checkout-button-sku_F49OkPghAVw5kM" role="link" href="">Purchase $9</button>
                   <Link to="/books/user-experiences-matter" className="border-none text-xs uppercase font-bold tracking-wide">Find out more</Link>
                 </div>
               </div>
@@ -54,7 +54,7 @@ class Writing extends React.Component {
                 <p className="text-sm">Mastering Freelance is here to help you discover those answers and find success faster.</p>
 
                 <div className="flex w-full self-end items-center mt-6">
-                  <a className="btn mr-6" href="">Purchase $19</a>
+                  <button className="btn mr-6" id="checkout-button-sku_F49OkPghAVw5kM" role="link" href="">Purchase $19</button>
                   <Link to="/books/masteringfreelance" className="border-none text-xs uppercase font-bold tracking-wide">Find out more</Link>
                 </div>
               </div>

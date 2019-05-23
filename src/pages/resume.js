@@ -119,8 +119,6 @@ class About extends React.Component {
             </p>
 
             <Link to="/contact" className="btn mt-12">Let's talk</Link>
-
-
         </Layout>
       );
   }
