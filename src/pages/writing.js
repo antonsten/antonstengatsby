@@ -66,7 +66,7 @@ class Writing extends React.Component {
           <Form/>
 
           <h2 className="mt-16">All posts</h2>
-          {/* {posts.map(({ node }) => {
+          {posts.map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
             return (
               <div key={node.fields.slug}>
@@ -79,9 +79,9 @@ class Writing extends React.Component {
                 
               </div>
             )
-          })} */}
+          })}
 
-          {posts.map(({ node }) => {
+          {/* {posts.map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
             return (
               <div key={node.fields.slug}>
@@ -95,7 +95,7 @@ class Writing extends React.Component {
                 
               </div>
             )
-          })}
+          })} */}
         </div>
       </Layout>
     )
