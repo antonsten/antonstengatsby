@@ -9,7 +9,7 @@ class Form extends React.Component {
         <p className="leading-normal mt-4 pr-8">{ this.props.text ? this.props.text : 'Sign up and you’ll get new writing about design in your inbox every two weeks. ' }</p>
 
         <div className="w-full mt-6 block">
-          <input type="text" placeholder="email" className="text-xs uppercase rounded-sm font-bold tracking-wide px-4 w-full sm:w-64 mr-4"/>
+          <input type="text" placeholder="email" name="email" className="text-xs uppercase rounded-sm font-bold tracking-wide px-4 w-full sm:w-64 mr-4"/>
           <input type="submit" value="Sign up" className="btn mt-4 sm:mt-0"/>
         </div>
       </form>
