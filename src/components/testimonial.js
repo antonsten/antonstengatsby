@@ -11,7 +11,7 @@ class Testimonial extends React.Component {
         <blockquote className="bg-white p-8 rounded-sm">
           <div className="w-full h-full">
             { this.props.logo && <img alt={this.props.author} className="tesimonial-logo mb-4" src={ this.props.logo }/>}
-            <div className="text-sm sm:text-lg" dangerouslySetInnerHTML={innerHtml}></div>
+            <div className="text-lg sm:text-xl leading-loose" dangerouslySetInnerHTML={innerHtml}></div>
             <strong className="pt-6 inline-block tracking-wide text-xs uppercase">{this.props.author}</strong>
             { this.props.case &&
               <Link to={ this.props.case } className="btn-light mb-2" to={ this.props.case }><span>View case</span><img src="/images/arrow-right.svg"/></Link>
