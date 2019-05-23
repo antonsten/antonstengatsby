@@ -61,8 +61,8 @@ module.exports = {
                 }
               }
             `,
-            output: "/rss.xml",
-            title: "Your Site's RSS Feed",
+            output: "/feed.xml",
+            title: "Anton Sten RSS",
           },
         ],
       },
