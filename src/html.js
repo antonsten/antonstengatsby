@@ -33,20 +33,41 @@ export default function HTML(props) {
 
                 setTimeout(function() {
                   var checkoutButton = document.getElementById('checkout-button-sku_F49OkPghAVw5kM');
-                
-                  checkoutButton.addEventListener('click', function () {
-                    stripe.redirectToCheckout({
-                      items: [{sku: 'sku_F49OkPghAVw5kM', quantity: 1}],
-                      successUrl: 'https://antonsten.com/success',
-                      cancelUrl: 'https://antonsten.com/canceled',
-                    })
-                    .then(function (result) {
-                      if (result.error) {
-                        var displayError = document.getElementById('error-message');
-                        displayError.textContent = result.error.message;
-                      }
+                  
+                  if(typeof checkoutButton !== null ) {
+                    checkoutButton.addEventListener('click', function () {
+                      stripe.redirectToCheckout({
+                        items: [{sku: 'sku_F49OkPghAVw5kM', quantity: 1}],
+                        successUrl: 'https://antonsten.com/success',
+                        cancelUrl: 'https://antonsten.com/canceled',
+                      })
+                      .then(function (result) {
+                        if (result.error) {
+                          var displayError = document.getElementById('error-message');
+                          displayError.textContent = result.error.message;
+                        }
+                      });
                     });
-                  });
+                  }
+
+                  var checkoutButton2 = document.getElementById('checkout-button-sku_F6hMzF2xIxTBk2');
+                  
+                  if(typeof checkoutButton2 !== null ) {
+                    console.log('här')
+                    checkoutButton2.addEventListener('click', function () {
+                      stripe.redirectToCheckout({
+                        items: [{sku: 'sku_F6hMzF2xIxTBk2', quantity: 1}],
+                        successUrl: 'https://antonsten.com/success',
+                        cancelUrl: 'https://antonsten.com/canceled',
+                      })
+                      .then(function (result) {
+                        if (result.error) {
+                          var displayError = document.getElementById('error-message');
+                          displayError.textContent = result.error.message;
+                        }
+                      });
+                    });
+                  }
                 }, 2000)
               `,
             }}
