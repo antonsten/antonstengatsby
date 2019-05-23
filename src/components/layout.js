@@ -6,8 +6,9 @@ import Popup from '../components/popup'
 class Layout extends React.Component {
   render() {
     const { children } = this.props
+
     return (
-      <div>
+      <div className={ this.props.children[0].props.title }>
         <Header/>
         <main className="max-w-xl mx-auto pt-16 pb-16">
           <div className="w-full mt-8 sm:mt-16 pt-2">

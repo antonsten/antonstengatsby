@@ -278,3 +278,13 @@ hr {
 
   @apply py-3 px-3 flex justify-between;
 }
+
+.Work .testimonial {
+  @apply px-2;
+}
+
+@screen sm {
+  .Work .testimonial {
+    @apply px-4;
+  }
+}
