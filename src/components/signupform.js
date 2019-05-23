@@ -4,7 +4,7 @@ class Form extends React.Component {
   render() {
 
     return (
-      <form className="mt-12 block w-full bg-blacker rounded-sm p-8 text-white">
+      <form name={ this.props.name ? this.props.name : 'newsletter' } className="mt-12 block w-full bg-blacker rounded-sm p-8 text-white" method="POST" data-netlify="true">
         <strong className="text-xs uppercase text-orange tracking-wide">{ this.props.title ? this.props.title : 'Sign up for updates' }</strong>
         <p className="leading-normal mt-4 pr-8">{ this.props.text ? this.props.text : 'Sign up and you’ll get new writing about design in your inbox every two weeks. ' }</p>
 
