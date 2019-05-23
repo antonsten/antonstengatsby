@@ -10,4 +10,4 @@ slug: intuitive/
 The problem with the word “intuitive” is that it means different things for different people: a product that is intuitive to me, might not be intuitive to my father.<br /><br />
 Finding something intuitive depends on too many factors for designers to be able to standardize what the term really means: the user’s age, sex and gender, cultural background, technology savviness, past experiences with similar products — and the list goes on.**[{{page.title}}](https://uxdesign.cc/what-intuitive-really-means-12e474722ce8)**
 
-One of the key ingredients to the iPhone's enormous success is the fact that it's intuitive to such a large amount of people. That said, it's naive to expect it to be intuitive to everyone. 
+One of the key ingredients to the iPhone's enormous success is the fact that it's intuitive to such a large amount of people. That said, it's naive to expect it to be intuitive to everyone.
