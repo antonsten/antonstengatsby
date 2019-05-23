@@ -85,9 +85,9 @@ class Writing extends React.Component {
             const title = node.frontmatter.title || node.fields.slug
             return (
               <div key={node.fields.slug}>
-                <p className="flex justify-between py-4 font-normal mb-0 border-dashed border-b border-grey">
+                <p className="w-full float-left py-4 font-normal mb-0 border-dashed border-b border-grey">
                   <Link className="no-underline text-black hover:text-orange truncate" to={node.fields.slug}>
-                    {title}
+                    <h1>{title}</h1>
                   </Link>
                   <span className="hidden sm:block">{node.frontmatter.date}</span>
                   <div className="blog-post" dangerouslySetInnerHTML={{ __html: node.html }} />
