@@ -31,8 +31,6 @@ export default function HTML(props) {
               __html: `
                 var stripe = Stripe('pk_live_ySOjGzWMlJJ1IcFO0PVVQgGf');
 
-                console.log(stripe)
-
                 setTimeout(function() {
                   var checkoutButton = document.getElementById('checkout-button-sku_F49OkPghAVw5kM');
                 
