@@ -9,8 +9,10 @@ class Layout extends React.Component {
     return (
       <div>
         <Header/>
-        <main className="max-w-xl mx-auto pt-6 pb-16">
-          {children}
+        <main className="max-w-xl mx-auto pt-16 pb-16">
+          <div className="w-full mt-8 sm:mt-16 pt-2">
+            {children}
+          </div>
           <footer className="w-full py-4 mb-4 mt-16 flex justify-end">
             <ul className="list-reset">
               <li className="inline-block pl-4">

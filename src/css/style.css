@@ -17,6 +17,10 @@
 
 /* header */ 
 
+header {
+  background: #fcfbf8;
+}
+
 header a {
   border: none;
 }
@@ -222,4 +226,20 @@ form input {
 hr {
   height: 1px;
   background-color: #E5E5E5;
+}
+
+.mobile-menu {
+  position: fixed;
+
+  background: #fcfbf8;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 76px;
+  z-index: 9999;
+}
+
+.mobile-menu__ul {
+  display: flex !important;
+  float: none !important;
 }
