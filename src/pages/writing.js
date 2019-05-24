@@ -36,11 +36,10 @@ class Writing extends React.Component {
             <div className="w-full sm:w-1/2 pr-0 sm:pr-2 flex">
               <div className="bg-white p-8 border-dashed border flex flex-wrap">
                 <h4 className="text-orange font-normal text-lg mb-2">User Experiences that Matter</h4>
-                <p className="text-sm">With so many wildly successful businesses out there, we often wonder what they did to get there and how they stay there. Is there a magic bullet? Did they make a deal with the devil? </p>
-                <p className="text-sm">It turns out that they just value their customers by creating great user experiences for them. Whether it’s their product, their website, or even their customer service – a business rises or falls on the experience their customers have.</p>
+                <p className="text-sm">User Experiences that Matter gives you an introduction to creating these great user experiences by focusing on the human being using the product.</p>
 
                 <div className="flex w-full items-center mt-6 self-end">
-                  <a className="btn mr-6" href="https://gumroad.com/l/userexperiencesmatter" role="link" href="">Purchase $9</a>
+                  <a className="btn mr-6" href="https://gumroad.com/l/userexperiencesmatter" role="link" href="">Purchase $9+</a>
                   <Link to="/books/user-experiences-matter" className="border-none text-xs uppercase font-bold tracking-wide">Find out more</Link>
                 </div>
               </div>
@@ -49,21 +48,14 @@ class Writing extends React.Component {
             <div className="w-full sm:w-1/2 mt-6 sm:mt-0 pl-0 sm:pl-2 flex">
               <div className="bg-white p-8 border-dashed border flex flex-wrap">
                 <h4 className="text-orange font-normal text-lg mb-2">Mastering Freelance</h4>
-                <p className="text-sm">What are you offering? Who are your clients? How do you find your clients? What should you charge them? </p>
-                <p className="text-sm">All freelancers face these same challenges. As if finding the answers to those questions wasn’t hard enough, freelancing can get pretty lonely too – making it even harder. </p>
-                <p className="text-sm">Mastering Freelance is here to help you discover those answers and find success faster.</p>
-
+                <p className="text-sm">What are you offering? Who are your clients? How do you find your clients? Mastering Freelance is here to help you discover those answers and find success faster.</p>
                 <div className="flex w-full self-end items-center mt-6">
-                  <a className="btn mr-6" href="https://gumroad.com/l/masteringfreelance?wanted=true" role="link" href="">Purchase $19</a>
+                  <a className="btn mr-6" href="https://gumroad.com/l/masteringfreelance?wanted=true" role="link" href="">Purchase $19+</a>
                   <Link to="/books/masteringfreelance" className="border-none text-xs uppercase font-bold tracking-wide">Find out more</Link>
                 </div>
               </div>
             </div>
           </div>
-
-          <Testimonial text="Outrageously good. Few people have Anton’s eye for details. I have hired Anton for several projects ranging from brand strategy, UX/UI makeovers to complete front-end designs. I was deeply impressed by his ability to take an overly complex user interface and make it easy to use in just a few steps. You can easily tell that his decade of acquired knowledge in design and usability makes him stand out among other UX experts." author="Stefan Helgesson, Strategic Director, Keystone"/>
-
-          <Form/>
 
           <h2 className="mt-16">All posts</h2>
           {posts.map(({ node }) => {
@@ -76,7 +68,7 @@ class Writing extends React.Component {
                   </Link>
                   <span className="hidden sm:block">{node.frontmatter.date}</span>
                 </p>
-                
+
               </div>
             )
           })}
@@ -92,7 +84,7 @@ class Writing extends React.Component {
                   <span className="hidden sm:block">{node.frontmatter.date}</span>
                   <div className="blog-post" dangerouslySetInnerHTML={{ __html: node.html }} />
                 </p>
-                
+
               </div>
             )
           })} */}
