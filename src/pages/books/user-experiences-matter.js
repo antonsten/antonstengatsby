@@ -25,42 +25,42 @@ class Masteringfreelance extends React.Component {
 
             <h2>What's inside</h2>
             <p className="mb-12">With so many wildly successful businesses out there, we are left wondering what they did to get there and how they stay there. Is there a magic bullet? Did they make a deal with the devil? The answer is actually far more simple than you’d imagine. It turns out that they just value their customers by creating great user experiences for them. Whether it’s their product, their website, or even their customer service – a business rises or falls on the experience their customers have.<br /></p>
-            <strong>In User Experiences that Matter, I give you an introduction to creating great user experiences by focusing on the human being using the product.</strong>
+            <p className="mb-12"><strong>In User Experiences that Matter, I give you an introduction to creating great user experiences by focusing on the human being using the product.</strong></p>
             <Testimonial text="Outrageously good. Few people have Anton’s eye for details. I have hired Anton for several projects ranging from brand strategy, UX/UI makeovers to complete front-end designs. He has always delivered top notch, stellar work. I was deeply impressed by his ability to take an overly complex user interface and make it easy to use in just a few steps. You can easily tell that his decade of acquired knowledge in design and usability makes him stand out among other UX experts." author="Stefan Helgesson"/>
 
 
             <h2>What is UX Design?</h2>
             <p className="mb-12">
             Let’s start by understanding what User Experience really is, what it isn’t, and why it matters. Our first chapters will clear these up as I think it’s important that we are all on the same page.<br />
-- UX Design Explained<br/>
-- UI Design – UX’s Nephew<br/>
-- What UX Is and What It Isn’t<br/>
-- Everyone is a UX Designer, Even You!<br/>
-- The Extra Effort for Great UX<br/>
-- UX Design as a Problem Solver</p>
+• UX Design Explained<br/>
+• UI Design – UX’s Nephew<br/>
+• What UX Is and What It Isn’t<br/>
+• Everyone is a UX Designer, Even You!<br/>
+• The Extra Effort for Great UX<br/>
+• UX Design as a Problem Solver</p>
 
 <h2>Creating User Experiences</h2>
 <p className="mb-12">
 One of the virtues I hold dear as a UX Designer is my curiousity about how things work. I’ve had the opportunity to meet and work with so many talented people that I could likely do an entire book with just interviews.
 <br />
-- Emil Ovemar, TocaBoca<br />
-- Marcus Woxneryd, ustwo<br />
-- James Gill, GoSquared<br />
-- Paul Jarvis<br />
-- Mikael Cho, Unsplash + Crew<br />
-- Kieran Rheaume, DesignerNews</p>
+• Emil Ovemar, TocaBoca<br />
+• Marcus Woxneryd, ustwo<br />
+• James Gill, GoSquared<br />
+• Paul Jarvis<br />
+• Mikael Cho, Unsplash + Crew<br />
+• Kieran Rheaume, DesignerNews</p>
 
 <h2>Designing for People</h2>
 <p className="mb-12">User Experiences are created out of love and a deep desire to make things better. These final chapters will cover just this – the importance of creating something for PEOPLE rather than “users”.
 <br />
-- Growing Relationsships by Understanding Value<br />
-- Time vs. Attention<br />
-- UX is Much More Than Software<br />
-- MVP – Minimum Viable Product<br />
-- Pain, Dream, Fix<br />
-- Designing with Emotions in Mind<br />
-- Change is Quick, Results Take Time<br />
-- Built to Last</p>
+• Growing Relationsships by Understanding Value<br />
+• Time vs. Attention<br />
+• UX is Much More Than Software<br />
+• MVP – Minimum Viable Product<br />
+• Pain, Dream, Fix<br />
+• Designing with Emotions in Mind<br />
+• Change is Quick, Results Take Time<br />
+• Built to Last</p>
             <hr/>
 
             <Form name="userexperiencesmatter" title="Get a free chapter" text="Get a 18-page free sample from the book, which includes the full table of contents, introduction, one full chapter and the interview with TocaBoca."/>
@@ -75,7 +75,7 @@ One of the virtues I hold dear as a UX Designer is my curiousity about how thing
 <h2>Improve your User Experience now</h2>
 <p className="mb-12">Get User Experiences that Matter and get all my insight into how to craft your customer’s experiences and grow your business.
 <br /><br />
-For just $14 you’ll get:<br />
+For just $9 (or more, up to you) you’ll get:<br />
 • The book (PDF & Mobi)<br />
 • Audiobook (mp3)<br />
 • Worksheets<br />

@@ -81,7 +81,7 @@ I live in Lomma, Sweden with my wife and dog (who is also my colleague, just one
 <h2>I'm ready to transform my business</h2>
 <p className="mb-12">Realizing the people just starting off with freelancing aren’t always the wealthiest target audience, my goal is to provide as much valuable content at the lowest price possible. There are no “packages” (this is just a cheap way to upsell you more stuff).
 <br /><br />
-For just $19 you’ll get:<br />
+For just $19 (or more, up to you) you’ll get:<br />
 • The book (PDF + Mobi)<br />
 • The exact templates I use to create invoices, proposals, and budgeting.<br />
 • <s>The List of Tools I Use to Run My Business.</s><br /><br />
