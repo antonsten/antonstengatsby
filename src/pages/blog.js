@@ -14,9 +14,7 @@ class Writing extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO
-          title="Writing"
-        />
+        <SEO title="Writing"/>
         <div className="w-full">
           <h1 className="pr-0 sm:pr-12">Writing</h1>
           <del className="mb-8">

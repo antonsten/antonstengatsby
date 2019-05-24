@@ -25,7 +25,7 @@ class Header extends React.Component {
               <img src="/images/menu.svg"/>
             </div>
 
-            { this.state.isVisible && 
+            { this.state.isVisible &&
               <div className="mobile-menu">
                 <ul className="list-reset pl-5 pr-5 mobile-menu__ul flex flex-wrap w-full">
                   <li className="w-1/2 float-left text-center py-16 border-dashed border-l border-b border-r border-grey">
@@ -39,7 +39,7 @@ class Header extends React.Component {
                     </Link>
                   </li>
                   <li className="w-1/2 float-left text-center py-16 border-dashed border-l border-b border-r border-grey">
-                    <Link className="text-black no-underline hover:text-orange" to="/writing" rel="prev">
+                    <Link className="text-black no-underline hover:text-orange" to="/blog" rel="prev">
                       Writing
                     </Link>
                   </li>
@@ -64,7 +64,7 @@ class Header extends React.Component {
                 </div>
               </div>
             }
-            
+
             <ul className="list-reset float-right hidden sm:inline-block text-lg">
               <li className="inline-block pl-6">
                 <Link className="text-black no-underline hover:text-orange" to="/about" rel="prev">
@@ -77,7 +77,7 @@ class Header extends React.Component {
                 </Link>
               </li>
               <li className="inline-block pl-6">
-                <Link className="text-black no-underline hover:text-orange" to="/writing" rel="prev">
+                <Link className="text-black no-underline hover:text-orange" to="/blog" rel="prev">
                   Writing
                 </Link>
               </li>
