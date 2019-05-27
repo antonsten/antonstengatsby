@@ -3,6 +3,8 @@ import { graphql, Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Form from "../components/signupform"
+
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -19,6 +21,8 @@ class BlogPostTemplate extends React.Component {
         <h1>{post.frontmatter.title}</h1>
         <div className="blog-post" dangerouslySetInnerHTML={{ __html: post.html }} />
 
+<Form title="Get more writing like this" text="Sign up and get new writing, just like this, every other two weeks. Unsubscribe any time (I'm not a dickhead)."/>
+
         <h2 className="mt-16 pt-12">Latest writing</h2>
         <div className="w-full pb-12">
           {posts.map(({ node }) => {
@@ -31,7 +35,7 @@ class BlogPostTemplate extends React.Component {
                   </Link>
                   <span className="hidden sm:block">{node.frontmatter.date}</span>
                 </p>
-                
+
               </div>
             )
           })}

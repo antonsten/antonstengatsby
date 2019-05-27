@@ -63,7 +63,7 @@ One of the virtues I hold dear as a UX Designer is my curiousity about how thing
 • Built to Last</p>
             <hr/>
 
-            <Form name="userexperiencesmatter" title="Get a free chapter" text="Get a 18-page free sample from the book, which includes the full table of contents, introduction, one full chapter and the interview with TocaBoca."/>
+            <Form name="userexperiencesmatter" title="Get a free email course" text="Get a preview of the book through this 5 day free email course"/>
 
             <h2>About the author</h2>
             <p className="mb-12">
