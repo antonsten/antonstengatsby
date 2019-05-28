@@ -11,7 +11,7 @@ class Form extends React.Component {
           <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
         </p>
         <div className="w-full mt-6 block">
-          <label for="email" class="text-white uppercase text-xs font-bold tracking-wide block w-full mb-2">e-mail</label>
+          <label htmlFor="email" className="text-white uppercase text-xs font-bold tracking-wide block w-full mb-2">e-mail</label>
           <input type="text" id="email" name="email" className="text-xs uppercase rounded-sm font-bold tracking-wide px-4 w-full sm:w-64 mr-4"/>
           <input type="submit" value="Sign up" className="btn mt-4 sm:mt-0"/>
         </div>

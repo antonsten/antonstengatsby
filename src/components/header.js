@@ -22,7 +22,7 @@ class Header extends React.Component {
           <div className="flex items-center justify-between w-full py-6 border-dashed border-b border-grey">
             <Link to="/"><img alt="anton sten" style={{ width: '98px' }} src="/images/antonsten.svg"/></Link>
             <div className="inline-block sm:hidden cursor-pointer" onClick={ this.showMenu }>
-              <img src="/images/menu.svg"/>
+              <img alt="menu" src="/images/menu.svg"/>
             </div>
 
             { this.state.isVisible &&
