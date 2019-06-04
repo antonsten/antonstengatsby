@@ -71,7 +71,7 @@ blockquote {
 }
 
 blockquote strong, blockquote a {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: -apple-system, 'SF', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 ul:not(.float-right), ol {
@@ -90,7 +90,7 @@ blockquote, blockquote p {
 
 @screen sm {
   ul, ol, p {
-    @apply text-lg leading-normal;
+    @apply text-xl leading-normal;
   }
 
   blockquote, blockquote p {
