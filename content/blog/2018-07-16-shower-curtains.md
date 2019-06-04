@@ -11,4 +11,4 @@ On the other hand, experience will demonstrate that cheap shower curtains let th
 Productivity pays for itself.
 <br /><br />
 Once you start looking for metaphorical cheap shower curtains, they're everywhere.
-**[{{page.title}}](https://seths.blog/2018/07/cheap-shower-curtains/)**
+**[Cheap Shower Curtains](https://seths.blog/2018/07/cheap-shower-curtains/)**
