@@ -19,8 +19,7 @@ class BlogIndex extends React.Component {
         />
         <div className="w-full">
           <h1 className="pr-0 sm:pr-12">Anton Sten leads UX for design-driven companies.</h1>
-          <del className="mb-2">
-            That’s me! My specialty? Using my design skills and business knowledge to not just make your digital product look pretty, but to make it work.
+          <del className="mb-2">My specialty? Using my design skills and business knowledge to not just make your digital product look pretty, but to make it work.
             <br></br><br></br>
             Here’s what I’ve done for people like you:
           </del>
