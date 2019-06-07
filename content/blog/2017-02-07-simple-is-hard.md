@@ -1,22 +1,20 @@
 ---
-id: 2790
 title: Why Simple is Hard
 date: 2017-02-07T09:55:15+00:00
 author: Anton Sten
 layout: blogpost
-guid: https://www.antonsten.com/?p=2790
 slug: simple-is-hard/
 ---
 ~~For most of us, designing simple user interfaces, simple user interactions, and simple user experiences are things we strive for when making new products. We recognize that this simplicity makes our product desirable to the user and why a product gets labeled as “good”. What we rarely talk about though, is how hard simple is.~~
 
 15th century French philosopher and mathematician Blaise Pascal wrote in a letter to a friend:
-> “If I had more time, I would have written a shorter letter.”<footer>Blaise Pascal</footer>
+>“If I had more time, I would have written a shorter letter.”**Blaise Pascal**
 
 This quote, like many well-known quotes, often gets attributed to the wrong people, like Abraham Lincoln or Winston Churchill. What Pascal meant was what he had just written was from the top of his mind and he couldn’t spend enough time processing his ideas and thoughts into a well-crafted piece.
 
 Creating something simple and short without loosing the essence of your idea is hard &#8211; regardless if it’s a letter to a friend or an iPhone app. Personally, it might not seem like an exciting experience to visualize energy consumption with <a href="https://www.antonsten.com/case/eon/" target="_blank">E.ON</a>, but I am constantly challenged by this task. Making the overly complex seem simple. There’s an art to it.
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”<footer>&#8211; Steve Jobs</footer>
+>“Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”**Steve Jobs**
 
 It doesn’t matter who the client is, it’s always been my guiding principle to ask the question, “how can I simplify this task?” Maybe I’m secretly aware of the fact that there are others that are far better at designing beautiful interfaces than me, but long before I’d been called a UX-Designer I was more interested in simplifying and improving tasks rather than making the perfect gradient for a button.
 
@@ -35,5 +33,3 @@ Now, let’s consider the processes you put your customers through. Are they jus
 It&#8217;s worth it to think critically about simplicity and how to apply it to what you do. Who knows, your competitors may already be offering an easier-to-use alternative. You may lose a customer if they have to reenter all their information at every purchase vs clicking just one button. You may lose a customer if they have to read a user manual to use your product instead of it just working right out of the box.
 
 Your customers are just like you. They prefer simple.
-
-![Simple is Hard](../images/simple-hard.png)
