@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Dos and dont’s on designing for accessibility'
 date: 2019-06-07T04:42:07+00:00
 author: Anton Sten
-slug: designing-for-accessibility/
+slug: designing-for-accessibility-posters/
 ---
 
 ![accessibility posters](/images/blog/accessibility.png)
