@@ -7,6 +7,20 @@ import Form from "../components/signupform"
 
 
 class BlogPostTemplate extends React.Component {
+  constructor(props) {
+    super(props);
+    this.handleClick = this.handleClick.bind(this);
+  }
+
+  handleClick(e) {
+    if(e.target.tagName.toLowerCase() === 'a') {
+      if(!e.target.href.includes('antonsten.com')) {
+        e.preventDefault()
+        window.open(e.target.href)
+      }
+    }
+  }
+
   render() {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
@@ -14,19 +28,16 @@ class BlogPostTemplate extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO
-          title={post.frontmatter.title}
-          description={post.excerpt}
-        />
+        <SEO title={post.frontmatter.title} description={post.excerpt} />
         <h1>{post.frontmatter.title}</h1>
-        <div className="blog-post" dangerouslySetInnerHTML={{ __html: post.html }} />
+        <div className="blog-post" onClick= { this.handleClick } dangerouslySetInnerHTML={{ __html: post.html }} />
 
         <div className="w-full flex">
           <Form title="Get more writing like this" text="Sign up and get new writing, just like this, every other two weeks. Unsubscribe any time (I'm not a dickhead)."/>
         </div>
       
         <h2 className="mt-16 pt-12">Latest writing</h2>
-        <div className="w-full pb-12">
+        <div className="w-full pb-12" /* onclick -> currentTarget if is a check host */>
           {posts.map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
             return (

@@ -36,7 +36,7 @@ class Grid extends React.Component {
           <Client logo="/images/clients/eon.png" case="/case/eon" />
           <Client logo="/images/clients/izettle.png"/>
 
-          <Testimonial case="test" logo="/images/clients/firstprinciple.png" text="Anton was thorough and a pleasure to work with. He’s a great collaborator and partner to work through product solutions alongside. He does what he says and never misses a deadline, an unfortunate rarity these days that you don’t have to worry about with Anton." author="TRAVIS SCHMEISSER, FOUNDER & PARTNER, FIRST PRINCIPLE"/>
+          <Testimonial logo="/images/clients/firstprinciple.png" text="Anton was thorough and a pleasure to work with. He’s a great collaborator and partner to work through product solutions alongside. He does what he says and never misses a deadline, an unfortunate rarity these days that you don’t have to worry about with Anton." author="TRAVIS SCHMEISSER, FOUNDER & PARTNER, FIRST PRINCIPLE"/>
 
           <Client logo="/images/clients/mercedes.png"/>
           <Client logo="/images/clients/elle.png"/>

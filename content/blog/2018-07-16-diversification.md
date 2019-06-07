@@ -10,4 +10,4 @@ slug: race-to-trillion/
 - Microsoft is an enterprise-focused services company focused on helping people get work done.
 - Google is a services company aimed at delivering data-capturing tools to as many people as possible.
 - Facebook is a services company providing curated versions of the web (Facebook and Instagram).
-**[{{page.title}}](https://www.aboveavalon.com/notes/2018/7/11/the-race-to-a-trillion)**
+**[The Race to a Trillion](https://www.aboveavalon.com/notes/2018/7/11/the-race-to-a-trillion)**

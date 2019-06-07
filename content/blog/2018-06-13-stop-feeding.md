@@ -6,7 +6,7 @@ author: Anton Sten
 slug: stop-feeding/
 ---
 
->But the longer I’ve spent working on Shopify Home, the more I’ve realized that feeds create user experience problems too. Machine learning is evolving and becoming more powerful everyday, but the way we design machine learning interfaces is stuck in 2006 — the year Facebook first launched News Feed.**[{{page.title}}](https://ux.shopify.com/stop-feeding-your-users-a859730a86d6)**
+>But the longer I’ve spent working on Shopify Home, the more I’ve realized that feeds create user experience problems too. Machine learning is evolving and becoming more powerful everyday, but the way we design machine learning interfaces is stuck in 2006 — the year Facebook first launched News Feed.**[Stop “feeding” your users](https://ux.shopify.com/stop-feeding-your-users-a859730a86d6)**
 
 I love this approach and Gillian's critical thinking. Feeds are, in most cases, broken experiences. Companies throw money and resources at developing the "perfect algorithm" and most users (Instagram, Twitter to name a few) just want their ordered, chronological order back.
 
