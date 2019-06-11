@@ -52,6 +52,10 @@ function SEO({ description, lang, meta, keywords, title }) {
           content: `website`,
         },
         {
+          property: `og:image`,
+          content: `/static/images/idea.jpg`,
+        },
+        {
           name: `twitter:card`,
           content: `summary`,
         },
