@@ -2,6 +2,7 @@ import React from "react"
 import Header from './header.js'
 import '../css/style.css'
 import Popup from '../components/popup'
+import { Link } from "gatsby"
 
 class Layout extends React.Component {
   render() {
@@ -17,7 +18,7 @@ class Layout extends React.Component {
           <footer className="w-full py-4 mb-4 mt-16 flex justify-end">
             <ul className="list-reset float-right">
               <li className="inline-block pl-4">
-                <a rel="noopener noreferrer" target="_blank" className="text-black no-underline hover:text-orange" href="mailto:anton@antonsten.com">Email</a>
+                <Link className="text-black no-underline hover:text-orange" to="/contact">Contact</Link>
               </li>
               <li className="inline-block pl-4">
                 <a rel="noopener noreferrer" target="_blank" className="text-black no-underline hover:text-orange" href="https://twitter.com/antonsten">Twitter</a>
