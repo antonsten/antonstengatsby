@@ -22,13 +22,6 @@ class BlogIndex extends React.Component {
           <del className="mb-2">My specialty? Using my design skills and business knowledge to not just make your digital product look pretty, but to make it work.
           </del>
 
-//          <ul className="pl-4">
-//            <li>Helped plan, build, and implement scaleable design systems for <Link to="/case/ne">NE.se</Link> and <Link to="case/falkenberg-kommun">city of Falkenberg</Link></li>
-//            <li>Designed the shopping and buying experience for one of the world’s largest home retailers</li>
-//            <li>Set the UX and design strategy for Fortune 500 companies like <Link to="/case/eon">E.ON</Link></li>
-//            <li>Optimized e-commerce for a boost in conversions for skin care company <Link to="/case/frank">Frank Body</Link></li>
-//          </ul>
-
           <p>
             My clients have included big household names and smaller up-and-comers alike, including IKEA, Spotify, iZettle, Hyper Island, and Volvo. I also write about user experience and have been interviewed by publications like Adobe and .Net Magazine.
           </p>
