@@ -26,9 +26,6 @@ class BlogPostTemplate extends React.Component {
     const siteTitle = this.props.data.site.siteMetadata.title
     const posts = this.props.data.allMarkdownRemark.edges
 
-
-    console.log(post)
-
     return (
       <Layout location={this.props.location} title={siteTitle}>
 
