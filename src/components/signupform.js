@@ -9,7 +9,7 @@ class Form extends React.Component {
       text: this.props.text ? this.props.text : 'Sign up and you’ll get new writing about design in your inbox every two weeks.',
       title: this.props.title ? this.props.title : 'Sign up for updates',
       submit: 'Sign up',
-      hasSignUp: false
+      hasSignedUp: false
     }
   }
 
@@ -27,21 +27,21 @@ class Form extends React.Component {
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: this.encode({ "form-name": this.props.name ? this.props.name : 'newsletter', ...this.state })
     })
-      .then(() => {
+    .then(() => {
         this.setState({
           text: 'I hate annoying sales and spam as much as you do, so I’ll always be respectful with your email (I mean, I’m a person just like you).',
           title: 'Thank you!',
           email: '',
           submit: 'Sign up',
-          hasSignUp: true
+          hasSignedUp: true
         })
       })
-      .catch(error => {
-        this.setState({
-          submit: 'Sign up'
-        })
-        alert(error)
-      });
+    .catch(error => {
+      this.setState({
+        submit: 'Sign up'
+      })
+      alert(error)
+    });
 
     e.preventDefault()
   }
@@ -58,7 +58,7 @@ class Form extends React.Component {
         <p className="hidden">
           <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
         </p>
-        { !this.state.hasSignUp && 
+        { !this.state.hasSignedUp && 
           <div className="w-full mt-6 block">
             <label htmlFor="email" className="text-white uppercase text-xs font-bold tracking-wide block w-full mb-2">e-mail</label>
             <input type="email" id="email" value={ email } required="required" onChange={this.handleChange} name="email" className="text-xs uppercase rounded-sm font-bold tracking-wide px-4 w-full sm:w-64 mr-4"/>

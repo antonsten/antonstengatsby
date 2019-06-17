@@ -15,7 +15,13 @@ class BlogIndex extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
-          title="Home"
+          title = "Home"
+          meta = {[
+            {
+              property: `og:image`,
+              content: `/images/idea.jpg`,
+            }
+          ]}
         />
         <div className="w-full">
           <h1 className="pr-0 sm:pr-12">Anton Sten leads UX for design-driven companies.</h1>
