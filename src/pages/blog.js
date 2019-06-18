@@ -79,10 +79,10 @@ class Writing extends React.Component {
               return (
                 <div className="w-full" key={node.fields.slug}>
                   <p className="w-full float-left py-16 font-normal mb-0 border-dashed border-b border-grey">
+                    <span className="block date">{node.frontmatter.date}</span>
                     <Link className="no-underline text-black hover:text-orange" to={node.fields.slug}>
                       <h1 className="w-full leading-none">{title}</h1>
                     </Link>
-                    <span className="hidden sm:block">{node.frontmatter.date}</span>
                     <div className="blog-post" dangerouslySetInnerHTML={{ __html: node.html }} />
                   </p>
 

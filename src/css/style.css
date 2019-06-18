@@ -55,7 +55,7 @@ footer a:hover {
   border: none;
 }
 
-footer li {
+footer li, .date {
   font-size: 15px;
 }
 
