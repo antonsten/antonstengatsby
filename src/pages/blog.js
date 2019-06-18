@@ -7,6 +7,22 @@ import Form from "../components/signupform"
 import Testimonial from '../components/testimonial';
 
 class Writing extends React.Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      visible: 8
+    };
+
+    this.loadMore = this.loadMore.bind(this);
+  }
+
+  loadMore() {
+    this.setState((prev) => {
+      return {visible: prev.visible + 8};
+    });
+  }
+
   render() {
     const { data } = this.props
     const siteTitle = data.site.siteMetadata.title
@@ -56,23 +72,9 @@ class Writing extends React.Component {
           </div>
 
           <h2 className="mt-16 pt-12">All posts</h2>
-          {/* {posts.map(({ node }) => {
-            const title = node.frontmatter.title || node.fields.slug
-            return (
-              <div key={node.fields.slug}>
-                <p className="flex justify-between py-4 font-normal mb-0 border-dashed border-b border-grey">
-                  <Link className="no-underline text-black hover:text-orange truncate" to={node.fields.slug}>
-                    {title}
-                  </Link>
-                  <span className="hidden sm:block">{node.frontmatter.date}</span>
-                </p>
-
-              </div>
-            )
-          })} */}
 
           <div className="w-full flex flex-wrap overflow-x-hidden">
-            {posts.map(({ node }) => {
+            { posts.slice(0, this.state.visible).map(({ node }) => {
               const title = node.frontmatter.title || node.fields.slug
               return (
                 <div className="w-full" key={node.fields.slug}>
@@ -87,6 +89,10 @@ class Writing extends React.Component {
                 </div>
               )
             })}
+
+          {this.state.visible < posts.length &&
+             <button onClick={this.loadMore} type="button" className="btn mx-auto mt-12 mb-6">Load more</button>
+          }
           </div>
         </div>
       </Layout>
