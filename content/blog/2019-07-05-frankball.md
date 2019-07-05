@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: 'Frank Chimero on causing 'good trouble' and re-imagining the status quo to combat achievement culture'
+title: 'Frank Chimero on causing ’good trouble’ and re-imagining the status quo to combat achievement culture'
 date: 2019-07-05T04:39:07+00:00
 author: Anton Sten
 slug: frankball/
