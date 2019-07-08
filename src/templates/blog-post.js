@@ -34,8 +34,10 @@ class BlogPostTemplate extends React.Component {
           description={post.excerpt} 
         />
 
-        <h1>{post.frontmatter.title}</h1>
-        <div className="blog-post" onClick= { this.handleClick } dangerouslySetInnerHTML={{ __html: post.html }} />
+        <article>
+          <h1>{post.frontmatter.title}</h1>
+          <div className="blog-post" onClick= { this.handleClick } dangerouslySetInnerHTML={{ __html: post.html }} />
+        </article>
 
         <div className="w-full flex">
           <Form title="Get more writing like this" text="Sign up and get new writing, just like this, every other two weeks. Unsubscribe any time (I'm not a dickhead)."/>

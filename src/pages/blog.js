@@ -85,12 +85,11 @@ class Writing extends React.Component {
                     </Link>
                     <div className="blog-post" dangerouslySetInnerHTML={{ __html: node.html }} />
                   </p>
-
                 </div>
               )
-            })}
+            }) }
 
-          {this.state.visible < posts.length &&
+          { this.state.visible < posts.length &&
              <button onClick={this.loadMore} type="button" className="btn mx-auto mt-12 mb-6">Load more</button>
           }
           </div>
