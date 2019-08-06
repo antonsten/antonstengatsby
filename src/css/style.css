@@ -18,7 +18,7 @@
 /* header */
 
 header {
-  background: #fcfbf8;
+  background: #ffffff;
   z-index: 99999;
 }
 
@@ -63,7 +63,7 @@ footer li, .date {
 
 blockquote {
   margin-top: 2.5rem;
-  font-family: 'EB Garamond Regular', serif;
+  font-family: 'Georgia', serif;
 }
 
 .Work blockquote {
@@ -94,7 +94,7 @@ blockquote, blockquote p {
   }
 
   blockquote, blockquote p {
-    @apply text-xl leading-tight;
+    @apply text-lg leading-tight;
   }
 }
 
@@ -181,7 +181,7 @@ a:hover {
 }
 
 blockquote {
-  @apply bg-white p-6 rounded-sm mb-8;
+  @apply bg-grey-lightest p-6 rounded-sm mb-8;
 }
 
 blockquote a, blockquote strong {
@@ -195,7 +195,7 @@ blockquote a:hover {
 
 blockquote div div a {
   display: inline-block;
-  font-family: 'EB Garamond Regular', serif;
+  font-family: 'Georgia', serif;
   text-transform: none;
   font-weight: normal;
   letter-spacing: 0;
