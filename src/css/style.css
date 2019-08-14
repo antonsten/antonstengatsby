@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-@media (min-width: 720px) {
+@media (min-width: 820px) {
   .case-image {
     max-height: 70px;
     max-width: 240px;
@@ -23,36 +23,36 @@ header {
 }
 
 header a {
+  font-weight: 700;
   border: none;
+
+  @apply font-sans text-base;
 }
 
-header a:hover {
-  border: none;
+[aria-current] {
+  text-decoration: line-through;
 }
 
 header ul {
   margin-bottom: 0;
 }
 
-header li {
-}
 
-[aria-current] {
-  color: #9C0061;
-}
 
 /* footer */
 
 footer {
-  border-top: 1px dashed #abb6bb;
+  border-top: 2px solid #F2F2F2;
 }
 
 footer a {
+  @apply font-sans text-base;
   border: none;
 }
 
 footer a:hover {
   border: none;
+  text-decoration: line-through;
 }
 
 footer li, .date {
@@ -63,7 +63,6 @@ footer li, .date {
 
 blockquote {
   margin-top: 2.5rem;
-  font-family: 'Georgia', serif;
 }
 
 .Work blockquote {
@@ -71,7 +70,8 @@ blockquote {
 }
 
 blockquote strong, blockquote a {
-  font-family: -apple-system, 'SF', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  @apply font-sans text-sm;
+
 }
 
 ul:not(.float-right), ol {
@@ -80,12 +80,12 @@ ul:not(.float-right), ol {
 
 ul, ol, p {
   margin-bottom: 1rem;
-
-  @apply text-sm leading-normal font-normal;
+  @apply text-xl leading-normal font-normal;
 }
 
 blockquote, blockquote p {
-  @apply text-lg leading-tight;
+  @apply text-xl leading-tight;
+
 }
 
 @screen sm {
@@ -94,7 +94,7 @@ blockquote, blockquote p {
   }
 
   blockquote, blockquote p {
-    @apply text-lg leading-tight;
+    @apply text-lg leading-normal font-sans;
   }
 }
 
@@ -104,47 +104,46 @@ blockquote, blockquote p {
 }
 
 h1 {
-  @apply text-xl mb-4 mt-3;
+  @apply mb-4 mt-3;
 }
 
 @screen sm {
   h1 {
-    @apply text-5xl mb-6 mt-8;
+    @apply text-5xl mb-6 mt-8 font-sans;
   }
 }
 
 h2 {
-  margin-top: 2rem;
+  margin-top: 4rem;
   margin-bottom: 1rem;
 
-  @apply text-xl leading-normal font-normal;
+  @apply text-3xl leading-normal font-bold font-sans;
 }
 
 @screen sm {
   h2 {
-    @apply text-2xl;
+    @apply text-3xl;
   }
 }
 
 h3 {
-  @apply font-normal;
+  @apply font-normal font-serif;
 }
 
 del {
   text-decoration: none;
-  letter-spacing: -.013em;
   color: #4a4a4a;
   margin-bottom: 3.5rem;
   float: left;
   width: 100%;
   font-style: normal;
 
-  @apply text-lg leading-loose;
+  @apply text-4xl leading-normal;
 }
 
 @screen sm {
   del {
-    @apply text-2xl leading-normal;
+    @apply text-4xl font-serif leading-normal;
   }
 }
 
@@ -152,7 +151,7 @@ del {
 /* testimonial */
 
 .tesimonial-logo {
-  max-width: 120px;
+  max-width: 90px;
   max-height: 40px;
   height: auto !important;
 }
@@ -160,28 +159,26 @@ del {
 /* components */
 
 .btn {
-  @apply bg-orange uppercase font-bold text-white text-xs px-8 py-4 cursor-pointer inline-block;
-  border-radius: 5px;
+  @apply bg-link uppercase font-bold text-white text-xs px-8 py-4 font-sans cursor-pointer inline-block;
+  border-radius: 4px;
   letter-spacing: 1px;
 }
 
-.btn:hover {
-  @apply text-white;
-}
 
 a {
-  color: #9C0061;
+  @apply text-link;
   text-decoration: none;
-  border-bottom: 2px dotted #9C0061;
+  border-bottom: 1px solid #0070C9;
 }
 
 a:hover {
-  color: #9C0061;
-  border-bottom: 2px solid #9C0061;
+  color: #0070C9;
+  border-bottom: 2px solid #0070C9;
 }
 
 blockquote {
-  @apply bg-grey-lightest p-6 rounded-sm mb-8;
+  @apply p-6 rounded-sm mb-8;
+  border-left: 2px solid #F2F2F2;
 }
 
 blockquote a, blockquote strong {
@@ -195,13 +192,12 @@ blockquote a:hover {
 
 blockquote div div a {
   display: inline-block;
-  font-family: 'Georgia', serif;
   text-transform: none;
   font-weight: normal;
   letter-spacing: 0;
   margin-top: 0;
 
-  @apply text-lg;
+  @apply text-xl;
 }
 
 @screen sm {

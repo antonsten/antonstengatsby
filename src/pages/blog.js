@@ -50,10 +50,10 @@ class Writing extends React.Component {
             <div className="w-full sm:w-1/2 pr-0 sm:pr-2 flex">
               <div className="bg-white p-8 border-dashed border flex flex-wrap">
                 <h4 className="text-orange font-normal text-lg mb-2">User Experiences that Matter</h4>
-                <p className="text-sm">User Experiences that Matter gives you an introduction to creating these great user experiences by focusing on the human being using the product.</p>
+                <p className="text-sm font-sans">User Experiences that Matter gives you an introduction to creating these great user experiences by focusing on the human being using the product.</p>
 
                 <div className="flex w-full items-center mt-6 self-end">
-                  <a className="btn mr-6" href="https://gumroad.com/l/userexperiencesmatter" role="link" href="">Purchase $9+</a>
+                  <a className="btn mr-6" href="https://gumroad.com/l/userexperiencesmatter" role="link" href="">Purchase $9+</a><br />
                   <Link to="/books/user-experiences-matter" className="border-none text-xs uppercase font-bold tracking-wide">Find out more</Link>
                 </div>
               </div>
@@ -62,9 +62,9 @@ class Writing extends React.Component {
             <div className="w-full sm:w-1/2 mt-6 sm:mt-0 pl-0 sm:pl-2 flex">
               <div className="bg-white p-8 border-dashed border flex flex-wrap">
                 <h4 className="text-orange font-normal text-lg mb-2">Mastering Freelance</h4>
-                <p className="text-sm">What are you offering? Who are your clients? How do you find your clients? Mastering Freelance is here to help you discover those answers and find success faster.</p>
+                <p className="text-sm font-sans">What are you offering? Who are your clients? How do you find your clients? Mastering Freelance is here to help you discover those answers and find success faster.</p>
                 <div className="flex w-full self-end items-center mt-6">
-                  <a className="btn mr-6" href="https://gumroad.com/l/masteringfreelance?wanted=true" role="link" href="">Purchase $19+</a>
+                  <a className="btn mr-6" href="https://gumroad.com/l/masteringfreelance?wanted=true" role="link" href="">Purchase $19+</a><br />
                   <Link to="/books/masteringfreelance" className="border-none text-xs uppercase font-bold tracking-wide">Find out more</Link>
                 </div>
               </div>

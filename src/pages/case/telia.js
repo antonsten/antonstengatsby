@@ -16,19 +16,18 @@ class Telia extends React.Component {
           <SEO title="Telia"/>
           <div className="w-full">
             <h1 className="pr-0 sm:pr-12">Telia</h1>
-            <CaseData link="https://www.telia.se/privat/support" expertise="User Experience, Information Architecture, User Testing, User Interface" delivarables="Design, Strategy, User Testing Data"/>
             <del>
               Helping Telia revitalize their support pages with more options, intuitive tools, and a responsive design.
             </del>
 
             <h2>My Internet connection is dead. I need help!</h2>
             <p className="mb-12">​​Think about it—a customer’s very first contact with your company may very well be at a crucial point: when something is going wrong and the customer needs answers. That’s why designing the support section of your website to foster a positive, successful interaction is so important. ​​ ​​For a multi-faceted organization like Telia, a telecom company serving much of Eastern Europe and Scandinavia, the issues a customer may encounter vary widely, from not having an Internet connection, to missing TV channels, to Wi-Fi router issues, just to name a few. These are services users pay good money for and that are a big part of their lives, so Telia wanted their online support experience to be as seamless as possible.</p>
-            
+
             <Testimonial text="It’s quite simple really. If you hire Anton you will be extremely happy with the end result." author="JOEL SANDÉN, TELIA SONERA"/>
 
             <h2 className="mt-12">Users know best</h2>
             <p>At the start of the project, our theory was that a user coming to a support page just wanted their problem solved as quickly as possible, regardless of how that happened. Rather than jumping in and developing this vital piece of technology based purely on our assumptions—because that would just be silly—we conducted in-depth testing on real users to verify (and dismiss) some of our ideas and hypotheses. ​​ ​​As a starting point, we identified two typical routes to getting help: An official knowledge database created by the company, and an online forum where customers could both ask and answer questions. From there, we outlined several scenarios and tested. ​​ ​​One general thing our research revealed was the importance of a strong mobile experience: If a user’s home Internet connection isn’t working, their phone might be the only way they can get support, so the site had to be fully responsive and quick to load.</p>
-            
+
             <h2>The testing</h2>
             <p>​​We asked users where on the site they’d look for help installing Spotify. Our assumption was that they’d look at “Other areas,” but a click map clearly showed that “Phone” or “Ask a question” were the most clicked areas.</p>
 
@@ -46,6 +45,10 @@ class Telia extends React.Component {
             <Img className="w-full mt-12 mb-12" fluid={data.image6.childImageSharp.fluid} />
 
           </div>
+
+          <CaseData link="https://www.telia.se/privat/support" expertise="User Experience, Information Architecture, User Testing, User Interface" delivarables="Design, Strategy, User Testing Data"/>
+
+
       </Layout>
     )
   }

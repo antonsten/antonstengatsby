@@ -1,7 +1,6 @@
 import React from "react"
 import '../css/style.css'
 import Layout from "../components/layout"
-import Form from "../components/signupform"
 import SEO from "../components/seo"
 import { Link } from "gatsby"
 
@@ -20,7 +19,6 @@ class Contact extends React.Component {
             <p>
               E-mail <a href="mailto:anton@antonsten.com">anton@antonsten.com</a> or text +46 733 142934 so I can get to know more about how I can help you.
             </p>
-            <Form/>
         </Layout>
       );
   }

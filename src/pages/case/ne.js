@@ -16,7 +16,6 @@ class Ne extends React.Component {
           <SEO title="​​Nationalencyklopedin"/>
           <div className="w-full">
             <h1 className="pr-0 sm:pr-12">​​Nationalencyklopedin</h1>
-            <CaseData expertise="User Experience, User Interface, Design Thinking, Branding" delivarables="Branding, Design, Process"/>
             <h2>
               ​Chances are, if you grew up in Sweden, you are familiar with Nationalencyklopedin; for decades, it’s been a prominent research tool (it was my generation’s Wikipedia), and it’s still an important learning resource for school kids today. Since it started in 1980, Nationalencyklopedin’s influence has spread to other countries in Europe and now includes the German equivalent Brockhaus.
             </h2>
@@ -35,13 +34,13 @@ class Ne extends React.Component {
 
             <h2>Visual identity</h2>
             <p>I recommended that we keep both NE’s and Brockhaus’s logos as they are—they are well-known brands, and there was nothing wrong with the current logotypes.</p>
-            <p>As for colors and typography, my main objective was to simplify. The colors needed to not only be WCAG AA+ compliant, but also feel modern and credible. The typography needed to be suited for a digital context, offer sharp readability even on smaller screens (you know kids read on their mobile phones, right?), and take licensing fees into account. On top of that, it should give the brand a little personality and youth appeal while still feeling trustworthy—like a young, cool teacher.</p>            
+            <p>As for colors and typography, my main objective was to simplify. The colors needed to not only be WCAG AA+ compliant, but also feel modern and credible. The typography needed to be suited for a digital context, offer sharp readability even on smaller screens (you know kids read on their mobile phones, right?), and take licensing fees into account. On top of that, it should give the brand a little personality and youth appeal while still feeling trustworthy—like a young, cool teacher.</p>
             <p>The colors we chose were pulled from the brand’s existing colors, but simplified, showcasing how a simple palette can offer a wide range of possibilities.</p>
-            
+
             <Img className="w-full mt-12 mb-12" fluid={data.image1.childImageSharp.fluid} />
 
             <p>For typography, we opted for Proxima Nova (a classic) because of its excellent readability even in smaller sizes and the fact that it includes a broad set of characters. This was combined with an old favorite of mine, Berlingske Serif from Playtype, which has that perfect mix of traditional serif and modern quirkiness.</p>
-            
+
             <Img className="w-full mt-12 mb-12" fluid={data.image2.childImageSharp.fluid} />
 
             <h2>Design system</h2>
@@ -69,6 +68,9 @@ class Ne extends React.Component {
 
             <Img className="w-full mt-12 mb-12" fluid={data.image9.childImageSharp.fluid} />
           </div>
+
+          <CaseData expertise="User Experience, User Interface, Design Thinking, Branding" delivarables="Branding, Design, Process"/>
+
       </Layout>
     )
   }

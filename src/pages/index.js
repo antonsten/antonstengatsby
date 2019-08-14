@@ -19,7 +19,7 @@ class BlogIndex extends React.Component {
         />
         <div className="w-full">
           <h1 className="pr-0 sm:pr-12">Anton Sten leads UX for design-driven companies.</h1>
-          <del className="mb-2">My specialty? Using my design skills and business knowledge to not just make your digital product look pretty, but to make it work.
+          <del className="mb-4 mt-4">My specialty? Using my design skills and business knowledge to not just make your digital product look pretty, but to make it work.
           </del>
 
           <p>
@@ -34,7 +34,7 @@ class BlogIndex extends React.Component {
             That’s something I’m really proud of.
           </p>
 
-          <Link to="/work" className="btn mt-8 mb-6">Find out more</Link>
+          <Link to="/work" className="btn mt-4 mb-6">Find out more</Link>
 
           <Testimonial logo="/images/clients/spotify.png" text="Whenever someone asks me if I know any good freelance UX designers I always answer with Anton. He’s a great designer with superior business understanding who always put the user in the front seat and delivers bloody good work. If you ever get a chance to work with Anton, don’t miss it." author="Christian Wilsson, Head of Design, Spotify"/>
 
@@ -45,7 +45,7 @@ class BlogIndex extends React.Component {
             const title = node.frontmatter.title || node.fields.slug
             return (
               <div key={node.fields.slug}>
-                <p className="flex justify-between py-4 font-normal mb-0 border-dashed border-b border-grey">
+                <p className="flex justify-between py-4 font-normal mb-0 border-b border-light-grey">
                   <Link className="no-underline text-black hover:text-orange truncate" to={node.fields.slug}>
                     {title}
                   </Link>
