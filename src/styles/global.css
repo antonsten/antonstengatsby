@@ -15,6 +15,7 @@ body {
   font-family: 'FreightDispProBook-Regular';
   src: url('/fonts/395F2A_0_0.eot');
   font-style: normal;
+  font-weight: 400;
   font-display: swap;
   src: url('/fonts/395F2A_0_0.eot?#iefix') format('embedded-opentype'),
     url('/fonts/395F2A_0_0.woff2') format('woff2'),
@@ -30,6 +31,18 @@ body {
   url('/fonts/395F2A_1_0.woff2') format('woff2'),
   url('/fonts/395F2A_1_0.woff') format('woff'),
   url('/fonts/395F2A_1_0.ttf') format('truetype');}
+
+  @font-face {
+    font-family: 'FreightDispProBook-Regular';
+    font-style: bold;
+    font-weight: 600;
+    font-display: swap;
+    src: url('/fonts/39F210_0_0.eot');
+    src: url('/fonts/39F210_0_0.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/39F210_0_0.woff2') format('woff2'),
+    url('/fonts/39F210_0_0.woff') format('woff'),
+    url('/fonts/39F210_0_0.ttf') format('truetype');}
+
 
   @font-face {
     font-family: 'SF';

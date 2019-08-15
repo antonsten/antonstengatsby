@@ -29,9 +29,9 @@ class BlogPostTemplate extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
 
-        <SEO 
-          title={post.frontmatter.title} 
-          description={post.excerpt} 
+        <SEO
+          title={post.frontmatter.title}
+          description={post.excerpt}
         />
 
         <article>
@@ -42,18 +42,18 @@ class BlogPostTemplate extends React.Component {
         <div className="w-full flex">
           <Form title="Get more writing like this" text="Sign up and get new writing, just like this, every other two weeks. Unsubscribe any time (I'm not a dickhead)."/>
         </div>
-      
+
         <h2 className="mt-16 pt-12">Latest writing</h2>
         <div className="w-full pb-12" /* onclick -> currentTarget if is a check host */>
           {posts.map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
             return (
               <div key={node.fields.slug}>
-                <p className="flex justify-between py-4 font-normal mb-0 border-dashed border-b border-grey">
+                <p className="flex justify-between py-3 font-normal mb-0 border-b border-grey-light">
                   <Link className="no-underline text-black hover:text-orange truncate" to={node.fields.slug}>
                     {title}
                   </Link>
-                  <span className="hidden sm:block">{node.frontmatter.date}</span>
+                  <span className="hidden sm:block text-xs uppercase font-sans tracking-wide text-grey">{node.frontmatter.date}</span>
                 </p>
 
               </div>

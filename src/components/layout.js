@@ -18,13 +18,10 @@ class Layout extends React.Component {
           <footer className="w-full py-4 mb-4 mt-16 flex justify-end">
             <ul className="list-reset float-right">
               <li className="inline-block pl-4">
-                <Link className="text-black no-underline hover:text-orange" to="/contact">Contact</Link>
+                <a rel="noopener noreferrer" target="_blank" className="text-black no-underline hover:text-orange" href="https://twitter.com/antonsten"><img  alt="twitter @antonsten" style={{ width: '20px' }} src="/images/twitter.svg" /></a>
               </li>
               <li className="inline-block pl-4">
-                <a rel="noopener noreferrer" target="_blank" className="text-black no-underline hover:text-orange" href="https://twitter.com/antonsten">Twitter</a>
-              </li>
-              <li className="inline-block pl-4">
-                <a rel="noopener noreferrer" target="_blank" className="text-black no-underline hover:text-orange" href="https://www.linkedin.com/in/antonsten/">Linkedin</a>
+                <a rel="noopener noreferrer" target="_blank" className="text-black no-underline hover:text-orange" href="https://www.linkedin.com/in/antonsten/"><img alt="linkedin" style={{ width: '20px' }} src="/images/linkedin.svg" /></a>
               </li>
             </ul>
           </footer>

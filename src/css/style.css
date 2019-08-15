@@ -4,8 +4,8 @@
 
 @media (min-width: 820px) {
   .case-image {
-    max-height: 70px;
-    max-width: 240px;
+    max-height: 50px;
+    max-width: 180px;
     width: auto;
   }
 }
@@ -69,7 +69,7 @@ blockquote {
   margin-top: 0;
 }
 
-blockquote strong, blockquote a {
+blockquote strong {
   @apply font-sans text-sm;
 
 }
@@ -80,7 +80,8 @@ ul:not(.float-right), ol {
 
 ul, ol, p {
   margin-bottom: 1rem;
-  @apply text-xl leading-normal font-normal;
+  margin-top: 1rem;
+  @apply text-xl leading-loose font-normal;
 }
 
 blockquote, blockquote p {
@@ -94,7 +95,7 @@ blockquote, blockquote p {
   }
 
   blockquote, blockquote p {
-    @apply text-lg leading-normal font-sans;
+    @apply text-base leading-normal font-sans;
   }
 }
 
@@ -151,7 +152,7 @@ del {
 /* testimonial */
 
 .tesimonial-logo {
-  max-width: 90px;
+  max-width: 120px;
   max-height: 40px;
   height: auto !important;
 }
@@ -164,6 +165,10 @@ del {
   letter-spacing: 1px;
 }
 
+em {
+  background-color: #E6F1FA;
+  letter-spacing: 1px;
+}
 
 a {
   @apply text-link;
@@ -181,7 +186,7 @@ blockquote {
   border-left: 2px solid #F2F2F2;
 }
 
-blockquote a, blockquote strong {
+blockquote strong {
   @apply block border-none mt-4 text-xs font-bold uppercase tracking-wide -mb-4;
 }
 

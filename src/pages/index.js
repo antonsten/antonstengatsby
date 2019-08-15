@@ -23,7 +23,7 @@ class BlogIndex extends React.Component {
           </del>
 
           <p>
-            My clients have included big household names and smaller up-and-comers alike, including IKEA, Spotify, iZettle, Hyper Island, and Volvo. I also write about user experience and have been interviewed by publications like Adobe and .Net Magazine.
+            My clients have included big household names and smaller up-and-comers alike, including IKEA, Spotify, iZettle, Hyper Island, and Volvo.
           </p>
 
           <p>
@@ -40,16 +40,16 @@ class BlogIndex extends React.Component {
 
           <Form/>
 
-          <h2 className="mt-16">Latest blog posts</h2>
+          <h2 className="mt-16">Latest posts</h2>
           {posts.map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
             return (
               <div key={node.fields.slug}>
-                <p className="flex justify-between py-4 font-normal mb-0 border-b border-light-grey">
+                <p className="flex justify-between py-3 font-normal mb-0 border-b border-light-grey">
                   <Link className="no-underline text-black hover:text-orange truncate" to={node.fields.slug}>
                     {title}
                   </Link>
-                  <span className="hidden sm:block">{node.frontmatter.date}</span>
+                  <span className="hidden sm:block text-xs uppercase font-sans tracking-wide text-grey">{node.frontmatter.date}</span>
                 </p>
 
               </div>

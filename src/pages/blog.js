@@ -33,67 +33,64 @@ class Writing extends React.Component {
         <SEO title="Writing"/>
         <div className="w-full">
           <h1 className="pr-0 sm:pr-12">Writing</h1>
-          <del className="mb-8">
-            I believe that understanding grows from exercising your knowledge. I don’t just write to inspire others, but to stay on the leading edge of this industry.
-          </del>
-
+          <del className="mb-8">Esther Williams said, <i>“wisdom is a useless gift unless you share it”</i> and I couldn’t agree more.<br /><br />I like to share what I have discovered about creating amazing user experiences, embracing creativity, and sustaining a successful freelancing career.</del>
+          <h2 className="mt-16 pt-12">Books</h2>
           <p>
-            Sure, I’m super proud of the 20 years of design experience and 10 years of being a successful freelancer I have under my belt—sounds pretty legit, right?—but the truth is those years of experience came with tons of mistakes and setbacks.
-          </p>
-
+          <a href="https://www.antonsten.com/books/user-experiences-matter">User Experiences that Matter</a> (2016)<br />
+          <a href="https://www.antonsten.com/books/masteringfreelance">Mastering Freelance</a> (2017)
+</p>
+          <h2>Featured Writing & Interviews Elsewhere</h2>
           <p>
-            The books below are handy collections of tips, hard-won wisdom, and general guidelines for what I’ve found works (and doesn’t work) in design and in freelancing. I hope they’ll be a guide for those taking their first steps into these areas and help budding designers and freelancers take a shortcut to success, with fewer tears and ramen meals.
-          </p>
-
-          <div className="w-full mt-12 flex flex-wrap justify-between">
-
-            <div className="w-full sm:w-1/2 pr-0 sm:pr-2 flex">
-              <div className="bg-white p-8 border-dashed border flex flex-wrap">
-                <h4 className="text-orange font-normal text-lg mb-2">User Experiences that Matter</h4>
-                <p className="text-sm font-sans">User Experiences that Matter gives you an introduction to creating these great user experiences by focusing on the human being using the product.</p>
-
-                <div className="flex w-full items-center mt-6 self-end">
-                  <a className="btn mr-6" href="https://gumroad.com/l/userexperiencesmatter" role="link" href="">Purchase $9+</a><br />
-                  <Link to="/books/user-experiences-matter" className="border-none text-xs uppercase font-bold tracking-wide">Find out more</Link>
-                </div>
-              </div>
-            </div>
-
-            <div className="w-full sm:w-1/2 mt-6 sm:mt-0 pl-0 sm:pl-2 flex">
-              <div className="bg-white p-8 border-dashed border flex flex-wrap">
-                <h4 className="text-orange font-normal text-lg mb-2">Mastering Freelance</h4>
-                <p className="text-sm font-sans">What are you offering? Who are your clients? How do you find your clients? Mastering Freelance is here to help you discover those answers and find success faster.</p>
-                <div className="flex w-full self-end items-center mt-6">
-                  <a className="btn mr-6" href="https://gumroad.com/l/masteringfreelance?wanted=true" role="link" href="">Purchase $19+</a><br />
-                  <Link to="/books/masteringfreelance" className="border-none text-xs uppercase font-bold tracking-wide">Find out more</Link>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <h2 className="mt-16 pt-12">All posts</h2>
-
-          <div className="w-full flex flex-wrap overflow-x-hidden">
-            { posts.slice(0, this.state.visible).map(({ node }) => {
+          <a href="https://theblog.adobe.com/qa-with-anton-sten-author-of-user-experiences-that-matter/">Q&A With Anton Sten, Author of User Experiences that Matter</a> - Adobe<br />
+          <a href="https://magazine.workingnotworking.com/magazine/2016/1/26/user-experiences-that-matter-by-anton-sten">What the F*#!ck is a UX Designer anyway</a> - Working not Working<br />
+          <a href="https://modus.medium.com/designer-ethics-the-moral-implications-of-our-apps-f1d6bdb276e">It’s Time for a Code of Ethics for Designers</a> - Medium Modus<br />
+          <a href="https://www.creativebloq.com/advice/the-art-of-going-freelance">The Art of Going Freelance</a> - .Net Magazine<br />
+          <a href="https://www.beingfreelance.com/season-4/mastering-freelance-anton-sten-ux-designer-podcast">It Takes Time</a> - Being Freelance episode 100
+</p>
+          <h2>If You're Just Getting Started in UX</h2>
+<p>
+          <a href="https://www.antonsten.com/whatsux/">What's a 'User Experience' Anyways?</a><br />
+          <a href="https://www.antonsten.com/learn-ux/">How Do You Learn UX?</a><br />
+          <a href="https://www.antonsten.com/uxdesigner/">Working as a UX Designer</a>
+</p>
+          <h2>Next Steps for a UX Designer</h2>
+<p>
+          <a href="https://www.antonsten.com/uxlead/">Working as a UX Lead</a><br />
+          <a href="https://www.antonsten.com/uxstrategy/">Defining a UX Strategy</a><br />
+          <a href="https://www.antonsten.com/writing-ux/">Writing as Part of the UX Process</a><br />
+</p>
+          <h2>Thought-pieces</h2>
+<p>
+          <a href="https://www.antonsten.com/ai-ethics/">AI Ethics - A New Skill for UX-Designers</a><br />
+          <a href="https://www.antonsten.com/moral-implications-apps/">Designer Ethics & The Moral Implications of our Apps</a><br />
+          <a href="https://www.antonsten.com/future-ux-designer/">The Future of the UX-Designer</a><br />
+          <a href="https://www.antonsten.com/voiceinput-socialnorms/">Voice Input’s Effect on Social Norms</a>
+</p>
+          <h2>The Work We Do</h2>
+<p>
+          <a href="https://www.antonsten.com/chasinggrowth/">Chasing Growth</a><br />
+          <a href="https://www.antonsten.com/newtools/">New Tools Don’t Always Equal Productivity</a><br />
+          <a href="https://www.antonsten.com/designers-write/">Why Designers Need to Write</a><br />
+          <a href="https://www.antonsten.com/tools/">The Tools I Use to Run My Business</a>
+</p>
+          <h2>Chronological</h2>
+          <div className="w-full pb-12" /* onclick -> currentTarget if is a check host */>
+            {posts.map(({ node }) => {
               const title = node.frontmatter.title || node.fields.slug
               return (
-                <div className="w-full" key={node.fields.slug}>
-                  <p className="w-full float-left py-16 font-normal mb-0 border-dashed border-b border-grey">
-                    <span className="block date">{node.frontmatter.date}</span>
-                    <Link className="no-underline text-black hover:text-orange" to={node.fields.slug}>
-                      <h1 className="w-full leading-none">{title}</h1>
+                <div key={node.fields.slug}>
+                  <p className="flex justify-between py-3 font-normal mb-0 border-b border-grey-light">
+                    <Link className="no-underline text-black hover:text-orange truncate" to={node.fields.slug}>
+                      {title}
                     </Link>
-                    <div className="blog-post" dangerouslySetInnerHTML={{ __html: node.html }} />
+                    <span className="hidden sm:block text-xs uppercase font-sans tracking-wide text-grey">{node.frontmatter.date}</span>
                   </p>
+
                 </div>
               )
-            }) }
-
-          { this.state.visible < posts.length &&
-             <button onClick={this.loadMore} type="button" className="btn mx-auto mt-12 mb-6">Load more</button>
-          }
+            })}
           </div>
-        </div>
+          </div>
       </Layout>
     )
   }

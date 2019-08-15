@@ -12,7 +12,7 @@ class Contact extends React.Component {
             <h1>Work with me</h1>
 
             <del className="mb-8">
-              Working with me is nothing like working with an agency. I’ll never outsource your work. I’ll never charge you for a receptionist, a fridge full of sparkling water, or my employee’s retirement plan—<a href="/images/meta1.jpg">Meta’s already retired</a>.
+            If you’ve worked with agencies before, you can throw away all your expectations. Working with me is nothing like that. I am the only contact point you’ll ever have. I’ll never outsource your work. I’ll never charge you for a receptionist. I am a one-man company* and I have no intention of ever changing that <em>(* dogs not included)</em>.
             </del>
 
             <h2>A bit about my process</h2>
@@ -25,17 +25,17 @@ class Contact extends React.Component {
             <h2>What do you mean by “when”?</h2>
             <p>I never miss a deadline. No, really. My secret is simple: I respect the project and set aside enough time to get it done correctly. I will never give you a date that can’t be met. That’s a two-way street, of course; I’ll rely on you to give me certain things on time so I can incorporate them into the project.</p>
 
-            <Testimonial text="Anton was thorough and a pleasure to work with. He’s a great collaborator and partner to work through product solutions alongside. He does what he says and never misses a deadline, an unfortunate rarity these days that you don’t have to worry about with Anton." author="TRAVIS SCHMEISSER, FOUNDER & PARTNER, FIRST PRINCIPLE"/>
+            <Testimonial logo="/images/clients/firstprinciple.png" text="Anton was thorough and a pleasure to work with. He’s a great collaborator and partner to work through product solutions alongside. <em>He does what he says and never misses a deadline</em>, an unfortunate rarity these days that you don’t have to worry about with Anton." author="TRAVIS SCHMEISSER, FOUNDER & PARTNER, FIRST PRINCIPLE"/>
 
             <h2>How much will all this cost?</h2>
-            <p>My goal is to bring you the most value for every dollar. Remember, I’m just a guy who’s lucky enough to work for himself; I’m not going to gouge you on fancy client lunches or my employee’s retirement plan — <a href="/images/meta1.jpg">Meta’s already retired.</a></p>
+            <p>My goal is to bring you the most value for every dollar. Remember, I’m just a guy who’s lucky enough to work for himself; I’m not going to gouge you on fancy client lunches or my employee’s retirement plan — Meta’s already retired.</p>
             <p>Sometimes that means I’ll advise you to work with someone who is more junior, or perhaps I’ll talk to your development team and see how we can best bootstrap solutions to lower your costs. Whatever the final price is, I know that you’ll be satisfied with the value the project has added to your company.</p>
             <p className="font-bold">Think of it this way: Working with me is an investment, not an expense.</p>
-        
+
             <h2>How do I fit into all of this?</h2>
             <p>Though you’re handing me the reins, I encourage you to be as involved in the project as you want to be. No one knows your business better than you, and by being part of the process you’ll help define the direction your company takes with its digital solution and branding.</p>
             <p>I love working with innovative people to make great products, so let’s make this a partnership.</p>
-            <p>Now, are you ready to get started?</p>
+            <p><a href="/contact">Now, are you ready to get started?</a></p>
 
         </Layout>
       );

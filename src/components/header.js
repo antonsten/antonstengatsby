@@ -73,7 +73,7 @@ class Header extends React.Component {
               </li>
               <li className="inline-block pl-6">
                 <Link className="text-black no-underline" to="/work" rel="prev">
-                  Cases
+                  Work
                 </Link>
               </li>
               <li className="inline-block pl-6">
