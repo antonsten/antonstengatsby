@@ -52,7 +52,7 @@ class Form extends React.Component {
     const { email, title, text, submit } = this.state
 
     return (
-      <form name={ this.props.name ? this.props.name : 'newsletter' } onSubmit={ this.handleSubmit } className="mt-8 block w-full float-left mb-16 bg-grey-lighter border-color-grey-light rounded-sm p-8 text-blacker" method="POST" data-netlify="true" netlify-honeypot="bot-field" netlifyid="mc-embedded-subscribe-form" action="/thankyou/">
+      <form name={ this.props.name ? this.props.name : 'newsletter' } onSubmit={ this.handleSubmit } className="mt-8 block w-full float-left mb-16 bg-grey-lighter rounded-sm p-8 text-blacker" method="POST" data-netlify="true" netlify-honeypot="bot-field" netlifyid="mc-embedded-subscribe-form" action="/thankyou/">
         <strong className="text-xs uppercase font-sans tracking-wide text-link">{ title }</strong>
         <p className="leading-normal font-serif mt-4 pr-8">{ text }</p>
         <p className="hidden">

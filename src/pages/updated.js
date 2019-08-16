@@ -1,9 +1,8 @@
 import React from "react"
-import { graphql, Link } from "gatsby"
+import { Link } from 'gatsby';
 
 import '../css/style.css'
 import Layout from "../components/layout"
-import Testimonial from '../components/testimonial';
 import SEO from "../components/seo"
 
 class Thankyou extends React.Component {
