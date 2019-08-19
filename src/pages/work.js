@@ -25,7 +25,7 @@ class Grid extends React.Component {
             <p>
               I’ve worked with clients from almost every industry, and each one presents new, exciting challenges. With some companies, I’ve plugged into the in-house design or product team to help out with design, guidance, and asking/answering the provocative questions. But I’ve also worked with tiny startups operating out of someone’s living room.
 
-              Large or small, my clients always come with specific needs and goals—not to mention an array of constraints and business requirements that must be fulfilled—and I’m proud of the consistently positive results I’ve produced in each unique case
+              Large or small, my clients always come with specific needs and goals—not to mention an array of constraints and business requirements that must be fulfilled—and I’m proud of the consistently positive results I’ve produced in each unique case.
             </p>
             <p>Here’s what I’ve done for people like you:
             <ul>

@@ -76,9 +76,7 @@ blockquote strong {
 
 }
 
-ul:not(.float-right), ol {
-  @apply w-full block float-left;
-}
+
 
 ul, ol, p {
   margin-bottom: 1rem;
@@ -130,7 +128,9 @@ h2 {
 }
 
 h3 {
-  @apply font-normal font-serif;
+  margin-top: 4rem;
+  margin-bottom: 1rem;
+  @apply text-xl leading-normal font-sans;
 }
 
 del {
