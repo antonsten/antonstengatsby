@@ -1,10 +1,10 @@
 import React from "react"
-import { graphql, Link } from "gatsby"
 import Img from "gatsby-image"
 
 import '../css/style.css'
 import Layout from "../components/layout"
 import Testimonial from '../components/testimonial';
+import { Link } from 'gatsby';
 import SEO from "../components/seo"
 
 class About extends React.Component {
@@ -34,9 +34,9 @@ class About extends React.Component {
               Mubito offered a unique direct-to-consumer platform for the music and entertainment industry. I had an overall responsibility for all creative work. I was also guiding and managing the creative team (both front-end coders and designers, around 10-15 persons) and I was responsible for developing the Mubito brand.
             </p>
 
-            <Testimonial text="I had the pleasure to work with Anton on both a general and a project basis. 
-              Anton has a great knack of understanding not only the principles of design, but more importantly the user or commercial needs driving a particular creative challenge. We worked on numerous new media design and communication related projects together. 
-              Anton has a strong hands-on grasp of new media space and understands the implications of social networking and the new world of communication better than any creative I’ve met. I learn about a lot of new tools and apps from Anton. 
+            <Testimonial text="I had the pleasure to work with Anton on both a general and a project basis.
+              Anton has a great knack of understanding not only the principles of design, but more importantly the user or commercial needs driving a particular creative challenge. We worked on numerous new media design and communication related projects together.
+              Anton has a strong hands-on grasp of new media space and understands the implications of social networking and the new world of communication better than any creative I’ve met. I learn about a lot of new tools and apps from Anton.
               Personally, Anton is an intelligent, easy-going guy who’s fun to work with. There’s always time to discuss something interesting." author="ANDREW MARTYN, FOUNDER & CEO - MUBITO"/>
 
             <Testimonial text="Anton is an experienced and passionate Creative Director, with a great creative design mind, and the ability to deliver on this vision. Anton is also a great colleague - relaxed and fun to be around in a working environment, whilst maintaining the drive and focus required to exceed every client expectation." author="DANIEL KENNEDY, SENIOR DIGITAL PROJECT MANAGER - MUBITO"/>
@@ -74,11 +74,11 @@ class About extends React.Component {
               Design internship as a part of my education at Hyper Island.
               <br></br>Clients: Levi’s, RSPCA and Boddingtons.
             </p>
-            
+
             <p className="pt-12">
               <b>Designer, MIOS e-Solutions, Turku Finland - 2000</b>
             </p>
-            
+
             <p className="pt-4">
               <b>Freelance Webdesigner, Mainostoimisto Bock’s Office, Vasa Finland - 1996-2000</b>
             </p>

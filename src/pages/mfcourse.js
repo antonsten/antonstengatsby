@@ -3,7 +3,6 @@ import '../css/style.css'
 import Layout from "../components/layout"
 import Form from "../components/signupform"
 import SEO from "../components/seo"
-import { Link } from "gatsby"
 
 class Contact extends React.Component {
   render() {

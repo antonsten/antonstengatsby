@@ -22,7 +22,7 @@ header {
   z-index: 99999;
 }
 
-header a {
+header a, header a:hover {
   font-weight: 700;
   border: none;
 
@@ -31,9 +31,11 @@ header a {
 
 [aria-current] {
   text-decoration: line-through;
+  color: #0070C9;
 }
 
 header ul {
+  margin-top: 0;
   margin-bottom: 0;
 }
 
@@ -46,7 +48,7 @@ footer {
 }
 
 footer a {
-  @apply font-sans text-base;
+  @apply font-sans text-sm;
   border: none;
 }
 
@@ -165,6 +167,12 @@ del {
   letter-spacing: 1px;
 }
 
+.btn:hover {
+  @apply text-white;
+  background-color: #0062B0;
+  border-bottom: 1px solid #0070C9;
+}
+
 em {
   background-color: #E6F1FA;
   letter-spacing: 1px;
@@ -182,7 +190,7 @@ a:hover {
 }
 
 blockquote {
-  @apply p-6 rounded-sm mb-8;
+  @apply p-6 rounded-none mb-8;
   border-left: 2px solid #F2F2F2;
 }
 

@@ -2,7 +2,7 @@ import React from "react"
 import '../css/style.css'
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { Link } from "gatsby"
+import { Link } from 'gatsby';
 
 class Contact extends React.Component {
   render() {

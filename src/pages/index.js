@@ -22,7 +22,7 @@ class BlogIndex extends React.Component {
           <del className="mb-4 mt-4">My specialty? Using my design skills and business knowledge to not just make your digital product look pretty, but to make it work.
           </del>
 
-          <p>
+          <p className="mt-12">
             My clients have included big household names and smaller up-and-comers alike, including IKEA, Spotify, iZettle, Hyper Island, and Volvo.
           </p>
 
