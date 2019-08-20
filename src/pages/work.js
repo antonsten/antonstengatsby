@@ -14,7 +14,7 @@ class Grid extends React.Component {
         <Layout>
           <SEO title="Work"/>
           <div className="w-full">
-            <h1>Creating better user experiences</h1>
+            <h1>Creating Better User Experiences</h1>
             <del>
               My personal mission for the past 20 years has been to help companies connect with their customers in meaningful ways. In that time, I’ve created user-focused experiences that resulted in happier, better-served customers and higher sales.
               <br></br>That’s something I’m really proud of.
