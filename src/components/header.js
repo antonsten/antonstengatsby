@@ -28,42 +28,56 @@ class Header extends React.Component {
             { this.state.isVisible &&
               <div className="mobile-menu">
                 <ul className="list-reset pl-5 pr-5 mobile-menu__ul flex flex-wrap w-full">
-                  <li className="w-1/2 float-left text-center py-16 border-dashed border-l border-b border-r border-grey">
+                  <li className="w-1/2 float-left text-center py-16 border-solid border-l border-b border-r border-grey-lighter">
                     <Link className="text-black no-underline" to="/about" rel="prev">
                       About
                     </Link>
                   </li>
-                  <li className="w-1/2 float-left text-center py-16 border-dashed border-r border-b border-grey">
+                  <li className="w-1/2 float-left text-center py-16 border-solid border-l border-b border-r border-grey-lighter">
                     <Link className="text-black no-underline" to="/work" rel="prev">
                       Work
                     </Link>
                   </li>
-                  <li className="w-1/2 float-left text-center py-16 border-dashed border-l border-b border-r border-grey">
+                  <li className="w-1/2 float-left text-center py-16 border-solid border-l border-b border-r border-grey-lighter">
+                    <Link className="text-black no-underline" to="/work-with-me" rel="prev">
+                      Work With Me
+                    </Link>
+                  </li>
+                  <li className="w-1/2 float-left text-center py-16 border-solid border-l border-b border-r border-grey-lighter">
                     <Link className="text-black no-underline" to="/blog" rel="prev">
                       Writing
                     </Link>
                   </li>
-                  <li className="w-1/2 float-left text-center py-16 border-dashed border-b border-grey border-r">
-                    <Link className="text-black no-underline" to="/work-with-me" rel="prev">
-                      Work with me
+                  <li className="w-1/2 float-left text-center py-16 border-solid border-l border-b border-r border-grey-lighter">
+                    <Link className="text-black no-underline" to="/contact" rel="prev">
+                      Contact
                     </Link>
                   </li>
                 </ul>
                 <div className="w-full py-4 mb-4 mt-6">
                   <ul className="list-reset text-center">
                     <li className="inline-block px-4">
-                      <a className="text-black no-underline" href="mailto:anton@antonsten.com">Email</a>
+                      <a className="text-black no-underline font-sans text-sm" href="/testimonials">Testimonials</a>
                     </li>
                     <li className="inline-block px-4">
-                      <a className="text-black no-underline" href="https://twitter.com/antonsten">Twitter</a>
+                      <a className="text-black no-underline font-sans text-sm" href="/newsletter">Newsletter</a>
                     </li>
                     <li className="inline-block px-4">
-                      <a className="text-black no-underline" href="https://www.linkedin.com/in/antonsten/">Linkedin</a>
+                      <a className="text-black no-underline font-sans text-sm" href="/feed.xml">RSS</a>
+                    </li>
+                    </ul>
+                    <ul>
+                    <li className="inline-block px-4">
+                      <a className="text-black no-underline font-sans text-sm" href="https://twitter.com/antonsten">Twitter</a>
+                    </li>
+                    <li className="inline-block px-4">
+                      <a className="text-black no-underline font-sans text-sm" href="https://www.linkedin.com/in/antonsten/">Linkedin</a>
                     </li>
                   </ul>
                 </div>
               </div>
             }
+
 
             <ul className="list-reset float-right hidden sm:inline-block text-lg">
               <li className="inline-block pl-6">
