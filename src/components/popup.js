@@ -21,7 +21,7 @@ class Popup extends React.Component {
   render() {
     if(this.state.isVisible) {
       return (
-        <div className="bg-grey-light py-2 fixed w-full pin-b text-black flex items-center">
+        <div className="bg-grey-lighter py-2 fixed w-full pin-b text-black flex items-center">
           <div className="max-w-xl mx-auto w-full px-4">
             <p className="pr-12 sm:pr-0 font-sans text-base">Want a UX-course in your inbox? <Link to="/uxcourse">Get it for free!</Link></p>
           </div>
