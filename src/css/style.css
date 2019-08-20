@@ -254,13 +254,13 @@ form input {
   border: none;
 }
 
-.gatsby-image-wrapper {
+.gatsby-image-wrapper:not(.gatsby-image-small) {
   width: 100%;
   margin-left: 0;
 }
 
 @screen sm {
-  .gatsby-image-wrapper {
+  .gatsby-image-wrapper:not(.gatsby-image-small) {
     width: 110%;
     margin-left: -5%;
   }

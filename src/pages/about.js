@@ -13,7 +13,7 @@ class About extends React.Component {
       return (
         <Layout>
           <SEO title="About"/>
-            <Img className="mb-12 w-2/5" fluid={data.fileName.childImageSharp.fluid} />
+            <Img className="mb-12 w-1/2 mx-auto gatsby-image-small" fluid={data.fileName.childImageSharp.fluid} />
             <h1>Hi, I’m Anton and I make digital products work</h1>
             <del>I know it’s a really bold statement, but I have the experience and knowledge to back it up. </del>
             <p>With my background in both design and business, I am in a great position to help your business decide on the right solutions for your digital products. I’m not here to make your product <i>just look pretty</i>, I’m here to <i>make it work</i> - happy users will result in a more profitable business. I am a firm believer in understanding the human element of design and knowing your audience. Your user wants to have a great experience with your brand – from start to finish – and I want to make that happen.</p>
