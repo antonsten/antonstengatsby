@@ -85,4 +85,4 @@ Some would say that investing months iterating an interface/user experience migh
 
 Establishing, and paying special attention to, that UX strategy from the beginning of any project, large or small, will be your saving grace. It will give you that baseline of goals and guidelines so that you and your team don't experience any confusion (brand, expectations, objectives, etc.) while going on to do the best work possible at every moment. Getting that great final user experience begins with a great UX strategy!
 
-_Have you just read this post and thought how awesome it would be to get your company's UX strategy perfect? I've got some availability I set aside in August just for you to make that happen! [Reach out to me](/contact) and let's start talking about what you do, what I do, and what we can do together._
+Have you just read this post and thought how awesome it would be to get your company's UX strategy perfect? I've got some availability I set aside in August just for you to make that happen! [Reach out to me](/contact) and let's start talking about what you do, what I do, and what we can do together.
