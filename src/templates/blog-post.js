@@ -35,21 +35,23 @@ class BlogPostTemplate extends React.Component {
 
         <article>
           <h1>{post.frontmatter.title}</h1>
-          <div className="w-full border-t border-b border-grey-lighter mt-3 mb-4">
-            <div className="flex justify-center items-center my-3">
-              <a href={`https://www.facebook.com/sharer/sharer.php?u=https://www.antonsten.com${pathName}`}target="_blank" className="flex items-center mx-2 hover-border-none border-none cursor-pointer">
-                <img className="w-8" src="/images/facebook-svg.svg"></img>
-              </a>
-              <a href={`https://twitter.com/intent/tweet/?text=${post.frontmatter.title}&url=https://www.antonsten.com${pathName}&via=antonsten`} className="flex items-center mx-2 hover-border-none border-none cursor-pointer">
-                <img className="w-8" src="/images/twitter-svg.svg"></img>
-              </a>
-              <a href={`https://www.linkedin.com/shareArticle?mini=true&url=https://www.antonsten.com${pathName}&title=${post.frontmatter.title}&source=${post.frontmatter.title}`}target="_blank" className="flex items-center mx-2 hover-border-none border-none cursor-pointer">
-                <img className="w-8" src="/images/linkedin-svg.svg"></img>
-              </a>
-            </div>
-          </div>
           <div className="blog-post" onClick= { this.handleClick } dangerouslySetInnerHTML={{ __html: post.html }} />
         </article>
+
+
+        <div className="w-full border-t border-b border-grey-lighter mt-12 mb-4">
+          <div className="flex justify-center items-center my-3">
+            <a href={`https://www.facebook.com/sharer/sharer.php?u=https://www.antonsten.com${pathName}`}target="_blank" className="flex items-center mx-2 hover-border-none border-none cursor-pointer">
+              <img className="w-8" src="/images/facebook-svg.svg"></img>
+            </a>
+            <a href={`https://twitter.com/intent/tweet/?text=${post.frontmatter.title}&url=https://www.antonsten.com${pathName}&via=antonsten`} className="flex items-center mx-2 hover-border-none border-none cursor-pointer">
+              <img className="w-8" src="/images/twitter-svg.svg"></img>
+            </a>
+            <a href={`https://www.linkedin.com/shareArticle?mini=true&url=https://www.antonsten.com${pathName}&title=${post.frontmatter.title}&source=${post.frontmatter.title}`}target="_blank" className="flex items-center mx-2 hover-border-none border-none cursor-pointer">
+              <img className="w-8" src="/images/linkedin-svg.svg"></img>
+            </a>
+          </div>
+        </div>
 
         <div className="w-full flex">
           <Form title="Get more writing like this" text="Sign up and get new writing, just like this, every other two weeks. Unsubscribe any time (I'm not a dickhead)."/>
