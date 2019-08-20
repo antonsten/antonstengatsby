@@ -206,7 +206,6 @@ module.exports = {
     ],
     'serif': [
       'FreightDispProBook-Regular',
-      /*'Wulkan Display',*/
       'Georgia',
       'serif',
     ],
