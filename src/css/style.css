@@ -312,3 +312,7 @@ hr {
     @apply px-4;
   }
 }
+
+.hover-border-none:hover {
+  border: none !important;
+}
