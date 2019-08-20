@@ -34,7 +34,6 @@ body {
 
   @font-face {
     font-family: 'FreightDispProBook-Regular';
-    font-style: bold;
     font-weight: 600;
     font-display: swap;
     src: url('/fonts/39F210_0_0.eot');
@@ -55,7 +54,6 @@ body {
 
   @font-face {
     font-family: 'SF';
-    font-style: bold;
     font-weight: 600;
     font-display: swap;
     src: url('/fonts/sf-bold.woff2') format('woff2'), /* Super Modern Browsers */
