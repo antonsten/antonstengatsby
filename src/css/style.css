@@ -81,21 +81,21 @@ blockquote strong {
 ul, ol, p {
   margin-bottom: 1rem;
   margin-top: 1rem;
-  @apply text-xl leading-loose font-normal;
+  @apply text-xl leading-normal font-normal;
 }
 
 blockquote, blockquote p {
-  @apply text-xl leading-tight;
+  @apply text-lg font-sans leading-tight;
 
 }
 
 @screen sm {
   ul, ol, p {
-    @apply text-lg leading-normal;
+    @apply text-xl leading-normal font-normal;
   }
 
   blockquote, blockquote p {
-    @apply text-base leading-normal font-sans text-lg;
+    @apply text-xl leading-normal font-sans text-lg;
   }
 }
 
@@ -105,12 +105,12 @@ blockquote, blockquote p {
 }
 
 h1 {
-  @apply mb-4 mt-3 text-5xl;
+  @apply mb-4 mt-3 text-3xl font-sans;
 }
 
 @screen sm {
   h1 {
-    @apply text-5xl mb-6 mt-8 font-sans;
+    @apply text-5xl mb-6 mt-8;
   }
 }
 
@@ -141,7 +141,7 @@ del {
   width: 100%;
   font-style: normal;
 
-  @apply text-4xl leading-normal;
+  @apply text-2xl leading-normal;
 }
 
 @screen sm {
@@ -274,11 +274,11 @@ hr {
 .mobile-menu {
   position: fixed;
 
-  background: #fcfbf8;
+  background: #fff;
   bottom: 0;
   left: 0;
   right: 0;
-  top: 76px;
+  top: 62px;
   z-index: 9999;
 }
 

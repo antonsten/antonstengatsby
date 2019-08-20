@@ -53,29 +53,13 @@ class Header extends React.Component {
                       Contact
                     </Link>
                   </li>
-                </ul>
-                <div className="w-full py-4 mb-4 mt-6">
-                  <ul className="list-reset text-center">
-                    <li className="inline-block px-4">
-                      <a className="text-black no-underline font-sans text-sm" href="/testimonials">Testimonials</a>
-                    </li>
-                    <li className="inline-block px-4">
-                      <a className="text-black no-underline font-sans text-sm" href="/newsletter">Newsletter</a>
-                    </li>
-                    <li className="inline-block px-4">
-                      <a className="text-black no-underline font-sans text-sm" href="/feed.xml">RSS</a>
-                    </li>
-                    </ul>
-                    <ul>
-                    <li className="inline-block px-4">
-                      <a className="text-black no-underline font-sans text-sm" href="https://twitter.com/antonsten">Twitter</a>
-                    </li>
-                    <li className="inline-block px-4">
-                      <a className="text-black no-underline font-sans text-sm" href="https://www.linkedin.com/in/antonsten/">Linkedin</a>
-                    </li>
+                  <li className="w-1/2 float-left text-center py-16 border-solid border-l border-b border-r border-grey-lighter">
+                    <Link className="text-black no-underline" to="https://www.twitter.com/antonsten" rel="prev">
+                      Twitter
+                    </Link>
+                  </li>
                   </ul>
                 </div>
-              </div>
             }
 
 
