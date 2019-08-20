@@ -13,9 +13,11 @@ class Masteringfreelance extends React.Component {
   const { data } = this.props
     return (
       <Layout>
-          <SEO title="Mastering Freelance - E-book"/>
+          <SEO title="Mastering Freelance e-book"/>
           <div className="w-full">
-            <h1 className="pr-0 sm:pr-12">Mastering Freelance - your guidebook about all the bits and pieces of a freelancing career.</h1>
+          <Img className="w-1/2" fluid={data.image1.childImageSharp.fluid} />
+
+            <h1 className="pr-0 sm:pr-12">Mastering Freelance e-book</h1>
 
             <del>
               All freelancers face the same challenges: <em>What are you offering? Who are your clients? How do you find your clients? What should you charge them?</em>
@@ -24,7 +26,6 @@ class Masteringfreelance extends React.Component {
               I want to help you avoid these struggles and find your success even faster.
             </del>
 
-            <Img className="w-full rounded-sm shadow-md" fluid={data.image1.childImageSharp.fluid} />
 
             <h2>Find success</h2>
             <p className="mb-12">Have you dreamed of freelancing while stuck in your cubicle? Have you already struck out on your own and are struggling to making ends meet? Don’t worry; you’re not alone. I set out on my freelancing journey ten years ago, struggled, found success, and haven’t looked back.
@@ -35,7 +36,7 @@ The book covers things like finding your reason for freelancing (important), how
 <br /><br />
 To top it all off, I’ve picked the brains of some of the best freelancers in the world, including <a href="http://jessicahische.is" target="_blank">Jessica Hische</a>, <a href="http://danmall.me" target="_blank">Dan Mall</a>, <a href="https://pjrvs.com" target="_blank">Paul Jarvis</a>, <a href="https://www.kaleighmoore.com" target="_blank">Kaleigh Moore</a> and many others!</p>
 
-            <Testimonial text="I'm just dipping my toes into the freelancing pool now while still having the security of my permanent position. I'm already confident though that this is the life I'm looking for - a life with more flexibility and power to control - and a lot more personal responsibilities! I think it's important for any freelancer to try out new things. Making mistakes is inevitable, learning from them is what will make me successful!<br /><br />Mastering Freelance is one of the things that has made me take the leap from a steady pay check to a new life with possibilities. It gave me the right push I needed at the right moment so I’m super glad I bought it. "/>
+            <Testimonial author="robert lundberg" text="Mastering Freelance is one of the things that has made me take the leap from a steady pay check to a new life with possibilities. It gave me the right push I needed at the right moment so I’m super glad I bought it. "/>
 
             <h2>Here's what you'll learn</h2>
             <p className="mb-12">I’ve poured 10 years of freelancing experience into this book, so I’m confident that it’ll help you take confident steps towards success. I’ve intentionally kept it short; it’s just under 100 pages. Anyone can write a long book, but keeping it short and to the point required me to find the essence of every subject. A song doesn’t get better if it’s 10 minutes long versus 4, it’s just…longer. I wrote Mastering Freelance to get to the core of the subject and get you out and applying it!</p>
@@ -70,27 +71,29 @@ To top it all off, I’ve picked the brains of some of the best freelancers in t
             <Form name="masteringfreelance" title="Get a free 4-day email course" text="Get a free preview of the book through 4 topics over 4 days"/>
 
             <hr/>
-            <h2>About the author</h2>
-            <p className="mb-12">Hey, I’m Anton Sten – a designer and a business owner. Last year I wrote a book called <a href="https://www.antonsten.com/books/user-experiences-matter/" target="_blank">User Experience that Matter</a> and through this book, <a href="https://www.antonsten.com/newsletter" target="_blank">my newsletter</a>, and <a href="https://www.antonsten.com/blog" target="_blank">blog</a>, I’ve helped hundreds of companies create better user experiences for their customers. Now my goal is to help you!
-<br /><br />
-A big part of successful freelancing is creating great user experiences for your customers. Applying my experience and knowledge in UX-design transformed my freelancing journey and it can do the same for yours!
-<br /><br />
-I live in Lomma, Sweden with my wife and dog (who is also my colleague, just one of the perks of being your own boss!). Feel free to connect with me on Twitter <a href="https://twitter.com/antonsten" target="_blank">(@antonsten)</a>.</p>
-                                    <hr/>
 
 <h2>I'm ready to transform my business</h2>
 <p className="mb-12">Realizing the people just starting off with freelancing aren’t always the wealthiest target audience, my goal is to provide as much valuable content at the lowest price possible. There are no “packages” (this is just a cheap way to upsell you more stuff).
 <br /><br />
 For just $19 (or more, up to you) you’ll get:<br />
-• The book (PDF + Mobi)<br />
-• The exact templates I use to create invoices, proposals, and budgeting.<br />
-• <s>The List of Tools I Use to Run My Business.</s><br /><br />
-
-The <a href="https://www.antonsten.com/tools" target="_blank">List of Tools I Use to Run My Business</a> is now available and open to all and doesn't require a purchase.</p>
-
+<ul>
+<li>The book (PDF + Mobi)</li>
+<li>The exact templates I use to create invoices, proposals, and budgeting.</li>
+<li><s>The List of Tools I Use to Run My Business.*</s></li>
+</ul>
 <a className="btn" href="https://gumroad.com/l/masteringfreelance?wanted=true" role="link">Buy Mastering Freelance</a>
 
 <Testimonial text="I’m just starting up so everything is new right now and I don’t know what obstacles I might encounter but one thing that your book gave me is confidence in myself."/>
+
+The <a href="https://www.antonsten.com/tools" target="_blank">List of Tools I Use to Run My Business</a> is now available and open to all and doesn't require a purchase.</p>
+
+<h2>About the author</h2>
+<p className="mb-12">Hey, I’m Anton Sten – a designer and a business owner. Last year I wrote a book called <a href="https://www.antonsten.com/books/user-experiences-matter/" target="_blank">User Experience that Matter</a> and through this book, <a href="https://www.antonsten.com/newsletter" target="_blank">my newsletter</a>, and <a href="https://www.antonsten.com/blog" target="_blank">blog</a>, I’ve helped hundreds of companies create better user experiences for their customers. Now my goal is to help you!
+<br /><br />
+A big part of successful freelancing is creating great user experiences for your customers. Applying my experience and knowledge in UX-design transformed my freelancing journey and it can do the same for yours!
+<br /><br />
+I live in Lomma, Sweden with my wife and dog (who is also my colleague, just one of the perks of being your own boss!). Feel free to connect with me on Twitter <a href="https://twitter.com/antonsten" target="_blank">(@antonsten)</a>.</p>
+                        <hr/>
           </div>
       </Layout>
     )
@@ -101,7 +104,7 @@ export default Masteringfreelance
 
 export const query = graphql`
   query {
-    image1: file(relativePath: { eq: "masteringfreelance.png" }) {
+    image1: file(relativePath: { eq: "masteringfreelance.jpg" }) {
       childImageSharp {
         fluid {
           ...GatsbyImageSharpFluid

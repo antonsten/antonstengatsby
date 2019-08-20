@@ -1,9 +1,9 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import '../css/style.css'
 import Layout from "../components/layout"
 import Testimonial from '../components/testimonial';
+import { Link } from 'gatsby';
 import SEO from "../components/seo"
 
 class Testimonials extends React.Component {
@@ -12,7 +12,7 @@ class Testimonials extends React.Component {
       return (
         <Layout>
           <SEO title="Testimonials"/>
-            <h1>Don’t just take my word for it</h1>
+            <h1>Don’t take my word for it</h1>
             <Testimonial text="Anton was thorough and a pleasure to work with. He’s a great collaborator and partner to work through product solutions alongside. He does what he says and never misses a deadline, an unfortunate rarity these days that you don’t have to worry about with Anton." author="TRAVIS SCHMEISSER, FOUNDER & PARTNER, FIRST PRINCIPLE"/>
             <Testimonial text="I have had the pleasure of working with Anton in a visual and UX redesign of our services. I am enthused and impressed by how Anton chooses simplicity over complexity and keeps the design interesting, appealing and accessible.<br><br>Furthermore, he is a humble and unassuming person that is a pleasure to work with. I would happily recommend Anton for your visual and/or UX needs." author="HUBERT KJELLBERG, PRESIDENT, BROCKHAUS & NATIONALENCYKLOPEDIN"/>
             <Testimonial text="Working with Anton was an easy, pleasant experience. Communication was clear and all deadlines were met. Anton is a great asset to have on your team for your project." author="CHARISSE GIBILISCO WIERUP, STRATEGIC BRANDING, HEADBRANDS"/>

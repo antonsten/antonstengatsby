@@ -1,3 +1,11 @@
-<svg width="8" height="8" viewBox="0 0 8 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M6.556 8L3.999 5.443L1.443 8L0 6.557L2.556 4L0 1.443L1.443 0L4 2.555L6.555 0L7.999 1.443L5.443 4L8 6.555L6.556 8Z" fill="white"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="8px" viewBox="0 0 8 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="close" fill="#737373" fill-rule="nonzero">
+            <polygon id="Path" points="6.556 8 3.999 5.443 1.443 8 0 6.557 2.556 4 0 1.443 1.443 0 4 2.555 6.555 0 7.999 1.443 5.443 4 8 6.555"></polygon>
+        </g>
+    </g>
 </svg>

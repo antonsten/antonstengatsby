@@ -3,21 +3,27 @@ import '../css/style.css'
 import Layout from "../components/layout"
 import Form from "../components/signupform"
 import SEO from "../components/seo"
-import { Link } from "gatsby"
+import Testimonial from '../components/testimonial';
 
 class Contact extends React.Component {
   render() {
       return (
         <Layout>
-          <SEO title="Contact"/>
+          <SEO title="Sign up for my newsletter"/>
             <h1>Sign up for my newsletter</h1>
-            <del className="mb-8">
-              Esther Williams said, “wisdom is a useless gift unless you share it” and I couldn’t agree more.
-            </del>
+
+            <Testimonial text="Great laser focused UX content, told in an easy to understand way, helping to make sure I keep my eye on the UX ball. Don’t miss out." author="Tom Walenkamp, The Wine Gallery"/>
+
+
             <p>
               I like to share what I have discovered about creating amazing user experiences, embracing creativity, and sustaining a successful freelancing career.
             </p>
+
+
             <Form/>
+
+
+
         </Layout>
       );
   }

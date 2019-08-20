@@ -9,7 +9,7 @@ class Client extends React.Component {
 
     return (
       <div className={ classes }>
-        <div className="w-full flex items-center justify-center h-full bg-white relative">
+        <div className="w-full flex items-center justify-center h-full bg-grey-lightest rounded-sm relative">
           { this.props.link &&
             <a rel="noopener noreferrer" target="_blank" className="no-underline" href={ this.props.link }>
               <img alt={this.props.logo} className={ imgClasses } src={ this.props.logo }/>
@@ -19,11 +19,11 @@ class Client extends React.Component {
             <img alt={this.props.logo} className={ imgClasses } src={ this.props.logo }/>
           }
           { this.props.case &&
-            <span className="w-full flex items-center justify-center flex-wrap h-full bg-white relative">
+            <span className="w-full flex items-center justify-center flex-wrap h-full relative">
               <Link className="no-underline" to={ this.props.case }>
                 <img alt={this.props.logo} className={ imgClasses } src={ this.props.logo }/>
               </Link>
-              <Link to={ this.props.case } className="text-center case-link mb-1 w-full absolute pin-b pb-4 text-xs uppercase tracking-wide font-bold link invisible sm:visible">View case</Link>
+              <Link to={ this.props.case } className="text-center case-link mb-1 w-full absolute pin-b pb-4 font-sans text-xs uppercase tracking-wide font-bold link invisible sm:visible">View case</Link>
             </span>
           }
         </div>

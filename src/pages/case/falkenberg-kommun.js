@@ -1,6 +1,5 @@
 import React from "react"
 import '../../css/style.css'
-import { Link } from 'gatsby';
 import Img from "gatsby-image"
 
 import Layout from "../../components/layout"
@@ -16,13 +15,12 @@ class Falkenberg extends React.Component {
           <SEO title="​​Falkenberg: Serving all citizens"/>
           <div className="w-full">
             <h1 className="pr-0 sm:pr-12">​​Falkenberg: Serving all citizens</h1>
-            <CaseData link="https://kommun.falkenberg.se/" expertise="Information Architecture, User Experience, User Interface" delivarables="Design, Process"/>
             <del>
               ​​Making practical, important information accessible and easy to find for 20,000 Falkenberg-ians.
             </del>
-            
+
             <p>​​​​​​​​Since the beginning of time, city and municipality websites have been horrendous (well, since the beginning of Internet-time, anyway). They’re boring, poorly designed, PACKED with information, and they usually look like they’re built with a Wordpress template from 2007. ​​ ​​While the municipality of Falkenberg’s website wasn’t that bad, it did comprise almost 9,000 pages when we started this project. For a city with a population of just above 20,000, that’s a LOT of pages—are all of those pages really needed? Is there a better way to present all that information? Luckily for the people of Falkenberg, their city administration decided to explore the answers to those questions.</p>
-            
+
             <Img className="w-full mt-12 mb-12" fluid={data.image1.childImageSharp.fluid} />
 
             <h2>Information overload</h2>
@@ -41,8 +39,9 @@ class Falkenberg extends React.Component {
             <Img className="w-full mt-12 mb-12" fluid={data.image5.childImageSharp.fluid} />
 
             <Testimonial text="​​I just saw some of the first design mockups for the city website. WOW! You’re so damn talented! I got a bit emotional—imagine that our municipality will have this kind of communication and design soon! THANK YOU." author="MONICA KLINGBORG, FALKENBERG KOMMUN"/>
-
           </div>
+
+          <CaseData link="https://kommun.falkenberg.se/" expertise="Information Architecture, User Experience, User Interface" delivarables="Design, Process"/>
       </Layout>
     )
   }

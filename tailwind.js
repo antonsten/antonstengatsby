@@ -51,11 +51,13 @@ let colors = {
   'grey-darkest': '#3d4852',
   'grey-darker': '#606f7b',
   'grey-dark': '#8795a1',
-  'grey': '#b8c2cc',
-  'grey-light': '#dae1e7',
-  'grey-lighter': '#f1f5f8',
-  'grey-lightest': '#f8fafc',
+  'grey': '#737373',
+  'grey-light': '#E0E0E0',
+  'grey-lighter': '#F2F2F2',
+  'grey-lightest': '#FAFAFA',
   'white': '#ffffff',
+
+  'link': '#0070C9',
 
   'red-darkest': '#3b0d0c',
   'red-darker': '#621b18',
@@ -68,7 +70,7 @@ let colors = {
   'orange-darkest': '#462a16',
   'orange-darker': '#613b1f',
   'orange-dark': '#de751f',
-  'orange': '#9C0061',
+  'orange': '#0070C9',
   'orange-light': '#faad63',
   'orange-lighter': '#fcd9b6',
   'orange-lightest': '#fff5eb',
@@ -196,28 +198,14 @@ module.exports = {
 
   fonts: {
     'sans': [
-      'system-ui',
-      'BlinkMacSystemFont',
       '-apple-system',
-      'Segoe UI',
-      'Roboto',
-      'Oxygen',
-      'Ubuntu',
-      'Cantarell',
-      'Fira Sans',
-      'Droid Sans',
+      'BlinkMacSystemFont',
+      'SF',
       'Helvetica Neue',
       'sans-serif',
     ],
     'serif': [
-      'Constantia',
-      'Lucida Bright',
-      'Lucidabright',
-      'Lucida Serif',
-      'Lucida',
-      'DejaVu Serif',
-      'Bitstream Vera Serif',
-      'Liberation Serif',
+      'FreightDispProBook-Regular',
       'Georgia',
       'serif',
     ],
@@ -253,15 +241,15 @@ module.exports = {
   */
 
   textSizes: {
-    'xs': '.75rem',     // 12px
+    'xs': '.69rem',     // 11px
     'sm': '.875rem',    // 14px
     'base': '1rem',     // 16px
-    'lg': '1rem',   // 18px
-    'xl': '1.225rem',    // 20px
-    '2xl': '1.75rem',    // 24px
+    'lg': '1.35rem',   // 18px
+    'xl': '1.5rem',    // 24px
+    '2xl': '1.75rem',    // 28px
     '3xl': '1.875rem',  // 30px
     '4xl': '2.25rem',   // 36px
-    '5xl': '3rem',      // 48px
+    '5xl': '3.5rem',      // 56px
   },
 
 
@@ -309,8 +297,8 @@ module.exports = {
   leading: {
     'none': 1,
     'tight': 1.4,
-    'normal': 1.6,
-    'loose': 1.7,
+    'normal': 1.5,
+    'loose': 1.9,
   },
 
 
@@ -453,7 +441,7 @@ module.exports = {
   borderRadius: {
     'none': '0',
     'sm': '5px',
-    default: '.25rem',
+    default: '2px',
     'lg': '.5rem',
     'full': '9999px',
   },
@@ -615,12 +603,13 @@ module.exports = {
     'sm': '30rem',
     'md': '40rem',
     'lg': '50rem',
-    'xl': '840px',
+    'xl': '740px',
     '2xl': '70rem',
     '3xl': '80rem',
     '4xl': '90rem',
     '5xl': '100rem',
     'full': '100%',
+    '1/2': '50%',
   },
 
 
