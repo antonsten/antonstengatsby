@@ -15,7 +15,7 @@ class Masteringfreelance extends React.Component {
       <Layout>
           <SEO title="User Experiences that Matter - E-book"/>
           <div className="w-full">
-          <Img className="w-1/3" fluid={data.image1.childImageSharp.fluid} />
+          <Img fluid={data.image1.childImageSharp.fluid} />
             <h1 className="pr-0 sm:pr-12">User Experiences that Matter e-book</h1>
 
             <del>
