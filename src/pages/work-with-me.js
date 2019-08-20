@@ -8,8 +8,8 @@ class Contact extends React.Component {
   render() {
       return (
         <Layout>
-            <SEO title="Work with me"/>
-            <h1>Work with me</h1>
+            <SEO title="Work With Me"/>
+            <h1>Work With Me</h1>
 
             <del className="mb-8">
             If you’ve worked with agencies before, you can throw away all your expectations. Working with me is nothing like that. I am the only contact point you’ll ever have. I’ll never outsource your work. I’ll never charge you for a receptionist. I am a one-man company* and I have no intention of ever changing that <em>(* dogs not included)</em>.
