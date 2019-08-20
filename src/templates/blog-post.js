@@ -23,7 +23,7 @@ class BlogPostTemplate extends React.Component {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
     const posts = this.props.data.allMarkdownRemark.edges
-    const pathName = window.location.pathname
+    const pathName = typeof window !== 'undefined' && window.location.pathname
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
