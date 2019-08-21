@@ -19,7 +19,7 @@ class BlogIndex extends React.Component {
         />
         <div className="w-full">
           <h1 className="pr-0 sm:pr-12">Anton Sten leads UX for design-driven companies.</h1>
-          <del className="mb-4 mt-4">My specialty? Using my design skills and business knowledge <em>to not just make your digital product look pretty, but to make it work.</em>
+          <del className="mb-4 mt-4">My speciality? Using my design skills and business knowledge <em>to not just make your digital product look pretty, but to make it work.</em>
           </del>
 
           <p className="mt-12">
