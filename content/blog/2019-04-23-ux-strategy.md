@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: 'What’s a UX Strategy?'
+title: 'Creating a UX Strategy'
 date: 2019-04-23T04:39:07+00:00
 author: Anton Sten
 slug: uxstrategy/
