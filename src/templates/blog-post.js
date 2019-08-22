@@ -54,10 +54,6 @@ class BlogPostTemplate extends React.Component {
           </div>
         </div>
 
-        <div className="block w-full float-left mb-16 bg-grey-lightest rounded-sm p-8 text-blacker">
-        <p className="text-xs uppercase font-sans tracking-wide font-bold text-link mt-0">Now read:</p>
-        <div class="rek-prediction" data-nrofhits="3" data-useh1forcontent="true" className="flex justify-between py-3 mb-0 border-b border-grey-light no-underline text-black hover:text-orange truncate font-serif text-xl"></div>
-        </div>
 
         <div className="w-full flex">
           <Form title="Get more writing like this" text="Sign up and get new writing, just like this, every other two weeks. Unsubscribe any time (I'm not a dickhead)."/>
