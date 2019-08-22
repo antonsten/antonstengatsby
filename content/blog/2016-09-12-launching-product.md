@@ -1,10 +1,8 @@
 ---
-id: 2215
-title: 'From Idea to Market &#8211; Launching a Product'
+title: 'From Idea to Market: Launching a Product'
 date: 2016-09-12T15:06:47+00:00
 author: Anton Sten
 layout: blogpost
-guid: https://www.antonsten.com/?p=2215
 slug: launching-product/
 ---
 

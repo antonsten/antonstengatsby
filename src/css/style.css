@@ -95,7 +95,7 @@ blockquote, blockquote p {
   }
 
   blockquote, blockquote p {
-    @apply text-xl leading-normal font-sans text-lg;
+    @apply leading-normal font-sans text-lg;
   }
 }
 

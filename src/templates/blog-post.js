@@ -4,6 +4,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Form from "../components/signupform"
 
+
 class BlogPostTemplate extends React.Component {
   constructor(props) {
     super(props);
@@ -53,6 +54,12 @@ class BlogPostTemplate extends React.Component {
           </div>
         </div>
 
+        <div className="w-full flex text-xs uppercase font-sans tracking-wide font-bold">
+       <script src="https://static.rek.ai/8a61c891.js"></script>
+        Now read:
+        <div class="rek-prediction" data-nrofhits="3" data-useh1forcontent="true" data-excludetree="about,work-with-me,work,blog,books,contact,case" className="font-serif"></div>
+        </div>
+
         <div className="w-full flex">
           <Form title="Get more writing like this" text="Sign up and get new writing, just like this, every other two weeks. Unsubscribe any time (I'm not a dickhead)."/>
         </div>
@@ -74,6 +81,10 @@ class BlogPostTemplate extends React.Component {
             )
           })}
         </div>
+        <script type="text/javascript">
+               window.rek_viewclick = true;
+         </script>
+        <script src="https://static.rek.ai/8a61c891.js"></script>
       </Layout>
     )
   }

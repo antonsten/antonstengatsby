@@ -1,10 +1,8 @@
 ---
-id: 866
-title: 'What is the cost of &#8216;sharing&#8217;?'
+title: 'What is the cost of sharing?'
 date: 2015-06-03T10:23:05+00:00
 author: Anton Sten
 layout: blogpost
-guid: https://www.antonsten.com/?p=866
 slug: what-is-cost-of-sharing/
 ---
 ~~It’s natural to have differing opinions. When working on any major project/website it is to be expected. Honestly, I would say that it is a bad sign if everyone agrees on everything. Lately, I’ve been giving a lot of thought to one specific discussion that has come up in every web project that I’ve ever worked on. This discussion seems to be more common on eCommerce websites, but I’ve experienced it in almost all types of digital projects (even iPhone apps!). The client’s demand for social media sharing.~~
@@ -36,7 +34,6 @@ So, back to my client. I think it’s pretty safe to say that most people wouldn
 
 So, imagine my excitement when I read <a href="http://www.ericmobley.net/social-media-share-buttons-impact-on-performance/" target="_blank">Eric Mobley’s excellent post</a> on how social media share buttons impact your website’s loading speed and performance. He took the time to perform tests with blank pages and measured the page load of different social media sharing options. Addthis.com, one such option, added around 500kb of extra data to your your page. Dependant on the connection, it’s safe to assume that your customer will be waiting for at least one extra second for just those icons. It absolutely validates the argument that there is a cost to adding that option.
 
-![What's the cost of social media sharing?](/images/pablo-3.png)
 
 ## When designing webpages and online experiences we need to consider everything &#8212; load time included.
 
