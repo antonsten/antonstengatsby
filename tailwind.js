@@ -198,9 +198,9 @@ module.exports = {
 
   fonts: {
     'sans': [
+      'SF',
       '-apple-system',
       'BlinkMacSystemFont',
-      'SF',
       'Helvetica Neue',
       'sans-serif',
     ],
