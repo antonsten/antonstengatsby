@@ -105,7 +105,7 @@ class Writing extends React.Component {
           <Form/>
 
 
-          <h2 id="bite-sized">Bite-sized posts</h2>
+          <h2 id="bite-sized">Bite-sized Posts</h2>
           <div className="w-full pb-12">
             {posts.map(({ node }) => {
               const title = node.frontmatter.title || node.fields.slug
