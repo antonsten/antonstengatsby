@@ -80,12 +80,11 @@ class Writing extends React.Component {
             <a href="https://www.beingfreelance.com/season-4/mastering-freelance-anton-sten-ux-designer-podcast" target="_blank">It Takes Time</a> - Being Freelance episode 100
           </p>
 
-          <h2>From My Newsletter</h2>
+          <h2 id="from-newsletter">From My Newsletter</h2>
           <div className="w-full pb-12">
             {posts.map(({ node }) => {
               const title = node.frontmatter.title || node.fields.slug
               const tag = node.frontmatter.tag
-              console.log(node.frontmatter);
 
               if(tag == 'newsletter') {
                 return (
@@ -106,21 +105,25 @@ class Writing extends React.Component {
           <Form/>
 
 
-          <h2>Everything in Chronological Order</h2>
+          <h2 id="bite-sized">Bite-sized posts</h2>
           <div className="w-full pb-12">
             {posts.map(({ node }) => {
               const title = node.frontmatter.title || node.fields.slug
-              return (
-                <div key={node.fields.slug}>
-                  <p className="flex justify-between py-3 font-normal mb-0 border-b border-grey-light">
-                    <Link className="no-underline text-black hover:text-orange truncate" to={node.fields.slug}>
-                      {title}
-                    </Link>
-                    <span className="hidden sm:block text-xs uppercase font-sans tracking-wide text-grey">{node.frontmatter.date}</span>
-                  </p>
+              const tag = node.frontmatter.tag
 
-                </div>
-              )
+              if(tag !== 'newsletter') {
+                return (
+                  <div key={node.fields.slug}>
+                    <p className="flex justify-between py-3 font-normal mb-0 border-b border-grey-light">
+                      <Link className="no-underline text-black hover:text-orange truncate" to={node.fields.slug}>
+                        {title}
+                      </Link>
+                      <span className="hidden sm:block text-xs uppercase font-sans tracking-wide text-grey">{node.frontmatter.date}</span>
+                    </p>
+
+                  </div>
+                )
+              }
             })}
           </div>
           </div>
