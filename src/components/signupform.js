@@ -61,7 +61,7 @@ class Form extends React.Component {
         { !this.state.hasSignedUp &&
           <div className="w-full mt-6 block">
             <label htmlFor="email" className="uppercase font-sans text-xs font-bold tracking-wide block w-full mb-2">e-mail</label>
-            <input type="email" id="email" value={ email } required="required" onChange={this.handleChange} name="email" className="text-xs uppercase rounded-sm font-bold tracking-wide px-4 w-full sm:w-64 mr-4"/>
+            <input type="email" id="email" value={ email } required="required" onChange={this.handleChange} name="email" className="text-xs uppercase font-sans text-link rounded-sm font-bold tracking-wide px-4 w-full sm:w-64 mr-4"/>
             <input type="submit" value={ submit } className="btn mt-4 sm:mt-0"/>
           </div>
         }
