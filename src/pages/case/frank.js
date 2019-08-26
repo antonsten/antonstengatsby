@@ -23,7 +23,7 @@ class Frank extends React.Component {
 
             <Img className="w-full mt-12 mb-12" fluid={data.image1.childImageSharp.fluid} />
 
-            <Testimonial text="Anton has been across every aspect of the new website build and has given crucial advice in between the design & dev team and the company directors. His advice has been crucial to the success of the new store." author="ALEX BOFFA, CEO"/>
+            <Testimonial logo="/images/clients/frank.png" text="Anton has been across every aspect of the new website build and has given crucial advice in between the design & dev team and the company directors. His advice has been crucial to the success of the new store." author="ALEX BOFFA, CEO"/>
 
             <h2 className="mt-12">Small changes = big $$$</h2>
             <p>​​I worked on the entire Frank Body buying process to ensure a cohesive, even enjoyable, user experience from end to end. At a high level, this involved improving the kinds of things every website needs to do well, like accessibility and page speed, and defining and answering user flow questions like what happens when a user orders something, and what happens when a product ships. But conversion optimization also entails paying attention to smaller but just as crucial details, like making sure CTAs are clear and eye-catching; using familiar, consistent terms in navigation and across the site; and building product pages so the three most important things—product name, price, CTA—are front and center, which is also important for Google search rank. All combined, and voila, you have yourself a high-converting great online store.</p>

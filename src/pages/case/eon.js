@@ -23,7 +23,7 @@ class Eon extends React.Component {
             <h2>Tracking energy usage</h2>
             <p className="mb-12">One of the biggest expenses for a factory, a property management company, or any large-scale business is its energy consumption. This is why tracking energy use and identifying inefficiencies early is crucial. E.ON, a Fortune 100 company, asked me to find a way to make it easier for large-business customers to easily track their energy consumption. ​​ ​​The result, E.ON Navigator, is a suite of tools that puts businesses in control of their energy costs, revealing opportunities to spend and use less and improving the health of their business and—most importantly—the environment.</p>
 
-            <Testimonial text="What impresses me most is the way Anton understand the underlying needs of the business, and translates that into a beautiful solution. Anton is very easy to work with and he is good at finding the balance between listening and pushing." author="ANNA BENGTSSON, E.ON"/>
+            <Testimonial logo="/images/clients/eon.png" text="What impresses me most is the way Anton understand the underlying needs of the business, and translates that into a beautiful solution. Anton is very easy to work with and he is good at finding the balance between listening and pushing." author="ANNA BENGTSSON, E.ON"/>
 
             <h2 className="mt-12">Process</h2>
 

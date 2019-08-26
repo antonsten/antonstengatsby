@@ -12,7 +12,7 @@ class Contact extends React.Component {
           <SEO title="Sign up for my newsletter"/>
             <h1>Sign up for my newsletter</h1>
 
-            <Testimonial text="Great laser focused UX content, told in an easy to understand way, helping to make sure I keep my eye on the UX ball. Don’t miss out." author="Tom Walenkamp, The Wine Gallery"/>
+            <Testimonial logo="/images/clients/winegallery.png" text="Great laser focused UX content, told in an easy to understand way, helping to make sure I keep my eye on the UX ball. Don’t miss out." author="Tom Walenkamp, The Wine Gallery"/>
 
 
             <p>

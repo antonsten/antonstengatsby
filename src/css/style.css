@@ -23,14 +23,14 @@ header {
 }
 
 header a, header a:hover {
-  font-weight: 700;
+  font-weight: 400;
   border: none;
 
   @apply font-sans text-base;
 }
 
 [aria-current] {
-  text-decoration: line-through;
+  text-decoration: underline;
   color: #0070C9;
 }
 
@@ -54,12 +54,12 @@ footer a {
 
 footer a:hover {
   border: none;
-  text-decoration: line-through;
 }
 
 footer li, .date {
   font-size: 15px;
 }
+
 
 /* content */
 
