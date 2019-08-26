@@ -20,9 +20,9 @@ class Popup extends React.Component {
   render() {
     if(this.state.isVisible) {
       return (
-        <div className="hidden bg-grey-lighter py-2 fixed w-full pin-b text-black sm:flex items-center">
-          <div className="max-w-xl mx-auto w-full px-4">
-            <p className="pr-12 sm:pr-0 font-sans text-base">Want a UX-course in your inbox? <Link to="/uxcourse">Get it for free!</Link></p>
+        <div className="hidden bg-grey-lighter fixed w-full pin-b text-black sm:flex items-center">
+          <div className="max-w-xl mx-auto w-full px-2">
+            <p className="pr-12 sm:pr-0 font-sans text-lg">Want a UX-course in your inbox? <Link to="/uxcourse">Get it for free!</Link></p>
           </div>
           <img onClick={ this.hidePopup }  className="absolute pin-r mr-8 my-auto cursor-pointer" alt="close" src="/images/close.svg"/>
         </div>
