@@ -4,6 +4,8 @@ date: 2015-06-03T10:23:05+00:00
 author: Anton Sten
 layout: blogpost
 slug: what-is-cost-of-sharing/
+tag: 'newsletter'
+
 ---
 ~~It’s natural to have differing opinions. When working on any major project/website it is to be expected. Honestly, I would say that it is a bad sign if everyone agrees on everything. Lately, I’ve been giving a lot of thought to one specific discussion that has come up in every web project that I’ve ever worked on. This discussion seems to be more common on eCommerce websites, but I’ve experienced it in almost all types of digital projects (even iPhone apps!). The client’s demand for social media sharing.~~
 

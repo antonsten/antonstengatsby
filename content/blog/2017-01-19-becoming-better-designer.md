@@ -6,6 +6,8 @@ author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=2698
 slug: becoming-better-designer/
+tag: 'newsletter'
+
 ---
 ~~One of the thing I enjoy the most with writing the blog and books is getting feedback from you. These comments and questions are crucial to evolving at creating better user experiences and offering extra insight into what my next steps should be. I think it even helps me continue becoming a more grounded, better person in the long run.~~
 

@@ -6,6 +6,8 @@ author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1799
 slug: 5-things-football-teach-us-building-products/
+tag: 'newsletter'
+
 ---
 ~~Football draws the eye of the world and this last week’s European Championship in France was no different. The eliminations of Belgium and Germany surprised many in the football community and lead to the grand finale between Portugal and France. There’s a classic saying in football that it’s a game between two teams for 90 minutes and in the end Germany wins. This time that didn’t happen. As much as a shock it was for football fanatics like myself, I love these kinds of tournaments! Now that Premier League is just around the corner, I’ve realized that there are many similarities between being successful in football and building a GREAT product.~~
 

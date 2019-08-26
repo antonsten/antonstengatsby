@@ -7,6 +7,8 @@ slug: my-responsibilities/
 image: '/images/idea.jpg'
 topImage: '/images/idea.jpg'
 description: We like to blame Facebook and Google for all of our tech issues (privacy concerns, fake news), but aren’t we responsible too? If we didn’t click, read, and believe then we would be better off today. The change starts with you and I.
+tag: 'newsletter'
+
 ---
 
 ~~The tech industry is growing at an exponential rate influencing society to the point that we are seeing the biggest shift, perhaps ever, in man-kind. Some tech services actually have billions of users. You read that right, not thousands, not millions, but BILLIONS of human beings using them regularly. It would be arrogant not to say that these services are forming our society and shaping our norms while their only objective was to keep the growth curve… growing.~~

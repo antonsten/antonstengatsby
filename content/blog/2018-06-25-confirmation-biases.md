@@ -7,6 +7,8 @@ slug: confirmation-bias/
 image: '/images/idk.jpg'
 topImage: '/images/idk.jpg'
 description: Do your user’s actions not line up with their feedback? Don’t worry, it’s pretty common. It’s actually part of their (and yours) confirmation biases!
+tag: 'newsletter'
+
 ---
 
 ~~I’ve recently been reading a book called [The Black Swan](https://www.amazon.com/dp/B00139XTG4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Nassim Nicholas Taleb and it got me thinking about our confirmed way of thinking. The book focuses on the extreme impact of certain kinds of rare and unpredictable events and how we strive to find simplistic explanations for these events later on. The problem, as Nassim explains, is that we place odds on past events repeating themselves even if they are rare, unpredictable, and - most of all - unrepeatable.~~

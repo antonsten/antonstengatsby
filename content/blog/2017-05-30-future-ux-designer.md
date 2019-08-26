@@ -5,6 +5,8 @@ author: Anton Sten
 layout: blogpost
 image: 'images/Where-is-the-future-of-voice-recognition-and-AI.jpg'
 slug: future-ux-designer/
+tag: 'newsletter'
+
 
 ---
 ~~There’s been a lot of press lately on how AI-powered assistants will make our lives better/easier/more manageable very soon.~~

@@ -6,6 +6,8 @@ author: Anton Sten
 slug: whatdoyoudo/
 description: What do you do? is a question we all dread. What if I told you I had a better question?
 image: 'images/ian-schneider-66374.jpg'
+tag: 'newsletter'
+
 ---
 ~~“So… what do you do?” is a question that we’ve all been asked more times than we can remember. This simple question can lead to people going on forever on what their complicated Executive Director title really mean for their business while failing to communicate their core product in less than ten minutes. If this is an elevator pitch, I guess we’re going up to the top of the Burj Khalifa.~~
 

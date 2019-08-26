@@ -7,6 +7,8 @@ slug: back-to-work/
 image: '/images/book.png'
 topImage: '/images/book.png'
 description: I learn more about UX from books NOT about UX. Check out what was on my reading list this summer.
+tag: 'newsletter'
+
 ---
 
 ~~You may have noticed that my blog has been quiet lately. I actually made a conscious choice to stay away from my computer and keep my consumption of digital media to a minimum. This allowed me to be out and about and enjoy the heat wave this amazing summer in Sweden has given us (while trying to ignore that it’s an obvious sign that the climate is changing).~~

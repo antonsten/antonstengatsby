@@ -6,6 +6,8 @@ author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1074
 slug: ux-is-much-more-than-software/
+tag: 'newsletter'
+
 ---
 ## My Process for Understanding the FULL User Experience
 

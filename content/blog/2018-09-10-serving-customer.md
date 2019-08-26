@@ -7,6 +7,8 @@ slug: serving-customer/
 image: '/images/man_computer_large.png'
 topImage: '/images/man_computer_large.png'
 description: Want to raise your rates, but don’t know how? Packaging your services might be the right choice for you!
+tag: 'newsletter'
+
 ---
 
 ~~My brother-in-law is a freelancer like me. He’s a camera operator and sets all the cabling for larger live streamed tv-events - mostly sports related. He called me the other day to ask for help raising his rates. You see, he’s been working for the same company for seven years and hasn’t renegotiated his rates at all. It is especially daunting to ask for an increase when you’ve worked for one company for so long. Many of us have found ourselves in very similar situations and this is tough to navigate.~~

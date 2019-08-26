@@ -6,6 +6,8 @@ author: Anton Sten
 slug: abetteruserexperience/
 image: '/images/rahul-chakraborty-fb-unsplash.jpg'
 Description: FacebookProtect on iOS is an app built for your safety and security. What if I told you that wasn’t true? Not all good user experiences are honest when your data is on the line. In fact, they may be used against you.
+tag: 'newsletter'
+
 ---
 
 ~~Everyone wants to provide a ‘great user experience’ to their customers. And why not, it’s a big part of what creates loyal users. In fact, in today’s tech environment there’s a user expectation that all products need to have genuinely well-crafted user experiences. Without one, the product simply won’t succeed. The talent, resources, and logistics needed to create these are costly for companies and that cost usually gets passed on to the user. But what about all those “free” options out there? Is there a price we’re not aware of?~~

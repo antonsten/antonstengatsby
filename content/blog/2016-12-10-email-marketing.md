@@ -6,6 +6,8 @@ author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=2578
 slug: email-marketing/
+tag: 'newsletter'
+
 ---
 ~~I recently tried out <a href="https://unroll.me" target="_blank">Unroll.me</a>, a service that taps into your email account and lists what newsletters you are subscribed to. It provides you with a single, user-friendly interface to unsubscribe from unwanted emails.~~
 

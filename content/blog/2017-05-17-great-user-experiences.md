@@ -6,6 +6,8 @@ author: Anton Sten
 layout: blogpost
 guid: https://antonsten.com/?p=3110
 slug: great-user-experiences/
+tag: 'newsletter'
+
 ---
 ~~It’s been <a href="https://antonsten.com/hey-siri-whats-the-future-of-user-interfaces/" target="_blank">nearly two years since I got my Apple Watch</a> and while it’s been heavily criticized since it launched, I still believe it’s a product with great potential.~
 
