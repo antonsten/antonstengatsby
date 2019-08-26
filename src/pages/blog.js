@@ -89,7 +89,7 @@ class Writing extends React.Component {
               if(tag == 'newsletter') {
                 return (
                   <div key={node.fields.slug}>
-                    <p className="flex justify-between py-3 font-normal mb-0 border-b border-grey-light">
+                    <p className="flex justify-between py-3 font-normal mb-0 border-b border-grey-light mt-1 items-center">
                       <Link className="no-underline text-black hover:text-orange truncate" to={node.fields.slug}>
                         {title}
                       </Link>
@@ -114,7 +114,7 @@ class Writing extends React.Component {
               if(tag !== 'newsletter') {
                 return (
                   <div key={node.fields.slug}>
-                    <p className="flex justify-between py-3 font-normal mb-0 border-b border-grey-light">
+                    <p className="flex justify-between py-3 font-normal mb-0 border-b border-grey-light mt-1 items-center">
                       <Link className="no-underline text-black hover:text-orange truncate" to={node.fields.slug}>
                         {title}
                       </Link>
