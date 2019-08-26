@@ -66,16 +66,15 @@ body {
     	font-display: swap;
     }
 
-
-    /* RM Pro Bold Italic */
+    /* RM Pro Light */
     @font-face {
     	font-family: RM Pro;
-    	src:	url('/fonts/hinted-RMPro-BoldItalic.eot'); /* IE9 Compat Modes */
-    	src:	url('/fonts/hinted-RMPro-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    			url('/fonts//RM Pro Bold Italic.woff2') format('woff2'), /* Super Modern Browsers */
-    			url('/fonts/hinted-RMPro-BoldItalic.woff') format('woff'); /* Pretty Modern Browsers */
-    	font-weight: 700;
-    	font-style: italic;
+    	src:	url('/fonts/hinted-RMPro-Light.eot'); /* IE9 Compat Modes */
+    	src:	url('/fonts/hinted-RMPro-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    			url('/fonts/RM Pro Light.woff2') format('woff2'), /* Super Modern Browsers */
+    			url('/fonts/hinted-RMPro-Light.woff') format('woff'); /* Pretty Modern Browsers */
+    	font-weight: 300;
+    	font-style: normal;
     	font-display: swap;
     }
 
