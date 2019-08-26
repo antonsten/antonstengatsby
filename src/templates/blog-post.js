@@ -25,7 +25,8 @@ class BlogPostTemplate extends React.Component {
     const siteTitle = this.props.data.site.siteMetadata.title
     const posts = this.props.data.allMarkdownRemark.edges
     const pathName = typeof window !== 'undefined' && window.location.pathname
-
+    const tag = post.frontmatter.tag
+    
     return (
       <Layout location={this.props.location} title={siteTitle}>
 
@@ -102,6 +103,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        tag
       }
     }
     allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
@@ -114,6 +116,7 @@ export const pageQuery = graphql`
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
+            tag
           }
         }
       }
