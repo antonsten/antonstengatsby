@@ -6,6 +6,8 @@ author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1499
 slug: no-one-really-knows-what-they-want/
+tag: 'newsletter'
+
 ---
 For the past two and a half years, I’ve been working on a project that I haven’t spent a lot of time talking about. I haven’t brought it up in my blogs nor has it been featured on my website. I’ve been working with E.ON to build and iterate a digital product for their biggest business customers. This product allows these customers to easily track their heating and electricity usage online. While this may seem like peanuts to all of us, it can add up to \*a lot\* of money for larger corporations. Ultimately, the goal is for them to consume less and less electricity resulting in a healthier world.
 

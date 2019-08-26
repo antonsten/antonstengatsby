@@ -6,6 +6,8 @@ author: Anton Sten
 slug: chasinggrowth/
 description: How do you value growth? Is it the most important factor in today’s economy or just a bad way of measuring success?
 image: 'images/blog-chasinggrowth.png'
+tag: 'newsletter'
+
 ---
 
 ~~Our society seems to be obsessed with growth. Often you will hear people talking about companies’ headcount as a measure of their success. The bigger the better! “Wow, last year they were just 450 and now they’re nearly 800! They are on their way to being really successful!” In fact, we seem to apply the same metrics to most things today. “They have 5 million active users now!” “They’re valued at $2 billion now!”~~

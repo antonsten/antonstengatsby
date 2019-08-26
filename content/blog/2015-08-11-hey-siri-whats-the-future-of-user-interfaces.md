@@ -5,6 +5,8 @@ date: 2015-08-11T08:55:07+00:00
 author: Anton Sten
 layout: blogpost
 slug: hey-siri-whats-the-future-of-user-interfaces/
+tag: 'newsletter'
+
 ---
 ~~About a month ago, the Apple Watch finally launched in Sweden &#8211; nearly three months after the US launch. Although the watch itself hasn’t really excited me, I was still very eager to try out this new kind of device. It represents a new product category that I have been interested in exploring. What would a device like this mean to my everyday life? Would I actually use it? Would I enjoy it? Apple has proudly labeled it as “their most personal device yet” and I was eager to see how true that was.~~
 

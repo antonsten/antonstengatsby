@@ -7,13 +7,15 @@ slug: voiceinput-socialnorms/
 image: '/images/googlehome.png'
 topImage: '/images/googlehome.png'
 description: Are Alexa, Siri, and GoogleAssistant changing us? The questions of privacy, respect, and inclusion in voice input has come up a lot, but we don’t often hear how it’s changing society. Is it for the better or the worse? You be the judge.
+tag: 'newsletter'
+
 ---
 
 ~~There’s an interesting shift happening with our technology as we move from touch based inputs to voice. The Amazon Echo is a huge success (despite it’s [terrifying statements](https://www.digitaltrends.com/home/alexa-people-dying-statement/)), the Google Assistant is getting better and better (although there are [privacy concerns](https://www.antonsten.com/ai-ethics/)) and even Siri is catching up with Apple’s increased investment into the technology. What isn’t said is that it may be changing society around us without us noticing - for the good and the bad.~~
 
 ## Accessibility for all
 
-[Voice is something that’s incredibly natural for us.](https://www.antonsten.com/voiceinput/) Newborns recognize their mother’s voice moments after birth having heard a muffled version of it while in the womb. When we’re faced with extreme situations, we instinctively turn to our voice - screaming and crying for both help and joy. 
+[Voice is something that’s incredibly natural for us.](https://www.antonsten.com/voiceinput/) Newborns recognize their mother’s voice moments after birth having heard a muffled version of it while in the womb. When we’re faced with extreme situations, we instinctively turn to our voice - screaming and crying for both help and joy.
 
 It’s easy to believe that voice input would remove some of the issues with accessibility that we have screen based user interfaces. No more being concerned with color contrast, font sizes, or missing alt-tags, right? While this may be true for many of us, it unfortunately can’t be accommodating for those who don’t communicate verbally.
 

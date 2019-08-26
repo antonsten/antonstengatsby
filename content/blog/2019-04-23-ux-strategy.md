@@ -6,6 +6,8 @@ author: Anton Sten
 slug: uxstrategy/
 image: '/images/uxis.png'
 description: UX strategy is more than a catch phrase. It's becoming necessary part of the development process of all the great products you use everyday.
+tag: 'newsletter'
+
 ---
 
 One of the first things I like to do when joining larger projects is to research if there's any UX strategy in place. You might not be familiar with the term, but be assured you aren't alone - which is why I thought a post like this was needed. The tl:dr of it all is that it's a document that should outline the goals and guidelines when it comes to UX. Think of it this way - it's nearly impossible  for teams to be the best at everything, so we need a way to align our priorities and focus on delivering the best possible experience in the areas that matter the most to our users.

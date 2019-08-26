@@ -5,8 +5,8 @@ author: Anton Sten
 layout: blogpost
 slug: ux-designer/
 image: 'images/Screen-Shot-2015-09-11-at-14.31.59.jpg'
-medium_post:
-  - 'O:11:"Medium_Post":7:{s:16:"author_image_url";s:75:"https://cdn-images-2.medium.com/fit/c/200/200/1*sBkMGX19CG9furNqzt-uBg.jpeg";s:10:"author_url";s:29:"https://medium.com/@antonsten";s:10:"cross_link";s:3:"yes";s:2:"id";s:12:"5a13e46c1c72";s:7:"license";s:19:"all-rights-reserved";s:6:"status";s:5:"draft";s:3:"url";s:42:"https://medium.com/@antonsten/5a13e46c1c72";}'
+tag: 'newsletter'
+
 ---
 ~~When people ask what I do, I tell them I’m a UX-designer. Truth is, it’s not a title I’m a fan of. It’s true that I help companies design user experiences and you’d think the title would be suitable, but it also suggests that I am solely responsible for what the complete user experience will be. This couldn’t be farther from the truth. As I’ve mentioned before, the [user experiences are made up of so much more](https://www.antonsten.com/ux-is-much-more-than-software/) and everyone has a role to play.~~
 

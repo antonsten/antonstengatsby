@@ -6,6 +6,8 @@ author: Anton Sten
 slug: emailbroken/
 description: Using e-mail can sometimes a bad experience, but is it e-mail itself or HOW we use it?
 image: 'images/giphy-email.gif'
+tag: 'newsletter'
+
 ---
 
 ~~For years now, our community has believed in the idea that ‘Email is broken’ and even gone as far as sharing advice on how to [Escape E-mail Hell](https://medium.com/the-year-of-the-looking-glass/escaping-e-mail-hell-f55905f3862f). There are countless companies that have set their mission on ‘fixing e-mail’. While I love tools like Slack, it’s not there to ‘fix e-mail’ because, as far as I’m concerned, e-mail isn’t broken.~~

@@ -6,6 +6,8 @@ author: Anton Sten
 slug: uxdesigner/
 image: '/images/man_computer_large.png'
 description: Ask a group of UX-designers what they do and you'll get a bunch of different answers. The truth is they will also all be right. How can this be possible? UX fits into so many different fields, technologies, and applications that the options are endless. Read here to see how I narrow it down.
+tag: 'newsletter'
+
 ---
 
 One of the things I love about sharing my experiences through writing this blog is the feedback I receive from readers. I find it surprisingly exciting knowing that my content is being read across the world by people with so many different backgrounds and experiences. In fact, the highest engagement rate I have is on my on-boarding mail where I ask people why they signed up for my newsletter! Feel free to [sign up](/newsletter) and see the email for yourself!

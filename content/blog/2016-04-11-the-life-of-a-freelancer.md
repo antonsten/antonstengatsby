@@ -6,6 +6,8 @@ author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1550
 slug: the-life-of-a-freelancer/
+tag: 'newsletter'
+
 ---
 ~~Seven years ago, I took a risk. I quit my job as a Creative Director and ventured out on my own. It’s one of the scariest things I’ve ever decided to do, but ended up being one of the decisions I am grateful for taking.~~
 

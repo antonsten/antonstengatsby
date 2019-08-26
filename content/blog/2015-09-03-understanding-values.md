@@ -6,6 +6,8 @@ author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1091
 slug: understanding-values/
+tag: 'newsletter'
+
 ---
 ~~The office ecosystem is an unusual place. <a href="http://www.mediaevolutioncity.se/en/" target="_blank">The building</a> where I have my office is large by any standards. There are roughly 100 different companies with more than 500 actual people working for them.~~
 

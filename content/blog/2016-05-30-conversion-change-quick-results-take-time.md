@@ -6,6 +6,8 @@ author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1628
 slug: conversion-change-quick-results-take-time/
+tag: 'newsletter'
+
 ---
 ~~A few weeks back, I took a break and watched Freakonomics, a documentary based on the book with the same name. Even if you’ve already read the book, I’d recommend taking the time to watch it &#8211; it’s excellent! One of the things they address is our inability to see what’s actually in front of us; to see the big picture.~~
 

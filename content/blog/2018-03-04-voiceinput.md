@@ -6,6 +6,8 @@ author: Anton Sten
 slug: voiceinput/
 image: '/images/homepod.png'
 description: Do you have a voice assistant (Google Home, Amazon Alexa, Apple HomePod, Siri) at home? Does it live up to the hype? I bought a HomePod and it’s amazing and also not amazing.
+tag: 'newsletter'
+
 ---
 
 ![Apple HomePod](/images/homepod.png)

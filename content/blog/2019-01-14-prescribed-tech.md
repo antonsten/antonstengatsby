@@ -4,6 +4,7 @@ title: 'Prescribed Technological Therapy: Is this our future?'
 date: 2019-01-14T04:39:07+00:00
 author: Anton Sten
 slug: prescribed-tech/
+tag: 'newsletter'
 
 ---
 

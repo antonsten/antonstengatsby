@@ -6,6 +6,8 @@ author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=2873
 slug: is-less-more/
+tag: 'newsletter'
+
 ---
 ~~A couple of weeks ago during a dinner with friends, we started discussing the idea that less is more. It has become popular among our peers and society in general that we ALWAYS need to strive for less.~~
 

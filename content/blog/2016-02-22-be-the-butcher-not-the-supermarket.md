@@ -6,6 +6,8 @@ author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1473
 slug: be-the-butcher-not-the-supermarket/
+tag: 'newsletter'
+
 ---
 ## Stop being a one-stop-shop and start providing value to your clients
 
@@ -44,7 +46,6 @@ You know if you go to the butcher, then your needs are going to be taken care of
 
 All successful small businesses understand this formula. I know that my flexibility, skillset, and having no desire to sell them solutions they don’t need keeps clients coming back. Being a freelancer makes this possible. I don’t have to advertise &#8211; I promote my business as the butcher promotes his: by giving his clients the best possible product at a reasonable price and always with a friendly smile on his face. 🙂
 
-![be the butcher not the supermarket](/images/pablo-butcher.png)
 
 Moral of the story?<br>
 Value equals happy clients. Be the butcher.

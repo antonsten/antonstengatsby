@@ -6,6 +6,8 @@ author: Anton Sten
 slug: succeedfreelancing/
 description: Are you feeling your work is meaningless? Does that make you meaningless? I recently gave a presentation at a local co-working space and talked about that. How finding meaning can inspire good work and good work can give you meaning.
 image: '/images/toolsoftitans.jpg'
+tag: 'newsletter'
+
 ---
 
 >The essential principal of business —of occupation in the world — is this: figure out some way in which you get paid for playing.**Allan Watts**
@@ -98,4 +100,4 @@ find happiness, then success.
 
 It’s impossible to even enjoy your success if you are looking through an unhappy lens. Once you find your happiness (purpose, meaning, inspiration, value), success will follow.
 
-If you've read all the way down here and enjoyed this post - odds are that you'll enjoy [Mastering Freelance](https://www.masteringfreelance.com) - my book with everything I've learnt while freelancing. It has a free email course too! 
+If you've read all the way down here and enjoyed this post - odds are that you'll enjoy [Mastering Freelance](https://www.masteringfreelance.com) - my book with everything I've learnt while freelancing. It has a free email course too!
