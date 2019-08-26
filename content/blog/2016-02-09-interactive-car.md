@@ -6,6 +6,8 @@ author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1454
 slug: interactive-car/
+tag: 'newsletter'
+
 ---
 ~~Your car’s interface has come a long way, but has a long way to go.~~
 
@@ -31,7 +33,7 @@ This is absolutely baffling to me. I KNOW that there’s been a lot of effort, t
 
 ## What Solutions are Being Attempted
 
-While I was giving lectures at the University of Luleå in the very north of Sweden, I was invited to ride there with my good friend Patrick. He was shared with me the new digital dashboard on the Volvo he was driving. They allow the driver to customize the digital dashboard to better suit their taste and driving style. This is great from a user experience point-of-view, but there were a few things that irritated me about the user interface. 
+While I was giving lectures at the University of Luleå in the very north of Sweden, I was invited to ride there with my good friend Patrick. He was shared with me the new digital dashboard on the Volvo he was driving. They allow the driver to customize the digital dashboard to better suit their taste and driving style. This is great from a user experience point-of-view, but there were a few things that irritated me about the user interface.
 
 Now, I’m not a typographic expert of any sort &#8211; just ask my wife! &#8211; but I can tell you that the kerning hurts the experience when the speedometer goes > 100 km/h. It doesn’t offer a great reading/viewing experience.
 

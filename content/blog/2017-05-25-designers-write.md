@@ -5,6 +5,8 @@ author: Anton Sten
 layout: blogpost
 image: 'images/1kfmKVXeoae-q61nW3WE7jw.png'
 slug: designers-write/
+tag: 'newsletter'
+
 ---
 ~~A couple of years ago, there was a huge discussion online about whether or not designers should know how to code. The people who believed this argued that unless you know how to build what you design, you aren’t able to understand if it’s doable or not. I strongly disagree with this way of thinking.~~
 

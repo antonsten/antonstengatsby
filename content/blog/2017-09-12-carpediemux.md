@@ -6,6 +6,8 @@ author: Anton Sten
 slug: carpediem/
 description: Clichés can help you in life and #business. Don’t believe me? #ux #design #carpediem
 image: 'images/carpediem.gif'
+tag: 'newsletter'
+
 ---
 
 ~~I’ve just finished reading Tools of Titans by Tim Ferriss. It’s a massive 600+ page book, but because it’s split up in three major sections (Healthy, Wealthy and Wise) it’s still still feels like a pretty light read. One of my favorite chapters was about Shay Carl.~~

@@ -34,8 +34,6 @@ class Writing extends React.Component {
           <h1 className="pr-0 sm:pr-12">Writing</h1>
           <del className="mb-8">Esther Williams said, <i>“wisdom is a useless gift unless you share it”</i> and I couldn’t agree more.<br /><br />I like to share what I have discovered about creating amazing user experiences, embracing creativity, and sustaining a successful freelancing career.</del>
 
-          <Form/>
-
           <h2 className="mt-16 pt-12">Books</h2>
 
           <p>
@@ -82,14 +80,14 @@ class Writing extends React.Component {
             <a href="https://www.beingfreelance.com/season-4/mastering-freelance-anton-sten-ux-designer-podcast" target="_blank">It Takes Time</a> - Being Freelance episode 100
           </p>
 
-          <h2>Notes</h2>
+          <h2>From My Newsletter</h2>
           <div className="w-full pb-12">
             {posts.map(({ node }) => {
               const title = node.frontmatter.title || node.fields.slug
               const tag = node.frontmatter.tag
               console.log(node.frontmatter);
-              
-              if(tag == 'test') {
+
+              if(tag == 'newsletter') {
                 return (
                   <div key={node.fields.slug}>
                     <p className="flex justify-between py-3 font-normal mb-0 border-b border-grey-light">
@@ -104,6 +102,9 @@ class Writing extends React.Component {
               }
             })}
           </div>
+
+          <Form/>
+
 
           <h2>Everything in Chronological Order</h2>
           <div className="w-full pb-12">

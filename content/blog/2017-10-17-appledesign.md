@@ -6,6 +6,8 @@ author: Anton Sten
 slug: appledesign/
 description: Too soon to judge. The iPhoneX notch may not as bad as people are complaining about.
 image: 'images/iphonex-splash.jpg'
+tag: 'newsletter'
+
 ---
 ~~There’s one thing that’s really been itching a nerve with me. Lately, there’s been a lot of “Apple has lost it’s innovation” or “Apple sucks at design” pieces in personal blogs and in major news outlets. One of the most shared posts [“Apple is really bad at design”](https://theoutline.com/post/2352/apple-is-really-bad-at-design) (how’s that for a clickbait title?) makes me twitch.~~
 

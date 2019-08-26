@@ -6,6 +6,8 @@ author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=903
 slug: working-with-ux-designers-and-getting-results/
+tag: 'newsletter'
+
 ---
 ## What UX Is and What It Isn’t
 

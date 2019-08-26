@@ -4,6 +4,8 @@ date: 2015-05-12T10:50:47+00:00
 author: Anton Sten
 layout: blogpost
 slug: freelancer-for-life/
+tag: 'newsletter'
+
 ---
 > “Being small is nothing to be insecure or ashamed about. Small is great. Small is independence. Small is opportunity. Celebrate it&#8230;It’s truly to your advantage.”<br>Jason Fried
 

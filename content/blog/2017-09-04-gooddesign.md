@@ -6,6 +6,8 @@ author: Anton Sten
 slug: gooddesign/
 description: Good design is sometimes hard to find, but you know it when you find it. Why? How did they do it?
 image: 'images/martone.jpg'
+tag: 'newsletter'
+
 ---
 
 ~~There are just as many opinions on what ‘good design’ is as there are ‘designed’ objects. While some believe that good design is merely a visual characteristic, others claim that function should always trump form to be good design.~~

@@ -7,6 +7,8 @@ slug: moral-implications-apps/
 image: '/images/home-white.png'
 topImage: '/images/home-white.png'
 description: Lawyers and doctors have ethical standards taught to them, but designers don't. For many apps and features, it takes a backseat to the the “wow" factor. I’m not just talking to Google here, it falls on ALL our shoulders.
+tag: 'newsletter'
+
 ---
 
 ~~Lawyers, doctors, and even journalists have something in common. They all have studied ethics as part of their higher education. They’ve taken the time to construct, interpret, and follow written code of conducts that guide us in making good, ethical decisions. Is it a coincidence that these are also some of the world’s oldest professions?~~

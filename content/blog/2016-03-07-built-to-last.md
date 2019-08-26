@@ -6,6 +6,8 @@ author: Anton Sten
 layout: blogpost
 guid: https://www.antonsten.com/?p=1483
 slug: built-to-last/
+tag: 'newsletter'
+
 ---
 ## Pushing Back Against the Hurry for Quality’s Sake
 

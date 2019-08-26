@@ -7,6 +7,8 @@ slug: 5-ux-questions/
 image: '/images/dialog-trans.png'
 topImage: '/images/dialog-trans.png'
 description: How do you even start talking about UX so everyone at the table gets it? Here's my five questions that will change the way we talk about UX.
+tag: 'newsletter'
+
 ---
 
 ~~If you know me, you know I’m not a big fan of the title [UX-Designer](https://www.antonsten.com/ux-designer/). Maybe it’s due to there not being a defined educational path focused in UX Design or simply because the fact that the title itself is so loose it seems anyone can claim to do ‘UX-design’. I was recently talking to a colleague who mentioned that someone else on our team also ‘did UX-design’. I realized that in my new role, I was faced with a new reality that I had never thought about before -- how do I find out if someone on my team has strong UX-skills?~~
