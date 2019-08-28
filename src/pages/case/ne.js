@@ -6,6 +6,8 @@ import Layout from "../../components/layout"
 import SEO from "../../components/seo"
 import Testimonial from '../../components/testimonial';
 import CaseData from '../../components/casedata';
+import Cases from '../../components/cases';
+
 
 class Ne extends React.Component {
   render() {
@@ -69,7 +71,8 @@ class Ne extends React.Component {
           </div>
 
           <CaseData expertise="User Experience, User Interface, Design Thinking, Branding" delivarables="Branding, Design, Process"/>
-
+          <h2>Selected Cases:</h2>
+            <Cases />
       </Layout>
     )
   }

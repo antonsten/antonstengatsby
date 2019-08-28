@@ -6,6 +6,8 @@ import Layout from "../../components/layout"
 import SEO from "../../components/seo"
 import Testimonial from '../../components/testimonial';
 import CaseData from '../../components/casedata';
+import Cases from '../../components/cases';
+
 
 class Telia extends React.Component {
   render() {
@@ -46,7 +48,8 @@ class Telia extends React.Component {
           </div>
 
           <CaseData link="https://www.telia.se/privat/support" expertise="User Experience, Information Architecture, User Testing, User Interface" delivarables="Design, Strategy, User Testing Data"/>
-
+          <h2>Selected Cases:</h2>
+            <Cases />
 
       </Layout>
     )

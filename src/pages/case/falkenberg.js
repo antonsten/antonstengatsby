@@ -6,6 +6,8 @@ import Layout from "../../components/layout"
 import SEO from "../../components/seo"
 import Testimonial from '../../components/testimonial';
 import CaseData from '../../components/casedata';
+import Cases from '../../components/cases';
+
 
 class Falkenberg extends React.Component {
   render() {
@@ -39,7 +41,8 @@ class Falkenberg extends React.Component {
           </div>
 
           <CaseData link="https://www.falkenberg.se/" expertise="Information Architecture, User Experience, User Interface" delivarables="Strategy, Design"/>
-
+          <h2>Selected Cases:</h2>
+            <Cases />
       </Layout>
     )
   }

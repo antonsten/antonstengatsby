@@ -6,6 +6,7 @@ import Layout from "../../components/layout"
 import SEO from "../../components/seo"
 import Testimonial from '../../components/testimonial';
 import CaseData from '../../components/casedata';
+import Cases from '../../components/cases';
 
 class Eon extends React.Component {
   render() {
@@ -37,6 +38,8 @@ class Eon extends React.Component {
 
             <CaseData link="https://navigator.eon.se/" expertise="Information Architecture, User Experience, User Interface" delivarables="Design, Process"/>
 
+            <h2>Selected Cases:</h2>
+            <Cases />
       </Layout>
     )
   }

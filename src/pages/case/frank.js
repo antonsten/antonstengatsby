@@ -6,6 +6,8 @@ import Layout from "../../components/layout"
 import SEO from "../../components/seo"
 import Testimonial from '../../components/testimonial';
 import CaseData from '../../components/casedata';
+import Cases from '../../components/cases';
+
 
 class Frank extends React.Component {
   render() {
@@ -37,7 +39,8 @@ class Frank extends React.Component {
           </div>
 
           <CaseData link="https://www.frankbody.com/" expertise="User Experience, Conversion Optimization" delivarables="Conversion Strategy, Design"/>
-
+          <h2>Selected Cases:</h2>
+            <Cases />
       </Layout>
     )
   }
