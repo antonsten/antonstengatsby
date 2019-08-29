@@ -3,6 +3,7 @@ import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Form from "../components/signupform"
+import Blogroll from "../components/blogroll"
 
 
 class BlogPostTemplate extends React.Component {
@@ -26,7 +27,7 @@ class BlogPostTemplate extends React.Component {
     const posts = this.props.data.allMarkdownRemark.edges
     const pathName = typeof window !== 'undefined' && window.location.pathname
     const tag = post.frontmatter.tag
-    
+
     return (
       <Layout location={this.props.location} title={siteTitle}>
 
@@ -59,8 +60,9 @@ class BlogPostTemplate extends React.Component {
         <div className="w-full flex">
           <Form title="Get more writing like this" text="Sign up and get new writing, just like this, every other two weeks. Unsubscribe any time (I'm not a dickhead)."/>
         </div>
+        <Blogroll />
 
-        <h2 className="mt-16 pt-12">Latest writing</h2>
+        <h2 className="mt-16 pt-12">All writing</h2>
         <div className="w-full pb-12" /* onclick -> currentTarget if is a check host */>
           {posts.map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
@@ -77,10 +79,7 @@ class BlogPostTemplate extends React.Component {
             )
           })}
         </div>
-        <script type="text/javascript">
-               window.rek_viewclick = true;
-         </script>
-        <script src="https://static.rek.ai/8a61c891.js"></script>
+
       </Layout>
     )
   }
