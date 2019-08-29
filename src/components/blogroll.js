@@ -4,7 +4,7 @@ class Blogroll extends React.Component {
   render() {
     return (
       <div className="w-full">
-      <h2 className="mt-16 pt-12">Books</h2>
+      <h2>Books</h2>
 
       <p>
         <a href="https://www.antonsten.com/books/user-experiences-matter" target="_blank">User Experiences that Matter</a> (2016)<br />
