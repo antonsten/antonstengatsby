@@ -35,57 +35,9 @@ class Writing extends React.Component {
         <div className="w-full">
           <h1 className="pr-0 sm:pr-12">Writing</h1>
           <del className="mb-8">Esther Williams said, <i>“wisdom is a useless gift unless you share it”</i> and I couldn’t agree more.<br /><br />I like to share what I have discovered about creating amazing user experiences, embracing creativity, and sustaining a successful freelancing career.</del>
-
           <Blogroll />
-
           <Form/>
-
-          <h2 id="from-newsletter">From My Newsletter</h2>
-          <div className="w-full pb-12">
-            {posts.map(({ node }) => {
-              const title = node.frontmatter.title || node.fields.slug
-              const tag = node.frontmatter.tag
-
-              if(tag == 'newsletter') {
-                return (
-                  <div key={node.fields.slug}>
-                    <p className="flex justify-between py-3 font-normal mb-0 border-b border-grey-light mt-1 items-center">
-                      <Link className="no-underline text-black hover:text-orange truncate" to={node.fields.slug}>
-                        {title}
-                      </Link>
-                      <span className="hidden sm:block text-xs uppercase font-sans tracking-wide text-grey">{node.frontmatter.date}</span>
-                    </p>
-
-                  </div>
-                )
-              }
-            })}
-          </div>
-
-
-
-          <h2 id="bite-sized">Bite-sized Posts</h2>
-          <div className="w-full pb-12">
-            {posts.map(({ node }) => {
-              const title = node.frontmatter.title || node.fields.slug
-              const tag = node.frontmatter.tag
-
-              if(tag !== 'newsletter') {
-                return (
-                  <div key={node.fields.slug}>
-                    <p className="flex justify-between py-3 font-normal mb-0 border-b border-grey-light mt-1 items-center">
-                      <Link className="no-underline text-black hover:text-orange truncate" to={node.fields.slug}>
-                        {title}
-                      </Link>
-                      <span className="hidden sm:block text-xs uppercase font-sans tracking-wide text-grey">{node.frontmatter.date}</span>
-                    </p>
-
-                  </div>
-                )
-              }
-            })}
-          </div>
-          </div>
+        </div>
       </Layout>
     )
   }

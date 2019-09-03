@@ -1,8 +1,29 @@
 import React from "react"
+import { StaticQuery, graphql, Link } from "gatsby"
 
-class Blogroll extends React.Component {
-  render() {
-    return (
+export default () => (
+  <StaticQuery
+    query={graphql`
+      query {
+        allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+          edges {
+            node {
+              excerpt
+              html
+              fields {
+                slug
+              }
+              frontmatter {
+                date(formatString: "MMMM DD, YYYY")
+                title
+                tag
+              }
+            }
+          }
+        }
+      }
+    `}
+    render={data => (
       <div className="w-full">
       <h2>Books</h2>
 
@@ -50,11 +71,51 @@ class Blogroll extends React.Component {
         <a href="https://www.beingfreelance.com/season-4/mastering-freelance-anton-sten-ux-designer-podcast" target="_blank">It Takes Time</a> - Being Freelance episode 100
       </p>
 
+      <h2 id="from-newsletter">From My Newsletter</h2>
+      <div className="w-full pb-12">
 
-</div>
+        {data.allMarkdownRemark.edges.map(({ node }) => {
+            const title = node.frontmatter.title || node.fields.slug
+            const tag = node.frontmatter.tag || null
 
-    )
-  }
-}
+            if(tag == 'newsletter') {
+              return (
+                <div key={node.fields.slug}>
+                  <p className="flex justify-between py-3 font-normal mb-0 border-b border-grey-light mt-1 items-center">
+                    <Link className="no-underline text-black hover:text-orange truncate" to={node.fields.slug}>
+                      {title}
+                    </Link>
+                    <span className="hidden sm:block text-xs uppercase font-sans tracking-wide text-grey">{node.frontmatter.date}</span>
+                  </p>
 
-export default Blogroll;
+                </div>
+              )
+            }
+          })}
+        </div>
+
+        <h2 id="bite-sized">Bite-sized Posts</h2>
+        <div className="w-full pb-12">
+          {data.allMarkdownRemark.edges.map(({ node }) => {
+            const title = node.frontmatter.title || node.fields.slug
+            const tag = node.frontmatter.tag
+
+            if(tag !== 'newsletter') {
+              return (
+                <div key={node.fields.slug}>
+                  <p className="flex justify-between py-3 font-normal mb-0 border-b border-grey-light mt-1 items-center">
+                    <Link className="no-underline text-black hover:text-orange truncate" to={node.fields.slug}>
+                      {title}
+                    </Link>
+                    <span className="hidden sm:block text-xs uppercase font-sans tracking-wide text-grey">{node.frontmatter.date}</span>
+                  </p>
+
+                </div>
+              )
+            }
+          })}
+        </div>
+      </div>
+    )}
+  />
+)
