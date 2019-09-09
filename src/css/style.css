@@ -169,6 +169,11 @@ del {
   border-bottom: 1px solid #0070C9;
 }
 
+hr {
+  height: 1px;
+  background-color: #E5E5E5;
+}
+
 em {
   background-color: #E6F1FA;
   letter-spacing: 1px;

@@ -1,3 +1,8 @@
+hr {
+  height: 1px;
+  background-color: #E5E5E5;
+}
+
 html {
   background-color: #ffffff;
   color: #333;
@@ -13,10 +18,6 @@ h3 {
   @apply text-xl leading-normal font-sans;
 }
 
-hr {
-  height: 1px;
-  background-color: #E5E5E5;
-}
 
 /*
  *	WebFont Package Licensed to antonsten.com
