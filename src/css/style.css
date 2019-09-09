@@ -121,18 +121,12 @@ h2 {
   @apply text-3xl leading-normal font-bold font-sans;
 }
 
-h3 {
-  margin-top: 4rem;
-  margin-bottom: 1rem;
-  @apply text-xl leading-normal font-sans;
-}
 
 @screen sm {
   h2 {
     @apply text-2xl;
   }
 }
-
 
 
 del {
@@ -173,11 +167,6 @@ del {
   @apply text-white;
   background-color: #0062B0;
   border-bottom: 1px solid #0070C9;
-}
-
-hr {
-  height: 1px;
-  background-color: #E5E5E5;
 }
 
 em {

@@ -7,6 +7,17 @@ body {
   font-family: 'FreightDispProBook-Regular', serif;
 }
 
+h3 {
+  margin-top: 4rem;
+  margin-bottom: 1rem;
+  @apply text-xl leading-normal font-sans;
+}
+
+hr {
+  height: 1px;
+  background-color: #E5E5E5;
+}
+
 /*
  *	WebFont Package Licensed to antonsten.com
  */
