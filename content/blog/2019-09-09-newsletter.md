@@ -35,7 +35,7 @@ I'm then left alone for three or four weeks and suddenly your name pops up in my
 
 Instead, the onboarding email should be the most thought-through email that you send. Why? Because it's guaranteed to go out at a time when a user (read: potential customer) specifically has asked to know more and agreed to have a connection with you.
 
-Unless you're selling [Birkin bags](https://en.wikipedia.org/wiki/Birkin_bag), where there's a massive waiting list, you need to know when you're customer is ready to buy - not when you're ready to sell.
+Unless you're selling [Birkin bags](https://en.wikipedia.org/wiki/Birkin_bag), where there's a massive waiting list, you need to know when your customer is ready to buy - not when you're ready to sell.
 
 The onboarding email is your best chance at the one key thing that will help you eventually make a sale: knowing and understanding your customer and the problem they want help solving.
 
