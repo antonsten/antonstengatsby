@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: 'UX of Email Newsletters'
-date: 2019-09-10T04:49:07+00:00
+date: 2019-09-09T04:49:07+00:00
 author: Anton Sten
 slug: newsletter-ux/
 tag: 'newsletter'
