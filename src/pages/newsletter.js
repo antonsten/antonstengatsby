@@ -12,12 +12,9 @@ class Contact extends React.Component {
           <SEO title="Sign up for my newsletter"/>
             <h1>Sign up for my newsletter</h1>
 
-
-
             <p>
               I like to share what I have discovered about creating amazing user experiences, embracing creativity, and sustaining a successful freelancing career.
             </p>
-
 
             <Form/>
 
