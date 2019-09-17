@@ -18,7 +18,7 @@ class BlogIndex extends React.Component {
           title = "Home"
         />
         <div className="w-full">
-          <h1 className="pr-0 sm:pr-12">Has this ever happened to you?</h1>
+          <h1 className="pr-0 sm:pr-12">Has This Ever Happened To You?</h1>
           <del className="mb-4 mt-4">You’re struck with a million-dollar idea for a shiny new digital product. You slave for months over it, throw yourself a launch party with signature cocktails, and—it fails miserably.
           </del>
 
