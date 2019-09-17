@@ -18,20 +18,26 @@ class BlogIndex extends React.Component {
           title = "Home"
         />
         <div className="w-full">
-          <h1 className="pr-0 sm:pr-12">Anton Sten leads UX for design-driven companies.</h1>
-          <del className="mb-4 mt-4">My speciality? Using my design skills and business knowledge <em>to not just make your digital product look pretty, but to make it work.</em>
+          <h1 className="pr-0 sm:pr-12">Has this ever happened to you?</h1>
+          <del className="mb-4 mt-4">You’re struck with a million-dollar idea for a shiny new digital product. You slave for months over it, throw yourself a launch party with signature cocktails, and—it fails miserably.
           </del>
 
           <p className="mt-12">
-            My clients have included big household names and smaller up-and-comers alike, including IKEA, Spotify, iZettle, Hyper Island, and Volvo.
+          …or, maybe you’re not facing a complete failure, but you’re seeing disappointing bounce rates, sagging app usage, or (heaven forbid) complaints from unhappy users.
+          <br /><br />
+          What happened? you ask. There should be a huge, adoring audience for this product! There may be one big, 800-pound-gorilla of a missing piece you didn’t consider carefully enough: <em>User Experience</em>.
+          <br /><br />
+          This is where I come in.
           </p>
 
-          <p>
-            My personal mission for the past 20 years has been to help companies connect with their customers in meaningful ways. In that time, I’ve created user-focused experiences that resulted in happier, better-served customers and higher sales.
-          </p>
+          <h2>Hi! I’m Anton, and I lead UX for design-driven companies.</h2>
 
           <p>
-            That’s something I’m really proud of.
+          My speciality? Using my design skills and business knowledge to <em>not just make your digital product look pretty, but to make it work.</em>
+          <br /><br />
+          I help companies design experiences that put the user first. My common sense approach to UX can help you get that stellar product out of the trash bin and into users’ daily lives.
+          <br /><br />
+          My background in both design and business puts me in an ideal position to help you take your digital products from so-so to GREAT.
           </p>
 
           <Link to="/work" className="btn mt-4 mb-6">Find out more</Link>
