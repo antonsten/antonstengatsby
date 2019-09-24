@@ -78,7 +78,7 @@ blockquote strong {
 
 
 
-ul, ol, p {
+ul, ol, p, .people-like-you {
   margin-bottom: 2rem;
   margin-top: 2rem;
   @apply text-xl leading-normal font-normal;
