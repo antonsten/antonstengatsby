@@ -3,7 +3,9 @@ layout: blogpost
 title: 'Learning UX From The Real World'
 date: 2019-09-24T04:49:07+00:00
 author: Anton Sten
-slug: ux-reallife/
+slug: ux-realworld/
+image: '/images/blog/jermaine-ee-A2CChTZvzTE-unsplash.jpg'
+description: Inspiration for great UX comes from all sorts of places. The world around us can actually be an even better teacher than books or conferences. Take a look here for some examples of how to grow as a UX Designer just by observing the world around you.
 tag: 'newsletter'
 ---
 
@@ -21,7 +23,7 @@ I have a couple of select hotels that I visit on an annual basis. During a recen
 
 Now compare this to another hotel experience - a hotel that even touts itself to be "like staying at a friends' house" even. Now while the service is really friendly they still occasionally ask me if it's my first time visiting even though I've stayed there five or six times. Such a simple thing to get right with good data keeping, yet so many hotels (and apps!) get these simple things wrong.
 
-There's that saying "success is 80% showing up". For an app or a website, I believe the saying should be "success is 90% getting the basics right". Whenever I do UX [reviews of apps or websites](https://www.antonsten.com/case/frank/) (you can [hire me](https://www.antonsten.com/contact/) to do this), ******one of the most common responses I get afterwards is that they can't believe how they missed all of these basics. We rarely talk about how difficult [simple experiences](https://www.antonsten.com/simple-is-hard/) are to create.
+There's that saying "success is 80% showing up". For an app or a website, I believe the saying should be "success is 90% getting the basics right". Whenever I do UX [reviews of apps or websites](https://www.antonsten.com/case/frank/) (you can [hire me](https://www.antonsten.com/contact/) to do this), one of the most common responses I get afterwards is that they can't believe how they missed all of these basics. We rarely talk about how difficult [simple experiences](https://www.antonsten.com/simple-is-hard/) are to create.
 
 >“Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”**Steve Jobs**
 
