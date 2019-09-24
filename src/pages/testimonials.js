@@ -8,7 +8,6 @@ import SEO from "../components/seo"
 
 class Testimonials extends React.Component {
   render() {
-    const { data } = this.props
       return (
         <Layout>
           <SEO title="Testimonials"/>

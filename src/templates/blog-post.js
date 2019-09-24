@@ -26,7 +26,6 @@ class BlogPostTemplate extends React.Component {
     const siteTitle = this.props.data.site.siteMetadata.title
     const posts = this.props.data.allMarkdownRemark.edges
     const pathName = typeof window !== 'undefined' && window.location.pathname
-    const tag = post.frontmatter.tag
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -34,6 +33,7 @@ class BlogPostTemplate extends React.Component {
         <SEO
           title={post.frontmatter.title}
           description={post.excerpt}
+          slug={pathName}
         />
 
         <article>
@@ -46,13 +46,13 @@ class BlogPostTemplate extends React.Component {
           <div className="flex justify-center items-center my-3 text-xs uppercase font-sans tracking-wide font-bold">
           Please share:
             <a href={`https://twitter.com/intent/tweet/?text=${post.frontmatter.title}&url=https://www.antonsten.com${pathName}&via=antonsten`} className="flex items-center mx-2 hover-border-none border-none cursor-pointer">
-              <img className="w-8" src="/images/twitter-svg.svg"></img>
+              <img className="w-8" src="/images/twitter-svg.svg" alt="Twitter"></img>
             </a>
-            <a href={`https://www.linkedin.com/shareArticle?mini=true&url=https://www.antonsten.com${pathName}&title=${post.frontmatter.title}&source=${post.frontmatter.title}`}target="_blank" className="flex items-center mx-2 hover-border-none border-none cursor-pointer">
-              <img className="w-8" src="/images/linkedin-svg.svg"></img>
+            <a href={`https://www.linkedin.com/shareArticle?mini=true&url=https://www.antonsten.com${pathName}&title=${post.frontmatter.title}&source=${post.frontmatter.title}`}target="_blank" rel="noopener noreferrer" className="flex items-center mx-2 hover-border-none border-none cursor-pointer">
+              <img className="w-8" src="/images/linkedin-svg.svg" alt="LinkedIn"></img>
             </a>
-            <a href={`https://www.facebook.com/sharer/sharer.php?u=https://www.antonsten.com${pathName}`}target="_blank" className="flex items-center mx-2 hover-border-none border-none cursor-pointer">
-              <img className="w-8" src="/images/facebook-svg.svg"></img>
+            <a href={`https://www.facebook.com/sharer/sharer.php?u=https://www.antonsten.com${pathName}`}target="_blank" rel="noopener noreferrer" className="flex items-center mx-2 hover-border-none border-none cursor-pointer">
+              <img className="w-8" src="/images/facebook-svg.svg" alt="Facebook"></img>
             </a>
           </div>
         </div>
@@ -64,10 +64,10 @@ class BlogPostTemplate extends React.Component {
 
         <h2 className="mt-16 pt-12">All writing</h2>
         <div className="w-full pb-12" /* onclick -> currentTarget if is a check host */>
-          {posts.map(({ node }) => {
+          {posts.map(({ node }, i) => {
             const title = node.frontmatter.title || node.fields.slug
             return (
-              <div key={node.fields.slug}>
+              <div key={i}>
                 <p className="flex justify-between py-3 font-normal mb-0 border-b border-grey-light">
                   <Link className="no-underline text-black hover:text-orange truncate" to={node.fields.slug}>
                     {title}

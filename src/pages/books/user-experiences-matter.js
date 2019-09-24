@@ -77,18 +77,18 @@ For just $9 (or more, up to you) you’ll get:<br />
 <li><s>The List of Tools I Use to Run My Business.*</s></li>
 </ul>
 
-<a className="btn" href="https://gumroad.com/l/userexperiencesmatter" role="link">Buy User Experiences that Matter</a>
+<a className="btn" href="https://gumroad.com/l/userexperiencesmatter">Buy User Experiences that Matter</a>
 
 <Testimonial text="Anton is clearly ahead of the game when it comes to UX, Interface design and being a total professional. Beware of friendly Swedish User Interface Designers who come equipped with positive open attitudes and sharp clean design principles. They are usually right, just nod and agree."/>
 <p>
-* The <a href="https://www.antonsten.com/tools" target="_blank">List of Tools I Use to Run My Business</a> is now available and open to all and doesn't require a purchase.</p>
+* The <a href="https://www.antonsten.com/tools" target="_blank" rel="noopener noreferrer">List of Tools I Use to Run My Business</a> is now available and open to all and doesn't require a purchase.</p>
 </p>
 
 
             <h2>About the author</h2>
             <p className="mb-12">
-            Anton believes in helping those around him create amazing user experiences through hard work and attention to detail. For the <a href="/work" target="_blank">past 20 years</a>, he has worked in the digital space gaining experience and insight into how to best impact the design world. Since starting his freelance business 10 years ago, he has worked with companies like IKEA and Spotify to deliver one of a kind experiences to their users.<br />
-            Recently Anton has shared what he has learned through his books, User Experiences that Matter and <a href="https://www.antonsten.com/books/masteringfreelance" target="_blank">Mastering Freelance</a>. These provide the unique opportunity to help those just starting out find success in their fields.<br />
+            Anton believes in helping those around him create amazing user experiences through hard work and attention to detail. For the <a href="/work" target="_blank" rel="noopener noreferrer">past 20 years</a>, he has worked in the digital space gaining experience and insight into how to best impact the design world. Since starting his freelance business 10 years ago, he has worked with companies like IKEA and Spotify to deliver one of a kind experiences to their users.<br />
+            Recently Anton has shared what he has learned through his books, User Experiences that Matter and <a href="https://www.antonsten.com/books/masteringfreelance" target="_blank" rel="noopener noreferrer">Mastering Freelance</a>. These provide the unique opportunity to help those just starting out find success in their fields.<br />
             When he isn’t creating better user experiences, Anton enjoys spending time with his wife and their dog – ideally with a coffee outside in the sun.</p>
 <hr/>
           </div>

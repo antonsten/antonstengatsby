@@ -28,8 +28,8 @@ export default () => (
       <h2>Books</h2>
 
       <p>
-        <a href="https://www.antonsten.com/books/user-experiences-matter" target="_blank">User Experiences that Matter</a> (2016)<br />
-        <a href="https://www.antonsten.com/books/masteringfreelance" target="_blank">Mastering Freelance</a> (2017)
+        <a href="https://www.antonsten.com/books/user-experiences-matter" target="_blank" rel="noopener noreferrer">User Experiences that Matter</a> (2016)<br />
+        <a href="https://www.antonsten.com/books/masteringfreelance" target="_blank" rel="noopener noreferrer">Mastering Freelance</a> (2017)
       </p>
 
         <h2>If You're Getting Started in UX</h2>
@@ -64,23 +64,23 @@ export default () => (
 
       <h2>Featured Writing & Interviews Elsewhere</h2>
       <p>
-        <a href="https://theblog.adobe.com/qa-with-anton-sten-author-of-user-experiences-that-matter/" target="_blank">Q&A With Anton Sten, Author of User Experiences that Matter</a> - Adobe<br />
-        <a href="https://magazine.workingnotworking.com/magazine/2016/1/26/user-experiences-that-matter-by-anton-sten" target="_blank">What the F*#!ck is a UX Designer anyway</a> - Working not Working<br />
-        <a href="https://modus.medium.com/designer-ethics-the-moral-implications-of-our-apps-f1d6bdb276e" target="_blank">It’s Time for a Code of Ethics for Designers</a> - Medium Modus<br />
-        <a href="https://www.creativebloq.com/advice/the-art-of-going-freelance" target="_blank">The Art of Going Freelance</a> - .Net Magazine<br />
-        <a href="https://www.beingfreelance.com/season-4/mastering-freelance-anton-sten-ux-designer-podcast" target="_blank">It Takes Time</a> - Being Freelance episode 100
+        <a href="https://theblog.adobe.com/qa-with-anton-sten-author-of-user-experiences-that-matter/" target="_blank" rel="noopener noreferrer">Q&A With Anton Sten, Author of User Experiences that Matter</a> - Adobe<br />
+        <a href="https://magazine.workingnotworking.com/magazine/2016/1/26/user-experiences-that-matter-by-anton-sten" target="_blank" rel="noopener noreferrer">What the F*#!ck is a UX Designer anyway</a> - Working not Working<br />
+        <a href="https://modus.medium.com/designer-ethics-the-moral-implications-of-our-apps-f1d6bdb276e" target="_blank" rel="noopener noreferrer">It’s Time for a Code of Ethics for Designers</a> - Medium Modus<br />
+        <a href="https://www.creativebloq.com/advice/the-art-of-going-freelance" target="_blank" rel="noopener noreferrer">The Art of Going Freelance</a> - .Net Magazine<br />
+        <a href="https://www.beingfreelance.com/season-4/mastering-freelance-anton-sten-ux-designer-podcast" target="_blank" rel="noopener noreferrer">It Takes Time</a> - Being Freelance episode 100
       </p>
 
       <h2 id="from-newsletter">From My Newsletter</h2>
       <div className="w-full pb-12">
 
-        {data.allMarkdownRemark.edges.map(({ node }) => {
+        {data.allMarkdownRemark.edges.map(({ node }, i) => {
             const title = node.frontmatter.title || node.fields.slug
             const tag = node.frontmatter.tag || null
 
-            if(tag == 'newsletter') {
+            if(tag === 'newsletter') {
               return (
-                <div key={node.fields.slug}>
+                <div key={i}>
                   <p className="flex justify-between py-3 font-normal mb-0 border-b border-grey-light mt-1 items-center">
                     <Link className="no-underline text-black hover:text-orange truncate" to={node.fields.slug}>
                       {title}
@@ -90,19 +90,21 @@ export default () => (
 
                 </div>
               )
+            } else {
+              return '';
             }
           })}
         </div>
 
         <h2 id="bite-sized">Bite-sized Posts</h2>
         <div className="w-full pb-12">
-          {data.allMarkdownRemark.edges.map(({ node }) => {
+          {data.allMarkdownRemark.edges.map(({ node }, i) => {
             const title = node.frontmatter.title || node.fields.slug
             const tag = node.frontmatter.tag
 
             if(tag !== 'newsletter') {
               return (
-                <div key={node.fields.slug}>
+                <div key={i}>
                   <p className="flex justify-between py-3 font-normal mb-0 border-b border-grey-light mt-1 items-center">
                     <Link className="no-underline text-black hover:text-orange truncate" to={node.fields.slug}>
                       {title}
@@ -112,6 +114,8 @@ export default () => (
 
                 </div>
               )
+            } else {
+              return '';
             }
           })}
         </div>

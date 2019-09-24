@@ -34,7 +34,7 @@ Mastering Freelance is a guidebook for you if you’re thinking about starting t
 <br /><br />
 The book covers things like finding your reason for freelancing (important), how to get your first clients (even more important), what to charge them (really really important).
 <br /><br />
-To top it all off, I’ve picked the brains of some of the best freelancers in the world, including <a href="http://jessicahische.is" target="_blank">Jessica Hische</a>, <a href="http://danmall.me" target="_blank">Dan Mall</a>, <a href="https://pjrvs.com" target="_blank">Paul Jarvis</a>, <a href="https://www.kaleighmoore.com" target="_blank">Kaleigh Moore</a> and many others!</p>
+To top it all off, I’ve picked the brains of some of the best freelancers in the world, including <a href="http://jessicahische.is" target="_blank" rel="noopener noreferrer">Jessica Hische</a>, <a href="http://danmall.me" target="_blank" rel="noopener noreferrer">Dan Mall</a>, <a href="https://pjrvs.com" target="_blank" rel="noopener noreferrer">Paul Jarvis</a>, <a href="https://www.kaleighmoore.com" target="_blank" rel="noopener noreferrer">Kaleigh Moore</a> and many others!</p>
 
             <Testimonial author="robert lundberg" text="Mastering Freelance is one of the things that has made me take the leap from a steady pay check to a new life with possibilities. It gave me the right push I needed at the right moment so I’m super glad I bought it. "/>
 
@@ -52,7 +52,7 @@ To top it all off, I’ve picked the brains of some of the best freelancers in t
             So you’re ready to get started, and you’ve just quit your job! Great! Now what…? Turns out, no clients will be knocking on your door the first day of business. I’ll outline all the steps I took to transition from working full-time to working my-times.
 <br /><br />
             <strong>Selling & Pricing</strong><br />
-            One of the biggest concerns of freelancers are a variation of “How do I find clients?” and “What do I charge them?”. When you’re running your own business, this is something that you’re solely responsible for and that (obviously) is an important part of running your own business. Without paying clients, it’s just a hobby. I’ll teach you where to look for clients and what to charge them – with some help from Dan Mall who literally <a href="https://abookapart.com/products/pricing-design" target="_blank">wrote the book on Pricing!</a>
+            One of the biggest concerns of freelancers are a variation of “How do I find clients?” and “What do I charge them?”. When you’re running your own business, this is something that you’re solely responsible for and that (obviously) is an important part of running your own business. Without paying clients, it’s just a hobby. I’ll teach you where to look for clients and what to charge them – with some help from Dan Mall who literally <a href="https://abookapart.com/products/pricing-design" target="_blank" rel="noopener noreferrer">wrote the book on Pricing!</a>
 <br /><br />
             <strong>Making a successful career</strong><br />
             If you’re not happy, no amount of money will make you successful. Learn to embrace your happiness, keep your ducks happily in a row, and keep a realistic understanding of success and how it relates to your life.
@@ -81,18 +81,18 @@ For just $19 (or more, up to you) you’ll get:<br />
 <li>The exact templates I use to create invoices, proposals, and budgeting.</li>
 <li><s>The List of Tools I Use to Run My Business.*</s></li>
 </ul>
-<a className="btn" href="https://gumroad.com/l/masteringfreelance?wanted=true" role="link">Buy Mastering Freelance</a>
+<a className="btn" href="https://gumroad.com/l/masteringfreelance?wanted=true">Buy Mastering Freelance</a>
 
 <Testimonial text="I’m just starting up so everything is new right now and I don’t know what obstacles I might encounter but one thing that your book gave me is confidence in myself."/>
 
-The <a href="https://www.antonsten.com/tools" target="_blank">List of Tools I Use to Run My Business</a> is now available and open to all and doesn't require a purchase.</p>
+The <a href="https://www.antonsten.com/tools" target="_blank" rel="noopener noreferrer">List of Tools I Use to Run My Business</a> is now available and open to all and doesn't require a purchase.</p>
 
 <h2>About the author</h2>
-<p className="mb-12">Hey, I’m Anton Sten – a designer and a business owner. Last year I wrote a book called <a href="https://www.antonsten.com/books/user-experiences-matter/" target="_blank">User Experience that Matter</a> and through this book, <a href="https://www.antonsten.com/newsletter" target="_blank">my newsletter</a>, and <a href="https://www.antonsten.com/blog" target="_blank">blog</a>, I’ve helped hundreds of companies create better user experiences for their customers. Now my goal is to help you!
+<p className="mb-12">Hey, I’m Anton Sten – a designer and a business owner. Last year I wrote a book called <a href="https://www.antonsten.com/books/user-experiences-matter/" target="_blank" rel="noopener noreferrer">User Experience that Matter</a> and through this book, <a href="https://www.antonsten.com/newsletter" target="_blank" rel="noopener noreferrer">my newsletter</a>, and <a href="https://www.antonsten.com/blog" target="_blank" rel="noopener noreferrer">blog</a>, I’ve helped hundreds of companies create better user experiences for their customers. Now my goal is to help you!
 <br /><br />
 A big part of successful freelancing is creating great user experiences for your customers. Applying my experience and knowledge in UX-design transformed my freelancing journey and it can do the same for yours!
 <br /><br />
-I live in Lomma, Sweden with my wife and dog (who is also my colleague, just one of the perks of being your own boss!). Feel free to connect with me on Twitter <a href="https://twitter.com/antonsten" target="_blank">(@antonsten)</a>.</p>
+I live in Lomma, Sweden with my wife and dog (who is also my colleague, just one of the perks of being your own boss!). Feel free to connect with me on Twitter <a href="https://twitter.com/antonsten" target="_blank" rel="noopener noreferrer">(@antonsten)</a>.</p>
                         <hr/>
           </div>
       </Layout>
