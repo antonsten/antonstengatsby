@@ -28,7 +28,7 @@ function SEO({ description, lang, meta, keywords, title, slug }) {
 
   const metaDescription = description || site.siteMetadata.description
   const path = slug || ''
-  const image = path === '' ? `${site.siteMetadata.siteUrl}/images/idea.jpg` : `${site.siteMetadata.siteUrl}${path}twitter-card.jpg`
+  const image = !slug ? `${site.siteMetadata.siteUrl}/images/idea.jpg` : `${site.siteMetadata.siteUrl}${path}twitter-card.jpg`
 
   return (
     <Helmet
@@ -56,6 +56,10 @@ function SEO({ description, lang, meta, keywords, title, slug }) {
         },
         {
           property: `og:image`,
+          content: image,
+        },
+        {
+          property: `og:url`,
           content: image,
         },
         {
