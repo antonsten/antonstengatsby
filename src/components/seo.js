@@ -30,8 +30,6 @@ function SEO({ description, lang, meta, keywords, title, slug }) {
   const path = slug || ''
   const image = path === '' ? `${site.siteMetadata.siteUrl}/images/idea.jpg` : `${site.siteMetadata.siteUrl}${path}twitter-card.jpg`
 
-  console.log(image)
-
   return (
     <Helmet
       htmlAttributes={{
