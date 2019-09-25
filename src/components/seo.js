@@ -28,6 +28,9 @@ function SEO({ description, lang, meta, keywords, title, slug }) {
 
   const metaDescription = description || site.siteMetadata.description
   const path = slug || ''
+  const image = path === '' ? `${site.siteMetadata.siteUrl}/images/idea.jpg` : `${site.siteMetadata.siteUrl}${path}twitter-card.jpg`
+
+  console.log(image)
 
   return (
     <Helmet
@@ -55,7 +58,7 @@ function SEO({ description, lang, meta, keywords, title, slug }) {
         },
         {
           property: `og:image`,
-          content: `/images/idea.jpg`,
+          content: image,
         },
         {
           name: `twitter:card`,
@@ -75,7 +78,7 @@ function SEO({ description, lang, meta, keywords, title, slug }) {
         },
         {
           name: `twitter:image`,
-          content: `${site.siteMetadata.siteUrl}${path}twitter-card.jpg`
+          content: image
         }
       ]
         .concat(
