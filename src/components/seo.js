@@ -59,6 +59,14 @@ function SEO({ description, lang, meta, keywords, title, slug }) {
           content: image,
         },
         {
+          property: `og:image:width`,
+          content: `600`
+        },
+        {
+          property: `og:image:height`,
+          content: `314`
+        },
+        {
           property: `og:url`,
           content: image,
         },
