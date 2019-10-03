@@ -9,7 +9,7 @@ class Layout extends React.Component {
 
     return (
       <div className={ this.props.children[0].props.title }>
-      
+
         <Header/>
         <main className="max-w-xl mx-auto pt-16 pb-16">
           <div className="w-full mt-8 sm:mt-16 pt-2">
@@ -35,8 +35,7 @@ class Layout extends React.Component {
             </ul>
           </footer>
         </main>
-
-        <Popup type="custom"/>
+          <Popup type="custom"/>
       </div>
     )
   }
