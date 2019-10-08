@@ -67,6 +67,10 @@ blockquote {
   margin-top: 2.5rem;
 }
 
+.twitter-tweet {
+    margin:auto;
+}
+
 .Work blockquote {
   margin-top: 0;
 }

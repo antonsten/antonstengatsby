@@ -4,7 +4,7 @@ title: 'Finding Your Professional Path'
 date: 2019-10-08T04:49:07+00:00
 author: Anton Sten
 slug: professional-path/
-image: '/images/blog/jermaine-ee-A2CChTZvzTE-unsplash.jpg'
+image: '/images/blog/future_roles.001.jpeg'
 description: Inspiration for great UX comes from all sorts of places. The world around us can actually be an even better teacher than books or conferences. Take a look here for some examples of how to grow as a UX Designer just by observing the world around you.
 tag: 'newsletter'
 ---
@@ -47,7 +47,7 @@ Fast forward to today, and each role has expanded into niched variations, each o
 
 Today, a designer can be an Information Architect, UX Designer, UI Designer, Product Designer, Design Director, Art Director, Senior Art Director, Creative Director, Executive Creative Director, Content Designer, Design Researcher, Design Ops, Motion Designer, Design Lead, UX Lead, Design Manager, Design Producer, Graphic Designer, iOS Designer, and Visual Designer...
 
-<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">2005: I&#39;m a web designer<br>2009: I&#39;m a UI designer<br>2011: I&#39;m a UX designer<br>2014: I&#39;m a product designer<br>2021: I&#39;m an experience sommelier</p>&mdash; 🎃 Tomb Frighten 💀 (@tomcreighton) <a href="https://twitter.com/tomcreighton/status/870016190407639040?ref_src=twsrc%5Etfw">May 31, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">2005: I&#39;m a web designer<br>2009: I&#39;m a UI designer<br>2011: I&#39;m a UX designer<br>2014: I&#39;m a product designer<br>2021: I&#39;m an experience sommelier</p>&mdash; 🎃 Tomb Frighten 💀 (@tomcreighton) <a href="https://twitter.com/tomcreighton/status/870016190407639040?ref_src=twsrc%5Etfw">May 31, 2017</a></blockquote> 
 
 We see this trend in other roles as well.
 
