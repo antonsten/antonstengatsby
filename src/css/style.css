@@ -184,11 +184,6 @@ hr {
   background-color: #E5E5E5;
 }
 
-em {
-  background-color: #E6F1FA;
-  letter-spacing: 1px;
-}
-
 a {
   @apply text-link;
   text-decoration: none;
