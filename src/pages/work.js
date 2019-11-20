@@ -37,11 +37,16 @@ class Grid extends React.Component {
           </div>
 
           <div className="block flex-wrap flex -mx-2 sm:-mx-4">
-          <Testimonial logo="/images/clients/spotify.png" text="Whenever someone asks me if I know any good freelance UX designers I always answer with Anton. He’s a great designer with <em>superior business understanding who always put the user in the front seat</em> and delivers bloody good work. If you ever get a chance to work with Anton, don’t miss it." author="christian wilsson, head of design - spotify"/>
 
           <Client logo="/images/clients/lysa.png"/>
           <Client logo="/images/clients/eon.png" case="/case/eon" />
           <Client logo="/images/clients/izettle.png"/>
+
+          <Testimonial logo="/images/clients/spotify.png" text="Whenever someone asks me if I know any good freelance UX designers I always answer with Anton. He’s a great designer with <em>superior business understanding who always put the user in the front seat</em> and delivers bloody good work. If you ever get a chance to work with Anton, don’t miss it." author="christian wilsson, head of design - spotify"/>
+
+          <Client logo="/images/clients/superfriendly.png"/>
+          <Client logo="/images/clients/tc_logo.png" />
+          <Client logo="/images/clients/frank.png" case="/case/frank" />
 
           <Testimonial logo="/images/clients/firstprinciple.png" text="Anton was thorough and a pleasure to work with. He’s a great collaborator and partner to work through product solutions alongside. <em>He does what he says and never misses a deadline</em>, an unfortunate rarity these days that you don’t have to worry about with Anton." author="TRAVIS SCHMEISSER, FOUNDER & PARTNER, FIRST PRINCIPLE"/>
 
@@ -52,7 +57,7 @@ class Grid extends React.Component {
           <Testimonial logo="/images/clients/swedbank.png" text="I had the pleasure of working with Anton on one of our highest priority projects. He was able to quickly familiarize himself with the challenges at hand and produced conceptual UX designs that not only met the demands, but even exceeded expectations. Anton has been a great co-creator <em>with both a positive attitude and openness for feedback</em>, as well as able to get the job done on time." author="GREG HENRIQUES, HEAD OF CUSTOMER EXPERIENCE, SWEDBANK"/>
 
           <Client logo="/images/clients/apotekhjartat.png"/>
-          <Client logo="/images/clients/frank.png" case="/case/frank" />
+          <Client logo="/images/clients/jarfalla.png" />
           <Client logo="/images/clients/hyperisland.png"/>
 
           <Testimonial logo="/images/clients/5th.png" text="We've worked with Anton on many occasions; usually at each new iteration of our website. Anton is not only very responsive and easy to work with but <em>he provided a thorough and clear action list for us to follow</em>. As the way that we release products on our website is a little different to traditional retailers Anton needed to be creative with his solutions for us, which he was, and the results showed every time. A very fluid and successful partnership." author="Alex McBride, Founder, the 5th"/>
