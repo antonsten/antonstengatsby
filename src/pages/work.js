@@ -56,8 +56,8 @@ class Grid extends React.Component {
 
           <Testimonial logo="/images/clients/swedbank.png" text="I had the pleasure of working with Anton on one of our highest priority projects. He was able to quickly familiarize himself with the challenges at hand and produced conceptual UX designs that not only met the demands, but even exceeded expectations. Anton has been a great co-creator <em>with both a positive attitude and openness for feedback</em>, as well as able to get the job done on time." author="GREG HENRIQUES, HEAD OF CUSTOMER EXPERIENCE, SWEDBANK"/>
 
-          <Client logo="/images/clients/apotekhjartat.png"/>
-          <Client logo="/images/clients/jarfalla.png" />
+          <Client logo="/images/clients/volvo.png"/>
+          <Client logo="/images/clients/jarfalla.png"  case="/case/jarfalla" />
           <Client logo="/images/clients/hyperisland.png"/>
 
           <Testimonial logo="/images/clients/5th.png" text="We've worked with Anton on many occasions; usually at each new iteration of our website. Anton is not only very responsive and easy to work with but <em>he provided a thorough and clear action list for us to follow</em>. As the way that we release products on our website is a little different to traditional retailers Anton needed to be creative with his solutions for us, which he was, and the results showed every time. A very fluid and successful partnership." author="Alex McBride, Founder, the 5th"/>
@@ -69,7 +69,7 @@ class Grid extends React.Component {
           <Testimonial case="/case/falkenberg" logo="/images/clients/fbg.png" text="Working with Anton was like catching up with a childhood friend.. Instantly he understood our situation, challenges as desires, and was able to give raw, honest, constructive feedback.  <em>He truly understands the business part and is able to conceptualise complex scenarios into clean UX designs</em> that appeal the end user.  Working with Anton was a grateful experience and I strongly recommend him for a positive and painless workflow." author="Kristján Fannar, Destination developer, Destination Falkenberg"/>
 
           <Client logo="/images/clients/nudie.png"/>
-          <Client logo="/images/clients/volvo.png"/>
+          <Client logo="/images/clients/apotekhjartat.png" case="/case/apotekhjartat" />
           <Client logo="/images/clients/cdon.png"/>
 
           <Testimonial case="/case/ne" logo="/images/clients/ne.png" text="I have had the pleasure of working with Anton in a visual and UX redesign of our services. <em>I am enthused and impressed by how Anton chooses simplicity over complexity and keeps the design interesting, appealing and accessible.</em> Furthermore, he is a humble and unassuming person that is a pleasure to work with." author="HUBERT KJELLBERG, PRESIDENT, BROCKHAUS & NATIONALENCYKLOPEDIN"/>
