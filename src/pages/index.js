@@ -19,8 +19,8 @@ class BlogIndex extends React.Component {
         />
         <div className="w-full">
           <h1 className="pr-0 sm:pr-12">Has This Ever Happened To You?</h1>
-          <del className="mb-4 mt-4">You’re struck with a million-dollar idea for a shiny new digital product. You slave for months over it, throw yourself a launch party with signature cocktails, and—it fails miserably.
-          </del>
+          <p className="mb-4 mt-4">You’re struck with a million-dollar idea for a shiny new digital product. You slave for months over it, throw yourself a launch party with signature cocktails, and—it fails miserably.
+          </p>
 
           <p className="mt-12">
           …or, maybe you’re not facing a complete failure, but you’re seeing disappointing bounce rates, sagging app usage, or (heaven forbid) complaints from unhappy users.

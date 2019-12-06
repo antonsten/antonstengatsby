@@ -46,15 +46,15 @@ let defaultConfig = require('tailwindcss/defaultConfig')()
 let colors = {
   'transparent': 'transparent',
 
-  'black': '#4a4a4a',
+  'black': '#282828',
   'blacker': '#333',
   'grey-darkest': '#3d4852',
   'grey-darker': '#606f7b',
   'grey-dark': '#8795a1',
-  'grey': '#737373',
+  'grey': '#A0A0A0',
   'grey-light': '#E0E0E0',
   'grey-lighter': '#F2F2F2',
-  'grey-lightest': '#FAFAFA',
+  'grey-lightest': '#F7F7F7',
   'white': '#ffffff',
 
   'link': '#0070C9',
@@ -62,7 +62,7 @@ let colors = {
   'red-darkest': '#3b0d0c',
   'red-darker': '#621b18',
   'red-dark': '#cc1f1a',
-  'red': '#e3342f',
+  'red': '#D1497C',
   'red-light': '#ef5753',
   'red-lighter': '#f9acaa',
   'red-lightest': '#fcebea',
@@ -78,7 +78,7 @@ let colors = {
   'yellow-darkest': '#453411',
   'yellow-darker': '#684f1d',
   'yellow-dark': '#f2d024',
-  'yellow': '#ffed4a',
+  'yellow': '#FFEA34',
   'yellow-light': '#fff382',
   'yellow-lighter': '#fff9c2',
   'yellow-lightest': '#fcfbeb',
@@ -102,7 +102,7 @@ let colors = {
   'blue-darkest': '#12283a',
   'blue-darker': '#1c3d5a',
   'blue-dark': '#2779bd',
-  'blue': '#3490dc',
+  'blue': '#0070C9',
   'blue-light': '#6cb2eb',
   'blue-lighter': '#bcdefa',
   'blue-lightest': '#eff8ff',
@@ -205,17 +205,9 @@ module.exports = {
       'sans-serif',
     ],
     'serif': [
-      'FreightDispProBook-Regular',
+      'Lyon Text Web',
       'Georgia',
       'serif',
-    ],
-    'mono': [
-      'Menlo',
-      'Monaco',
-      'Consolas',
-      'Liberation Mono',
-      'Courier New',
-      'monospace',
     ],
   },
 
@@ -244,7 +236,7 @@ module.exports = {
     'xs': '.69rem',     // 11px
     'sm': '.875rem',    // 14px
     'base': '1rem',     // 16px
-    'lg': '1.25rem',   // 18px
+    'lg': '1.25rem',   // 20px
     'xl': '1.5rem',    // 24px
     '2xl': '1.75rem',    // 28px
     '3xl': '1.875rem',  // 30px

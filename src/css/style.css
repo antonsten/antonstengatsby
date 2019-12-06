@@ -23,15 +23,16 @@ header {
 }
 
 header a, header a:hover {
-  font-weight: 400;
+  font-weight: 600;
   border: none;
+  text-transform: uppercase;
 
-  @apply font-sans text-base;
+  @apply font-sans text-xs;
 }
 
 [aria-current] {
   text-decoration: underline;
-  color: #0070C9;
+  color: #FFEA34;
 }
 
 header ul {
@@ -85,7 +86,7 @@ blockquote strong {
 ul, ol, p, .people-like-you {
   margin-bottom: 2rem;
   margin-top: 2rem;
-  @apply text-xl leading-normal font-normal;
+  @apply text-lg leading-normal font-normal;
 }
 
 blockquote, blockquote p {
@@ -95,7 +96,7 @@ blockquote, blockquote p {
 
 @screen sm {
   ul, ol, p {
-    @apply text-xl leading-normal font-normal;
+    @apply text-lg leading-normal font-normal;
   }
 
   blockquote, blockquote p {
@@ -109,7 +110,7 @@ blockquote, blockquote p {
 }
 
 h1 {
-  @apply mb-4 mt-3 text-3xl font-sans;
+  @apply mb-4 mt-3 text-3xl font-serif;
 }
 
 @screen sm {
@@ -122,7 +123,7 @@ h2 {
   margin-top: 4rem;
   margin-bottom: 1rem;
 
-  @apply text-3xl leading-normal font-bold font-sans;
+  @apply text-3xl leading-normal font-sans;
 }
 
 h3 {
@@ -134,7 +135,7 @@ h3 {
 
 @screen sm {
   h2 {
-    @apply text-2xl;
+    @apply text-3xl;
   }
 }
 
@@ -168,8 +169,7 @@ del {
 /* components */
 
 .btn {
-  @apply bg-link uppercase font-bold text-white text-xs px-8 py-4 font-sans cursor-pointer inline-block;
-  border-radius: 4px;
+  @apply bg-red uppercase font-bold text-white text-xs px-8 py-4 font-sans cursor-pointer inline-block;
   letter-spacing: 1px;
 }
 
@@ -180,24 +180,25 @@ del {
 }
 
 hr {
-  height: 1px;
-  background-color: #E5E5E5;
+  height: 2px;
+  background-color: #F7F7F7;
 }
 
 a {
   @apply text-link;
   text-decoration: none;
-  border-bottom: 1px solid #0070C9;
+  border-bottom: 2px solid #FFEA34;
 }
 
 a:hover {
-  color: #0070C9;
-  border-bottom: 2px solid #0070C9;
+  color: #282828;
+  border-bottom: 2px solid #FFEA34;
 }
 
 blockquote {
   @apply p-6 rounded-none mb-8;
-  border-left: 2px solid #E0E0E0;
+  background-color: #F7F7F7;
+  @apply text-lg;
 }
 
 blockquote strong {
@@ -221,7 +222,8 @@ blockquote div div a {
 
 @screen sm {
   blockquote div div a {
-    @apply text-xl;
+    font-style: italic;
+    @apply text-lg;
   }
 }
 
@@ -320,8 +322,8 @@ form input {
 }
 
 hr {
-  height: 1px;
-  background-color: #E5E5E5;
+  height: 2px;
+  background-color: #F7F7F7;
 }
 
 h3 {
