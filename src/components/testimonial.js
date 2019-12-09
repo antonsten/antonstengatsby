@@ -8,10 +8,10 @@ class Testimonial extends React.Component {
 
     return (
       <div className={ classes }>
-        <blockquote className="p-8 rounded-none color-grey-lightest">
-          <div className="w-full h-full">
-            { this.props.logo && <img alt={this.props.author} className="tesimonial-logo mb-4" src={ this.props.logo }/>}
-            <div className="text-lg sm:text-xl font-serif leading-tight" dangerouslySetInnerHTML={innerHtml}></div>
+        <blockquote>
+          <div className="w-full h-full mt-8 block mb-16 bg-black p-8 text-white">
+            { this.props.logo && <img style={{filter: "invert(100%)"}} alt={this.props.author} className="tesimonial-logo mb-4" src={ this.props.logo } />}
+            <div className="text-lg sm:text-lg font-italic font-serif leading-tight" dangerouslySetInnerHTML={innerHtml}></div>
             <strong className="pt-6 inline-block tracking-wide text-xs uppercase">{this.props.author}</strong><br />
             { this.props.case &&
               <Link to={ this.props.case } className="mb-2 uppercase font-bold text-link text-xs font-sans">View case</Link>

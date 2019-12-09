@@ -18,6 +18,7 @@ class BlogIndex extends React.Component {
           title = "Home"
         />
         <div className="w-full">
+          <div className="mt-8 block w-full mb-16 bg-grey-lighter p-8 text-black"><p>Anton Stén is a senior UX designer focused on helping clients having more successful businesses through happier customers.</p></div>
           <h1 className="pr-0 sm:pr-12">Has This Ever Happened To You?</h1>
           <p className="mb-4 mt-4">You’re struck with a million-dollar idea for a shiny new digital product. You slave for months over it, throw yourself a launch party with signature cocktails, and—it fails miserably.
           </p>
@@ -29,8 +30,8 @@ class BlogIndex extends React.Component {
           <br /><br />
           This is where I come in.
           </p>
-
-          <h2>Hi! I’m Anton, and I lead UX for design-driven companies.</h2>
+<div className="mt-8 block w-full mb-16 bg-grey-lighter p-8 text-black">
+          <h2>I lead UX for design-driven companies.</h2>
 
           <p>
           My speciality? Using my design skills and business knowledge to <em>not just make your digital product look pretty, but to make it work.</em>
@@ -39,9 +40,7 @@ class BlogIndex extends React.Component {
           <br /><br />
           My background in both design and business puts me in an ideal position to help you take your digital products from so-so to GREAT.
           </p>
-
-          <Link to="/work" className="btn mt-4 mb-6">Find out more</Link>
-
+</div>
           <Testimonial logo="/images/clients/spotify.png" text="Whenever someone asks me if I know any good freelance UX designers I always answer with Anton. He’s a great designer with superior business understanding who always put the user in the front seat and delivers bloody good work. If you ever get a chance to work with Anton, don’t miss it." author="Christian Wilsson, Head of Design, Spotify"/>
 
           <Form/>

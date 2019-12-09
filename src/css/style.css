@@ -142,18 +142,17 @@ h3 {
 
 del {
   text-decoration: none;
-  color: #4a4a4a;
   margin-bottom: 3.5rem;
   float: left;
   width: 100%;
   font-style: normal;
 
-  @apply text-2xl leading-normal;
+  @apply text-xl leading-normal;
 }
 
 @screen sm {
   del {
-    @apply text-4xl font-serif leading-normal;
+    @apply text-2xl font-serif leading-normal;
   }
 }
 
@@ -161,7 +160,7 @@ del {
 /* testimonial */
 
 .tesimonial-logo {
-  max-width: 130px;
+  max-width: 100px;
   max-height: 40px;
   height: auto !important;
 }
@@ -176,7 +175,6 @@ del {
 .btn:hover {
   @apply text-white;
   background-color: #0062B0;
-  border-bottom: 1px solid #0070C9;
 }
 
 hr {
@@ -197,7 +195,6 @@ a:hover {
 
 blockquote {
   @apply p-6 rounded-none mb-8;
-  background-color: #F7F7F7;
   @apply text-lg;
 }
 
@@ -217,7 +214,6 @@ blockquote div div a {
   letter-spacing: 0;
   margin-top: 0;
 
-  @apply text-xl;
 }
 
 @screen sm {
