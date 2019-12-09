@@ -110,7 +110,7 @@ blockquote, blockquote p {
 }
 
 h1 {
-  @apply mb-4 mt-3 text-3xl font-serif;
+  @apply mb-4 mt-3 text-3xl font-serif tracking-tight;
 }
 
 @screen sm {
