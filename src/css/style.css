@@ -66,6 +66,7 @@ footer li, .date {
 
 blockquote {
   margin-top: 2.5rem;
+  @apply block w-full mt-16 mb-16 bg-grey-lighter p-16 text-black;
 }
 
 .twitter-tweet {
@@ -77,7 +78,7 @@ blockquote {
 }
 
 blockquote strong {
-  @apply font-sans text-sm;
+  @apply font-sans font-normal text-sm;
 
 }
 
@@ -90,7 +91,7 @@ ul, ol, p, .people-like-you {
 }
 
 blockquote, blockquote p {
-  @apply text-lg font-sans leading-tight;
+  @apply text-lg font-serif italic leading-tight;
 
 }
 
@@ -99,9 +100,6 @@ blockquote, blockquote p {
     @apply text-lg leading-normal font-normal;
   }
 
-  blockquote, blockquote p {
-    @apply leading-normal font-sans text-lg;
-  }
 }
 
 .max-w-xl {
@@ -122,6 +120,7 @@ h1 {
 h2 {
   margin-top: 1rem;
   margin-bottom: 1rem;
+  font-weight: 600;
 
   @apply text-3xl leading-normal font-sans;
 }
@@ -129,6 +128,8 @@ h2 {
 h3 {
   margin-top: 4rem;
   margin-bottom: 1rem;
+  font-weight: 600;
+
   @apply text-xl leading-normal font-sans;
 }
 
@@ -170,6 +171,8 @@ del {
 .btn {
   @apply bg-red uppercase text-white text-xs px-8 py-4 font-sans cursor-pointer inline-block;
   letter-spacing: 1px;
+  font-weight: 600;
+
 }
 
 .btn:hover {
