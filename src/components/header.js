@@ -17,6 +17,7 @@ class Header extends React.Component {
 
   render() {
     return (
+      
       <header className="mb-12 fixed w-full">
         <div className="max-w-xl mx-auto">
           <div className="flex items-center justify-between w-full py-4 border-b border-light-grey">

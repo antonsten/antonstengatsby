@@ -15,11 +15,9 @@ class Grid extends React.Component {
           <SEO title="Work"/>
           <div className="w-full">
             <h1>Creating Better User Experiences</h1>
-            <del>
-              My personal mission for the past 20 years has been to help companies connect with their customers in meaningful ways. In that time, I’ve created user-focused experiences that resulted in happier, better-served customers and higher sales.
-              <br></br>That’s something I’m really proud of.
-            </del>
-
+              <p>My personal mission for the past 20 years has been to help companies connect with their customers in meaningful ways. In that time, I’ve created user-focused experiences that resulted in happier, better-served customers and higher sales.
+              <br></br>That’s something I’m really proud of.</p>
+            <div className="block w-full mt-16 mb-16 bg-grey-lighter p-16 text-black">
             <h2>Clients</h2>
 
             <p>
@@ -27,13 +25,7 @@ class Grid extends React.Component {
 
               Large or small, my clients always come with specific needs and goals—not to mention an array of constraints and business requirements that must be fulfilled—and I’m proud of the consistently positive results I’ve produced in each unique case.
             </p>
-            <div className='people-like-you'>Here’s what I’ve done for people like you:
-            <ul>
-            <li>Helped plan, build, and implement scaleable design systems</li>
-            <li>Designed the shopping and buying experience for IKEA</li>
-            <li>Set the UX and design strategy for Fortune 500 companies like E.ON</li>
-            <li>Optimized the user experience for a boost in conversions for e-commerces</li>
-            </ul></div>
+            </div>
           </div>
 
           <div className="block flex-wrap flex -mx-2 sm:-mx-4">

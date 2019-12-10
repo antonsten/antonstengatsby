@@ -62,7 +62,7 @@ let colors = {
   'red-darkest': '#3b0d0c',
   'red-darker': '#621b18',
   'red-dark': '#cc1f1a',
-  'red': '#D1497C',
+  'red': '#D02A68',
   'red-light': '#ef5753',
   'red-lighter': '#f9acaa',
   'red-lightest': '#fcebea',
@@ -209,6 +209,10 @@ module.exports = {
       'Georgia',
       'serif',
     ],
+    'hand': [
+      'Prachar Regular',
+      'serif',
+    ],
   },
 
 
@@ -267,7 +271,7 @@ module.exports = {
     'normal': 400,
     'medium': 500,
     'semibold': 600,
-    'bold': 600,
+    'bold': 700,
     'extrabold': 800,
     'black': 900,
   },

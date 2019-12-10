@@ -110,7 +110,7 @@ blockquote, blockquote p {
 }
 
 h1 {
-  @apply mb-4 mt-3 text-3xl font-serif tracking-tight;
+  @apply mb-4 mt-3 text-3xl font-hand tracking-tight;
 }
 
 @screen sm {
@@ -120,7 +120,7 @@ h1 {
 }
 
 h2 {
-  margin-top: 4rem;
+  margin-top: 1rem;
   margin-bottom: 1rem;
 
   @apply text-3xl leading-normal font-sans;
@@ -168,13 +168,12 @@ del {
 /* components */
 
 .btn {
-  @apply bg-red uppercase font-bold text-white text-xs px-8 py-4 font-sans cursor-pointer inline-block;
+  @apply bg-red uppercase text-white text-xs px-8 py-4 font-sans cursor-pointer inline-block;
   letter-spacing: 1px;
 }
 
 .btn:hover {
   @apply text-white;
-  background-color: #0062B0;
 }
 
 hr {
@@ -183,18 +182,20 @@ hr {
 }
 
 a {
-  @apply text-link;
   text-decoration: none;
   border-bottom: 2px solid #FFEA34;
 }
 
 a:hover {
-  color: #282828;
   border-bottom: 2px solid #FFEA34;
 }
 
+a:visited {
+@apply text-black;
+}
+
 blockquote {
-  @apply p-6 rounded-none mb-8;
+  @apply mb-8;
   @apply text-lg;
 }
 
@@ -303,15 +304,6 @@ form input {
   @apply py-3 px-3 flex justify-between;
 }
 
-.Work .testimonial {
-  @apply px-2;
-}
-
-@screen sm {
-  .Work .testimonial {
-    @apply px-4;
-  }
-}
 
 .hover-border-none:hover {
   border: none !important;

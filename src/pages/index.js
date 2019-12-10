@@ -18,23 +18,21 @@ class BlogIndex extends React.Component {
           title = "Home"
         />
         <div className="w-full">
-          <div className="mt-8 block w-full mb-16 bg-grey-lighter p-8 text-black"><p>Anton Stén is a senior UX designer focused on helping clients having more successful businesses through happier customers.</p></div>
-          <h1 className="pr-0 sm:pr-12">Has This Ever Happened To You?</h1>
+          <div className="mt-8 block w-full mb-8 bg-grey-lighter p-16 text-black"><p>Anton Stén is a senior UX designer focused on helping clients having more successful businesses through happier customers.</p></div>
+          <h1 className="mt-16">Has This Ever Happened To You?</h1>
           <p className="mb-4 mt-4">You’re struck with a million-dollar idea for a shiny new digital product. You slave for months over it, throw yourself a launch party with signature cocktails, and—it fails miserably.
-          </p>
+          <br /><br />
 
-          <p className="mt-12">
           …or, maybe you’re not facing a complete failure, but you’re seeing disappointing bounce rates, sagging app usage, or (heaven forbid) complaints from unhappy users.
           <br /><br />
           What happened? you ask. There should be a huge, adoring audience for this product! There may be one big, 800-pound-gorilla of a missing piece you didn’t consider carefully enough: <em>User Experience</em>.
           <br /><br />
           This is where I come in.
           </p>
-<div className="mt-8 block w-full mb-16 bg-grey-lighter p-8 text-black">
+<div className="block w-full mt-16 mb-16 bg-grey-lighter p-16 text-black">
           <h2>I lead UX for design-driven companies.</h2>
 
-          <p>
-          My speciality? Using my design skills and business knowledge to <em>not just make your digital product look pretty, but to make it work.</em>
+          <p>My speciality? Using my design skills and business knowledge to <em>not just make your digital product look pretty, but to make it work.</em>
           <br /><br />
           I help companies design experiences that put the user first. My common sense approach to UX can help you get that stellar product out of the trash bin and into users’ daily lives.
           <br /><br />
