@@ -19,6 +19,7 @@ class BlogIndex extends React.Component {
         />
         <div className="w-full">
           <div className="mt-8 block w-full mb-8 bg-grey-lighter p-16 text-black"><p>Anton Stén is a senior UX designer focused on helping clients having more successful businesses through happier customers.</p></div>
+          <img src="/images/idea.jpg" className="mb-12 w-1/2 mx-auto gatsby-image-small" />
           <h1 className="mt-16">Has This Ever Happened To You?</h1>
           <p className="mb-4 mt-4">You’re struck with a million-dollar idea for a shiny new digital product. You slave for months over it, throw yourself a launch party with signature cocktails, and—it fails miserably.
           <br /><br />
@@ -41,7 +42,7 @@ class BlogIndex extends React.Component {
 </div>
           <Testimonial logo="/images/clients/spotify.png" text="Whenever someone asks me if I know any good freelance UX designers I always answer with Anton. He’s a great designer with superior business understanding who always put the user in the front seat and delivers bloody good work. If you ever get a chance to work with Anton, don’t miss it." author="Christian Wilsson, Head of Design, Spotify"/>
 
-          <Form/>
+          <Form title="Get a free email course" text="Great laser focused UX content, told in an easy to understand way, helping to make sure I keep my eye on the UX ball." />
 
           <h2 className="mt-16">Latest posts</h2>
           {posts.map(({ node }) => {

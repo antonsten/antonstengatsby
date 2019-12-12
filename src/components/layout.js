@@ -35,6 +35,7 @@ class Layout extends React.Component {
             </ul>
           </footer>
         </main>
+        <Popup type="custom"/>
       </div>
     )
   }
