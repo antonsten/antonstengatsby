@@ -186,11 +186,11 @@ hr {
 
 a {
   text-decoration: none;
-  border-bottom: 2px solid #FFEA34;
+  border-bottom: 6px solid #FFEA34;
 }
 
 a:hover {
-  border-bottom: 2px solid #FFEA34;
+  border-bottom: 6px solid #FFEA34;
 }
 
 a:visited {

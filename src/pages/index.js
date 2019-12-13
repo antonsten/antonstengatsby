@@ -18,7 +18,7 @@ class BlogIndex extends React.Component {
           title = "Home"
         />
         <div className="w-full">
-          <div className="mt-8 block w-full mb-8 bg-grey-lighter p-16 text-black"><p>Anton Stén is a senior UX designer focused on helping clients having more successful businesses through happier customers.</p></div>
+          <div className="mt-4 block w-full mb-4 bg-grey-lighter p-16 text-black text-lg leading-normal">Anton Stén is a senior UX designer focused on helping clients having more <a href="/work">successful businesses through happier customers.</a></div>
           <img src="/images/idea.jpg" className="mb-12 w-1/2 mx-auto gatsby-image-small" />
           <h1 className="mt-16">Has This Ever Happened To You?</h1>
           <p className="mb-4 mt-4">You’re struck with a million-dollar idea for a shiny new digital product. You slave for months over it, throw yourself a launch party with signature cocktails, and—it fails miserably.
@@ -26,7 +26,7 @@ class BlogIndex extends React.Component {
 
           …or, maybe you’re not facing a complete failure, but you’re seeing disappointing bounce rates, sagging app usage, or (heaven forbid) complaints from unhappy users.
           <br /><br />
-          What happened? you ask. There should be a huge, adoring audience for this product! There may be one big, 800-pound-gorilla of a missing piece you didn’t consider carefully enough: <em>User Experience</em>.
+          What happened? you ask. There should be a huge, adoring audience for this product! There may be one big, 800-pound-gorilla of a missing piece you didn’t consider carefully enough: <a href="/work">User Experience.</a>
           <br /><br />
           This is where I come in.
           </p>
