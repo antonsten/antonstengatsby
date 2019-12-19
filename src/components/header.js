@@ -29,7 +29,7 @@ class Header extends React.Component {
               <div className="mobile-menu">
                 <ul className="list-reset pl-5 pr-5 mobile-menu__ul flex flex-wrap w-full">
                   <li className="w-1/2 float-left text-center py-16 border-solid border-l border-b border-r border-grey-lighter">
-                    <Link className="text-black no-underline" to="/about" rel="prefetch" rel="prefetch">
+                    <Link className="text-black no-underline" to="/about" rel="prefetch">
                       About
                     </Link>
                   </li>
