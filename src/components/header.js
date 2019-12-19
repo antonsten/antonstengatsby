@@ -29,32 +29,32 @@ class Header extends React.Component {
               <div className="mobile-menu">
                 <ul className="list-reset pl-5 pr-5 mobile-menu__ul flex flex-wrap w-full">
                   <li className="w-1/2 float-left text-center py-16 border-solid border-l border-b border-r border-grey-lighter">
-                    <Link className="text-black no-underline" to="/about" rel="prev">
+                    <Link className="text-black no-underline" to="/about" rel="prefetch" rel="prefetch">
                       About
                     </Link>
                   </li>
                   <li className="w-1/2 float-left text-center py-16 border-solid border-l border-b border-r border-grey-lighter">
-                    <Link className="text-black no-underline" to="/work" rel="prev">
+                    <Link className="text-black no-underline" to="/work" rel="prefetch">
                       Work
                     </Link>
                   </li>
                   <li className="w-1/2 float-left text-center py-16 border-solid border-l border-b border-r border-grey-lighter">
-                    <Link className="text-black no-underline" to="/work-with-me" rel="prev">
+                    <Link className="text-black no-underline" to="/work-with-me" rel="prefetch">
                       Work With Me
                     </Link>
                   </li>
                   <li className="w-1/2 float-left text-center py-16 border-solid border-l border-b border-r border-grey-lighter">
-                    <Link className="text-black no-underline" to="/blog" rel="prev">
+                    <Link className="text-black no-underline" to="/blog" rel="prefetch">
                       Writing
                     </Link>
                   </li>
                   <li className="w-1/2 float-left text-center py-16 border-solid border-l border-b border-r border-grey-lighter">
-                    <Link className="text-black no-underline" to="/contact" rel="prev">
+                    <Link className="text-black no-underline" to="/contact" rel="prefetch">
                       Contact
                     </Link>
                   </li>
                   <li className="w-1/2 float-left text-center py-16 border-solid border-l border-b border-r border-grey-lighter">
-                    <Link className="text-black no-underline" to="https://www.twitter.com/antonsten" rel="prev">
+                    <Link className="text-black no-underline" to="https://www.twitter.com/antonsten" rel="prefetch">
                       Twitter
                     </Link>
                   </li>
@@ -65,27 +65,27 @@ class Header extends React.Component {
 
             <ul className="list-reset float-right hidden sm:inline-block text-lg">
               <li className="inline-block pl-6">
-                <Link className="text-black no-underline" to="/about" rel="prev">
+                <Link className="text-black no-underline" to="/about" rel="prefetch">
                   About
                 </Link>
               </li>
               <li className="inline-block pl-6">
-                <Link className="text-black no-underline" to="/work" rel="prev">
+                <Link className="text-black no-underline" to="/work" rel="prefetch">
                   Work
                 </Link>
               </li>
               <li className="inline-block pl-6">
-                <Link className="text-black no-underline" to="/work-with-me" rel="prev">
+                <Link className="text-black no-underline" to="/work-with-me" rel="prefetch">
                   Work With Me
                 </Link>
               </li>
               <li className="inline-block pl-6">
-                <Link className="text-black no-underline" to="/blog" rel="prev">
+                <Link className="text-black no-underline" to="/blog" rel="prefetch">
                   Writing
                 </Link>
               </li>
               <li className="inline-block pl-6">
-                <Link className="text-black no-underline" to="/contact" rel="prev">
+                <Link className="text-black no-underline" to="/contact" rel="prefetch">
                   Contact
                 </Link>
               </li>
