@@ -237,7 +237,7 @@ module.exports = {
   */
 
   textSizes: {
-    'xs': '.69rem',     // 11px
+    'xs': '12px',     // 11px
     'sm': '.875rem',    // 14px
     'base': '1rem',     // 16px
     'lg': '1.25rem',   // 20px
@@ -627,6 +627,7 @@ module.exports = {
   maxHeight: {
     'full': '100%',
     'screen': '100vh',
+    '6': '4rem',
   },
 
 

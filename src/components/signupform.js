@@ -59,9 +59,9 @@ class Form extends React.Component {
           <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
         </p>
         { !this.state.hasSignedUp &&
-          <div className="w-full mt-6 block">
+          <div className="w-full mt-6 block flex flex-wrap">
             <label htmlFor="email" className="uppercase font-sans text-xs font-bold tracking-wide block w-full mb-2">e-mail</label>
-            <input type="email" id="email" value={ email } required="required" onChange={this.handleChange} name="email" className="text-xs uppercase font-sans bg-grey-lighter text-link font-bold tracking-wide px-4 w-full sm:w-64"/>
+            <input type="email" id="email" value={ email } required="required" onChange={this.handleChange} name="email" className="text-xs uppercase font-sans bg-grey-lighter text-link font-bold tracking-wide px-4 mr-4 flex-1"/>
             <input type="submit" value={ submit } className="btn mt-4 sm:mt-0"/>
           </div>
         }

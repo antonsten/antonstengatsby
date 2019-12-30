@@ -66,7 +66,7 @@ footer li, .date {
 
 blockquote {
   margin-top: 2.5rem;
-  @apply block w-full mt-16 mb-16 bg-grey-lighter p-16 text-black;
+  @apply block w-full mt-16 mb-16;
 }
 
 .twitter-tweet {
@@ -91,15 +91,13 @@ ul, ol, p, .people-like-you {
 }
 
 blockquote, blockquote p {
-  @apply text-lg font-serif italic leading-tight;
-
+  @apply text-lg font-serif leading-loose;
 }
 
 @screen sm {
   ul, ol, p {
     @apply text-lg leading-normal font-normal;
   }
-
 }
 
 .max-w-xl {
@@ -186,11 +184,27 @@ hr {
 
 a {
   text-decoration: none;
-  border-bottom: 6px solid #FFEA34;
+  position: relative;
 }
 
-a:hover {
-  border-bottom: 6px solid #FFEA34;
+main a:after {
+  content: '';
+  position: absolute;
+  z-index: -1;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 6px;
+  background-color: #FFEA34;
+  transition: all .2s;
+}
+
+a.no-after:after {
+  background-color: transparent;
+}
+
+a:hover:after {
+  bottom: -2px;
 }
 
 a:visited {
@@ -305,6 +319,13 @@ form input {
   max-width: 100%;
 
   @apply py-3 px-3 flex justify-between;
+}
+
+a.btn {
+  width: 220px;
+  max-width: 100%;
+
+  @apply py-4 px-3 bg-red text-center text-white font-sans uppercase;
 }
 
 

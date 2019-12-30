@@ -15,6 +15,8 @@ class Layout extends React.Component {
           <div className="w-full mt-8 sm:mt-16 pt-2">
             {children}
           </div>
+        </main>
+        <div className="max-w-xl mx-auto">
           <footer className="w-full py-4 mb-4 mt-16 flex justify-end">
             <ul className="list-reset float-right">
             <li className="inline-block pl-4">
@@ -34,7 +36,7 @@ class Layout extends React.Component {
               </li>
             </ul>
           </footer>
-        </main>
+        </div>
         <Popup type="custom"/>
       </div>
     )
