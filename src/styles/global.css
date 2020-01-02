@@ -10,6 +10,7 @@ html {
 
 body {
   font-family: 'Lyon Text Web', serif;
+  -webkit-font-smoothing: antialiased;
 }
 
 h3 {

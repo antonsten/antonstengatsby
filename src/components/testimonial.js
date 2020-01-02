@@ -15,9 +15,9 @@ class Testimonial extends React.Component {
             </div>
             <div className="w-full sm:w-2/3">
               <div className="text-lg sm:text-lg font-serif leading-tight italic" dangerouslySetInnerHTML={innerHtml}></div>
-              <div className="pt-6 font-sans inline-block tracking-wide text-xs uppercase">{this.props.author}</div><br />
+              <div className="pt-6 font-sans inline-block tracking-wide text-xs uppercase font-bold">{this.props.author}</div><br />
               { this.props.case &&
-                <Link to={ this.props.case } className="mb-2 uppercase text-link text-xs font-sans">View case</Link>
+                <Link to={ this.props.case } className="mb-2 uppercase text-link text-xs font-sans font-bold">View case</Link>
               }
             </div>
           </div>
