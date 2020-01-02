@@ -25,53 +25,53 @@ export default () => (
     `}
     render={data => (
       <div className="w-full">
-      <h2>Books</h2>
 
-      <p>
-        <a href="https://www.antonsten.com/books/user-experiences-matter" target="_blank" rel="noopener noreferrer">User Experiences that Matter</a> (2016)<br />
-        <a href="https://www.antonsten.com/books/masteringfreelance" target="_blank" rel="noopener noreferrer">Mastering Freelance</a> (2017)
-      </p>
+                  <div className="sm:-mx-16 mb-16">
+                  <div className="sm:flex w-full mt-16 bg-grey-lightest p-8 sm:p-16 text-black">
+                  <div className="w-1/2 sm:w-1/3"></div>
+                  <div className="w-full sm:w-2/3">
+                  <h2 className="leading-tight">Curated content</h2></div>
+                  </div>
 
-        <h2>If You're Getting Started in UX</h2>
-      <p>
-        <a href="https://www.antonsten.com/whatsux/">What's a 'User Experience' Anyways?</a><br />
-        <a href="https://www.antonsten.com/learn-ux/">How Do You Learn UX?</a><br />
-        <a href="https://www.antonsten.com/uxdesigner/">Working as a UX Designer</a>
-      </p>
+                  <div className="sm:flex w-full bg-grey-lightest p-8 sm:p-16 text-black">
+                  <div className="w-1/2 sm:w-1/3 text-xs font-sans uppercase font-bold">Books</div>
+                  <div className="w-full sm:w-2/3 text-lg font-serif leading-tight">
+                  <a href="https://www.antonsten.com/books/user-experiences-matter" target="_blank" rel="noopener noreferrer">User Experiences that Matter</a> (2016)<br />
+                  <a href="https://www.antonsten.com/books/masteringfreelance" target="_blank" rel="noopener noreferrer">Mastering Freelance</a> (2017)
+                  </div>
+                  </div>
 
-        <h2>Next Steps in UX</h2>
-      <p>
-        <a href="https://www.antonsten.com/uxlead/">Working as a UX Lead</a><br />
-        <a href="https://www.antonsten.com/uxstrategy/">Defining a UX Strategy</a><br />
-        <a href="https://www.antonsten.com/writing-ux/">Writing as Part of the UX Process</a><br />
-      </p>
+                  <div className="sm:flex w-full bg-grey-lightest p-8 sm:p-16 text-black">
+                  <div className="w-1/2 sm:w-1/3 text-xs font-sans uppercase font-bold">Getting started in UX</div>
+                  <div className="w-full sm:w-2/3 text-lg font-serif leading-tight">
+                  <a href="https://www.antonsten.com/whatsux/">What's a 'User Experience' Anyways?</a><br />
+                  <a href="https://www.antonsten.com/learn-ux/">How Do You Learn UX?</a><br />
+                  <a href="https://www.antonsten.com/uxdesigner/">Working as a UX Designer</a>
+                  </div>
+                  </div>
 
-        <h2>Thought-pieces</h2>
-      <p>
-        <a href="https://www.antonsten.com/ai-ethics/">AI Ethics - A New Skill for UX-Designers</a><br />
-        <a href="https://www.antonsten.com/moral-implications-apps/">Designer Ethics & The Moral Implications of our Apps</a><br />
-        <a href="https://www.antonsten.com/future-ux-designer/">The Future of the UX-Designer</a><br />
-        <a href="https://www.antonsten.com/voiceinput-socialnorms/">Voice Input’s Effect on Social Norms</a>
-      </p>
+                  <div className="sm:flex w-full bg-grey-lightest p-8 sm:p-16 text-black">
+                  <div className="w-1/2 sm:w-1/3 text-xs font-sans uppercase font-bold">Grow within UX</div>
+                  <div className="w-full sm:w-2/3 text-lg font-serif leading-tight">
+                  <a href="https://www.antonsten.com/uxlead/">Working as a UX Lead</a><br />
+                  <a href="https://www.antonsten.com/uxstrategy/">Defining a UX Strategy</a><br />
+                  <a href="https://www.antonsten.com/writing-ux/">Writing as Part of the UX Process</a><br />
+                  </div>
+                  </div>
 
-        <h2>The Work We Do</h2>
-      <p>
-        <a href="https://www.antonsten.com/chasinggrowth/">Chasing Growth</a><br />
-        <a href="https://www.antonsten.com/newtools/">New Tools Don’t Always Equal Productivity</a><br />
-        <a href="https://www.antonsten.com/designers-write/">Why Designers Need to Write</a><br />
-        <a href="https://www.antonsten.com/tools/">The Tools I Use to Run My Business</a>
-      </p>
+                  <div className="sm:flex w-full bg-grey-lightest p-8 sm:p-16 text-black">
+                  <div className="w-1/2 sm:w-1/3 text-xs font-sans uppercase font-bold">Most popular</div>
+                  <div className="w-full sm:w-2/3 text-lg font-serif leading-tight">
+                  <a href="https://www.antonsten.com/ai-ethics/">AI Ethics - A New Skill for UX-Designers</a><br />
+                  <a href="https://www.antonsten.com/moral-implications-apps/">Designer Ethics & The Moral Implications of our Apps</a><br />
+                  <a href="https://www.antonsten.com/future-ux-designer/">The Future of the UX-Designer</a><br />
+                  </div>
 
-      <h2>Featured Writing & Interviews Elsewhere</h2>
-      <p>
-        <a href="https://theblog.adobe.com/qa-with-anton-sten-author-of-user-experiences-that-matter/" target="_blank" rel="noopener noreferrer">Q&A With Anton Sten, Author of User Experiences that Matter</a> - Adobe<br />
-        <a href="https://magazine.workingnotworking.com/magazine/2016/1/26/user-experiences-that-matter-by-anton-sten" target="_blank" rel="noopener noreferrer">What the F*#!ck is a UX Designer anyway</a> - Working not Working<br />
-        <a href="https://modus.medium.com/designer-ethics-the-moral-implications-of-our-apps-f1d6bdb276e" target="_blank" rel="noopener noreferrer">It’s Time for a Code of Ethics for Designers</a> - Medium Modus<br />
-        <a href="https://www.creativebloq.com/advice/the-art-of-going-freelance" target="_blank" rel="noopener noreferrer">The Art of Going Freelance</a> - .Net Magazine<br />
-        <a href="https://www.beingfreelance.com/season-4/mastering-freelance-anton-sten-ux-designer-podcast" target="_blank" rel="noopener noreferrer">It Takes Time</a> - Being Freelance episode 100
-      </p>
+          </div>
+          </div>
 
-      <h2 id="from-newsletter">From My Newsletter</h2>
+
+      <h1 id="from-newsletter">From my newsletter</h1>
       <div className="w-full pb-12">
 
         {data.allMarkdownRemark.edges.map(({ node }, i) => {
@@ -96,7 +96,7 @@ export default () => (
           })}
         </div>
 
-        <h2 id="bite-sized">Bite-sized Posts</h2>
+        <h1 id="bite-sized">Notes & Links</h1>
         <div className="w-full pb-12">
           {data.allMarkdownRemark.edges.map(({ node }, i) => {
             const title = node.frontmatter.title || node.fields.slug

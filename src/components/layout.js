@@ -10,7 +10,6 @@ class Layout extends React.Component {
     return (
       <div className={ this.props.children[0].props.title }>
         <Header/>
-        <link rel="stylesheet" href="https://webfonts.fontstand.com/WF-014259-9ed29b97619b53286fcf805a38b05e02.css" type="text/css"/>
         <main className="max-w-xl mx-auto pt-16 pb-16">
           <div className="w-full mt-8 sm:mt-16 pt-2">
             {children}

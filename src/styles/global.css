@@ -42,22 +42,26 @@ h3 {
 
  @font-face {
 	font-family: "Prachar Regular";
+  src: url('/fonts/3AC740_0_0.woff2') format('woff2'),
+       url('/fonts/3AC740_0_0.woff') format('woff');
 	font-weight: normal;
 	font-style: normal;
 }
 
-    @font-face {
+  @font-face {
     font-family: 'SF';
+    src: url('/fonts/sf-bold.woff2') format('woff2'),
+        url('/fonts/sf-bold.woff') format('woff');
     font-style: normal;
-    font-weight: 600;
+    font-weight: 700;
     font-display: swap;
-    src: url('/fonts/SF-UI-Text-Semibold.otf') format('otf'), /* Super Modern Browsers */
   }
 
   @font-face {
     font-family: 'SF';
-    font-style: italic;
-    font-weight: 600;
+    src: url('/fonts/sf-regular.woff2') format('woff2'),
+        url('/fonts/sf-regular.woff2') format('woff');
+    font-style: normal;
+    font-weight: 400;
     font-display: swap;
-    src: url('/fonts/SF-UI-Text-SemiboldItalic') format('otf'), /* Super Modern Browsers */
   }

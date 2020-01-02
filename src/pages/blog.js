@@ -34,7 +34,8 @@ class Writing extends React.Component {
         <SEO title="Writing"/>
         <div className="w-full">
           <h1 className="pr-0 sm:pr-12">Writing</h1>
-          <del className="mb-8">Esther Williams said, <i>“wisdom is a useless gift unless you share it”</i> and I couldn’t agree more.<br /><br />I like to share what I have discovered about creating amazing user experiences, embracing creativity, and sustaining a successful freelancing career.</del>
+          <p>Esther Williams said, <i>“wisdom is a useless gift unless you share it”</i> and I couldn’t agree more.<br /><br />I like to share what I have discovered about creating amazing user experiences, embracing creativity, and sustaining a successful freelancing career.</p>
+
           <Blogroll />
           <Form/>
         </div>
