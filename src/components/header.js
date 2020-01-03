@@ -17,7 +17,7 @@ class Header extends React.Component {
 
   render() {
     return (
-      
+
       <header className="mb-12 fixed w-full">
         <div className="max-w-xl mx-auto">
           <div className="flex items-center justify-between w-full py-4 border-b border-light-grey">
@@ -64,28 +64,28 @@ class Header extends React.Component {
             }
 
 
-            <ul className="list-reset float-right hidden sm:inline-block text-lg">
-              <li className="inline-block pl-6">
+            <ul className="list-reset float-right hidden sm:inline-block text-lg sm:w-2/3">
+              <li className="inline-block pl-2">
                 <Link className="text-black no-underline" to="/about" rel="prev">
                   About
                 </Link>
               </li>
-              <li className="inline-block pl-6">
+              <li className="inline-block pl-12">
                 <Link className="text-black no-underline" to="/work" rel="prev">
                   Work
                 </Link>
               </li>
-              <li className="inline-block pl-6">
+              <li className="inline-block pl-12">
                 <Link className="text-black no-underline" to="/work-with-me" rel="prev">
                   Work With Me
                 </Link>
               </li>
-              <li className="inline-block pl-6">
+              <li className="inline-block pl-12">
                 <Link className="text-black no-underline" to="/blog" rel="prev">
                   Writing
                 </Link>
               </li>
-              <li className="inline-block pl-6">
+              <li className="inline-block pl-12">
                 <Link className="text-black no-underline" to="/contact" rel="prev">
                   Contact
                 </Link>

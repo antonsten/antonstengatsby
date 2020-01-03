@@ -111,7 +111,7 @@ h1 {
 
 @screen sm {
   h1 {
-    @apply text-5xl mb-6 mt-8;
+    @apply text-5xl mb-8 mt-8;
   }
 }
 
@@ -167,14 +167,14 @@ del {
 /* components */
 
 .btn {
-  @apply bg-red uppercase text-white text-xs px-8 py-4 font-sans cursor-pointer inline-block;
+  @apply bg-yellow uppercase text-black text-xs px-8 py-4 font-sans cursor-pointer inline-block;
   letter-spacing: 1px;
-  font-weight: 600;
-
+  font-weight: 700;
+  text-decoration: none;
 }
 
 .btn:hover {
-  @apply text-white;
+
 }
 
 hr {

@@ -43,56 +43,79 @@ class Grid extends React.Component {
 
             <Testimonial logo="/images/clients/spotify.png" text="Whenever someone asks me if I know any good freelance UX designers I always answer with Anton. He’s a great designer with <em>superior business understanding who always put the user in the front seat</em> and delivers bloody good work. If you ever get a chance to work with Anton, don’t miss it." author="christian wilsson, head of design - spotify"/>
 
-            <div className="w-full mb-12 mt-12">
-              <h2>Selected cases</h2>
+            <div className="w-full mt-12">
+              <div className="sm:flex">
+                <div className="w-full sm:w-1/3"></div>
+                <div className="w-full sm:w-2/3"><h2>Selected cases</h2></div>
+                </div>
+                </div>
+
+            <div className="w-full">
               <div className="sm:flex border-b">
-                <div className="w-full sm:w-1/3 mt-8">
-                  <img className="w-full pr-8 case-image" src="images/clients/apotekhjartat.png"/>
-                </div>
-                <div className="w-full sm:w-2/3 -mt-1 sm:flex">
-                  <p className="flex-1">
+                <div className="w-full sm:w-1/3"></div>
+                <div className="w-full sm:w-2/3 mb-8">
+                  <p>
                     E.ON Navigator
-                    <span className="block text-grey">
-                      Strategy, UX and Visual Design
+                    <span className="block text-grey leading-tight">
+                      Product design along with a full-fledged design system to allow E.ON to easily create new pages without loosing clarity.
                     </span>
                   </p>
-                  <Link className="mt-8 pt-2 text-red text-xs font-semibold no-after font-sans uppercase" to="/case/url">
-                    View case
-                  </Link>
+                  <Link className="btn" to="/case/eon">read more about e.on navigator</Link>
                 </div>
               </div>
-              <div className="sm:flex border-b mt-3">
-                <div className="w-full sm:w-1/3 mt-8">
-                  <img className="w-full pr-8 case-image" src="images/clients/apotekhjartat.png"/>
-                </div>
-                <div className="w-full sm:w-2/3 -mt-1 sm:flex">
-                  <p className="flex-1">
+
+              <div className="sm:flex border-b">
+                <div className="w-full sm:w-1/3"></div>
+                <div className="w-full sm:w-2/3 mb-8">
+                  <p>
                     E.ON Navigator
-                    <span className="block text-grey">
-                      Strategy, UX and Visual Design
+                    <span className="block text-grey leading-tight">
+                      Product design along with a full-fledged design system to allow E.ON to easily create new pages without loosing clarity.
                     </span>
                   </p>
-                  <Link className="mt-8 pt-2 text-red text-xs font-semibold no-after font-sans uppercase" to="/case/url">
-                    View case
-                  </Link>
+                  <Link className="btn" to="/case/eon">read more about e.on navigator</Link>
                 </div>
               </div>
-              <div className="sm:flex border-b mt-3">
-                <div className="w-full sm:w-1/3 mt-8">
-                  <img className="w-full pr-8 case-image" src="images/clients/apotekhjartat.png"/>
-                </div>
-                <div className="w-full sm:w-2/3 -mt-1 sm:flex">
-                  <p className="flex-1">
+
+              <div className="sm:flex border-b">
+                <div className="w-full sm:w-1/3"></div>
+                <div className="w-full sm:w-2/3 mb-8">
+                  <p>
                     E.ON Navigator
-                    <span className="block text-grey">
-                      Strategy, UX and Visual Design
+                    <span className="block text-grey leading-tight">
+                      Product design along with a full-fledged design system to allow E.ON to easily create new pages without loosing clarity.
                     </span>
                   </p>
-                  <Link className="mt-8 pt-2 text-red text-xs font-semibold no-after font-sans uppercase" to="/case/url">
-                    View case
-                  </Link>
+                  <Link className="btn" to="/case/eon">read more about e.on navigator</Link>
                 </div>
               </div>
+
+              <div className="sm:flex border-b">
+                <div className="w-full sm:w-1/3"></div>
+                <div className="w-full sm:w-2/3 mb-8">
+                  <p>
+                    E.ON Navigator
+                    <span className="block text-grey leading-tight">
+                      Product design along with a full-fledged design system to allow E.ON to easily create new pages without loosing clarity.
+                    </span>
+                  </p>
+                  <Link className="btn" to="/case/eon">read more about e.on navigator</Link>
+                </div>
+              </div>
+
+              <div className="sm:flex border-b">
+                <div className="w-full sm:w-1/3"></div>
+                <div className="w-full sm:w-2/3 mb-8">
+                  <p>
+                    E.ON Navigator
+                    <span className="block text-grey leading-tight">
+                      Product design along with a full-fledged design system to allow E.ON to easily create new pages without loosing clarity.
+                    </span>
+                  </p>
+                  <Link className="btn" to="/case/eon">read more about e.on navigator</Link>
+                </div>
+              </div>
+
             </div>
 
             <Testimonial logo="/images/clients/firstprinciple.png" text="Anton was thorough and a pleasure to work with. He’s a great collaborator and partner to work through product solutions alongside. <em>He does what he says and never misses a deadline</em>, an unfortunate rarity these days that you don’t have to worry about with Anton." author="TRAVIS SCHMEISSER, FOUNDER & PARTNER, FIRST PRINCIPLE"/>
