@@ -183,8 +183,15 @@ hr {
 }
 
 a {
-  text-decoration: underline;
-  text-decoration-color: #333;
+  box-shadow: inset 0 -4px 0 #FFEA34;
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  box-shadow: inset 0 -12px 0 #FFEA34;
+  color: inherit;
+  text-decoration: none;
 }
 
 main a:after {
