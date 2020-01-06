@@ -4,10 +4,10 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Form from "../components/signupform"
-import Blogroll from "../components/blogroll";
+import Noteroll from "../components/noteroll";
 
 
-class Writing extends React.Component {
+class Notes extends React.Component {
   constructor(props) {
     super(props);
 
@@ -36,12 +36,11 @@ class Writing extends React.Component {
           <div className="w-full sm:flex flex-wrap">
             <div className="w-1/2 sm:w-1/3"></div>
             <div className="w-full sm:w-2/3">
-              <h1 className="pr-0 sm:pr-12">Writing</h1>
-              <p>Esther Williams said, <i>“wisdom is a useless gift unless you share it”</i> and I couldn’t agree more.<br /><br />I like to share what I have discovered about creating amazing user experiences, embracing creativity, and sustaining a successful freelancing career.</p>
+              <h1 className="pr-0 sm:pr-12">Notes & Links</h1>
             </div>
           </div>
 
-          <Blogroll />
+          <Noteroll />
           <Form/>
         </div>
       </Layout>
@@ -49,7 +48,7 @@ class Writing extends React.Component {
   }
 }
 
-export default Writing
+export default Notes
 
 export const pageQuery = graphql`
   query {

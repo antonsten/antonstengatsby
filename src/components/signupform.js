@@ -52,19 +52,22 @@ class Form extends React.Component {
     const { email, title, text, submit } = this.state
 
     return (
-      <form name={ this.props.name ? this.props.name : 'newsletter' } onSubmit={ this.handleSubmit } className="mt-8 block w-full mb-16 bg-white text-black" method="POST" data-netlify="true" netlify-honeypot="bot-field" netlifyid="mc-embedded-subscribe-form" action="/thankyou/">
-        <h2>{ title }</h2>
-        <p className="leading-normal italic font-serif mt-4 pr-8">{ text }</p>
-        <p className="hidden">
-          <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
-        </p>
-        { !this.state.hasSignedUp &&
-          <div className="w-full mt-6 block flex flex-wrap">
-            <label htmlFor="email" className="uppercase font-sans text-xs font-bold tracking-wide block w-full mb-2">e-mail</label>
-            <input type="email" id="email" value={ email } required="required" onChange={this.handleChange} name="email" className="text-xs uppercase font-sans bg-grey-lighter text-link font-bold tracking-wide px-4 mr-4 flex-1"/>
-            <input type="submit" value={ submit } className="btn mt-4 sm:mt-0"/>
-          </div>
-        }
+      <form name={ this.props.name ? this.props.name : 'newsletter' } onSubmit={ this.handleSubmit } className="mt-8 block sm:flex w-full mb-16 bg-white text-black" method="POST" data-netlify="true" netlify-honeypot="bot-field" netlifyid="mc-embedded-subscribe-form" action="/thankyou/">
+        <div className="w-full sm:w-1/3"></div>
+        <div className="w-full sm:w-2/3">
+          <h2 className="text-lg sm:text-xl">{ title }</h2>
+          <p className="leading-normal italic font-serif mt-4 pr-8">{ text }</p>
+          <p className="hidden">
+            <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+          </p>
+          { !this.state.hasSignedUp &&
+            <div className="w-full mt-6 block flex flex-wrap">
+              <label htmlFor="email" className="uppercase font-sans text-xs font-bold tracking-wide block w-full mb-2">e-mail</label>
+              <input type="email" id="email" value={ email } required="required" onChange={this.handleChange} name="email" className="text-xs uppercase font-sans bg-grey-lighter text-link font-bold tracking-wide px-4 mr-4 flex-1"/>
+              <input type="submit" value={ submit } className="btn mt-4 sm:mt-0"/>
+            </div>
+          }
+        </div>
         <input type="hidden" name="form-name" value={ this.props.name ? this.props.name : 'newsletter' } />
       </form>
     )

@@ -53,28 +53,7 @@ class BlogIndex extends React.Component {
           </div>
 
           <Testimonial logo="/images/clients/spotify.png" text="Whenever someone asks me if I know any good freelance UX designers I always answer with Anton. He’s a great designer with superior business understanding who always put the user in the front seat and delivers bloody good work. If you ever get a chance to work with Anton, don’t miss it." author="Christian Wilsson, Head of Design, Spotify"/>
-
-          <div className="sm:flex">
-            <div className="w-full sm:w-1/3"></div>
-            <div className="w-full sm:w-2/3">
-              <Form title="Get my bi-weekly newsletter" text="Great laser focused UX content, told in an easy to understand way, helping to make sure I keep my eye on the UX ball." />
-            </div>
-          </div>
-
-          {/* <h2 className="mt-16">Latest posts</h2>
-          {posts.map(({ node }) => {
-            const title = node.frontmatter.title || node.fields.slug
-            return (
-              <div key={node.fields.slug}>
-                <p className="flex justify-between py-3 font-normal mb-0 border-b border-light-grey">
-                  <Link className="no-underline text-black hover:text-orange truncate" to={node.fields.slug}>
-                    {title}
-                  </Link>
-                  <span className="hidden sm:block text-xs uppercase font-sans tracking-wide text-grey">{node.frontmatter.date}</span>
-                </p>
-              </div>
-            )
-          })} */}
+          <Form title="Get my bi-weekly newsletter" text="Great laser focused UX content, told in an easy to understand way, helping to make sure I keep my eye on the UX ball." />
         </div>
       </Layout>
     )

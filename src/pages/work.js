@@ -48,36 +48,23 @@ class Grid extends React.Component {
                 <div className="w-full sm:w-1/3"></div>
                 <div className="w-full sm:w-2/3"><h2>Selected cases</h2></div>
                 </div>
-                </div>
-
-            <div className="w-full">
-              <div className="sm:flex border-b">
-                <div className="w-full sm:w-1/3"></div>
-                <div className="w-full sm:w-2/3 mb-8">
-                  <p>
-                    E.ON Navigator
-                    <span className="block text-grey leading-tight">
-                      Product design along with a full-fledged design system to allow E.ON to easily create new pages without loosing clarity.
-                    </span>
-                  </p>
-                  <Link className="btn" to="/case/eon">read more about e.on navigator</Link>
-                </div>
               </div>
 
-              <div className="sm:flex border-b">
-                <div className="w-full sm:w-1/3"></div>
-                <div className="w-full sm:w-2/3 mb-8">
-                  <p>
-                    E.ON Navigator
-                    <span className="block text-grey leading-tight">
-                      Product design along with a full-fledged design system to allow E.ON to easily create new pages without loosing clarity.
-                    </span>
-                  </p>
-                  <Link className="btn" to="/case/eon">read more about e.on navigator</Link>
-                </div>
-              </div>
+              <div className="w-full">
+                <div className="sm:flex">
+                  <div className="w-full sm:w-1/3"></div>
+                    <div className="w-full sm:w-2/3 mb-8">
+                    <p>
+                      E.ON Navigator
+                      <span className="block text-grey leading-tight">
+                        Product design along with a full-fledged design system to allow E.ON to easily create new pages without loosing clarity.
+                      </span>
+                    </p>
+                    <Link className="btn btn-wide" to="/case/eon">read more about e.on navigator</Link>
+                  </div>
+               </div>
 
-              <div className="sm:flex border-b">
+              <div className="sm:flex">
                 <div className="w-full sm:w-1/3"></div>
                 <div className="w-full sm:w-2/3 mb-8">
                   <p>
@@ -86,33 +73,7 @@ class Grid extends React.Component {
                       Product design along with a full-fledged design system to allow E.ON to easily create new pages without loosing clarity.
                     </span>
                   </p>
-                  <Link className="btn" to="/case/eon">read more about e.on navigator</Link>
-                </div>
-              </div>
-
-              <div className="sm:flex border-b">
-                <div className="w-full sm:w-1/3"></div>
-                <div className="w-full sm:w-2/3 mb-8">
-                  <p>
-                    E.ON Navigator
-                    <span className="block text-grey leading-tight">
-                      Product design along with a full-fledged design system to allow E.ON to easily create new pages without loosing clarity.
-                    </span>
-                  </p>
-                  <Link className="btn" to="/case/eon">read more about e.on navigator</Link>
-                </div>
-              </div>
-
-              <div className="sm:flex border-b">
-                <div className="w-full sm:w-1/3"></div>
-                <div className="w-full sm:w-2/3 mb-8">
-                  <p>
-                    E.ON Navigator
-                    <span className="block text-grey leading-tight">
-                      Product design along with a full-fledged design system to allow E.ON to easily create new pages without loosing clarity.
-                    </span>
-                  </p>
-                  <Link className="btn" to="/case/eon">read more about e.on navigator</Link>
+                  <Link className="btn btn-wide" to="/case/eon">read more about e.on navigator</Link>
                 </div>
               </div>
 
@@ -121,27 +82,190 @@ class Grid extends React.Component {
             <Testimonial logo="/images/clients/firstprinciple.png" text="Anton was thorough and a pleasure to work with. He’s a great collaborator and partner to work through product solutions alongside. <em>He does what he says and never misses a deadline</em>, an unfortunate rarity these days that you don’t have to worry about with Anton." author="TRAVIS SCHMEISSER, FOUNDER & PARTNER, FIRST PRINCIPLE"/>
 
             <div className="w-full mt-12 mb-12">
-              <h2>Selected clients</h2>
-              <div className="w-full flex-wrap mt-6 flex justify-between">
-                <div className="w-1/3 py-6">
-                  <img className="w-full pr-8 case-image" src="images/clients/apotekhjartat.png"/>
-                </div>
-                <div className="w-1/3 py-6">
-                  <img className="w-full pr-8 case-image" src="images/clients/apotekhjartat.png"/>
-                </div>
-                <div className="w-1/3 py-6">
-                  <img className="w-full pr-8 case-image" src="images/clients/nudie.png"/>
-                </div>
-                <div className="w-1/3 py-6">
-                  <img className="w-full pr-8 case-image" src="images/clients/shavekit.png"/>
-                </div>
-                <div className="w-1/3 py-6">
-                  <img className="w-full pr-8 case-image" src="images/clients/apotekhjartat.png"/>
-                </div>
-                <div className="w-1/3 py-6">
-                  <img className="w-full pr-8 case-image" src="images/clients/apotekhjartat.png"/>
+              <div className="sm:flex">
+                <div className="w-full sm:w-1/3"></div>
+                <div className="w-full sm:w-2/3">
+                  <h2>Selected clients</h2>
                 </div>
               </div>
+
+              <div className="sm:flex items-center border-b pb-1 sm:pb-3">
+                <div className="w-full sm:w-1/3">
+                  <span className="font-sans uppercase font-bold text-xs">
+                    2013-2014, 2018-2019
+                  </span>
+                </div>
+                <div className="w-full sm:w-2/3 flex items-center">
+                  <div className="w-1/2">
+                    <img className="h-4 sm:h-6" src="images/clients/svg/ikea.svg"/>
+                  </div>
+                  <div className="w-1/2">
+                    <p>Lead UX</p>
+                  </div>
+                </div>
+              </div>
+
+
+              <div className="sm:flex items-center border-b pb-1 sm:pb-3 pt-3">
+                <div className="w-full sm:w-1/3">
+                  <span className="font-sans uppercase font-bold text-xs">
+                    2017-2018
+                  </span>
+                </div>
+                <div className="w-full sm:w-2/3 flex items-center">
+                  <div className="w-1/2">
+                    <img className="h-6 sm:h-8" src="images/clients/svg/apotekhjartat.svg"/>
+                  </div>
+                  <div className="w-1/2">
+                    <p>Lead UX</p>
+                  </div>
+                </div>
+              </div>
+
+              <div className="sm:flex items-center border-b pb-1 sm:pb-3 pt-3">
+                <div className="w-full sm:w-1/3">
+                  <span className="font-sans uppercase font-bold text-xs">
+                    2018
+                  </span>
+                </div>
+                <div className="w-full sm:w-2/3 flex items-center">
+                  <div className="w-1/2">
+                    <img className="h-6 sm:h-8" src="images/clients/svg/lysa.svg"/>
+                  </div>
+                  <div className="w-1/2">
+                    <p>UX design</p>
+                  </div>
+                </div>
+              </div>
+
+              <div className="sm:flex items-center border-b pb-1 sm:pb-3 pt-3">
+                <div className="w-full sm:w-1/3">
+                  <span className="font-sans uppercase font-bold text-xs">
+                    2017
+                  </span>
+                </div>
+                <div className="w-full sm:w-2/3 flex items-center">
+                  <div className="w-1/2">
+                    <img className="h-4 sm:h-6" src="images/clients/svg/firstprinciple.png"/>
+                  </div>
+                  <div className="w-1/2">
+                    <p>Product Design</p>
+                  </div>
+                </div>
+              </div>
+
+              <div className="sm:flex items-center border-b pb-1 sm:pb-3 pt-3">
+                <div className="w-full sm:w-1/3">
+                  <span className="font-sans uppercase font-bold text-xs">
+                    2015
+                  </span>
+                </div>
+                <div className="w-full sm:w-2/3 flex items-center">
+                  <div className="w-1/2">
+                    <img className="h-4 sm:h-8" src="images/clients/svg/ica.svg"/>
+                  </div>
+                  <div className="w-1/2">
+                    <p>UX design</p>
+                  </div>
+                </div>
+              </div>
+
+              <div className="sm:flex items-center border-b pb-1 sm:pb-3 pt-3">
+                <div className="w-full sm:w-1/3">
+                  <span className="font-sans uppercase font-bold text-xs">
+                    2015
+                  </span>
+                </div>
+                <div className="w-full sm:w-2/3 flex items-center">
+                  <div className="w-1/2">
+                    <img className="h-4 sm:h-6" src="images/clients/svg/swedbank.svg"/>
+                  </div>
+                  <div className="w-1/2">
+                    <p>UX design</p>
+                  </div>
+                </div>
+              </div>
+
+              <div className="sm:flex items-center border-b pb-1 sm:pb-3 pt-3">
+                <div className="w-full sm:w-1/3">
+                  <span className="font-sans uppercase font-bold text-xs">
+                    2015
+                  </span>
+                </div>
+                <div className="w-full sm:w-2/3 flex items-center">
+                  <div className="w-1/2">
+                    <img className="h-4 sm:h-6" src="images/clients/svg/nudie.svg"/>
+                  </div>
+                  <div className="w-1/2">
+                    <p>UX design</p>
+                  </div>
+                </div>
+              </div>
+
+              <div className="sm:flex items-center border-b pb-1 sm:pb-3 pt-3">
+                <div className="w-full sm:w-1/3">
+                  <span className="font-sans uppercase font-bold text-xs">
+                    2014
+                  </span>
+                </div>
+                <div className="w-full sm:w-2/3 flex items-center">
+                  <div className="w-1/2">
+                    <img className="h-4 sm:h-6" src="images/clients/svg/volvo.svg"/>
+                  </div>
+                  <div className="w-1/2">
+                    <p>UX design</p>
+                  </div>
+                </div>
+              </div>
+
+              <div className="sm:flex items-center border-b pb-1 sm:pb-3 pt-3">
+                <div className="w-full sm:w-1/3">
+                  <span className="font-sans uppercase font-bold text-xs">
+                    2012
+                  </span>
+                </div>
+                <div className="w-full sm:w-2/3 flex items-center">
+                  <div className="w-1/2">
+                    <img className="h-4 sm:h-8" src="images/clients/svg/spotify.svg"/>
+                  </div>
+                  <div className="w-1/2">
+                    <p>UX design</p>
+                  </div>
+                </div>
+              </div>
+
+              <div className="sm:flex items-center border-b pb-1 sm:pb-3 pt-3">
+                <div className="w-full sm:w-1/3">
+                  <span className="font-sans uppercase font-bold text-xs">
+                    2010
+                  </span>
+                </div>
+                <div className="w-full sm:w-2/3 flex items-center">
+                  <div className="w-1/2">
+                    <img className="h-4 sm:h-6" src="images/clients/svg/izettle.svg"/>
+                  </div>
+                  <div className="w-1/2">
+                    <p>Visual design</p>
+                  </div>
+                </div>
+              </div>
+
+              <div className="sm:flex items-center border-b pb-1 sm:pb-3 pt-3">
+                <div className="w-full sm:w-1/3">
+                  <span className="font-sans uppercase font-bold text-xs">
+                    2003-2019
+                  </span>
+                </div>
+                <div className="w-full sm:w-2/3 flex items-center">
+                  <div className="w-1/2">
+                    <img className="h-4 sm:h-4" src="images/clients/svg/hyperisland.svg"/>
+                  </div>
+                  <div className="w-1/2">
+                    <p>Teaching</p>
+                  </div>
+                </div>
+              </div>
+
             </div>
 
             <Testimonial logo="/images/clients/firstprinciple.png" text="Anton was thorough and a pleasure to work with. He’s a great collaborator and partner to work through product solutions alongside. <em>He does what he says and never misses a deadline</em>, an unfortunate rarity these days that you don’t have to worry about with Anton." author="TRAVIS SCHMEISSER, FOUNDER & PARTNER, FIRST PRINCIPLE"/>
@@ -175,12 +299,8 @@ class Grid extends React.Component {
               </div>
             </div>
 
-            <div className="sm:flex">
-              <div className="w-full sm:w-1/3"></div>
-              <div className="w-full sm:w-2/3">
-                <Form />
-              </div>
-            </div>
+            <Form />
+
           </div>
         </Layout>
       );
