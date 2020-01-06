@@ -21,7 +21,7 @@ class Header extends React.Component {
       <header className="mb-12 fixed w-full">
         <div className="max-w-xl mx-auto">
           <div className="flex items-center justify-between w-full py-4 border-b border-light-grey">
-            <Link to="/"><img alt="anton sten" style={{ width: '98px' }} src="/images/antonsten.svg"/></Link>
+            <Link className="no-underline" to="/"><img alt="anton sten" style={{ width: '98px' }} src="/images/antonsten.svg"/></Link>
             <div className="inline-block sm:hidden cursor-pointer" onClick={ this.showMenu }>
               <img alt="menu" src="/images/menu.svg"/>
             </div>

@@ -182,10 +182,11 @@ hr {
   background-color: #F7F7F7;
 }
 
-a {
+a:not(.no-underline) {
   box-shadow: inset 0 -4px 0 #FFEA34;
   color: inherit;
   text-decoration: none;
+  position: relative;
 }
 
 a:hover {
@@ -202,7 +203,6 @@ main a:after {
   right: 0;
   bottom: 0;
   height: 6px;
-  background-color: #FFEA34;
   transition: all .2s;
 }
 
@@ -212,6 +212,7 @@ a.no-after:after {
 
 a:hover:after {
   bottom: -2px;
+  background-color: #FFEA34;
 }
 
 a:visited {
