@@ -39,8 +39,6 @@ class Grid extends React.Component {
             </div>
           </div>
 
-          <div className="block flex-wrap flex -mx-2 sm:-mx-4">
-
           <Testimonial logo="/images/clients/svg/firstprinciple-white.svg" text="Anton was thorough and a pleasure to work with. He’s a great collaborator and partner to work through product solutions alongside. <em>He does what he says and never misses a deadline</em>, an unfortunate rarity these days that you don’t have to worry about with Anton." author="TRAVIS SCHMEISSER, FOUNDER & PARTNER, FIRST PRINCIPLE"/>
 
             <div className="w-full mt-12">
@@ -55,16 +53,70 @@ class Grid extends React.Component {
                   <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="images/clients/svg/eon.svg"/></div>
                     <div className="w-full sm:w-2/3 mb-8">
                       <p>Product design along with a full-fledged design system to allow E.ON to easily create new pages without loosing clarity.</p>
-                    <Link className="btn btn-wide" to="/case/eon">read more about e.on navigator</Link>
+                    <Link className="font-serif text-lg" to="/case/eon">View case</Link>
                   </div>
+               </div>
+
+               <div className="sm:flex">
+                 <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="images/clients/svg/telia.svg"/></div>
+                 <div className="w-full sm:w-2/3 mb-8">
+                   <p>Frank:
+                   </p>
+                   <Link className="font-serif text-lg" to="/case/frank">View case</Link>
+                 </div>
                </div>
 
               <div className="sm:flex">
                 <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="images/clients/svg/telia.svg"/></div>
                 <div className="w-full sm:w-2/3 mb-8">
-                  <p>Product design along with a full-fledged design system to allow E.ON to easily create new pages without loosing clarity.
+                  <p>Telia:
                   </p>
-                  <Link className="btn btn-wide" to="/case/eon">read more about e.on navigator</Link>
+                  <Link className="font-serif text-lg" to="/case/telia">View case</Link>
+                </div>
+              </div>
+
+              <div className="sm:flex">
+                <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="images/clients/svg/telia.svg"/></div>
+                <div className="w-full sm:w-2/3 mb-8">
+                  <p>Järfälla kommun:
+                  </p>
+                  <Link className="font-serif text-lg" to="/case/jarfalla">View case</Link>
+                </div>
+              </div>
+
+              <div className="sm:flex">
+                <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="images/clients/svg/telia.svg"/></div>
+                <div className="w-full sm:w-2/3 mb-8">
+                  <p>Falkenberg kommun:
+                  </p>
+                  <Link className="font-serif text-lg" to="/case/falkenberg-kommun">View case</Link>
+                </div>
+              </div>
+
+              <div className="sm:flex">
+                <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="images/clients/svg/falkenberg.svg"/></div>
+                <div className="w-full sm:w-2/3 mb-8">
+                  <p>Destination Falkenberg:
+                  </p>
+                  <Link className="font-serif text-lg" to="/case/falkenberg">View case</Link>
+                </div>
+              </div>
+
+              <div className="sm:flex">
+                <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="images/clients/svg/ne.svg"/></div>
+                <div className="w-full sm:w-2/3 mb-8">
+                  <p>Nationalencyklopedin: I helped Nationalencyklopedin modernize their visual identity, make it more digitally accessible and developed a design system.
+                  </p>
+                  <Link className="font-serif text-lg" to="/case/ne">View case</Link>
+                </div>
+              </div>
+
+              <div className="sm:flex">
+                <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="images/clients/svg/apotekhjartat.svg"/></div>
+                <div className="w-full sm:w-2/3 mb-8">
+                  <p>Apotek Hjärtat: I was the acting UX-lead for Apotek Hjärtat, Sweden's second largest pharmacy, for 6 months during a larger website improvement.
+                  </p>
+                  <Link className="font-serif text-lg" to="/case/apotekhjartat">View case</Link>
                 </div>
               </div>
 
@@ -309,7 +361,6 @@ class Grid extends React.Component {
 
             <Form />
 
-          </div>
         </Layout>
       );
   }
