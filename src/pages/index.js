@@ -30,9 +30,9 @@ class BlogIndex extends React.Component {
 
                 …or, maybe you’re not facing a complete failure, but you’re seeing disappointing bounce rates, sagging app usage, or (heaven forbid) complaints from unhappy users.
                 <br /><br />
-                What happened? you ask. There should be a huge, adoring audience for this product! There may be one big, 800-pound-gorilla of a missing piece you didn’t consider carefully enough: <a href="/work">User Experience.</a>
+                What happened? you ask. There should be a huge, adoring audience for this product! There may be one big, 800-pound-gorilla of a missing piece you didn’t consider carefully enough: <em>User Experience.</em>
                 <br /><br />
-                This is where I come in.
+                <a href="/about">This is where I come in.</a>
                 </p>
             </div>
           </div>
@@ -42,7 +42,7 @@ class BlogIndex extends React.Component {
               <div className="w-1/2 sm:w-1/3"></div>
               <div className="w-full sm:w-2/3">
                 <h2 className="leading-tight">I lead UX for design-driven companies.</h2>
-                <p>My speciality? Using my design skills and business knowledge to <em>not just make your digital product look pretty, but to make it work.</em>
+                <p>My speciality? Using my design skills and business knowledge to <em>not just make your digital product look pretty, but <a href="/work">to make it work.</a></em>
                 <br /><br />
                 I help companies design experiences that put the user first. My common sense approach to UX can help you get that stellar product out of the trash bin and into users’ daily lives.
                 <br /><br />

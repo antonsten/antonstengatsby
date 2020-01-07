@@ -292,8 +292,8 @@ module.exports = {
 
   leading: {
     'none': 1,
-    'tight': 1.4,
-    'normal': 1.6,
+    'tight': 1.3,
+    'normal': 1.5,
     'loose': 1.9,
   },
 
