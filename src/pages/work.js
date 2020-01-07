@@ -48,73 +48,73 @@ class Grid extends React.Component {
                 </div>
               </div>
 
-              <div className="w-full">
+              <div className="w-full mt-12">
                 <div className="sm:flex">
                   <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="images/clients/svg/eon.svg"/></div>
                     <div className="w-full sm:w-2/3 mb-8">
-                      <p>Product design along with a full-fledged design system to allow E.ON to easily create new pages without loosing clarity.</p>
+                      <p className="mt-0">Product design along with a full-fledged design system to allow E.ON to easily create new pages without loosing clarity.</p>
                     <Link className="font-serif text-lg" to="/case/eon">View case</Link>
                   </div>
                </div>
 
-               <div className="sm:flex">
+               <div className="sm:flex mt-6">
                  <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="images/clients/svg/telia.svg"/></div>
                  <div className="w-full sm:w-2/3 mb-8">
-                   <p>Frank:
+                   <p className="mt-0">Frank:
                    </p>
                    <Link className="font-serif text-lg" to="/case/frank">View case</Link>
                  </div>
                </div>
 
-              <div className="sm:flex">
+              <div className="sm:flex mt-6">
                 <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="images/clients/svg/telia.svg"/></div>
                 <div className="w-full sm:w-2/3 mb-8">
-                  <p>Telia:
+                  <p className="mt-0">Telia:
                   </p>
                   <Link className="font-serif text-lg" to="/case/telia">View case</Link>
                 </div>
               </div>
 
-              <div className="sm:flex">
+              <div className="sm:flex mt-6">
                 <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="images/clients/svg/telia.svg"/></div>
                 <div className="w-full sm:w-2/3 mb-8">
-                  <p>Järfälla kommun:
+                  <p className="mt-0">Järfälla kommun:
                   </p>
                   <Link className="font-serif text-lg" to="/case/jarfalla">View case</Link>
                 </div>
               </div>
 
-              <div className="sm:flex">
+              <div className="sm:flex mt-6">
                 <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="images/clients/svg/telia.svg"/></div>
                 <div className="w-full sm:w-2/3 mb-8">
-                  <p>Falkenberg kommun:
+                  <p className="mt-0">Falkenberg kommun:
                   </p>
                   <Link className="font-serif text-lg" to="/case/falkenberg-kommun">View case</Link>
                 </div>
               </div>
 
-              <div className="sm:flex">
+              <div className="sm:flex mt-6">
                 <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="images/clients/svg/falkenberg.svg"/></div>
                 <div className="w-full sm:w-2/3 mb-8">
-                  <p>Destination Falkenberg:
+                  <p className="mt-0">Destination Falkenberg:
                   </p>
                   <Link className="font-serif text-lg" to="/case/falkenberg">View case</Link>
                 </div>
               </div>
 
-              <div className="sm:flex">
+              <div className="sm:flex mt-6">
                 <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="images/clients/svg/ne.svg"/></div>
                 <div className="w-full sm:w-2/3 mb-8">
-                  <p>Nationalencyklopedin: I helped Nationalencyklopedin modernize their visual identity, make it more digitally accessible and developed a design system.
+                  <p className="mt-0">Nationalencyklopedin: I helped Nationalencyklopedin modernize their visual identity, make it more digitally accessible and developed a design system.
                   </p>
                   <Link className="font-serif text-lg" to="/case/ne">View case</Link>
                 </div>
               </div>
 
-              <div className="sm:flex">
+              <div className="sm:flex mt-6">
                 <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="images/clients/svg/apotekhjartat.svg"/></div>
                 <div className="w-full sm:w-2/3 mb-8">
-                  <p>Apotek Hjärtat: I was the acting UX-lead for Apotek Hjärtat, Sweden's second largest pharmacy, for 6 months during a larger website improvement.
+                  <p className="mt-0">Apotek Hjärtat: I was the acting UX-lead for Apotek Hjärtat, Sweden's second largest pharmacy, for 6 months during a larger website improvement.
                   </p>
                   <Link className="font-serif text-lg" to="/case/apotekhjartat">View case</Link>
                 </div>
