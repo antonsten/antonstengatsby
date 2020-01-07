@@ -69,7 +69,7 @@ class About extends React.Component {
             </div>
 
 
-            <Testimonial logo="/images/clients/fbg.png" text="Working with Anton was like catching up with a childhood friend.. Instantly he understood our situation, challenges as desires, and was able to give raw, honest, constructive feedback.  He truly understands the business part and is able to conceptualise complex scenarios into clean UX designs that appeal the end user.  Working with Anton was a grateful experience and I strongly recommend him for a positive and painless workflow." author="Kristján Fannar, Destination developer, Destination Falkenberg"/>        </Layout>
+            <Testimonial logo="/images/clients/svg/fbg-white.svg" text="Working with Anton was like catching up with a childhood friend.. Instantly he understood our situation, challenges as desires, and was able to give raw, honest, constructive feedback.  He truly understands the business part and is able to conceptualise complex scenarios into clean UX designs that appeal the end user.  Working with Anton was a grateful experience and I strongly recommend him for a positive and painless workflow." author="Kristján Fannar, Destination developer, Destination Falkenberg"/>        </Layout>
       );
   }
 }
