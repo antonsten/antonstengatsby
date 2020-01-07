@@ -23,7 +23,7 @@ header {
 }
 
 header a, header a:hover {
-  font-weight: 600;
+  font-weight: 700;
   border: none;
   text-transform: uppercase;
 
@@ -350,7 +350,7 @@ a.btn {
   width: 220px;
   max-width: 100%;
 
-  @apply py-4 px-3 bg-red text-center text-white font-sans uppercase;
+  @apply py-4 px-3 bg-yellow text-center text-black font-sans uppercase;
 }
 
 a.btn.btn-wide {

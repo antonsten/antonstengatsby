@@ -11,7 +11,7 @@ class Testimonial extends React.Component {
         <blockquote>
           <div className="w-full sm:flex h-full mt-16 block mb-16 bg-black p-8 sm:p-16 text-white">
             <div className="w-1/2 sm:w-1/3">
-              { this.props.logo && <img style={{filter: "invert(100%)"}} alt={this.props.author} className="tesimonial-logo mb-4" src={ this.props.logo } />}
+              { this.props.logo && <img alt={this.props.author} className="tesimonial-logo mb-4" src={ this.props.logo } />}
             </div>
             <div className="w-full sm:w-2/3">
               <div className="text-lg sm:text-lg font-serif leading-tight italic" dangerouslySetInnerHTML={innerHtml}></div>
