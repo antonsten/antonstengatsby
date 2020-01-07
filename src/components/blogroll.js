@@ -68,7 +68,7 @@ export default () => (
           </div>
       </div>
   </div>
-  
+
   <div className="sm:flex w-full mt-16">
     <div className="w-1/2 sm:w-1/3"></div>
     <div className="w-full sm:w-2/3">
@@ -81,7 +81,7 @@ export default () => (
       <div className="w-1/2 sm:w-1/3">
       </div>
       <div className="w-full sm:w-2/3">
-        <Link className="text-sm sm:text-lg font-serif leading-tight text-black" to="">
+        <Link className="text-sm sm:text-lg font-serif leading-tight text-black" to="/newsletter">
           Subscribers get these posts first. Sign up!
         </Link>
       </div>

@@ -116,6 +116,7 @@ h1 {
 @screen sm {
   h1 {
     @apply text-5xl mb-8 mt-8;
+
   }
 }
 
@@ -163,8 +164,8 @@ del {
 /* testimonial */
 
 .tesimonial-logo {
-  max-width: 100px;
-  max-height: 40px;
+  max-width: 150px;
+  max-height: 50px;
   height: auto !important;
 }
 

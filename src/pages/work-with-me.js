@@ -30,7 +30,7 @@ class Contact extends React.Component {
             </div>
             </div>
 
-            <Testimonial logo="/images/clients/firstprinciple.png" text="Anton was thorough and a pleasure to work with. He’s a great collaborator and partner to work through product solutions alongside. <em>He does what he says and never misses a deadline</em>, an unfortunate rarity these days that you don’t have to worry about with Anton." author="TRAVIS SCHMEISSER, FOUNDER & PARTNER, FIRST PRINCIPLE"/>
+            <Testimonial logo="/images/clients/svg/firstprinciple-white.svg" text="Anton was thorough and a pleasure to work with. He’s a great collaborator and partner to work through product solutions alongside. <em>He does what he says and never misses a deadline</em>, an unfortunate rarity these days that you don’t have to worry about with Anton." author="TRAVIS SCHMEISSER, FOUNDER & PARTNER, FIRST PRINCIPLE"/>
 
             <div className="sm:flex">
             <div className="w-full sm:w-1/3"></div>
