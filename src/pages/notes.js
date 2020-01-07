@@ -1,11 +1,9 @@
 import React from "react"
 import { graphql } from "gatsby"
-
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Form from "../components/signupform"
 import Noteroll from "../components/Noteroll";
-
 
 class Notes extends React.Component {
   constructor(props) {

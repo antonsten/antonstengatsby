@@ -339,6 +339,13 @@ form input {
   margin-bottom: 1rem;
 }
 
+.blog-post blockquote p {
+  margin-top: 0rem;
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+
 .btn-light {
   background: #FCFBF8;
   width: 220px;
