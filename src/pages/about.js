@@ -28,7 +28,7 @@ class About extends React.Component {
 
             <div className="sm:-mx-16">
             <div className="sm:flex w-full mt-16 mb-16 bg-grey-lightest p-8 sm:p-16 text-black">
-            <div className="w-1/2 sm:w-1/3 text-grey text-xs font-sans mr-8 leading-normal"><strong>Two co-founders</strong><br />Since day 1, the company has been me and my dog (my wife sits on the board too).</div>
+            <div className="w-1/2 sm:w-1/3 text-grey text-xs font-sans mr-8 leading-normal pb-8"><strong>Two co-founders</strong><br />Since day 1, the company has been me and my dog (my wife sits on the board too).</div>
             <div className="w-full sm:w-2/3"><img src="/images/antonmeta.png" /></div>
             </div>
             </div>
@@ -47,7 +47,7 @@ class About extends React.Component {
 
             <div className="sm:-mx-16">
             <div className="sm:flex w-full mt-16 mb-16 bg-grey-lightest p-8 sm:p-16 text-black">
-            <div className="w-1/2 sm:w-1/3 text-grey text-xs font-sans mr-8 leading-normal"><strong>This is Anfield</strong><br />Through years of trial and error, I've found the setting that optimizes my creative output.</div>
+            <div className="w-1/2 sm:w-1/3 text-grey text-xs font-sans mr-8 leading-normal pb-8"><strong>This is Anfield</strong><br />Through years of trial and error, I've found the setting that optimizes my creative output.</div>
             <div className="w-full sm:w-2/3"><img src="/images/office_lomma.png" /></div>
             </div>
             </div>

@@ -62,14 +62,17 @@ class BlogPostTemplate extends React.Component {
                   <span className="text-xs uppercase mt-3 block font-sans tracking-wide text-grey">Now reading</span>
                   <h2 className="text-lg mt-3 pb-6 sm:pb-0 leading-tight sm:pr-6 w-32">{post.frontmatter.title}</h2>
                   <div className="flex justify-left">
-                    <a href={`https://twitter.com/intent/tweet/?text=${post.frontmatter.title}&url=https://www.antonsten.com${pathName}&via=antonsten`} className="flex relative items-center no-underline mr-2 hover-border-none border-none cursor-pointer">
-                      <img className="w-8" src="/images/twitter-svg.svg" alt="Twitter"></img>
+                    <a href={`https://twitter.com/intent/tweet/?text=${post.frontmatter.title}&url=https://www.antonsten.com${pathName}&via=antonsten`} className="group flex relative items-center no-underline mr-2 hover-border-none border-none cursor-pointer no-hover no-after">
+                      <img className="w-8 group-hover:hidden" src="/images/twitter-svg.svg" alt="Twitter"/>
+                      <img className="w-8 hidden group-hover:block" src="/images/twitter-over.svg" alt="Twitter"/>
                     </a>
-                    <a href={`https://www.linkedin.com/shareArticle?mini=true&url=https://www.antonsten.com${pathName}&title=${post.frontmatter.title}&source=${post.frontmatter.title}`}target="_blank" rel="noopener noreferrer" className="flex relative no-underline items-center mx-2 hover-border-none border-none cursor-pointer">
-                      <img className="w-8" src="/images/linkedin-svg.svg" alt="LinkedIn"></img>
+                    <a href={`https://www.linkedin.com/shareArticle?mini=true&url=https://www.antonsten.com${pathName}&title=${post.frontmatter.title}&source=${post.frontmatter.title}`}target="_blank" rel="noopener noreferrer" className="group flex relative no-underline items-center mx-1 hover-border-none border-none cursor-pointer no-hover no-after">
+                      <img className="w-8 group-hover:hidden" src="/images/linkedin-svg.svg" alt="LinkedIn"></img>
+                      <img className="w-8 hidden group-hover:block" src="/images/linkedin-over.svg" alt="LinkedIn"></img>
                     </a>
-                    <a href={`https://www.facebook.com/sharer/sharer.php?u=https://www.antonsten.com${pathName}`}target="_blank" rel="noopener noreferrer" className="flex relative no-underline items-center mx-2 hover-border-none border-none cursor-pointer">
-                      <img className="w-8" src="/images/facebook-svg.svg" alt="Facebook"></img>
+                    <a href={`https://www.facebook.com/sharer/sharer.php?u=https://www.antonsten.com${pathName}`}target="_blank" rel="noopener noreferrer" className="group flex relative no-underline items-center mx-1 hover-border-none border-none cursor-pointer no-hover no-after">
+                      <img className="w-8 group-hover:hidden" src="/images/facebook-svg.svg" alt="Facebook"></img>
+                      <img className="w-8 hidden group-hover:block" src="/images/facebook-over.svg" alt="Facebook"></img>
                     </a>
                   </div>
                 </div>
