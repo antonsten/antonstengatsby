@@ -19,7 +19,7 @@ class BlogPostTemplate extends React.Component {
     this.setState({
       articleHeight: height
     })
-    
+
     window.onscroll = () => {
       const newScrollHeight = Math.ceil(window.scrollY / 50) * 50;
       if (this.state.currentScrollHeight !== newScrollHeight){
@@ -42,7 +42,7 @@ class BlogPostTemplate extends React.Component {
     const siteTitle = this.props.data.site.siteMetadata.title
     const posts = this.props.data.allMarkdownRemark.edges
     const pathName = typeof window !== 'undefined' && window.location.pathname
-    const shouldShowFixed = this.state.currentScrollHeight > 180 && this.state.articleHeight > this.state.currentScrollHeight    
+    const shouldShowFixed = this.state.currentScrollHeight > 180 && this.state.articleHeight > this.state.currentScrollHeight
     const opacity = shouldShowFixed ? 100 : 0
 
     return (
@@ -60,7 +60,7 @@ class BlogPostTemplate extends React.Component {
               <div style={{width: "inherit"}} className="fixed hidden sm:block -mt-12">
                 <div style={{opacity}}>
                   <span className="text-xs uppercase mt-3 block font-sans tracking-wide text-grey">Now reading</span>
-                  <h3 className="font-bold text-lg mt-3 pb-6 sm:pb-0 leading-tight sm:pr-6 w-32">{post.frontmatter.title}</h3>
+                  <h2 className="text-lg mt-3 pb-6 sm:pb-0 leading-tight sm:pr-6 w-32">{post.frontmatter.title}</h2>
                   <div className="flex justify-left">
                     <a href={`https://twitter.com/intent/tweet/?text=${post.frontmatter.title}&url=https://www.antonsten.com${pathName}&via=antonsten`} className="flex relative items-center no-underline mr-2 hover-border-none border-none cursor-pointer">
                       <img className="w-8" src="/images/twitter-svg.svg" alt="Twitter"></img>

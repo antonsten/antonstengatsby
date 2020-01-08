@@ -1,6 +1,7 @@
 import React from "react"
 import '../../css/style.css'
 import Img from "gatsby-image"
+import Cases from '../../components/cases';
 
 import Layout from "../../components/layout"
 import SEO from "../../components/seo"
@@ -35,7 +36,7 @@ class Eon extends React.Component {
           </div>
 
           <Testimonial logo="/images/clients/eon.png" text="What impresses me most is the way Anton understand the underlying needs of the business, and translates that into a beautiful solution. Anton is very easy to work with and he is good at finding the balance between listening and pushing." author="ANNA BENGTSSON, E.ON"/>
-          
+
           <div className="sm:flex">
             <div className="w-full sm:w-1/3"></div>
             <div className="w-full sm:w-2/3">
@@ -48,8 +49,10 @@ class Eon extends React.Component {
           <CaseImage image={data.image3.childImageSharp.fluid}/>
           <CaseImage image={data.image4.childImageSharp.fluid}/>
           <CaseImage image={data.image5.childImageSharp.fluid}/>
-          
+
         </div>
+        <Cases />
+
       </Layout>
     )
   }

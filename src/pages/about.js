@@ -14,7 +14,7 @@ class About extends React.Component {
         <Layout>
           <SEO title="About"/>
             <div className="sm:flex">
-            <div className="w-full sm:w-1/3"><img src="/images/hello.png" className="pr-12 mt-4 gatsby-image-small" />
+            <div className="w-full sm:w-1/3">
 </div>
             <div className="w-full sm:w-2/3">
             <h1>Hi, I’m Anton and I make digital products work</h1>

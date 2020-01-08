@@ -6,6 +6,8 @@ import Layout from "../../components/layout"
 import SEO from "../../components/seo"
 import Testimonial from '../../components/testimonial';
 import CaseImage from "../../components/case-image"
+import Cases from '../../components/cases';
+
 
 
 class Telia extends React.Component {
@@ -30,7 +32,7 @@ class Telia extends React.Component {
             </div>
 
             <Testimonial text="It’s quite simple really. If you hire Anton you will be extremely happy with the end result." author="JOEL SANDÉN, TELIA SONERA"/>
-            
+
             <div className="sm:flex">
               <div className="w-full sm:w-1/3"></div>
               <div className="w-full sm:w-2/3">
@@ -66,6 +68,8 @@ class Telia extends React.Component {
             <CaseImage image={data.image6.childImageSharp.fluid}/>
 
           </div>
+          <Cases />
+
       </Layout>
     )
   }

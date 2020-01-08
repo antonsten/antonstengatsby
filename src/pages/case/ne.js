@@ -6,6 +6,8 @@ import Layout from "../../components/layout"
 import SEO from "../../components/seo"
 import Testimonial from '../../components/testimonial';
 import CaseImage from "../../components/case-image"
+import Cases from '../../components/cases';
+
 
 
 class Ne extends React.Component {
@@ -26,7 +28,7 @@ class Ne extends React.Component {
             </div>
 
             <Testimonial text="​​I have had the pleasure of working with Anton in a visual and UX redesign of our services. I am enthused and impressed by how Anton chooses simplicity over complexity and keeps the design interesting, appealing and accessible.<br><br>Furthermore, he is a humble and unassuming person that is a pleasure to work with. I would happily recommend Anton for your visual and/or UX needs." author="HUBERT KJELLBERG, PRESIDENT, BROCKHAUS & NATIONALENCYKLOPEDIN"/>
-            
+
             <div className="sm:flex">
               <div className="w-full sm:w-1/3"></div>
               <div className="w-full sm:w-2/3">
@@ -67,7 +69,7 @@ class Ne extends React.Component {
             </div>
 
             <CaseImage image={data.image3.childImageSharp.fluid}/>
-            
+
             <div className="sm:flex mt-6 sm:mt-12">
               <div className="w-full sm:w-1/3"></div>
               <div className="w-full sm:w-2/3">
@@ -108,6 +110,8 @@ class Ne extends React.Component {
 
             <CaseImage image={data.image9.childImageSharp.fluid}/>
           </div>
+          <Cases />
+
       </Layout>
     )
   }

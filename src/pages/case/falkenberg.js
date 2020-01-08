@@ -1,6 +1,7 @@
 import React from "react"
 import '../../css/style.css'
 import Img from "gatsby-image"
+import Cases from '../../components/cases';
 
 import Layout from "../../components/layout"
 import SEO from "../../components/seo"
@@ -53,6 +54,8 @@ class Falkenberg extends React.Component {
             <Testimonial text="I have known of Anton for quite some time, but it wasn’t until we did the website of the geographic location of Falkenberg that we first got the change to work together. Anton brought a sweet simplicity to that website and I knew that I wanted to work with him again when we redid the municipality’s web. So when we started to work on the municipality web accessibility had to go hand in hand with the design. I feel that Anton really made something beautiful and useful for people in Falkenberg, both visiting and for us who live here." author="MAGNUS ÖSTERHULT, FALKENBERGS KOMMUN"/>
 
           </div>
+          <Cases />
+
       </Layout>
     )
   }

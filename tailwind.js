@@ -245,7 +245,7 @@ module.exports = {
     '2xl': '1.75rem',    // 28px
     '3xl': '1.875rem',  // 30px
     '4xl': '2.25rem',   // 36px
-    '5xl': '3.5rem',      // 56px
+    '5xl': '3.75rem',      // 56px
   },
 
 

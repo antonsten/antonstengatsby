@@ -1,6 +1,8 @@
 import React from "react"
 import '../../css/style.css'
 import Img from "gatsby-image"
+import Cases from '../../components/cases';
+
 
 import Layout from "../../components/layout"
 import SEO from "../../components/seo"
@@ -41,13 +43,15 @@ class Frank extends React.Component {
             <div className="w-full sm:w-2/3">
               <p className="mb-12">
                 I worked with Apotek Hjärtat during a transitional period of 6 months keeping track of weekly iterations and improvements as well as working on new, long-term feature builds.
-              </p>           
+              </p>
            </div>
           </div>
-          
+
           <CaseImage image={data.image3.childImageSharp.fluid}/>
 
         </div>
+        <Cases />
+
       </Layout>
     )
   }

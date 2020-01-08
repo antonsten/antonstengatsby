@@ -5,6 +5,8 @@ import Img from "gatsby-image"
 import Layout from "../../components/layout"
 import SEO from "../../components/seo"
 import CaseImage from "../../components/case-image"
+import Cases from '../../components/cases';
+
 
 class Frank extends React.Component {
   render() {
@@ -25,7 +27,7 @@ class Frank extends React.Component {
           </div>
 
           <CaseImage image={data.image1.childImageSharp.fluid}/>
-          
+
           <div className="sm:flex mt-6 sm:mt-12 mb-6 sm:mb-12">
             <div className="w-full sm:w-1/3"></div>
             <div className="w-full sm:w-2/3">
@@ -45,7 +47,7 @@ class Frank extends React.Component {
               2. Based on digital services and tools - these are actions that the user can perform straight away online <br />
               3. Most used content during the current period - Restaurants will want to file permits for outdoor seating in the spring time but not so much in November. Offices will want improved outdoor lighting  in October through March, but probably not in the summertime.<br /><br />
               Through AI and user behavior, we can predict what services and tools we think our users will require.
-              </p>              
+              </p>
             </div>
           </div>
 
@@ -60,6 +62,8 @@ class Frank extends React.Component {
 
           <CaseImage image={data.image5.childImageSharp.fluid}/>
         </div>
+        <Cases />
+
       </Layout>
     )
   }

@@ -1,5 +1,6 @@
 import React from "react"
 import '../../css/style.css'
+import Cases from '../../components/cases';
 
 import Layout from "../../components/layout"
 import SEO from "../../components/seo"
@@ -47,6 +48,8 @@ class Frank extends React.Component {
             </div>
           </div>
         </div>
+        <Cases />
+
       </Layout>
     )
   }

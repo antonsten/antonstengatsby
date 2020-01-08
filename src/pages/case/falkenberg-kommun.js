@@ -56,9 +56,9 @@ class Falkenberg extends React.Component {
 
             <Testimonial text="​​I just saw some of the first design mockups for the city website. WOW! You’re so damn talented! I got a bit emotional—imagine that our municipality will have this kind of communication and design soon! THANK YOU." author="MONICA KLINGBORG, FALKENBERG KOMMUN"/>
 
-            <Cases />
-
           </div>
+          <Cases />
+
 
       </Layout>
     )
