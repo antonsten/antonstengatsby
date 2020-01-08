@@ -6,6 +6,7 @@ import Layout from "../../components/layout"
 import SEO from "../../components/seo"
 import Testimonial from '../../components/testimonial';
 import CaseImage from "../../components/case-image"
+import Cases from '../../components/cases';
 
 class Falkenberg extends React.Component {
   render() {
@@ -54,8 +55,11 @@ class Falkenberg extends React.Component {
             <CaseImage image={data.image5.childImageSharp.fluid}/>
 
             <Testimonial text="​​I just saw some of the first design mockups for the city website. WOW! You’re so damn talented! I got a bit emotional—imagine that our municipality will have this kind of communication and design soon! THANK YOU." author="MONICA KLINGBORG, FALKENBERG KOMMUN"/>
+
+            <Cases />
+
           </div>
-          
+
       </Layout>
     )
   }
