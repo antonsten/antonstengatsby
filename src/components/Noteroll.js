@@ -34,11 +34,11 @@ export default () => (
             if(tag !== 'newsletter') {
               return (
                 <div key={i}>
-                  <div className="w-full bg-grey-lightest p-8 sm:p-16 mt-12 mb-16 flex flex-wrap">
+                  <div className="w-full mt-12 mb-16 flex flex-wrap">
                     <div className="w-full sm:w-1/3">
                       <span className="text-xs uppercase mt-3 block font-sans tracking-wide text-grey">Quote from</span>
-                      <h3 className="font-bold mt-3 pb-6 sm:pb-0 leading-tight sm:pr-6">{title}</h3>
-                      <div className="flex justify-left">
+                      <h3 className="font-bold mt-3 pb-0 sm:pb-0 leading-tight sm:pr-6">{title}</h3>
+                      <div className="flex justify-left pb-6">
                         <a href={`https://twitter.com/intent/tweet/?text=${node.frontmatter.title}&url=https://www.antonsten.com${pathName}&via=antonsten`} className="group flex relative items-center no-underline mr-2 hover-border-none border-none cursor-pointer no-hover no-after">
                           <img className="w-8 group-hover:hidden" src="/images/twitter-svg.svg" alt="Twitter"/>
                           <img className="w-8 hidden group-hover:block" src="/images/twitter-over.svg" alt="Twitter"/>
@@ -53,7 +53,7 @@ export default () => (
                         </a>
                       </div>
                     </div>
-                    <div className="w-full sm:w-2/3 -mt-16">
+                    <div className="w-full sm:w-2/3 -mt-12 sm:-mt-16">
                       <p className="note-post" dangerouslySetInnerHTML={{ __html: node.html }} />
                     </div>
                   </div>
