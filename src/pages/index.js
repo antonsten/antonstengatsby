@@ -53,6 +53,55 @@ class BlogIndex extends React.Component {
           </div>
 
           <Testimonial logo="/images/clients/svg/spotify-white.svg" text="Whenever someone asks me if I know any good freelance UX designers I always answer with Anton. He’s a great designer with superior business understanding who always put the user in the front seat and delivers bloody good work. If you ever get a chance to work with Anton, don’t miss it." author="Christian Wilsson, Head of Design, Spotify"/>
+
+          <div className="w-full mt-12">
+            <div className="sm:flex">
+              <div className="w-full sm:w-1/3"></div>
+              <div className="w-full sm:w-2/3"><h2>Selected clients</h2></div>
+              </div>
+            </div>
+
+          <div className="w-full mt-12">
+            <div className="sm:flex border-b pb-1">
+              <div className="w-full sm:w-1/3"><img className="h-6 sm:h-8 mb-4" src="/images/clients/svg/spotify.svg"/></div>
+              <div className="w-full sm:w-1/3"><img className="h-6 sm:h-8 mb-4" src="/images/clients/svg/superfriendly.svg"/></div>
+              <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/apotekhjartat.svg"/></div>
+           </div>
+           </div>
+
+           <div className="w-full mt-12">
+             <div className="sm:flex border-b pb-1">
+               <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/lysa.svg"/></div>
+               <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/firstprinciple.svg"/></div>
+               <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/swedbank.svg"/></div>
+            </div>
+            </div>
+
+            <div className="w-full mt-12">
+              <div className="sm:flex border-b pb-1">
+                <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/nudie.svg"/></div>
+                <div className="w-full sm:w-1/3"><img className="h-4 sm:h-4 mb-2" src="/images/clients/svg/volvo.svg"/></div>
+                <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/izettle.svg"/></div>
+             </div>
+             </div>
+
+
+             <div className="w-full mt-12">
+               <div className="sm:flex border-b pb-1">
+                 <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/ica.svg"/></div>
+                 <div className="w-full sm:w-1/3"><img className="h-4 sm:h-4 mb-2" src="/images/clients/svg/hyperisland.svg"/></div>
+                 <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/eon.svg"/></div>
+              </div>
+            </div>
+
+            <div className="w-full">
+              <div className="sm:flex">
+                <div className="w-full sm:w-1/3"></div>
+                <div className="w-full sm:w-2/3"><p><a href="/testimonials">This is what they say.</a></p></div>
+                </div>
+              </div>
+
+
           <Form title="Get my bi-weekly newsletter" text="Great laser focused UX content, told in an easy to understand way, helping to make sure I keep my eye on the UX ball." />
         </div>
       </Layout>
