@@ -19,16 +19,16 @@ class Frank extends React.Component {
             <div className="w-full sm:w-1/3"></div>
             <div className="w-full sm:w-2/3">
               <h1 className="pr-0 sm:pr-12">Frank Body</h1>
-              <del>
+              <h2>
                 Optimizing conversions while staying on-track with a strong brand personality for Australia’s number one babe; Frank.
-              </del>
+              </h2>
               <p className="mb-12">​​Frank Body, an e-commerce company founded in Australia, makes and sells coffee-based body scrubs. They’re known around the world for their sassy brand personality (by <a href="http://www.willowandblake.com/">Willow & Blake</a>) and stylish design (by <a href="https://loveandmoney.agency/">Love+Money</a>). ​​ ​​​Originally launched from the shared office space of Willow & Blake, Frank Body is now a global player with more than $20 million in annual revenue. But while Frank Body has nailed creating a unique brand voice, the company realized they needed to improve the user experience of their online store. This was the start of our long-term relationship.</p>
             </div>
           </div>
 
           <CaseImage image={data.image1.childImageSharp.fluid}/>
 
-          <Testimonial logo="/images/clients/frank.png" text="Anton has been across every aspect of the new website build and has given crucial advice in between the design & dev team and the company directors. His advice has been crucial to the success of the new store." author="ALEX BOFFA, CEO"/>
+          <Testimonial text="Anton has been across every aspect of the new website build and has given crucial advice in between the design & dev team and the company directors. His advice has been crucial to the success of the new store." author="ALEX BOFFA, CEO"/>
 
           <div className="sm:flex">
             <div className="w-full sm:w-1/3"></div>

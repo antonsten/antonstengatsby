@@ -134,7 +134,7 @@ h3 {
 
 @screen sm {
   h2 {
-    @apply text-3xl;
+    @apply text-xl;
   }
 }
 
@@ -146,12 +146,12 @@ del {
   width: 100%;
   font-style: normal;
 
-  @apply text-xl leading-normal;
+  @apply text-xl leading-normal font-sans;
 }
 
 @screen sm {
   del {
-    @apply text-2xl font-serif leading-normal;
+    @apply text-xl font-sans leading-normal;
   }
 }
 

@@ -101,7 +101,7 @@ export const query = graphql`
         }
       }
     }
-    image5: file(relativePath: { eq: "jarfalla_05.png" }) {
+    image5: file(relativePath: { eq: "jarfalla_06.png" }) {
       childImageSharp {
         fluid {
           ...GatsbyImageSharpFluid
