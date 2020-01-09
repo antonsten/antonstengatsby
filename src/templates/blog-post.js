@@ -85,7 +85,7 @@ class BlogPostTemplate extends React.Component {
           </div>
         </article>
 
-        <Form title="Get my bi-weekly newsletter" text="Great laser focused UX content, told in an easy to understand way, helping to make sure I keep my eye on the UX ball." />
+        <Form title="Get my bi-weekly newsletter" text='"Great laser focused UX content, told in an easy to understand way, helping to make sure I keep my eye on the UX ball."' />
 
         <h2 className="mt-16 pt-12 hidden">All writing</h2>
         <div className="w-full pb-12 hidden" /* onclick -> currentTarget if is a check host */>

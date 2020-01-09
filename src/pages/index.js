@@ -62,35 +62,35 @@ class BlogIndex extends React.Component {
             </div>
 
           <div className="w-full mt-12">
-            <div className="sm:flex border-b pb-1">
-              <div className="w-full sm:w-1/3"><img className="h-6 sm:h-8 mb-4" src="/images/clients/svg/spotify.svg"/></div>
-              <div className="w-full sm:w-1/3"><img className="h-6 sm:h-8 mb-4" src="/images/clients/svg/superfriendly.svg"/></div>
-              <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/apotekhjartat.svg"/></div>
+            <div className="flex border-b pb-1">
+              <div className="w-1/3 px-2 sm:px-0"><img className="h-6 sm:h-8 mb-4" src="/images/clients/svg/spotify.svg"/></div>
+              <div className="w-1/3 px-2 sm:px-0"><img className="h-6 sm:h-8 mb-4" src="/images/clients/svg/superfriendly.svg"/></div>
+              <div className="w-1/3 px-2 sm:px-0"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/apotekhjartat.svg"/></div>
            </div>
            </div>
 
            <div className="w-full mt-12">
-             <div className="sm:flex border-b pb-1">
-               <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/lysa.svg"/></div>
-               <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/firstprinciple.svg"/></div>
-               <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/swedbank.svg"/></div>
+             <div className="flex border-b pb-1">
+               <div className="w-1/3 px-2 sm:px-0"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/lysa.svg"/></div>
+               <div className="w-1/3 px-2 sm:px-0"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/firstprinciple.svg"/></div>
+               <div className="w-1/3 px-2 sm:px-0"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/swedbank.svg"/></div>
             </div>
             </div>
 
             <div className="w-full mt-12">
-              <div className="sm:flex border-b pb-1">
-                <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/nudie.svg"/></div>
-                <div className="w-full sm:w-1/3"><img className="h-4 sm:h-4 mb-2" src="/images/clients/svg/volvo.svg"/></div>
-                <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/izettle.svg"/></div>
+              <div className="flex border-b pb-1">
+                <div className="w-1/3 px-2 sm:px-0"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/nudie.svg"/></div>
+                <div className="w-1/3 px-2 sm:px-0"><img className="h-4 sm:h-4 mb-2" src="/images/clients/svg/volvo.svg"/></div>
+                <div className="w-1/3 px-2 sm:px-0"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/izettle.svg"/></div>
              </div>
              </div>
 
 
              <div className="w-full mt-12">
-               <div className="sm:flex border-b pb-1">
-                 <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/ica.svg"/></div>
-                 <div className="w-full sm:w-1/3"><img className="h-4 sm:h-4 mb-2" src="/images/clients/svg/hyperisland.svg"/></div>
-                 <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/eon.svg"/></div>
+               <div className="flex border-b pb-1">
+                 <div className="w-1/3 px-2 sm:px-0"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/ica.svg"/></div>
+                 <div className="w-1/3 px-2 sm:px-0"><img className="h-4 sm:h-4 mb-2" src="/images/clients/svg/hyperisland.svg"/></div>
+                 <div className="w-1/3 px-2 sm:px-0"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/eon.svg"/></div>
               </div>
             </div>
 
@@ -102,7 +102,7 @@ class BlogIndex extends React.Component {
               </div>
 
 
-          <Form title="Get my bi-weekly newsletter" text="Great laser focused UX content, told in an easy to understand way, helping to make sure I keep my eye on the UX ball." />
+          <Form title="Get my bi-weekly newsletter" text='"Great laser focused UX content, told in an easy to understand way, helping to make sure I keep my eye on the UX ball."' />
         </div>
       </Layout>
     )
