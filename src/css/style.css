@@ -221,7 +221,7 @@ a.no-after:after {
 }
 
 a:visited {
-@apply text-black;
+@apply text-grey;
 }
 
 blockquote {
