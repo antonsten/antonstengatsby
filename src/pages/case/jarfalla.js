@@ -26,7 +26,7 @@ class Frank extends React.Component {
             </div>
           </div>
 
-          <CaseImage image={data.image1.childImageSharp.fluid}/>
+          <CaseImage heading="User focused" text="We wanted to build a navigation that's based on our users."  image={data.image1.childImageSharp.fluid}/>
 
           <div className="sm:flex mt-6 sm:mt-12 mb-6 sm:mb-12">
             <div className="w-full sm:w-1/3"></div>
@@ -35,7 +35,7 @@ class Frank extends React.Component {
             </div>
           </div>
 
-          <CaseImage image={data.image4.childImageSharp.fluid}/>
+          <CaseImage wide={true} image={data.image4.childImageSharp.fluid}/>
 
           <div className="sm:flex mt-6 sm:mt-12 mb-6 sm:mb-12">
             <div className="w-full sm:w-1/3"></div>
@@ -43,15 +43,15 @@ class Frank extends React.Component {
               <p className="mb-12">
               <b>We settled for giving users three major navigational paths:</b>
               <br />
-              1. Based on their industry - this is something that would be a possible entry path for everyone<br />
-              2. Based on digital services and tools - these are actions that the user can perform straight away online <br />
+              1. Based on their industry - this is something that would be a possible entry path for everyone<br /><br />
+              2. Based on digital services and tools - these are actions that the user can perform straight away online <br /><br />
               3. Most used content during the current period - Restaurants will want to file permits for outdoor seating in the spring time but not so much in November. Offices will want improved outdoor lighting  in October through March, but probably not in the summertime.<br /><br />
               Through AI and user behavior, we can predict what services and tools we think our users will require.
               </p>
             </div>
           </div>
 
-          <CaseImage image={data.image3.childImageSharp.fluid}/>
+          <CaseImage wide={true} image={data.image3.childImageSharp.fluid}/>
 
           <div className="sm:flex mt-6 sm:mt-12 mb-6 sm:mb-12">
             <div className="w-full sm:w-1/3"></div>
@@ -60,7 +60,7 @@ class Frank extends React.Component {
             </div>
           </div>
 
-          <CaseImage image={data.image5.childImageSharp.fluid}/>
+          <CaseImage wide={true} image={data.image5.childImageSharp.fluid}/>
         </div>
         <Cases />
 

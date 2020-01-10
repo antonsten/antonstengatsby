@@ -49,7 +49,7 @@ class Ne extends React.Component {
               </div>
             </div>
 
-            <CaseImage image={data.image1.childImageSharp.fluid}/>
+            <CaseImage heading="Colors" text="A color profile that's WCAG AA+ complient and limited to a reasonable number of options." image={data.image1.childImageSharp.fluid}/>
 
             <div className="sm:flex mt-6 sm:mt-12">
               <div className="w-full sm:w-1/3"></div>
@@ -58,7 +58,7 @@ class Ne extends React.Component {
               </div>
             </div>
 
-            <CaseImage image={data.image2.childImageSharp.fluid}/>
+            <CaseImage heading="Typography" text="Proxima Nova for it's excellent readability and Berlingske Serif for it's  traditional but quirky modern look." image={data.image2.childImageSharp.fluid}/>
 
             <div className="sm:flex mt-6 sm:mt-12">
               <div className="w-full sm:w-1/3"></div>
@@ -68,7 +68,7 @@ class Ne extends React.Component {
               </div>
             </div>
 
-            <CaseImage image={data.image3.childImageSharp.fluid}/>
+            <CaseImage wide={true} image={data.image3.childImageSharp.fluid}/>
 
             <div className="sm:flex mt-6 sm:mt-12">
               <div className="w-full sm:w-1/3"></div>
@@ -77,7 +77,7 @@ class Ne extends React.Component {
               </div>
             </div>
 
-            <CaseImage image={data.image4.childImageSharp.fluid}/>
+            <CaseImage heading="Key components" text="Buttons, input fields and navigation."  image={data.image4.childImageSharp.fluid}/>
 
             <div className="sm:flex mt-6 sm:mt-12">
               <div className="w-full sm:w-1/3"></div>
@@ -86,9 +86,9 @@ class Ne extends React.Component {
               </div>
             </div>
 
-            <CaseImage image={data.image5.childImageSharp.fluid}/>
-            <CaseImage image={data.image6.childImageSharp.fluid}/>
-            <CaseImage image={data.image7.childImageSharp.fluid}/>
+            <CaseImage wide={true} image={data.image5.childImageSharp.fluid}/>
+            <CaseImage wide={true} image={data.image6.childImageSharp.fluid}/>
+            <CaseImage wide={true} image={data.image7.childImageSharp.fluid}/>
 
             <div className="sm:flex mt-6 sm:mt-12">
               <div className="w-full sm:w-1/3"></div>
@@ -98,7 +98,7 @@ class Ne extends React.Component {
               </div>
             </div>
 
-            <CaseImage image={data.image8.childImageSharp.fluid}/>
+            <CaseImage wide={true} image={data.image8.childImageSharp.fluid}/>
 
             <div className="sm:flex mt-6 sm:mt-12">
               <div className="w-full sm:w-1/3"></div>

@@ -27,7 +27,7 @@ class Frank extends React.Component {
             </div>
           </div>
 
-          <CaseImage image={data.image1.childImageSharp.fluid}/>
+          <CaseImage heading="Defining search" text="Search is key for any e-commerce. With Apotek Hjärtat we wanted to conceptualise search even more. So searching for 'headache' shouldn't only give you products. Categories, related searches and information related to the subject should all be visible. Defining the structure and hierarchy of the results was key."  image={data.image1.childImageSharp.fluid}/>
 
           <div className="sm:flex mt-6 sm:mt-12">
             <div className="w-full sm:w-1/3"></div>
@@ -36,7 +36,7 @@ class Frank extends React.Component {
             </div>
           </div>
 
-          <CaseImage image={data.image2.childImageSharp.fluid}/>
+          <CaseImage heading="Product page" text="A product page needs to be very dynamic if your products range from socks, medicine to beauty products." image={data.image2.childImageSharp.fluid}/>
 
           <div className="sm:flex mt-6 sm:mt-12">
             <div className="w-full sm:w-1/3"></div>
@@ -47,7 +47,7 @@ class Frank extends React.Component {
            </div>
           </div>
 
-          <CaseImage image={data.image3.childImageSharp.fluid}/>
+          <CaseImage wide={true} image={data.image3.childImageSharp.fluid}/>
 
         </div>
         <Cases />

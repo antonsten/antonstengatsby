@@ -26,7 +26,7 @@ class Frank extends React.Component {
             </div>
           </div>
 
-          <CaseImage image={data.image1.childImageSharp.fluid}/>
+          <CaseImage wide={true} image={data.image1.childImageSharp.fluid}/>
 
           <Testimonial text="Anton has been across every aspect of the new website build and has given crucial advice in between the design & dev team and the company directors. His advice has been crucial to the success of the new store." author="ALEX BOFFA, CEO"/>
 
@@ -38,8 +38,8 @@ class Frank extends React.Component {
             </div>
           </div>
 
-          <CaseImage image={data.image2.childImageSharp.fluid}/>
-          <CaseImage image={data.image3.childImageSharp.fluid}/>
+          <CaseImage heading="Social guy" text="Leveraging the use of social media was one of the key successes of Frank so clearly it should it's featured prominently on the main page."  image={data.image2.childImageSharp.fluid}/>
+          <CaseImage wide={true} image={data.image3.childImageSharp.fluid}/>
 
           <div className="sm:flex mt-6 sm:mt-12">
             <div className="w-full sm:w-1/3"></div>

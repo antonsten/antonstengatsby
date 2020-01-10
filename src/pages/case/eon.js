@@ -25,7 +25,7 @@ class Eon extends React.Component {
             </div>
           </div>
 
-          <CaseImage image={data.image1.childImageSharp.fluid}/>
+          <CaseImage heading="Simplifying data" text="One of the main challenges was finding ways of showing complex data (including projected data) in an easy, digestable way." image={data.image1.childImageSharp.fluid}/>
 
           <div className="sm:flex mt-6 sm:mt-12">
             <div className="w-full sm:w-1/3"></div>
@@ -45,10 +45,10 @@ class Eon extends React.Component {
             </div>
           </div>
 
-          <CaseImage image={data.image2.childImageSharp.fluid}/>
-          <CaseImage image={data.image3.childImageSharp.fluid}/>
-          <CaseImage image={data.image4.childImageSharp.fluid}/>
-          <CaseImage image={data.image5.childImageSharp.fluid}/>
+          <CaseImage heading="Quick options" text="We gave users quick access to their most used tasks and it drastically improved user engagement."  image={data.image2.childImageSharp.fluid}/>
+          <CaseImage wide={true} image={data.image3.childImageSharp.fluid}/>
+          <CaseImage wide={true} image={data.image4.childImageSharp.fluid}/>
+          <CaseImage wide={true} image={data.image5.childImageSharp.fluid}/>
 
         </div>
         <Cases />

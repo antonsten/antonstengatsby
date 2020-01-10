@@ -30,8 +30,7 @@ class Falkenberg extends React.Component {
               </div>
             </div>
 
-            <CaseImage image={data.image1.childImageSharp.fluid}/>
-            <CaseImage image={data.image2.childImageSharp.fluid}/>
+            <CaseImage heading="Three main options" text="Users get greeted with what's happening today, our recommendations and a Falkenberg Bucket list." image={data.image1.childImageSharp.fluid}/>
 
             <div className="sm:flex">
               <div className="w-full sm:w-1/3"></div>
@@ -41,8 +40,8 @@ class Falkenberg extends React.Component {
               </div>
             </div>
 
-            <CaseImage image={data.image3.childImageSharp.fluid}/>
-            <CaseImage image={data.image4.childImageSharp.fluid}/>
+            <CaseImage heading="Filter your way" text="Instead of filtering for 'restaurants' or 'cafés', we wanted to experiment with filtering by actions; 'eating', 'sleeping' or 'enjoying the day'"  image={data.image3.childImageSharp.fluid}/>
+            <CaseImage wide={true} image={data.image4.childImageSharp.fluid}/>
 
             <div className="sm:flex mt-6 sm:mt-12">
               <div className="w-full sm:w-1/3"></div>

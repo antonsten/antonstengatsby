@@ -44,7 +44,7 @@ class Telia extends React.Component {
               </div>
             </div>
 
-            <CaseImage image={data.image1.childImageSharp.fluid}/>
+            <CaseImage heading="User click testing" text="A click map user testing showed us that our assumptions weren't inline with our user's actions." image={data.image1.childImageSharp.fluid}/>
 
             <div className="sm:flex">
               <div className="w-full sm:w-1/3"></div>
@@ -53,7 +53,7 @@ class Telia extends React.Component {
               </div>
             </div>
 
-            <CaseImage image={data.image2.childImageSharp.fluid}/>
+            <CaseImage wide={true} image={data.image2.childImageSharp.fluid}/>
 
             <div className="sm:flex">
               <div className="w-full sm:w-1/3"></div>
@@ -62,10 +62,10 @@ class Telia extends React.Component {
               </div>
             </div>
 
-            <CaseImage image={data.image3.childImageSharp.fluid}/>
-            <CaseImage image={data.image4.childImageSharp.fluid}/>
-            <CaseImage image={data.image5.childImageSharp.fluid}/>
-            <CaseImage image={data.image6.childImageSharp.fluid}/>
+            <CaseImage heading="Options" text="One of our key insights was that it's important for users to quickly feel that they are on the right path to a solution."  image={data.image3.childImageSharp.fluid}/>
+            <CaseImage wide={true} image={data.image4.childImageSharp.fluid}/>
+            <CaseImage wide={true} image={data.image5.childImageSharp.fluid}/>
+            <CaseImage heading="Mobile" text="For a solution like this one, it was especially crucial to have a fast, easy to understand mobile solution." image={data.image6.childImageSharp.fluid}/>
 
           </div>
           <Cases />

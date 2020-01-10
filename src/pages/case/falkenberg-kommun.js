@@ -26,7 +26,7 @@ class Falkenberg extends React.Component {
               </div>
             </div>
 
-            <CaseImage image={data.image1.childImageSharp.fluid}/>
+            <CaseImage heading="Information architecture" text="The previous site included more than 9000 pages. So one of the key objects in the beginning of the project was to establish a navigational structure. Even if we knew we wanted to trim the content, we're still looking at thousands of pages. We needed a clear information hierarchy." image={data.image1.childImageSharp.fluid}/>
 
             <div className="sm:flex mt-6 sm:mt-12">
               <div className="w-full sm:w-1/3"></div>
@@ -39,9 +39,9 @@ class Falkenberg extends React.Component {
               </div>
             </div>
 
-            <CaseImage image={data.image2.childImageSharp.fluid}/>
-            <CaseImage image={data.image3.childImageSharp.fluid}/>
-            <CaseImage image={data.image4.childImageSharp.fluid}/>
+            <CaseImage heading="Navigation pages" text="The primary target for these pages is to take the user forward and closer to their primary target." image={data.image2.childImageSharp.fluid}/>
+            <CaseImage heading="Information pages" text="Pages that clearly communicate a specific topic and related actions." image={data.image4.childImageSharp.fluid}/>
+            <CaseImage wide={true} image={data.image3.childImageSharp.fluid}/>
 
 
             <div className="sm:flex mt-6 sm:mt-12">
@@ -52,7 +52,7 @@ class Falkenberg extends React.Component {
               </div>
             </div>
 
-            <CaseImage image={data.image5.childImageSharp.fluid}/>
+            <CaseImage wide={true} image={data.image5.childImageSharp.fluid}/>
 
             <Testimonial text="​​I just saw some of the first design mockups for the city website. WOW! You’re so damn talented! I got a bit emotional—imagine that our municipality will have this kind of communication and design soon! THANK YOU." author="MONICA KLINGBORG, FALKENBERG KOMMUN"/>
 
