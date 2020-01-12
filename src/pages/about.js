@@ -17,7 +17,7 @@ class About extends React.Component {
             <div className="w-full sm:w-1/3">
 </div>
             <div className="w-full sm:w-2/3">
-            <h1>Hi, I’m Anton and I make digital products work</h1>
+            <h1>I make digital products work</h1>
             <p>I know it’s a really bold statement, but I have the experience and knowledge to back it up.</p>
             <p>With my background in both design and business, I am in a great position to help your business decide on the right solutions for your digital products. I’m not here to make your product <i>just look pretty</i>, I’m here to <i>make it work</i> - happy users will result in a more profitable business. I am a firm believer in understanding the human element of design and knowing your audience. Your user wants to have a great experience with your brand – from start to finish – and I want to make that happen.</p>
             <p>

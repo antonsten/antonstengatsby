@@ -134,7 +134,7 @@ h3 {
 
 @screen sm {
   h2 {
-    @apply text-xl;
+    @apply text-3xl;
   }
 }
 
@@ -188,7 +188,7 @@ hr {
 }
 
 a:not(.no-underline):not(.btn), [aria-current]:not(.logo) {
-  box-shadow: inset 0 -6px 0 #FFEA34;
+  box-shadow: inset 0 -7px 0 #FFEA34;
   color: inherit;
   text-decoration: none;
   position: relative;
