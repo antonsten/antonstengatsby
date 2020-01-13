@@ -25,6 +25,9 @@ class Layout extends React.Component {
               <a className="text-grey no-underline" href="/newsletter">Newsletter</a>
             </li>
             <li className="inline-block pl-4">
+              <a className="text-grey no-underline" href="/notes">Notes</a>
+            </li>
+            <li className="inline-block pl-4">
               <a className="text-grey no-underline" href="/feed.xml">RSS</a>
             </li>
               <li className="inline-block pl-4">

@@ -24,7 +24,16 @@ class Contact extends React.Component {
 
             <h2>What do you mean by “what”?</h2>
             <p>First, we’ll get really clear on what the final product should look like. For example, if you need a branding package, I’ll need to know the file format specifications for the logotype and what you’d like included in the style guide. For a product strategy, we’d need to clearly outline what the strategy will cover, what questions it will answer, and how you want all this information delivered.</p>
-
+            <p>Curious about what I do? <a href="/work">My portfolio</a> is a great place to start! But to give you the basic idea, I can help you from start (like really when you just have a loose idea) to finish (where your idea is a full-fledged thing on the Internet). I can assist with one small part or the entire project, it's up to you and your project's needs.</p>
+<p>Usually, the work I do tend to be one - or a combination - of the following:
+<ul>
+<li>Product scoping and refinement. What should be built and in what order? Which features are must-haves and which are just nice-to-haves?</li>
+<li>Plan, build, and implement scalable design systems</li>
+<li>Design and improve the online experience of your current SaaS or e-commerce platforms</li>
+<li>Define and implement a UX strategy for your team</li>
+<li>Optimize the user experience to boost conversions</li>
+</ul>
+</p>
             <h2>What do you mean by “when”?</h2>
             <p>I never miss a deadline. No, really. My secret is simple: I respect the project and set aside enough time to get it done correctly. I will never give you a date that can’t be met. That’s a two-way street, of course; I’ll rely on you to give me certain things on time so I can incorporate them into the project.</p>
             </div>
