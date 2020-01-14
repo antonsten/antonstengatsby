@@ -49,16 +49,7 @@ class Grid extends React.Component {
               </div>
 
               <div className="w-full mt-12">
-              <div className="sm:flex border-b pb-1">
-                <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="/images/clients/svg/toast.svg"/></div>
-                  <div className="w-full sm:w-2/3">
-                    <p className="mt-0">Helping facility managers track energy consumption and make proactive choices, for higher revenue and a healthier environment​ 🌿​<br /><Link className="font-serif text-lg" to="/case/eon">View case</Link></p>
-
-                </div>
-             </div>
-
-
-                <div className="sm:flex mt-6 border-b pb-1">
+                <div className="sm:flex border-b pb-1">
                   <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="/images/clients/svg/eon.svg"/></div>
                     <div className="w-full sm:w-2/3">
                       <p className="mt-0">Helping facility managers track energy consumption and make proactive choices, for higher revenue and a healthier environment​ 🌿​<br /><Link className="font-serif text-lg" to="/case/eon">View case</Link></p>
