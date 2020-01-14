@@ -52,6 +52,9 @@ class BlogIndex extends React.Component {
             </div>
           </div>
 
+          <Testimonial logo="/images/clients/svg/spotify-white.svg" alt="Spotify logo" text="Whenever someone asks me if I know any good freelance UX designers I always answer with Anton. He’s a great designer with superior business understanding who always put the user in the front seat and delivers bloody good work. If you ever get a chance to work with Anton, don’t miss it." author="Christian Wilsson, Head of Design, Spotify"/>
+
+
                     <div className="w-full mt-12">
                       <div className="flex border-b pb-1">
                         <div className="w-1/3 px-2 sm:px-0"><img className="h-6 sm:h-8 mb-4" src="/images/clients/svg/spotify.svg" alt="Spotify logo"/></div>
@@ -93,7 +96,6 @@ class BlogIndex extends React.Component {
                         </div>
 
 
-          <Testimonial logo="/images/clients/svg/spotify-white.svg" alt="Spotify logo" text="Whenever someone asks me if I know any good freelance UX designers I always answer with Anton. He’s a great designer with superior business understanding who always put the user in the front seat and delivers bloody good work. If you ever get a chance to work with Anton, don’t miss it." author="Christian Wilsson, Head of Design, Spotify"/>
 
 
           <Form title="Get my bi-weekly newsletter" text='"Great laser focused UX content, told in an easy to understand way, helping to make sure I keep my eye on the UX ball."' />

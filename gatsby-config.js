@@ -5,7 +5,7 @@ module.exports = {
     title: `antonsten.com`,
     author: `Anton Sten`,
     description: `I help companies succeed with their products by designing user experiences that consider the user first - solving the problem and getting you back on track.`,
-    siteUrl: `https://antonsten.com`,
+    siteUrl: `https://www.antonsten.com`,
     social: {
       twitter: `antonsten`,
     },
