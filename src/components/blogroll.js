@@ -81,7 +81,7 @@ export default () => (
       <div className="w-1/2 sm:w-1/3">
       </div>
       <div className="w-full sm:w-2/3">
-        <Link className="text-sm sm:text-lg font-serif leading-tight text-black" to="/newsletter">
+        <Link className="font-serif leading-tight text-black" to="/newsletter">
           Subscribers get these posts first. Sign up!
         </Link>
       </div>
@@ -96,7 +96,7 @@ export default () => (
                 <span className="hidden sm:block text-xs uppercase font-sans tracking-wide text-grey">{node.frontmatter.date}</span>
               </div>
               <div className="w-full sm:w-2/3">
-                <Link className="text-sm sm:text-lg relative font-serif leading-tight no-underline text-black" to={node.fields.slug}>
+                <Link className="relative font-serif leading-tight no-underline text-black" to={node.fields.slug}>
                   {title}
                 </Link>
               </div>
