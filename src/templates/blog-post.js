@@ -62,7 +62,7 @@ class BlogPostTemplate extends React.Component {
                   <span className="text-xs uppercase mt-3 block font-sans tracking-wide text-grey">Now reading</span>
                   <h2 className="text-lg mt-3 pb-6 sm:pb-0 leading-tight sm:pr-6 w-32">{post.frontmatter.title}</h2>
                   <div className="flex justify-left">
-                    <a href={`https://twitter.com/intent/tweet/?text=${post.frontmatter.title}&url=https://www.antonsten.com${pathName}&via=antonsten`} className="group flex relative items-center no-underline mr-2 hover-border-none border-none cursor-pointer no-hover no-after">
+                    <a href={`https://twitter.com/intent/tweet/?text=${post.frontmatter.title}&url=https://www.antonsten.com${pathName}&via=antonsten`} className="group flex relative items-center no-underline mr-1 hover-border-none border-none cursor-pointer no-hover no-after">
                       <img className="w-8 group-hover:hidden" src="/images/twitter-svg.svg" alt="Twitter"/>
                       <img className="w-8 hidden group-hover:block" src="/images/twitter-over.svg" alt="Twitter"/>
                     </a>

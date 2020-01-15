@@ -39,7 +39,7 @@ export default () => (
                       <span className="text-xs uppercase mt-3 block font-sans tracking-wide text-grey">Quote from</span>
                       <h3 className="font-bold mt-3 pb-0 sm:pb-0 leading-tight sm:pr-6">{title}</h3>
                       <div className="flex justify-left pb-6">
-                        <a href={`https://twitter.com/intent/tweet/?text=${node.frontmatter.title}&url=https://www.antonsten.com${pathName}&via=antonsten`} className="group flex relative items-center no-underline mr-2 hover-border-none border-none cursor-pointer no-hover no-after">
+                        <a href={`https://twitter.com/intent/tweet/?text=${node.frontmatter.title}&url=https://www.antonsten.com${pathName}&via=antonsten`} className="group flex relative items-center no-underline mr-1 hover-border-none border-none cursor-pointer no-hover no-after">
                           <img className="w-8 group-hover:hidden" src="/images/twitter-svg.svg" alt="Twitter"/>
                           <img className="w-8 hidden group-hover:block" src="/images/twitter-over.svg" alt="Twitter"/>
                         </a>

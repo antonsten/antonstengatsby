@@ -55,11 +55,15 @@ class Form extends React.Component {
       <form name={ this.props.name ? this.props.name : 'newsletter' } onSubmit={ this.handleSubmit } className="mt-8 block sm:flex w-full mb-16 " method="POST" data-netlify="true" netlify-honeypot="bot-field" netlifyid="mc-embedded-subscribe-form" action="/thankyou/">
         <div className="w-full sm:w-1/3"></div>
         <div className="w-full sm:w-2/3">
-          <h2>{ title }</h2>
-          <p className="leading-normal italic font-serif mt-4 pr-8">{ text }</p>
-          <p className="hidden">
-            <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
-          </p>
+          { !this.props.naked &&
+            <div>
+              <h2>{ title }</h2>
+              <p className="leading-normal italic font-serif mt-4 pr-8">{ text }</p>
+              <p className="hidden">
+                <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+              </p> 
+            </div>
+          }
           { !this.state.hasSignedUp &&
             <div className="w-full mt-6 block flex flex-wrap">
               <label htmlFor="email" className="uppercase font-sans text-xs font-bold tracking-wide block w-full mb-2">e-mail</label>
