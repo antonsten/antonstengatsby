@@ -17,7 +17,10 @@ class BlogIndex extends React.Component {
         <SEO title = "Home"/>
 
           <div className="w-full">
-            {/* <div className="mt-4 block w-full mb-4 bg-grey-lighter p-16 text-black text-lg leading-normal">Anton Stén is a senior UX designer focused on helping clients having more <a href="/work">successful businesses through happier customers.</a></div> */}
+            {/* <div className="w-full sm:flex flex-wrap bg-grey-lighter mb-12 text-black">
+              <div className="w-1/2 sm:w-1/3 font-sans uppercase text-xs font-bold p-8">TL:DR;</div>
+              <div className="w-full sm:w-2/3 leading-normal font-sans text-sm p-8"><strong>Anton Stén</strong> is a UX designer based in Lomma, Sweden. My work focuses on building intuitive, delightful and converting user experiences for digital products.</div>
+              </div> */}
             <div className="w-full sm:flex flex-wrap">
               <div className="w-1/2 sm:w-1/3">
                 <img src="/images/idea.jpg" className="pr-12 mt-4 gatsby-image-small" alt="Idea: Has This Ever Happened To You?"/>
