@@ -23,7 +23,7 @@ class CaseImage extends React.Component {
           }
         </div>
         <div className={wideClasses}>
-          <Img className="w-full mt-12 mb-12" fluid={this.props.image} />
+          <Img className="w-full mt-12 mb-12 shadow-xl" fluid={this.props.image} />
         </div>
       </div>
     )

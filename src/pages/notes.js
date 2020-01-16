@@ -5,6 +5,7 @@ import SEO from "../components/seo"
 import Form from "../components/signupform"
 import Noteroll from "../components/Noteroll";
 
+
 class Notes extends React.Component {
   constructor(props) {
     super(props);
