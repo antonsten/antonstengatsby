@@ -11,7 +11,7 @@
 }
 
 .highlight {
-  background: rgba(156, 0, 97, .15);
+  background: rgba(255, 234, 52, .100);
   display: inline;
 }
 
@@ -23,15 +23,16 @@ header {
 }
 
 header a, header a:hover {
-  font-weight: 400;
+  font-weight: 700;
   border: none;
+  text-transform: uppercase;
 
-  @apply font-sans text-base;
+  @apply font-sans text-xs;
 }
 
 [aria-current] {
   text-decoration: underline;
-  color: #0070C9;
+  color: #FFEA34;
 }
 
 header ul {
@@ -65,6 +66,7 @@ footer li, .date {
 
 blockquote {
   margin-top: 2.5rem;
+  @apply block w-full mt-16 mb-16;
 }
 
 .twitter-tweet {
@@ -76,8 +78,7 @@ blockquote {
 }
 
 blockquote strong {
-  @apply font-sans text-sm;
-
+  @apply font-sans font-normal text-sm;
 }
 
 
@@ -85,21 +86,16 @@ blockquote strong {
 ul, ol, p, .people-like-you {
   margin-bottom: 2rem;
   margin-top: 2rem;
-  @apply text-xl leading-normal font-normal;
+  @apply text-lg leading-normal font-normal;
 }
 
 blockquote, blockquote p {
-  @apply text-lg font-sans leading-tight;
-
+  @apply text-lg font-serif leading-loose;
 }
 
 @screen sm {
   ul, ol, p {
-    @apply text-xl leading-normal font-normal;
-  }
-
-  blockquote, blockquote p {
-    @apply leading-normal font-sans text-lg;
+    @apply text-lg leading-normal font-normal;
   }
 }
 
@@ -109,50 +105,53 @@ blockquote, blockquote p {
 }
 
 h1 {
-  @apply mb-4 mt-3 text-3xl font-sans;
+  @apply mb-4 mt-3 text-4xl font-hand tracking-tight;
 }
 
 @screen sm {
   h1 {
-    @apply text-5xl mb-6 mt-8;
+    @apply text-5xl mb-8 mt-8;
+
   }
 }
 
 h2 {
-  margin-top: 4rem;
+  margin-top: 3rem;
   margin-bottom: 1rem;
+  font-weight: 400;
 
-  @apply text-3xl leading-normal font-bold font-sans;
+  @apply text-3xl leading-normal font-sans;
 }
 
 h3 {
   margin-top: 4rem;
   margin-bottom: 1rem;
+  font-weight: 700;
+
   @apply text-xl leading-normal font-sans;
 }
 
 
 @screen sm {
   h2 {
-    @apply text-2xl;
+    @apply text-3xl;
   }
 }
 
 
 del {
   text-decoration: none;
-  color: #4a4a4a;
   margin-bottom: 3.5rem;
   float: left;
   width: 100%;
   font-style: normal;
 
-  @apply text-2xl leading-normal;
+  @apply text-xl leading-normal font-sans;
 }
 
 @screen sm {
   del {
-    @apply text-4xl font-serif leading-normal;
+    @apply text-xl font-sans leading-normal;
   }
 }
 
@@ -160,44 +159,82 @@ del {
 /* testimonial */
 
 .tesimonial-logo {
-  max-width: 130px;
+  max-width: 120px;
   max-height: 40px;
   height: auto !important;
+}
+
+.testimonial blockquote {
+  background: none;
+  padding: 0;
 }
 
 /* components */
 
 .btn {
-  @apply bg-link uppercase font-bold text-white text-xs px-8 py-4 font-sans cursor-pointer inline-block;
-  border-radius: 4px;
+  @apply bg-yellow uppercase text-black text-xs px-8 py-4 font-sans cursor-pointer inline-block;
   letter-spacing: 1px;
+  font-weight: 700;
+  text-decoration: none;
 }
 
 .btn:hover {
-  @apply text-white;
-  background-color: #0062B0;
-  border-bottom: 1px solid #0070C9;
+
 }
 
 hr {
-  height: 1px;
-  background-color: #E5E5E5;
+  height: 2px;
+  background-color: #F7F7F7;
 }
 
-a {
-  @apply text-link;
+a:not(.no-underline):not(.btn), [aria-current]:not(.logo) {
+  box-shadow: inset 0 -7px 0 #FFEA34;
+  color: inherit;
   text-decoration: none;
-  border-bottom: 1px solid #0070C9;
+  position: relative;
 }
 
-a:hover {
-  color: #0070C9;
-  border-bottom: 2px solid #0070C9;
+a:not(.btn):not(.no-hover):not(.no-after):hover {
+  box-shadow: inset 0 -12px 0 #FFEA34;
+  color: inherit;
+  text-decoration: none;
+}
+
+main a:after {
+  content: '';
+  position: absolute;
+  z-index: -1;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 6px;
+  transition: all .2s;
+}
+
+a:hover:after {
+  bottom: -2px;
+  background-color: #FFEA34;
+}
+
+a.no-after:after {
+  background-color: transparent !important;
+}
+
+a:visited {
+color: inherit;
 }
 
 blockquote {
-  @apply p-6 rounded-none mb-8;
-  border-left: 2px solid #E0E0E0;
+  @apply mb-8 text-lg bg-grey-lightest p-8 relative;
+}
+
+blockquote:before {
+  position: absolute;
+  content: '';
+  left: 0;
+  background: gray;
+  top: 0;
+  bottom: 0;
 }
 
 blockquote strong {
@@ -216,17 +253,14 @@ blockquote div div a {
   letter-spacing: 0;
   margin-top: 0;
 
-  @apply text-xl;
 }
 
 @screen sm {
   blockquote div div a {
-    @apply text-xl;
+    font-style: italic;
+    @apply text-lg;
   }
 }
-
-
-
 
 form input {
   -webkit-appearance: none;
@@ -297,6 +331,18 @@ form input {
   margin-bottom: 1rem;
 }
 
+.blog-post blockquote p, .note-post blockquote p {
+  margin-top: 0rem;
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  font-style: italic;
+}
+
+.blog-post blockquote strong, .note-post blockquote strong {
+  font-style: normal;
+}
+
 .btn-light {
   background: #FCFBF8;
   width: 220px;
@@ -305,14 +351,15 @@ form input {
   @apply py-3 px-3 flex justify-between;
 }
 
-.Work .testimonial {
-  @apply px-2;
+a.btn {
+  width: 220px;
+  max-width: 100%;
+
+  @apply py-4 px-3 bg-yellow text-center text-black font-sans uppercase;
 }
 
-@screen sm {
-  .Work .testimonial {
-    @apply px-4;
-  }
+a.btn.btn-wide {
+  width: 320px;
 }
 
 .hover-border-none:hover {
@@ -320,8 +367,8 @@ form input {
 }
 
 hr {
-  height: 1px;
-  background-color: #E5E5E5;
+  height: 2px;
+  background-color: #F7F7F7;
 }
 
 h3 {

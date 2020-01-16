@@ -11,7 +11,7 @@ class Client extends React.Component {
 
     return (
       <div className={ classes }>
-        <div className="w-full flex items-center justify-center h-full bg-grey-lightest rounded-sm relative">
+        <div className="w-full flex items-center justify-center h-full bg-grey-lightest relative">
           { this.props.link &&
             <a rel="noopener noreferrer" target="_blank" className="no-underline" href={ this.props.link }>
               <img alt={this.props.logo} className={ imgClasses } src={ this.props.logo }/>

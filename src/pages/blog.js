@@ -33,8 +33,14 @@ class Writing extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="Writing"/>
         <div className="w-full">
-          <h1 className="pr-0 sm:pr-12">Writing</h1>
-          <del className="mb-8">Esther Williams said, <i>“wisdom is a useless gift unless you share it”</i> and I couldn’t agree more.<br /><br />I like to share what I have discovered about creating amazing user experiences, embracing creativity, and sustaining a successful freelancing career.</del>
+          <div className="w-full sm:flex flex-wrap">
+            <div className="w-1/2 sm:w-1/3"></div>
+            <div className="w-full sm:w-2/3">
+              <h1 className="pr-0 sm:pr-12">Writing</h1>
+              <p>Esther Williams said, <i>“wisdom is a useless gift unless you share it”</i> and I couldn’t agree more.<br /><br />I like to share what I have discovered about creating amazing user experiences, embracing creativity, and sustaining a successful freelancing career.</p>
+            </div>
+          </div>
+
           <Blogroll />
           <Form/>
         </div>

@@ -9,11 +9,11 @@ html {
 }
 
 body {
-  font-family: 'FreightDispProBook-Regular', serif;
+  font-family: 'Lyon Text Web', serif;
+  -webkit-font-smoothing: antialiased;
 }
 
 h3 {
-  margin-top: 4rem;
   margin-bottom: 1rem;
   @apply text-xl leading-normal font-sans;
 }
@@ -23,59 +23,46 @@ h3 {
  *	WebFont Package Licensed to antonsten.com
  */
 
-@font-face {
-  font-family: 'FreightDispProBook-Regular';
-  src: url('/fonts/395F2A_0_0.eot');
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url('/fonts/395F2A_0_0.eot?#iefix') format('embedded-opentype'),
-    url('/fonts/395F2A_0_0.woff2') format('woff2'),
-    url('/fonts/395F2A_0_0.woff') format('woff'),
-    url('/fonts/395F2A_0_0.ttf') format('truetype');}
+ @font-face {
+   font-family: 'Lyon Text Web';
+   src: url('/fonts/LyonText-Regular-Web.woff2') format('woff2'),
+        url('/fonts/LyonText-Regular-Web.woff') format('woff');
+   font-weight:  400;
+   font-style:   normal;
+   font-stretch: normal;
+ }
 
-@font-face {
-  font-family: 'FreightDispProBook-Regular';
-  font-style: italic;
-  font-display: swap;
-  src: url('/fonts/395F2A_1_0.eot');
-  src: url('/fonts/395F2A_1_0.eot?#iefix') format('embedded-opentype'),
-  url('/fonts/395F2A_1_0.woff2') format('woff2'),
-  url('/fonts/395F2A_1_0.woff') format('woff'),
-  url('/fonts/395F2A_1_0.ttf') format('truetype');}
+ @font-face {
+   font-family: 'Lyon Text Web';
+   src: url('/fonts/LyonText-RegularItalic-Web.woff2') format('woff2'),
+        url('/fonts/LyonText-RegularItalic-Web.woff') format('woff');
+   font-weight:  400;
+   font-style:   italic;
+   font-stretch: italic;
+ }
+
+ @font-face {
+	font-family: "Prachar Regular";
+  src: url('/fonts/3AC740_0_0.woff2') format('woff2'),
+       url('/fonts/3AC740_0_0.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
 
   @font-face {
-    font-family: 'FreightDispProBook-Regular';
-    font-weight: 600;
-    font-display: swap;
-    src: url('/fonts/39F210_0_0.eot');
-    src: url('/fonts/39F210_0_0.eot?#iefix') format('embedded-opentype'),
-    url('/fonts/39F210_0_0.woff2') format('woff2'),
-    url('/fonts/39F210_0_0.woff') format('woff'),
-    url('/fonts/39F210_0_0.ttf') format('truetype');}
-
-    @font-face {
     font-family: 'SF';
+    src: url('/fonts/sf-bold.woff2') format('woff2'),
+        url('/fonts/sf-bold.woff') format('woff');
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'SF';
+    src: url('/fonts/sf-regular.woff2') format('woff2'),
+        url('/fonts/sf-regular.woff2') format('woff');
     font-style: normal;
     font-weight: 400;
     font-display: swap;
-    src: url('/fonts/sf-regular.woff2') format('woff2'), /* Super Modern Browsers */
-         url('/fonts/sf-regular.woff') format('woff'), /* Modern Browsers */
-  }
-
-  @font-face {
-    font-family: 'SF';
-    font-weight: 600;
-    font-display: swap;
-    src: url('/fonts/sf-bold.woff2') format('woff2'), /* Super Modern Browsers */
-         url('/fonts/sf-bold.woff') format('woff'), /* Modern Browsers */
-  }
-
-  @font-face {
-    font-family: 'SF';
-    font-style: italic;
-    font-weight: 600;
-    font-display: swap;
-    src: url('/fonts/sf-regularitalic.woff2') format('woff2'), /* Super Modern Browsers */
-         url('/fonts/sf-regularitalic.woff') format('woff'), /* Modern Browsers */
   }

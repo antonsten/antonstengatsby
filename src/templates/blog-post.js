@@ -9,7 +9,23 @@ import Blogroll from "../components/blogroll"
 class BlogPostTemplate extends React.Component {
   constructor(props) {
     super(props);
+    this.state = { opacity: 0, currentScrollHeight: 0 }
     this.handleClick = this.handleClick.bind(this);
+  }
+
+  componentDidMount () {
+    const height = document.getElementsByTagName('article')[0].clientHeight
+
+    this.setState({
+      articleHeight: height
+    })
+
+    window.onscroll = () => {
+      const newScrollHeight = Math.ceil(window.scrollY / 50) * 50;
+      if (this.state.currentScrollHeight !== newScrollHeight){
+          this.setState({currentScrollHeight: newScrollHeight})
+      }
+    }
   }
 
   handleClick(e) {
@@ -26,6 +42,8 @@ class BlogPostTemplate extends React.Component {
     const siteTitle = this.props.data.site.siteMetadata.title
     const posts = this.props.data.allMarkdownRemark.edges
     const pathName = typeof window !== 'undefined' && window.location.pathname
+    const shouldShowFixed = this.state.currentScrollHeight > 180 && this.state.articleHeight > this.state.currentScrollHeight
+    const opacity = shouldShowFixed ? 100 : 0
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -37,33 +55,42 @@ class BlogPostTemplate extends React.Component {
         />
 
         <article>
-          <h1>{post.frontmatter.title}</h1>
-
-          <div className="blog-post" onClick= { this.handleClick } dangerouslySetInnerHTML={{ __html: post.html }} />
-        </article>
-
-        <div className="w-full border-t border-b border-grey-lighter mt-12 mb-4">
-          <div className="flex justify-center items-center my-3 text-xs uppercase font-sans tracking-wide font-bold">
-          Please share:
-            <a href={`https://twitter.com/intent/tweet/?text=${post.frontmatter.title}&url=https://www.antonsten.com${pathName}&via=antonsten`} className="flex items-center mx-2 hover-border-none border-none cursor-pointer">
-              <img className="w-8" src="/images/twitter-svg.svg" alt="Twitter"></img>
-            </a>
-            <a href={`https://www.linkedin.com/shareArticle?mini=true&url=https://www.antonsten.com${pathName}&title=${post.frontmatter.title}&source=${post.frontmatter.title}`}target="_blank" rel="noopener noreferrer" className="flex items-center mx-2 hover-border-none border-none cursor-pointer">
-              <img className="w-8" src="/images/linkedin-svg.svg" alt="LinkedIn"></img>
-            </a>
-            <a href={`https://www.facebook.com/sharer/sharer.php?u=https://www.antonsten.com${pathName}`}target="_blank" rel="noopener noreferrer" className="flex items-center mx-2 hover-border-none border-none cursor-pointer">
-              <img className="w-8" src="/images/facebook-svg.svg" alt="Facebook"></img>
-            </a>
+          <div className="w-full sm:flex flex-wrap">
+            <div className="w-full sm:w-1/3 relative">
+              <div style={{width: "inherit"}} className="fixed hidden sm:block -mt-12">
+                <div style={{opacity}}>
+                  <span className="text-xs uppercase mt-3 block font-sans tracking-wide text-grey">Now reading</span>
+                  <h2 className="text-lg mt-3 pb-6 sm:pb-0 leading-tight sm:pr-6 w-32">{post.frontmatter.title}</h2>
+                  <div className="flex justify-left">
+                    <a href={`https://twitter.com/intent/tweet/?text=${post.frontmatter.title}&url=https://www.antonsten.com${pathName}&via=antonsten`} className="group flex relative items-center no-underline mr-1 hover-border-none border-none cursor-pointer no-hover no-after">
+                      <img className="w-8 group-hover:hidden" src="/images/twitter-svg.svg" alt="Twitter"/>
+                      <img className="w-8 hidden group-hover:block" src="/images/twitter-over.svg" alt="Twitter"/>
+                    </a>
+                    <a href={`https://www.linkedin.com/shareArticle?mini=true&url=https://www.antonsten.com${pathName}&title=${post.frontmatter.title}&source=${post.frontmatter.title}`}target="_blank" rel="noopener noreferrer" className="group flex relative no-underline items-center mx-1 hover-border-none border-none cursor-pointer no-hover no-after">
+                      <img className="w-8 group-hover:hidden" src="/images/linkedin-svg.svg" alt="LinkedIn"></img>
+                      <img className="w-8 hidden group-hover:block" src="/images/linkedin-over.svg" alt="LinkedIn"></img>
+                    </a>
+                    <a href={`https://www.facebook.com/sharer/sharer.php?u=https://www.antonsten.com${pathName}`}target="_blank" rel="noopener noreferrer" className="group flex relative no-underline items-center mx-1 hover-border-none border-none cursor-pointer no-hover no-after">
+                      <img className="w-8 group-hover:hidden" src="/images/facebook-svg.svg" alt="Facebook"></img>
+                      <img className="w-8 hidden group-hover:block" src="/images/facebook-over.svg" alt="Facebook"></img>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="w-full sm:w-2/3">
+              <h1>{post.frontmatter.title}</h1>
+              <div className="blog-post" onClick= { this.handleClick } dangerouslySetInnerHTML={{ __html: post.html }} />
+            </div>
           </div>
-        </div>
+        </article>
+        <hr />
+        <Form title="Get my bi-weekly newsletter" text='"Great laser focused UX content, told in an easy to understand way, helping to make sure I keep my eye on the UX ball."' />
 
-        <div className="w-full flex">
-          <Form title="Get more writing like this" text="Sign up and get new writing, just like this, every other two weeks. Unsubscribe any time (I'm not a dickhead)."/>
-        </div>
         <Blogroll />
 
-        <h2 className="mt-16 pt-12">All writing</h2>
-        <div className="w-full pb-12" /* onclick -> currentTarget if is a check host */>
+        <h2 className="mt-16 pt-12 hidden">All writing</h2>
+        <div className="w-full pb-12 hidden" /* onclick -> currentTarget if is a check host */>
           {posts.map(({ node }, i) => {
             const title = node.frontmatter.title || node.fields.slug
             return (

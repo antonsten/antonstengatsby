@@ -46,15 +46,15 @@ let defaultConfig = require('tailwindcss/defaultConfig')()
 let colors = {
   'transparent': 'transparent',
 
-  'black': '#4a4a4a',
+  'black': '#282828',
   'blacker': '#333',
   'grey-darkest': '#3d4852',
   'grey-darker': '#606f7b',
   'grey-dark': '#8795a1',
-  'grey': '#737373',
-  'grey-light': '#E0E0E0',
+  'grey': '#777777',
+  'grey-light': '#F7F7F7',
   'grey-lighter': '#F2F2F2',
-  'grey-lightest': '#FAFAFA',
+  'grey-lightest': '#F7F7F7',
   'white': '#ffffff',
 
   'link': '#0070C9',
@@ -62,7 +62,7 @@ let colors = {
   'red-darkest': '#3b0d0c',
   'red-darker': '#621b18',
   'red-dark': '#cc1f1a',
-  'red': '#e3342f',
+  'red': '#D02A68',
   'red-light': '#ef5753',
   'red-lighter': '#f9acaa',
   'red-lightest': '#fcebea',
@@ -78,7 +78,7 @@ let colors = {
   'yellow-darkest': '#453411',
   'yellow-darker': '#684f1d',
   'yellow-dark': '#f2d024',
-  'yellow': '#ffed4a',
+  'yellow': '#FFEA34',
   'yellow-light': '#fff382',
   'yellow-lighter': '#fff9c2',
   'yellow-lightest': '#fcfbeb',
@@ -102,7 +102,7 @@ let colors = {
   'blue-darkest': '#12283a',
   'blue-darker': '#1c3d5a',
   'blue-dark': '#2779bd',
-  'blue': '#3490dc',
+  'blue': '#0070C9',
   'blue-light': '#6cb2eb',
   'blue-lighter': '#bcdefa',
   'blue-lightest': '#eff8ff',
@@ -205,17 +205,13 @@ module.exports = {
       'sans-serif',
     ],
     'serif': [
-      'FreightDispProBook-Regular',
+      'Lyon Text Web',
       'Georgia',
       'serif',
     ],
-    'mono': [
-      'Menlo',
-      'Monaco',
-      'Consolas',
-      'Liberation Mono',
-      'Courier New',
-      'monospace',
+    'hand': [
+      'Prachar Regular',
+      'serif',
     ],
   },
 
@@ -241,15 +237,15 @@ module.exports = {
   */
 
   textSizes: {
-    'xs': '.69rem',     // 11px
+    'xs': '12px',     // 11px
     'sm': '.875rem',    // 14px
     'base': '1rem',     // 16px
-    'lg': '1.25rem',   // 18px
+    'lg': '1.3rem',   // 20px
     'xl': '1.5rem',    // 24px
     '2xl': '1.75rem',    // 28px
-    '3xl': '1.875rem',  // 30px
-    '4xl': '2.25rem',   // 36px
-    '5xl': '3.5rem',      // 56px
+    '3xl': '2rem',  // 30px
+    '4xl': '2.75rem',   // 36px
+    '5xl': '4.25rem',      // 56px
   },
 
 
@@ -274,8 +270,8 @@ module.exports = {
     'light': 300,
     'normal': 400,
     'medium': 500,
-    'semibold': 600,
-    'bold': 600,
+    'semibolo': 600,
+    'bold': 700,
     'extrabold': 800,
     'black': 900,
   },
@@ -296,7 +292,7 @@ module.exports = {
 
   leading: {
     'none': 1,
-    'tight': 1.4,
+    'tight': 1.3,
     'normal': 1.5,
     'loose': 1.9,
   },
@@ -631,6 +627,7 @@ module.exports = {
   maxHeight: {
     'full': '100%',
     'screen': '100vh',
+    '6': '4rem',
   },
 
 
@@ -760,7 +757,8 @@ module.exports = {
   shadows: {
     default: '0 2px 4px 0 rgba(0,0,0,0.10)',
     'md': '0 4px 8px 0 rgba(0,0,0,0.12), 0 2px 4px 0 rgba(0,0,0,0.08)',
-    'lg': '0 15px 30px 0 rgba(0,0,0,0.11), 0 5px 15px 0 rgba(0,0,0,0.08)',
+    'lg': '0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)',
+    'xl': '0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04)',
     'inner': 'inset 0 2px 4px 0 rgba(0,0,0,0.06)',
     'outline': '0 0 0 3px rgba(52,144,220,0.5)',
     'none': 'none',
@@ -888,7 +886,7 @@ module.exports = {
     borderStyle: ['responsive'],
     borderWidths: ['responsive'],
     cursor: ['responsive'],
-    display: ['responsive'],
+    display: ['responsive', 'group-hover', 'hover'],
     flexbox: ['responsive'],
     float: ['responsive'],
     fonts: ['responsive'],
