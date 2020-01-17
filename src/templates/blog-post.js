@@ -47,7 +47,7 @@ class BlogPostTemplate extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         <SEO
           title={post.frontmatter.title}
           description={post.excerpt}
