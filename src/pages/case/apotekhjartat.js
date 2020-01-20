@@ -8,7 +8,7 @@ import Layout from "../../components/layout"
 import SEO from "../../components/seo"
 import CaseImage from "../../components/case-image"
 
-class Frank extends React.Component {
+class ApotekHjartat extends React.Component {
   render() {
   const { data } = this.props
     return (
@@ -57,7 +57,7 @@ class Frank extends React.Component {
   }
 }
 
-export default Frank
+export default ApotekHjartat
 
 export const query = graphql`
   query {

@@ -8,7 +8,7 @@ import CaseImage from "../../components/case-image"
 import Cases from '../../components/cases';
 
 
-class Frank extends React.Component {
+class Jarfalla extends React.Component {
   render() {
   const { data } = this.props
     return (
@@ -69,7 +69,7 @@ class Frank extends React.Component {
   }
 }
 
-export default Frank
+export default Jarfalla
 
 export const query = graphql`
   query {

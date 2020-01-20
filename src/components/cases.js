@@ -10,12 +10,23 @@ class Cases extends React.Component {
           <div className="w-full sm:w-1/3"></div>
           <div className="w-full sm:w-2/3"><h2>Selected cases</h2></div>
         </div>
-        <div className="sm:flex border-b pb-1">
-            <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="/images/clients/svg/eon.svg"/></div>
-              <div className="w-full sm:w-2/3">
-                <p className="mt-0">Helping facility managers track energy consumption and make proactive choices, for higher revenue and a healthier environment​ 🌿​<br /><Link className="font-serif text-lg" to="/case/eon">View case</Link></p>
-            </div>
-         </div>
+        
+                      <div className="sm:flex border-b pb-1">
+                        <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="/images/clients/svg/toast.svg"/></div>
+                          <div className="w-full sm:w-2/3">
+                            <p className="mt-0">I worked with SuperFriendly to help Toast create a new publication for restaurateurs: A place full of inspiration, knowledge, and helpful resources.​<br /><Link className="font-serif text-lg" to="/case/toast">View case</Link></p>
+
+                        </div>
+                     </div>
+
+                        <div className="sm:flex mt-6 border-b pb-1">
+                          <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="/images/clients/svg/eon.svg"/></div>
+                            <div className="w-full sm:w-2/3">
+                              <p className="mt-0">Helping facility managers track energy consumption and make proactive choices, for higher revenue and a healthier environment​ 🌿​<br /><Link className="font-serif text-lg" to="/case/eon">View case</Link></p>
+
+                          </div>
+                       </div>
+
          <div className="sm:flex mt-6 border-b pb-1">
            <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="/images/clients/frank.png"/></div>
            <div className="w-full sm:w-2/3">
