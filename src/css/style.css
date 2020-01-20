@@ -81,7 +81,9 @@ blockquote strong {
   @apply font-sans font-normal text-sm;
 }
 
-
+li {
+  margin-bottom: 1rem;
+}
 
 ul, ol, p, .people-like-you {
   margin-bottom: 2rem;
