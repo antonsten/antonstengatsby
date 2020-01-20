@@ -76,7 +76,7 @@ Six weeks of iteration on design, build, and content saw a front-end prototype t
             <div className="w-full sm:w-1/3"></div>
             <div className="w-full sm:w-2/3">
               <p className="mb-12">
-Before the launch, I worked with Toast again to help them add _'sauce'_ to the website - subtle animations and fine-tuning some of the design elements. On the Line soft launched just before Christmas and the first numbers indicate that we've hit a home-run!
+Before the launch, I worked with Toast again to help them add <em>'sauce'</em> to the website - subtle animations and fine-tuning some of the design elements. On the Line soft launched just before Christmas and the first numbers indicate that we've hit a home-run!
               </p>
            </div>
           </div>
