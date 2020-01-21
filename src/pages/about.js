@@ -61,6 +61,7 @@ class About extends React.Component {
                   <a href="https://theblog.adobe.com/qa-with-anton-sten-author-of-user-experiences-that-matter/">Adobe</a><br />
                   <a href="https://magazine.workingnotworking.com/magazine/2016/1/26/user-experiences-that-matter-by-anton-sten">Working not Working</a><br />
                   <a href="https://www.creativebloq.com/advice/the-art-of-going-freelance">.Net magazine</a><br />
+                  <a href="https://www.casestudy.club/interviews/anton-sten">Case Study Club</a><br />
                   <a href="https://www.beingfreelance.com/season-4/mastering-freelance-anton-sten-ux-designer-podcast">Being Freelance Podcast, Episode 100</a><br />
                   Want me to talk design, user experiences or freelancing on your podcast? <a href="/contact">Let's talk! </a>
                   </p>
