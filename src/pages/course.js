@@ -84,7 +84,7 @@ class Contact extends React.Component {
       <h2 className="leading-tight">Everything you need to know</h2>
       <p><span class="font-sans font-bold text-sm uppercase">Online classes:</span><br/> 10 hours in total including private one-to-one's. Everything is in real time so there's always an opportunity to ask questions, comment, and disagree (great conversations can come from disagreement!).</p>
       <p><span class="font-sans font-bold text-sm uppercase">Personal studies:</span><br/> You will need to spend time to reflect, analyze, and ACT in-between sessions. This is of course entirely up to you and you can't fail this class either way. But the more you invest, the more you'll get out of it. There's no home work!</p>
-      <p><span class="font-sans font-bold text-sm uppercase">Dates:</span><br/> Between February 4 - March 5.</p>
+      <p><span class="font-sans font-bold text-sm uppercase">Dates:</span><br/> Between February 25 - March 31.</p>
       <p><span class="font-sans font-bold text-sm uppercase">Times:</span><br/> Depending on the class participants I'll be flexible to what works for most of you, but expect 2 hours in the afternoon (CET) / in the late morning (EST) / in the early morning (PST).</p>
       <p><span class="font-sans font-bold text-sm uppercase">Location:</span><br/> Online, Zoom video call</p>
       <p><span class="font-sans font-bold text-sm uppercase">Teacher:</span><br/> Anton Sten, UX Lead. See <a href="http://linkedin.com/in/antonsten/">Linkedin</a> for full resume + secret guest appearances</p>
