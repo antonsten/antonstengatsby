@@ -16,7 +16,9 @@ class Form extends React.Component {
   componentDidMount() {
     let fathom = window.fathom || null;
     document.getElementById('sign-up-button').addEventListener('click', () => {
-      fathom('trackGoal', 'H0ZY7LWB', 0);
+      if(fathom) {
+        fathom('trackGoal', 'H0ZY7LWB', 0);
+      }
     });
   }
 
