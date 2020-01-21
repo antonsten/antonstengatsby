@@ -22,7 +22,7 @@ class Contact extends React.Component {
 
 
             <div className="sm:-mx-16">
-              <div className="sm:flex w-full border-t-8 p-8 sm:p-16 text-black">
+              <div className="sm:flex w-full sm:border-t-8 p-8 sm:p-16 text-black">
               <div className="w-1/2 sm:w-1/3"></div>
               <div className="w-full sm:w-2/3">
                   <del className="mb-8">
@@ -38,16 +38,17 @@ class Contact extends React.Component {
               </div>
             </div>
 
-<div className="sm:-mx-16">
-  <div className="sm:flex w-full bg-black p-8 sm:p-16 text-white">
-    <div className="w-1/2 sm:w-1/3"></div>
-    <div className="w-full sm:w-2/3">
-      <h2 className="leading-tight">Classes</h2>
-      <p>We'll meet online every Tuesday and Thursday for 5 weeks. Nothing is pre-recorded —· everything is done in real time to cater to your exact needs. We'll be a small group (first class is limited to 6 people) so I can focus on each and everyone.</p>
+<div className="w-full flex">
+  <div className="sm:-mx-16">
+    <div className="sm:flex w-full bg-black p-8 sm:p-16 text-white">
+      <div className="w-1/2 sm:w-1/3"></div>
+      <div className="w-full sm:w-2/3">
+        <h2 className="leading-tight">Classes</h2>
+        <p>We'll meet online every Tuesday and Thursday for 5 weeks. Nothing is pre-recorded —· everything is done in real time to cater to your exact needs. We'll be a small group (first class is limited to 6 people) so I can focus on each and everyone.</p>
+      </div>
     </div>
   </div>
 </div>
-
 
 <div className="sm:-mx-16">
   <div className="sm:flex w-full mt-16 mb-16 bg-grey-lightest p-8 sm:p-16 text-black">
