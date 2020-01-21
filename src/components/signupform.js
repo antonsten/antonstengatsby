@@ -69,7 +69,7 @@ class Form extends React.Component {
               <label htmlFor="email" className="uppercase font-sans text-xs font-bold tracking-wide block w-full mb-2">e-mail</label>
               <div className="flex w-full mr-4">
                 <input type="email" id="email" value={ email } required="required" onChange={this.handleChange} name="email" className="text-xs uppercase font-sans bg-grey-lighter text-link font-bold tracking-wide px-4 mr-4 flex-1"/>
-                <input type="submit" value={ submit } className="btn" onclick="fathom('trackGoal', 'H0ZY7LWB', 0);/>
+                <input type="submit" value={ submit } className="btn" onclick="fathom('trackGoal', 'H0ZY7LWB', 0);" />
               </div>
             </div>
           }
