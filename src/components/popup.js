@@ -26,7 +26,7 @@ class Popup extends React.Component {
         <div className="hidden bg-black fixed w-full pin-b text-white sm:flex items-center">
           <div className="max-w-xl mx-auto w-full">
             <p className="pr-12 sm:pr-0 font-serif text-lg italic">
-              Sign up to get new writing about design and UX every other week. <Link to="/newsletter" className="text-white">Don’t miss out.</Link>
+              Let me help you become a better designer! <Link to="/course" className="text-white">Find out more</Link>
             </p>
           </div>
           <img
