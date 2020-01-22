@@ -23,11 +23,9 @@ class Popup extends React.Component {
   render() {
     if (this.state.isVisible === "true") {
       return (
-        <div className="hidden bg-black fixed w-full pin-b text-white sm:flex items-center">
+        <div className="hidden bg-grey-lighter fixed w-full pin-b text-black sm:flex items-center">
           <div className="max-w-xl mx-auto w-full">
-            <p className="pr-12 sm:pr-0 font-serif text-lg italic">
-              Let me help you become a better designer! <Link to="/course" className="text-white">Find out more</Link>
-            </p>
+            <p className="pr-12 sm:pr-12 font-serif text-lg italic">Feeling stuck as a designer? Perhaps I can help! <Link to="/course">Find out more.</Link></p> 
           </div>
           <img
             onClick={this.hidePopup}
