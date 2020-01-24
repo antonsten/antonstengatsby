@@ -20,7 +20,7 @@ class Contact extends React.Component {
               <p>One of my favorite things about this job is the variety, in clients and projects (as you can see from <Link to="/work">my portfolio</Link>). So whether you’re a multi-national behemoth or a team that can all fit into a mid-size sedan, get in touch and tell me what you have in mind — I can’t wait to hear all about it!
             </p>
             <p>
-              E-mail <a href="mailto:anton@antonsten.com">anton@antonsten.com</a> or (if really urgent!) text +46 733 142934 so I can get to know more about how I can help you.
+              E-mail <a href="mailto:anton@antonsten.com" onclick="fathom('trackGoal', 'PBKA0SF6', 0);">anton@antonsten.com</a> or (if really urgent!) text +46 733 142934 so I can get to know more about how I can help you.
             </p>
             </div>
             </div>

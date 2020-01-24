@@ -13,7 +13,6 @@ class About extends React.Component {
       return (
         <Layout>
           <SEO title="Resumé"/>
-            <Img className="rounded-sm shadow-md mb-12" fluid={data.fileName.childImageSharp.fluid} />
             <h1>Resumé</h1>
             <del>
               I’m a Swedish designer experienced in branding, UI, UX and product design working with clients globally. I help individuals, startups and small to large businesses look their best online by conceptualising and designing simple and clean interfaces for digital platforms that their customers love.
