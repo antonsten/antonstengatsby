@@ -73,7 +73,7 @@ class Contact extends React.Component {
     <div className="w-1/2 sm:w-1/3"></div>
     <div className="w-full sm:w-2/3">
       <h2 className="leading-tight">Who's this for?</h2>
-      <p>You're already a designer and, most likely, have worked as one for many years. Perhaps you're the only designer internally at your company and want to understand how to grow to something more. Maybe you're even on the verge of hiring your second designer and unsure about what that will mean for you. Perhaps you're a designer within a company full of designers, but are finding it difficult to see what's next and how to communication your need to grow. You could be a team that wants to find better ways of working together as well as within the company. Any of these situations - and more - I'll be able to help you find your next steps.</p>
+      <p>You're already a designer and, most likely, have worked as one for many years. Perhaps you're the only designer internally at your company and want to understand how to grow to something more. Maybe you're even on the verge of hiring your second designer and unsure about what that will mean for you. Perhaps you're a designer within a company full of designers, but are finding it difficult to see what's next and how to communicate your need to grow. You could be a team that wants to find better ways of working together as well as within the company. Any of these situations - and more - I'll be able to help you find your next steps.</p>
     </div>
   </div>
 </div>
