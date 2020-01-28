@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Alexander Hansson <alexander@hnssn.se>",
   "dependencies": {
-    "gatsby": "^2.3.16",
+    "gatsby": "^2.19.7",
     "gatsby-cli": "^2.7.54",
     "gatsby-image": "^2.0.37",
     "gatsby-plugin-feed": "^2.2.1",
@@ -15,7 +15,7 @@
     "gatsby-plugin-postcss": "^2.0.7",
     "gatsby-plugin-purgecss": "^3.1.1",
     "gatsby-plugin-react-helmet": "^3.0.12",
-    "gatsby-plugin-sharp": "^2.0.32",
+    "gatsby-plugin-sharp": "^2.4.3",
     "gatsby-plugin-sitemap": "^2.1.0",
     "gatsby-plugin-slug": "^1.0.1",
     "gatsby-plugin-stripe": "^1.2.0",
