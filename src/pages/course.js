@@ -101,7 +101,7 @@ class Contact extends React.Component {
 <br /><br />
   <span class="font-sans font-bold text-sm uppercase">Classes only (5 x 2hr) - $750/person</span><br />
 <p className="leading-tight">Join the classes and discuss with the other students. Ask questions in real time.<br /><br />
-$750 / person (limited to 6 spots - <em>only 4 left</em>)</p></div></div></div>
+$750 / person (limited to 6 spots - <em>only 3 left</em>)</p></div></div></div>
 
 <div className="sm:-mx-16">
 <div className="sm:flex w-full border-t-8 p-8 sm:p-16 text-black">
@@ -109,7 +109,7 @@ $750 / person (limited to 6 spots - <em>only 4 left</em>)</p></div></div></div>
 <div className="w-full sm:w-2/3"><span class="font-sans font-bold text-sm uppercase">Classes + One-on-one sessions
 (5 x 2hr) + (5 x 1hr) - $1500/person</span><br />
 <p className="leading-tight">Join the classes and discuss with the other students. Ask questions in real time. Get 5 personal calls where we can discuss anything you want!<br /><br />
-$1500 / person (limited to 6 spots - <em>only 4 left</em>)</p></div></div>
+$1500 / person (limited to 6 spots - <em>only 3 left</em>)</p></div></div>
 </div>
 
 <div className="sm:-mx-16">
