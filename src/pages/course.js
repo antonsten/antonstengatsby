@@ -35,6 +35,7 @@ class Contact extends React.Component {
   <div className="sm:flex w-full mt-16 mb-16 bg-grey-lightest p-8 sm:p-16 text-black">
     <div className="w-1/2 sm:w-1/3"></div>
     <div className="w-full sm:w-2/3">
+      <p>
       <span class="font-sans font-bold text-sm uppercase">Identify what role you want to have in a team</span><br />
       I've worked my way from design intern to Creative Director. From a freelance designer to a UX Team Leader. I know there is no role that is sunshine at all times, but do know you'll need to identify the role you want to be in order to enjoy those rainy days too. I will share my experiences of working in different roles with you and discuss what I found were the upsides and downsides to all of them. Once we determine what your goal is, I'll help you set a path to get you there. For group sessions, this can be used as an exercise to rethink your current setup/structure.<br /><br />
       <span class="font-sans font-bold text-sm uppercase">Talk and sell design inside your company</span><br />
