@@ -32,7 +32,7 @@ class Contact extends React.Component {
             </div>
 
 <div className="sm:-mx-16">
-  <div className="sm:flex w-full mt-16 mb-16 bg-grey-lightest p-8 sm:p-16 text-black">
+  <div className="sm:flex w-full bg-grey-lightest p-8 sm:p-16 text-black">
     <div className="w-1/2 sm:w-1/3"></div>
     <div className="w-full sm:w-2/3">
       <p>
@@ -49,7 +49,7 @@ class Contact extends React.Component {
 </div>
 
 <div className="sm:-mx-16">
-  <div className="sm:flex w-full mt-16 mb-16 p-8 sm:p-16 text-black">
+  <div className="sm:flex w-full p-8 sm:p-16 text-black">
     <div className="w-1/2 sm:w-1/3"></div>
     <div className="w-full sm:w-2/3">
       <h2 className="leading-tight">Who's this for?</h2>
