@@ -25,9 +25,8 @@ class Contact extends React.Component {
               <div className="sm:flex w-full sm:border-t-8 p-8 sm:p-16 text-black">
               <div className="w-1/2 sm:w-1/3"></div>
               <div className="w-full sm:w-2/3">
-                  <del className="mb-8">
-                  After teaching at Hyper Island for nearly two decades, I wanted to share the experience with more people. I wanted to be able to give advice to designers and teams while lowering the barrier to getting started.<br /><strong>Introducing Pick My Brain! </strong>
-                  </del>
+              <p>After teaching at Hyper Island for nearly two decades, I wanted to share the experience with more people. I wanted to be able to give advice to designers and teams while lowering the barrier to getting started.<br /><strong>Introducing Pick My Brain! </strong></p>
+              <p>We'll meet online through Zoom - you get to pick times that work well with your schedule. We can discuss a variety of topics, including, but not limited to: </p>
               </div>
               </div>
             </div>
@@ -36,7 +35,6 @@ class Contact extends React.Component {
   <div className="sm:flex w-full mt-16 mb-16 bg-grey-lightest p-8 sm:p-16 text-black">
     <div className="w-1/2 sm:w-1/3"></div>
     <div className="w-full sm:w-2/3">
-      <p>We'll meet online through Zoom - you get to pick times that work well with your schedule. We can discuss a variety of topics, including, but not limited to: <br /><br />
       <span class="font-sans font-bold text-sm uppercase">Identify what role you want to have in a team</span><br />
       I've worked my way from design intern to Creative Director. From a freelance designer to a UX Team Leader. I know there is no role that is sunshine at all times, but do know you'll need to identify the role you want to be in order to enjoy those rainy days too. I will share my experiences of working in different roles with you and discuss what I found were the upsides and downsides to all of them. Once we determine what your goal is, I'll help you set a path to get you there. For group sessions, this can be used as an exercise to rethink your current setup/structure.<br /><br />
       <span class="font-sans font-bold text-sm uppercase">Talk and sell design inside your company</span><br />
@@ -70,7 +68,7 @@ class Contact extends React.Component {
 $350 / hour</p></div></div></div>
 
 <div className="sm:-mx-16">
-<div className="sm:flex w-full border-t-8 p-8 sm:p-16 text-black">
+<div className="sm:flex w-full p-8 sm:p-16 text-black">
 <div className="w-1/2 sm:w-1/3"></div>
 <div className="w-full sm:w-2/3"><span class="font-sans font-bold text-sm uppercase">One hour - 5 pack! (1 hr x 5)</span><br />
 <p className="leading-tight">Like the one hour sessions, but want to make it recurring? Great, let's schedule for one hour every other week. This way we'll get through more at a more affordable rate.<br /><br />
