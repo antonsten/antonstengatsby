@@ -7,10 +7,18 @@ import SEO from "../../components/seo"
 import Testimonial from '../../components/testimonial';
 import Form from '../../components/signupform';
 
-
 class Masteringfreelance extends React.Component {
+  componentDidMount() {
+      let fathom = window.fathom || null;
+      document.getElementById('buy-button').addEventListener('click', () => {
+        if(fathom) {
+          fathom('trackGoal', '6CCBFV82', 0);
+        }
+      });
+    }
   render() {
   const { data } = this.props
+
     return (
       <Layout>
           <SEO title="User Experiences that Matter - E-book"/>
@@ -77,7 +85,7 @@ For just $9 (or more, up to you) you’ll get:<br />
 <li><s>The List of Tools I Use to Run My Business.*</s></li>
 </ul>
 
-<a className="btn" href="https://gumroad.com/l/userexperiencesmatter" onclick="fathom('trackGoal', '6CCBFV82', 0);">Buy User Experiences that Matter</a>
+<a className="btn" href="https://gumroad.com/l/userexperiencesmatter" id="buy-button">Buy User Experiences that Matter</a>
 
 <Testimonial text="Anton is clearly ahead of the game when it comes to UX, Interface design and being a total professional. Beware of friendly Swedish User Interface Designers who come equipped with positive open attitudes and sharp clean design principles. They are usually right, just nod and agree."/>
 <p>

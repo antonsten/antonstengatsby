@@ -7,8 +7,15 @@ import SEO from "../../components/seo"
 import Testimonial from '../../components/testimonial';
 import Form from '../../components/signupform';
 
-
 class Masteringfreelance extends React.Component {
+  componentDidMount() {
+      let fathom = window.fathom || null;
+      document.getElementById('buy-button').addEventListener('click', () => {
+        if(fathom) {
+          fathom('trackGoal', 'KJAOMXXK', 0);
+        }
+      });
+    }
   render() {
   const { data } = this.props
     return (
@@ -81,7 +88,7 @@ For just $19 (or more, up to you) you’ll get:<br />
 <li>The exact templates I use to create invoices, proposals, and budgeting.</li>
 <li><s>The List of Tools I Use to Run My Business.*</s></li>
 </ul>
-<a className="btn" href="https://gumroad.com/l/masteringfreelance?wanted=true" onclick="fathom('trackGoal', 'KJAOMXXK', 0);">Buy Mastering Freelance</a>
+<a className="btn" href="https://gumroad.com/l/masteringfreelance?wanted=true" id="buy-button">Buy Mastering Freelance</a>
 
 <Testimonial text="I’m just starting up so everything is new right now and I don’t know what obstacles I might encounter but one thing that your book gave me is confidence in myself."/>
 
