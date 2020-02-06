@@ -128,7 +128,7 @@ h2 {
 h3 {
   margin-top: 4rem;
   margin-bottom: 1rem;
-  font-weight: 700;
+  font-weight: 400;
 
   @apply text-xl leading-normal font-sans;
 }
