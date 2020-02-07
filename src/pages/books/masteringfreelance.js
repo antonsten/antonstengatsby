@@ -12,7 +12,7 @@ class Masteringfreelance extends React.Component {
       let fathom = window.fathom || null;
       document.getElementById('buy-button').addEventListener('click', () => {
         if(fathom) {
-          fathom('trackGoal', 'KJAOMXXK', 0);
+          fathom('trackGoal', 'KJAOMXXK', 19);
         }
       });
     }
