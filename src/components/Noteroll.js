@@ -24,7 +24,7 @@ export default () => (
       }
     `}
     render={data => (
-      <div className="sm:-mx-16">
+      <div className="">
         <div className="w-full pb-12">
           {data.allMarkdownRemark.edges.map(({ node }, i) => {
             const title = node.frontmatter.title || node.fields.slug
