@@ -12,7 +12,7 @@ class Masteringfreelance extends React.Component {
       let fathom = window.fathom || null;
       document.getElementById('buy-button').addEventListener('click', () => {
         if(fathom) {
-          fathom('trackGoal', '6CCBFV82', 9);
+          fathom('trackGoal', '6CCBFV82', 0);
         }
       });
     }
@@ -70,14 +70,11 @@ One of the virtues I hold dear as a UX Designer is my curiousity about how thing
 <li>Change is Quick, Results Take Time</li>
 <li>Built to Last</li>
 </ul></p>
-            <hr/>
-
-            <Form name="userexperiencesmatter" title="Get a free email course" text="Get a preview of the book through this 5 day free email course"/>
 
 <h2>Improve Your User Experience Now</h2>
 <p className="mb-12">Get User Experiences that Matter and get all my insight into how to craft your customer’s experiences and grow your business.
 <br /><br />
-For just $9 (or more, up to you) you’ll get:<br />
+For <s>just $9</s> <a href="https://www.antonsten.com/books-are-free/"">FREE</a> (or more, up to you) you’ll get:<br />
 <ul>
 <li>The book (PDF & Mobi)<br /></li>
 <li>Audiobook (mp3)<br /></li>
@@ -85,7 +82,7 @@ For just $9 (or more, up to you) you’ll get:<br />
 <li><s>The List of Tools I Use to Run My Business.*</s></li>
 </ul>
 
-<a className="btn" href="https://gumroad.com/l/userexperiencesmatter" id="buy-button">Buy User Experiences that Matter</a>
+<a className="btn-long" href="https://gumroad.com/l/userexperiencesmatter" id="buy-button">Buy User Experiences that Matter</a>
 
 <Testimonial text="Anton is clearly ahead of the game when it comes to UX, Interface design and being a total professional. Beware of friendly Swedish User Interface Designers who come equipped with positive open attitudes and sharp clean design principles. They are usually right, just nod and agree."/>
 <p>

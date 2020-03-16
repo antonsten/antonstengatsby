@@ -12,7 +12,7 @@ class Masteringfreelance extends React.Component {
       let fathom = window.fathom || null;
       document.getElementById('buy-button').addEventListener('click', () => {
         if(fathom) {
-          fathom('trackGoal', 'KJAOMXXK', 19);
+          fathom('trackGoal', 'KJAOMXXK', 0);
         }
       });
     }
@@ -73,22 +73,18 @@ To top it all off, I’ve picked the brains of some of the best freelancers in t
             <strong>…plus much much more!</strong>
 
             </p>
-            <hr/>
 
-            <Form name="masteringfreelance" title="Get a free 4-day email course" text="Get a free preview of the book through 4 topics over 4 days"/>
-
-            <hr/>
 
 <h2>I'm ready to transform my business</h2>
 <p className="mb-12">Realizing the people just starting off with freelancing aren’t always the wealthiest target audience, my goal is to provide as much valuable content at the lowest price possible. There are no “packages” (this is just a cheap way to upsell you more stuff).
 <br /><br />
-For just $19 (or more, up to you) you’ll get:<br />
+For <s>just $19</s> <a href="https://www.antonsten.com/books-are-free/"">FREE</a> (or more, up to you) you’ll get:<br />
 <ul>
 <li>The book (PDF + Mobi)</li>
 <li>The exact templates I use to create invoices, proposals, and budgeting.</li>
 <li><s>The List of Tools I Use to Run My Business.*</s></li>
 </ul>
-<a className="btn" href="https://gumroad.com/l/masteringfreelance?wanted=true" id="buy-button">Buy Mastering Freelance</a>
+<a className="btn" href="https://gumroad.com/l/masteringfreelance?wanted=true" id="buy-button">Get Mastering Freelance</a>
 
 <Testimonial text="I’m just starting up so everything is new right now and I don’t know what obstacles I might encounter but one thing that your book gave me is confidence in myself."/>
 
