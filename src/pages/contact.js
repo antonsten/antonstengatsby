@@ -12,7 +12,7 @@ class Contact extends React.Component {
       let fathom = window.fathom || null;
       document.getElementById('contact').addEventListener('click', () => {
         if(fathom) {
-          fathom('trackGoal', 'PBKA0SF6', 19);
+          fathom('trackGoal', 'PBKA0SF6', 0);
         }
       });
     }
