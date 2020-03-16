@@ -79,7 +79,7 @@ To top it all off, I’ve picked the brains of some of the best freelancers in t
 <h2>I'm ready to transform my business</h2>
 <p className="mb-12">Realizing the people just starting off with freelancing aren’t always the wealthiest target audience, my goal is to provide as much valuable content at the lowest price possible. There are no “packages” (this is just a cheap way to upsell you more stuff).
 <br /><br />
-For <s>just $9</s> <a href="https://www.antonsten.com/books-are-free/"">FREE</a> (or more, up to you) you’ll get:<br />
+For <s>just $9</s> <a href="https://www.antonsten.com/books-are-free/">FREE</a> (or more, up to you) you’ll get:<br />
 <ul>
 <li>The book (PDF + Mobi)</li>
 <li>The exact templates I use to create invoices, proposals, and budgeting.</li>

@@ -75,7 +75,7 @@ One of the virtues I hold dear as a UX Designer is my curiousity about how thing
 <h2>Improve Your User Experience Now</h2>
 <p className="mb-12">Get User Experiences that Matter and get all my insight into how to craft your customer’s experiences and grow your business.
 <br /><br />
-For <s>just $9</s> <a href="https://www.antonsten.com/books-are-free/"">FREE</a> (or more, up to you) you’ll get:<br />
+For <s>just $9</s> <a href="https://www.antonsten.com/books-are-free/">FREE</a> (or more, up to you) you’ll get:<br />
 <ul>
 <li>The book (PDF & Mobi)<br /></li>
 <li>Audiobook (mp3)<br /></li>
