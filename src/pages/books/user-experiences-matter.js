@@ -83,7 +83,7 @@ For <s>just $9</s> <a href="https://www.antonsten.com/books-are-free/">FREE</a> 
 <li><s>The List of Tools I Use to Run My Business.*</s></li>
 </ul>
 
-<a className="btn" href="https://gumroad.com/l/userexperiencesmatter" id="buy-button">Buy User Experiences that Matter</a>
+<a className="btn-long" href="https://gumroad.com/l/userexperiencesmatter" id="buy-button">Buy User Experiences that Matter</a>
 
 <Testimonial text="Anton is clearly ahead of the game when it comes to UX, Interface design and being a total professional. Beware of friendly Swedish User Interface Designers who come equipped with positive open attitudes and sharp clean design principles. They are usually right, just nod and agree."/>
 <p>
