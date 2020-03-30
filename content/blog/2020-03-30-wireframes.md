@@ -11,7 +11,7 @@ A couple of weeks ago, I posted a short excerpt from [Basecamp's Shape Up](https
 
 Wireframes are the middle ground. They're not sketches, but they're not high fidelity designs either. They're intentionally designed without color. A wireframe simply attempts to be an accurate representation of layout and information architecture while intentionally avoiding high visual and content fidelity.
 
-### The argument around wireframes
+## The argument around wireframes
 
 So why do we still keep planning for a phase of wireframing in so many projects? The purpose and argument for wireframes often fall in one of three buckets:
 
