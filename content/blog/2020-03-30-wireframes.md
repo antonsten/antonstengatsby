@@ -21,17 +21,17 @@ So why do we still keep planning for a phase of wireframing in so many projects?
 
 Let's we break these arguments down one by one:
 
-** #1. Wireframes and stakeholders***
+** 1. Wireframes and stakeholders
 
 I think most stakeholders over the past years have evolved a ton when it comes to reviewing and giving feedback on digital products. It's extremely rare nowadays to be in a meeting where the conversation derails over things like button color. And even if they do, any good designer should be able to shift the focus to more relevant discussions.
 
-** #2. Wireframes are faster to create***
+** 2. Wireframes are faster to create
 
 When there's a design system available, I find that creating high fidelity designs is *faster* than creating wireframes. Most of the elements are already created so dragging and dropping them is, of course, more efficient than creating ones from scratch, even if they are just black and white.
 
 With collaborative tools like Figma, the matter is even further simplified. In most projects I'm working on these days, I'll give my client access to Figma and, within days, I can see them trying stuff out. This makes collaboration fundamental in the relationship and takes a lot of pressure out of the meetings and presentations when you've created something *together*.
 
-** #3. Wireframes are a simpler tool for documentation***
+** 3. Wireframes are a simpler tool for documentation
 
 The argument that wireframes serves as a tool to disregard visual design might be true, but that doesn't really make it a valid one. During my 20+ years in this industry, I'm not sure I've ever worked on, or even seen, wireframes that detail documentation of interactions — unless you're talking about 'links', but a high fidelity design absolutely do that.
 
