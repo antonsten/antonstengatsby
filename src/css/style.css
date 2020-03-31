@@ -190,14 +190,14 @@ hr {
 }
 
 a:not(.no-underline):not(.btn), [aria-current]:not(.logo) {
-  box-shadow: inset 0 -7px 0 #FFEA34;
+  box-shadow: inset 0 -3px 0 #FFEA34;
   color: inherit;
   text-decoration: none;
   position: relative;
 }
 
 a:not(.btn):not(.no-hover):not(.no-after):hover {
-  box-shadow: inset 0 -12px 0 #FFEA34;
+  box-shadow: inset 0 -6px 0 #FFEA34;
   color: inherit;
   text-decoration: none;
 }
