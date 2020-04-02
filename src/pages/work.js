@@ -144,7 +144,7 @@ class Grid extends React.Component {
                     <img className="h-4 sm:h-8" alt="superfriendly logo" src="/images/clients/svg/superfriendly.svg"/>
                   </div>
                   <div className="w-1/2">
-                    <p>Lead UX</p>
+                    <p>UX Director</p>
                   </div>
                 </div>
               </div>
@@ -160,7 +160,7 @@ class Grid extends React.Component {
                     <img className="h-4 sm:h-4" alt="ikea logo" src="/images/clients/svg/ikea.svg"/>
                   </div>
                   <div className="w-1/2">
-                    <p>Lead UX</p>
+                    <p>UX + Team Lead</p>
                   </div>
                 </div>
               </div>
@@ -177,7 +177,7 @@ class Grid extends React.Component {
                     <img className="h-6 sm:h-6" alt="apotekhjartat logo" src="/images/clients/svg/apotekhjartat.svg"/>
                   </div>
                   <div className="w-1/2">
-                    <p>Lead UX</p>
+                    <p>UX + Team Lead</p>
                   </div>
                 </div>
               </div>
