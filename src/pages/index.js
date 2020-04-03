@@ -62,7 +62,7 @@ class BlogIndex extends React.Component {
                       <div className="flex border-b pb-1">
                         <div className="w-1/3 px-2 sm:px-0"><img className="h-6 sm:h-8 mb-4" src="/images/clients/svg/spotify.svg" alt="Spotify logo"/></div>
                         <div className="w-1/3 px-2 sm:px-0"><img className="h-6 sm:h-8 mb-4" src="/images/clients/svg/superfriendly.svg" alt="superfriendly logo"/></div>
-                        <div className="w-1/3 px-2 sm:px-0"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/apotekhjartat.svg" alt="apotekhjartat logo"/></div>
+                        <div className="w-1/3 px-2 sm:px-0"><img className="h-4 sm:h-6 mb-4" src="/images/clients/svg/hermanmiller.svg" alt="Herman Miller logo"/></div>
                      </div>
                      </div>
 
