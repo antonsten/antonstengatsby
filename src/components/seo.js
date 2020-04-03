@@ -28,7 +28,7 @@ function SEO({ description, lang, meta, keywords, title, slug }) {
 
   const metaDescription = description || site.siteMetadata.description
   const path = slug || ''
-  const image = !slug ? `${site.siteMetadata.siteUrl}/images/idea.jpg`
+  const image = !slug ? `${site.siteMetadata.siteUrl}/images/idea.jpg` : `${site.siteMetadata.siteUrl}${path}twitter-card.jpg`
 
   return (
     <Helmet
