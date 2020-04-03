@@ -111,18 +111,6 @@ module.exports = {
               wrapperStyle: `margin-bottom: 1.0725rem`,
             },
           },
-          {
-            resolve: `gatsby-remark-social-cards`,
-            options: {
-              title: {
-                field: "title",
-                font: "DejaVuSansCondensed",
-                color: "black",
-                size: 48, // 16|24|32|48|64
-                style: "bold", // normal|bold|italic
-              }
-            }
-          },
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
