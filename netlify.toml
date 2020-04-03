@@ -1,2 +1,4 @@
 [[plugins]]
 package = "netlify-plugin-gatsby-cache"
+package = "netlify-plugin-checklinks"
+package = "netlify-plugin-image-optim"
