@@ -17,7 +17,8 @@ Weird week to say the least.
 - Attended a SuperFriendly all-hands meeting on how we can help companies in need during Covid-19.
 
 ## Personal
-- Pilates session
-- Helped a friend move which was surprisingly relaxing and a welcome change. 
+- Pilates session.
+- Helped a friend move which was surprisingly relaxing and a welcome change.
 - Went to [Pastafabriken](https://www.instagram.com/pastafabriken/) for a nice outdoor lunch.
 - Watched [1917](https://www.youtube.com/watch?v=gZjQROMAh_s) - love Sam Mendes movies.
+- Outdoor season of Sunday football started! 
