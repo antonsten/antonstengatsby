@@ -18,6 +18,6 @@ Weird week to say the least.
 
 ## Personal
 - Pilates session
-- Helped a friend move which was surprisingly relaxing and a welcome change. Just work with you body and no think about the current world climate.
-- Went to [Pastafabriken](https://www.instagram.com/pastafabriken/) for a nice outdoor lunch. 
+- Helped a friend move which was surprisingly relaxing and a welcome change. 
+- Went to [Pastafabriken](https://www.instagram.com/pastafabriken/) for a nice outdoor lunch.
 - Watched [1917](https://www.youtube.com/watch?v=gZjQROMAh_s) - love Sam Mendes movies.
