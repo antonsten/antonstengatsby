@@ -17,7 +17,7 @@ class Grid extends React.Component {
             <div className="w-full sm:flex flex-wrap">
               <div className="w-1/2 sm:w-1/3"></div>
               <div className="w-full sm:w-2/3">
-                <h1>Creating Better User Experiences</h1>
+                <h1>Creating better user experiences</h1>
                 <p>My personal mission for the past 20 years has been to help companies connect with their customers in meaningful ways. In that time, I’ve created user-focused experiences that resulted in happier, better-served customers and higher sales.
                 </p><p>That’s something I’m really proud of.</p>
               </div>
@@ -52,7 +52,7 @@ class Grid extends React.Component {
               <div className="sm:flex border-b pb-1">
                 <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="/images/clients/svg/toast.svg"/></div>
                   <div className="w-full sm:w-2/3">
-                    <p className="mt-0">I worked with SuperFriendly to help Toast create a new publication for restaurateurs: A place full of inspiration, knowledge, and helpful resources.​<br /><Link className="font-serif text-lg" to="/case/toast">View case</Link></p>
+                    <p className="mt-0">I worked with SuperFriendly to help Toast create a new publication for restaurateurs: A place full of inspiration, knowledge, and helpful resources.​<br /><Link className="font-bold uppercase text-xs" to="/case/toast">View case</Link></p>
 
                 </div>
              </div>
@@ -60,7 +60,7 @@ class Grid extends React.Component {
                 <div className="sm:flex mt-6 border-b pb-1">
                   <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="/images/clients/svg/eon.svg"/></div>
                     <div className="w-full sm:w-2/3">
-                      <p className="mt-0">Helping facility managers track energy consumption and make proactive choices, for higher revenue and a healthier environment​ 🌿​<br /><Link className="font-serif text-lg" to="/case/eon">View case</Link></p>
+                      <p className="mt-0">Helping facility managers track energy consumption and make proactive choices, for higher revenue and a healthier environment​ 🌿​<br /><Link className="font-bold uppercase text-xs" to="/case/eon">View case</Link></p>
 
                   </div>
                </div>
@@ -68,7 +68,7 @@ class Grid extends React.Component {
                <div className="sm:flex mt-6 border-b pb-1">
                  <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="/images/clients/frank.png"/></div>
                  <div className="w-full sm:w-2/3">
-                   <p className="mt-0">Optimizing conversions while staying on-track with a strong brand personality for Australia’s number one babe; Frank.<br /><Link className="font-serif text-lg" to="/case/frank">View case</Link>
+                   <p className="mt-0">Optimizing conversions while staying on-track with a strong brand personality for Australia’s number one babe; Frank.<br /><Link className="font-bold uppercase text-xs" to="/case/frank">View case</Link>
                    </p>
                  </div>
                </div>
@@ -76,7 +76,7 @@ class Grid extends React.Component {
               <div className="sm:flex mt-6 border-b pb-1">
                 <div className="w-full sm:w-1/3"><img className="h-6 sm:h-8" src="/images/clients/svg/telia.svg"/></div>
                 <div className="w-full sm:w-2/3">
-                  <p className="mt-0">Helping Telia revitalize their support pages with more options, intuitive tools, and a responsive design.<br /><Link className="font-serif text-lg" to="/case/telia">View case</Link>
+                  <p className="mt-0">Helping Telia revitalize their support pages with more options, intuitive tools, and a responsive design.<br /><Link className="font-bold uppercase text-xs" to="/case/telia">View case</Link>
                   </p>
                 </div>
               </div>
@@ -84,7 +84,7 @@ class Grid extends React.Component {
               <div className="sm:flex mt-6 border-b pb-1">
                 <div className="w-full sm:w-1/3"><img className="h-6 sm:h-8" src="/images/clients/svg/jarfalla.svg"/></div>
                 <div className="w-full sm:w-2/3">
-                  <p className="mt-0">Helping businesses in Järfälla to flourish through more accessible help and online tools.<br /><Link className="font-serif text-lg" to="/case/jarfalla">View case</Link>
+                  <p className="mt-0">Helping businesses in Järfälla to flourish through more accessible help and online tools.<br /><Link className="font-bold uppercase text-xs" to="/case/jarfalla">View case</Link>
                   </p>
                 </div>
               </div>
@@ -92,7 +92,7 @@ class Grid extends React.Component {
               <div className="sm:flex mt-6 border-b pb-1">
                 <div className="w-full sm:w-1/3"><img className="h-6 sm:h-8" src="/images/clients/svg/falkenberg.svg"/></div>
                 <div className="w-full sm:w-2/3">
-                  <p className="mt-0">Making practical, important information accessible and easy to find for 20,000 Falkenberg-ians.<br /><Link className="font-serif text-lg" to="/case/falkenberg-kommun">View case</Link>
+                  <p className="mt-0">Making practical, important information accessible and easy to find for 20,000 Falkenberg-ians.<br /><Link className="font-bold uppercase text-xs" to="/case/falkenberg-kommun">View case</Link>
                   </p>
                 </div>
               </div>
@@ -100,7 +100,7 @@ class Grid extends React.Component {
               <div className="sm:flex mt-6 border-b pb-1">
                 <div className="w-full sm:w-1/3"><img className="h-6 sm:h-8" src="/images/clients/svg/fbg.svg"/></div>
                 <div className="w-full sm:w-2/3">
-                  <p className="mt-0">Created an accessible, lightweight easy to navigate website for everyone interested in visiting the beautiful city of Falkenberg.<br /><Link className="font-serif text-lg" to="/case/falkenberg">View case</Link>
+                  <p className="mt-0">Created an accessible, lightweight easy to navigate website for everyone interested in visiting the beautiful city of Falkenberg.<br /><Link className="font-bold uppercase text-xs" to="/case/falkenberg">View case</Link>
                   </p>
                 </div>
               </div>
@@ -108,7 +108,7 @@ class Grid extends React.Component {
               <div className="sm:flex mt-6 border-b pb-1">
                 <div className="w-full sm:w-1/3"><img className="h-6 sm:h-8" src="/images/clients/svg/ne.svg"/></div>
                 <div className="w-full sm:w-2/3">
-                  <p className="mt-0">Helping Nationalencyklopedin modernize their visual identity, make it more digitally accessible and developed a design system.<br /><Link className="font-serif text-lg" to="/case/ne">View case</Link>
+                  <p className="mt-0">Helping Nationalencyklopedin modernize their visual identity, make it more digitally accessible and developed a design system.<br /><Link className="font-bold uppercase text-xs" to="/case/ne">View case</Link>
                   </p>
                 </div>
               </div>
@@ -116,7 +116,7 @@ class Grid extends React.Component {
               <div className="sm:flex mt-6">
                 <div className="w-full sm:w-1/3"><img className="h-4 sm:h-6" src="/images/clients/svg/apotekhjartat.svg"/></div>
                 <div className="w-full sm:w-2/3">
-                  <p className="mt-0">Lead UX for Apotek Hjärtat, Sweden's second largest pharmacy, for 6 months during a larger website improvement.<br /><Link className="font-serif text-lg" to="/case/apotekhjartat">View case</Link>
+                  <p className="mt-0">Lead UX for Apotek Hjärtat, Sweden's second largest pharmacy, for 6 months during a larger website improvement.<br /><Link className="font-bold uppercase text-xs" to="/case/apotekhjartat">View case</Link>
                   </p>
                 </div>
               </div>

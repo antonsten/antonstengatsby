@@ -62,7 +62,7 @@ let colors = {
   'red-darkest': '#3b0d0c',
   'red-darker': '#621b18',
   'red-dark': '#cc1f1a',
-  'red': '#D02A68',
+  'red': '#ff0048',
   'red-light': '#ef5753',
   'red-lighter': '#f9acaa',
   'red-lightest': '#fcebea',
@@ -198,7 +198,7 @@ module.exports = {
 
   fonts: {
     'sans': [
-      'SF',
+      'Inter',
       '-apple-system',
       'BlinkMacSystemFont',
       'Helvetica Neue',
@@ -239,7 +239,7 @@ module.exports = {
   textSizes: {
     'xs': '12px',     // 11px
     'sm': '.875rem',    // 14px
-    'base': '1rem',     // 16px
+    'base': '1.1rem',     // 16px
     'lg': '1.25rem',   // 20px
     'xl': '1.6rem',    // 24px
     '2xl': '1.75rem',    // 28px
