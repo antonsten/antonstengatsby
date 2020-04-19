@@ -12,8 +12,9 @@ tag: 'newsletter'
 - Doing stakeholder interviews for my new client. I'll have to check to see if I can mention who it is, but I'm very psyched by this project.
 - Had a great one-on-one director meeting with [Dan](http://danmall.me).
 - Got an iPad Pro. Trying to quick ideas on it with the pencil. Give me your best app suggestions!
-- Planning next steps with [Herman Miller](https://www.hermanmiller.com/). It feels great to be back working with this team!
-![team](/blog/hm-team.jpg)
+- Planning next steps with [Herman Miller](https://www.hermanmiller.com/). It feels great to be back working with this team (From top left: Ryan Andersson, me, [Sara Soueidan](https://www.sarasoueidan.com), Nicole Hampton, [Sarah Azpeitia](https://www.sarahazpeitia.com) and [Jessi Hall](https://twitter.com/jessiofhall))!
+
+![team](/images/blog/hm-team.jpg)
 
 
 ## Personal
