@@ -67,7 +67,7 @@ class Form extends React.Component {
           { !this.props.naked &&
             <div>
               <h2>{ title }</h2>
-              <p className="leading-normal italic font-serif mt-4 pr-8">{ text }</p>
+              <p className="leading-normal italic font-serif mt-4 pr-8 text-lg">{ text }</p>
               <p className="hidden">
                 <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
               </p>
