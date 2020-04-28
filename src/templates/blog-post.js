@@ -57,7 +57,7 @@ class BlogPostTemplate extends React.Component {
         <article>
           <div className="w-full sm:flex flex-wrap">
             <div className="w-full sm:w-1/3 relative">
-              <div style={{width: "inherit"}} className="fixed hidden sm:block -mt-12">
+              <div className="fixed hidden sm:block -mt-12">
                 <div style={{opacity}}>
                   <span className="text-xs uppercase mt-3 block font-sans tracking-wide text-grey">Now reading</span>
                   <h2 className="text-lg mt-3 pb-6 sm:pb-0 leading-tight sm:pr-6 w-32">{post.frontmatter.title}</h2>
