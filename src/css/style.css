@@ -92,7 +92,7 @@ ul, ol, p, .people-like-you {
 }
 
 blockquote, blockquote p {
-  @apply text-lg font-serif leading-loose;
+  @apply text-xl font-serif leading-loose;
 }
 
 @screen sm {
@@ -107,11 +107,12 @@ blockquote, blockquote p {
 }
 
 h1 {
-  @apply mb-4 mt-3 text-3xl font-hand tracking-tight;
+  @apply mb-4 mt-3 text-3xl font-sans tracking-tight;
 }
 
 @screen sm {
   h1 {
+    font-weight: 600;
     @apply text-4xl mb-8 mt-8;
 
   }
@@ -174,7 +175,7 @@ del {
 /* components */
 
 .btn {
-  @apply bg-red uppercase text-white text-xs px-8 py-4 font-sans cursor-pointer inline-block rounded;
+  @apply bg-yellow uppercase text-black text-xs px-8 py-4 font-sans cursor-pointer inline-block rounded;
   letter-spacing: 1px;
   font-weight: 700;
   text-decoration: none;
@@ -352,7 +353,7 @@ a.btn {
   width: 220px;
   max-width: 100%;
 
-  @apply py-4 px-3 bg-red text-center text-white font-sans uppercase;
+  @apply py-4 px-3 bg-yellow text-center text-black font-sans uppercase;
 }
 
 a.btn.btn-wide {

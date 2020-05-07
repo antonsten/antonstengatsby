@@ -17,7 +17,7 @@ class Grid extends React.Component {
             <div className="w-full sm:flex flex-wrap">
               <div className="w-1/2 sm:w-1/3"></div>
               <div className="w-full sm:w-2/3">
-                <h1>Creating better user experiences</h1>
+                <h1>Creating Better User Experiences</h1>
                 <p>My personal mission for the past 20 years has been to help companies connect with their customers in meaningful ways. In that time, I’ve created user-focused experiences that resulted in happier, better-served customers and higher sales.
                 </p><p>That’s something I’m really proud of.</p>
               </div>
