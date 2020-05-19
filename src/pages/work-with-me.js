@@ -45,7 +45,7 @@ class Contact extends React.Component {
             <div className="w-full sm:w-1/3"></div>
             <div className="w-full sm:w-2/3">
             <h2>How much will all this cost?</h2>
-            <p>My goal is to bring you the most value for every dollar. Remember, I’m just a guy who’s lucky enough to work for himself; I’m not going to gouge you on fancy client lunches or my employee’s retirement plan — Meta’s already retired.</p>
+            <p>My goal is to bring you the most value for every dollar. Remember, I’m just a guy who’s lucky enough to work for himself; I’m not going to gouge you on fancy client lunches or my employee’s retirement plan.</p>
             <p>Sometimes that means I’ll advise you to work with someone who is more junior, or perhaps I’ll talk to your development team and see how we can best bootstrap solutions to lower your costs. Whatever the final price is, I know that you’ll be satisfied with the value the project has added to your company.</p>
             <p><em>Think of it this way:</em> Working with me is an investment, not an expense.</p>
 

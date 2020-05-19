@@ -28,8 +28,8 @@ class About extends React.Component {
 
             <div className="sm:-mx-16">
             <div className="sm:flex w-full mt-16 mb-16 bg-grey-lightest p-8 sm:p-16 text-black">
-            <div className="w-1/2 sm:w-1/3 text-grey text-xs font-sans mr-8 leading-normal pb-8"><strong>Two co-founders</strong><br />Since day 1, the company has been me and my dog (my wife sits on the board too).</div>
-            <div className="w-full sm:w-2/3"><img alt="anton and meta" src="/images/antonmeta.png" /></div>
+            <div className="w-1/2 sm:w-1/3 text-grey text-xs font-sans mr-8 leading-normal pb-8"></div>
+            <div className="w-full sm:w-2/3"><img alt="anton and meta" src="/images/anton_tall.jpg" /></div>
             </div>
             </div>
 
@@ -37,7 +37,7 @@ class About extends React.Component {
             <div className="w-full sm:w-1/3"></div>
             <div className="w-full sm:w-2/3">
             <p>
-            The company is just me and my co-founder, Meta, a 14-year-old miniature pinscher. When she’s not napping in the corner of my office, she’s silently critiquing my work. Or maybe she’s just trying to tell me it’s time for a walk...
+            <strike>The company is just me and my co-founder, Meta, a 14-year-old miniature pinscher. When she’s not napping in the corner of my office, she’s silently critiquing my work. Or maybe she’s just trying to tell me it’s time for a walk...</strike>. Meta quietly passed away on May 15, 2020 at the age of 15. She's forever in my heart.
             </p>
             <p>
             I spent the first decade of my career working for some world-renowned agencies, but now I work independently from my office in the lovely city of Lomma, Sweden. This way, my clients get the creative professional, the project manager, and the decision maker all in one, without the agency overhead.
