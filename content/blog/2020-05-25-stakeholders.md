@@ -28,7 +28,7 @@ As I move to asking questions about the business, I want to talk more about what
 
 I'll also try to understand the motivation behind the project. For instance, what do you currently have too little of (sales, profits, customers, etc.) or too much of (complaints, product returns, service calls, etc.)? This gives me an idea of what some of the outcomes could be and positions me to start thinking of additional solutions.
 
-Once we're talking about what some of the potential solutions could be, I'll talk ask about how they would describe their users (or customers). I'll try to put them in the minds of the user and ask about what steps they would go through before making a purchasing decision. In order to understand the big picture better, I'll ask what they think the single most important message or feeling that a user should remember from the product is. This focuses on the [pain that we're trying to solve](https://www.antonsten.com/understanding-pain-dream-fix/) instead of a deliverable.
+Once we're talking about what some of the potential solutions could be, I'll ask about how they would describe their users (or customers). I'll try to put them in the minds of the user and ask about what steps they would go through before making a purchasing decision. In order to understand the big picture better, I'll ask what they think the single most important message or feeling that a user should remember from the product is. This focuses on the [pain that we're trying to solve](https://www.antonsten.com/understanding-pain-dream-fix/) instead of a deliverable.
 
 As final questions, I like to ask them for one thing that they believe no one else from their team has mentioned. You can find some really great insights in these responses!
 
