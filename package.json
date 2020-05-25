@@ -6,7 +6,7 @@
   "author": "Alexander Hansson <alexander@hnssn.se>",
   "dependencies": {
     "gatsby": "^2.19.12",
-    "gatsby-cli": "^2.11.5",
+    "gatsby-cli": "^2.12.24",
     "gatsby-image": "^2.0.37",
     "gatsby-plugin-feed": "^2.2.1",
     "gatsby-plugin-google-analytics": "^2.0.18",
@@ -31,6 +31,7 @@
     "gatsby-transformer-remark": "^2.3.8",
     "gatsby-transformer-sharp": "^2",
     "git": "^0.1.5",
+    "netlify-cli": "^2.51.0",
     "netlify-plugin-gatsby-cache": "^0.2.1",
     "netlify-plugin-image-optim": "^0.2.0",
     "prismjs": "^1.16.0",
