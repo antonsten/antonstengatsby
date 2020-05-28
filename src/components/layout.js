@@ -19,25 +19,25 @@ class Layout extends React.Component {
           <footer className="w-full py-4 mb-4 mt-16 mb-16 flex justify-end">
             <ul className="list-reset float-right">
             <li className="inline-block pl-4">
-              <a className="text-grey no-underline" href="/testimonials">Testimonials</a>
+              <a className="text-blacker no-underline" href="/testimonials">Testimonials</a>
             </li>
             <li className="inline-block pl-4">
-              <a className="text-grey no-underline" href="/newsletter">Newsletter</a>
+              <a className="text-blacker no-underline" href="/newsletter">Newsletter</a>
             </li>
             <li className="inline-block pl-4">
-              <a className="text-grey no-underline" href="/notes">Notes</a>
+              <a className="text-blacker no-underline" href="/notes">Notes</a>
             </li>
             <li className="inline-block pl-4">
-              <a className="text-grey no-underline" href="/feed.xml">RSS</a>
+              <a className="text-blacker no-underline" href="/feed.xml">RSS</a>
             </li>
             <li className="inline-block pl-4">
-              <a className="text-grey no-underline" href="/press">Press-kit</a>
+              <a className="text-blacker no-underline" href="/press">Press-kit</a>
             </li>
               <li className="inline-block pl-4">
-                <a rel="noopener noreferrer" target="_blank" className="text-grey no-underline" href="https://twitter.com/antonsten">Twitter</a>
+                <a rel="noopener noreferrer" target="_blank" className="text-blacker no-underline" href="https://twitter.com/antonsten">Twitter</a>
               </li>
               <li className="inline-block pl-4">
-                <a rel="noopener noreferrer" target="_blank" className="text-grey no-underline" href="https://www.linkedin.com/in/antonsten/">LinkedIn</a>
+                <a rel="noopener noreferrer" target="_blank" className="text-blacker no-underline" href="https://www.linkedin.com/in/antonsten/">LinkedIn</a>
               </li>
             </ul>
           </footer>
