@@ -15,8 +15,9 @@ class Layout extends React.Component {
             {children}
           </div>
         </main>
-        <div className="max-w-xl mx-auto mb-16">
+        <div className="max-w-xl mx-auto mb-16 ">
           <footer className="w-full py-4 mb-4 mt-16 mb-16 flex justify-end">
+
             <ul className="list-reset float-right">
             <li className="inline-block pl-4">
               <a className="text-blacker no-underline" href="/testimonials">Testimonials</a>

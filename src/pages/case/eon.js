@@ -19,9 +19,9 @@ class Eon extends React.Component {
             <div className="w-full sm:w-1/3"></div>
             <div className="w-full sm:w-2/3">
               <h1 className="pr-0 sm:pr-12">E.ON Navigator</h1>
-              <h2>
+              <del>
                 Helping facility managers track energy consumption and make proactive choices, for higher revenue and a healthier environment​ <span role="img" aria-label="leaf">🌿</span>​
-              </h2>
+              </del>
             </div>
           </div>
 

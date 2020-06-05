@@ -22,9 +22,9 @@ class Telia extends React.Component {
               <div className="w-full sm:w-1/3"></div>
               <div className="w-full sm:w-2/3">
                 <h1 className="pr-0 sm:pr-12">Telia</h1>
-                <h2>
+                <del>
                   Helping Telia revitalize their support pages with more options, intuitive tools, and a responsive design.
-                </h2>
+                </del>
 
                 <h2>My Internet connection is dead. I need help!</h2>
                 <p className="mb-12">​​Think about it—a customer’s very first contact with your company may very well be at a crucial point: when something is going wrong and the customer needs answers. That’s why designing the support section of your website to foster a positive, successful interaction is so important. ​​ ​​For a multi-faceted organization like Telia, a telecom company serving much of Eastern Europe and Scandinavia, the issues a customer may encounter vary widely, from not having an Internet connection, to missing TV channels, to Wi-Fi router issues, just to name a few. These are services users pay good money for and that are a big part of their lives, so Telia wanted their online support experience to be as seamless as possible.</p>

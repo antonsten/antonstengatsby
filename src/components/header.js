@@ -24,36 +24,35 @@ class Header extends React.Component {
 
 
             <div className="w-full sm:flex flex-wrap">
-              <div className="w-full sm:w-1/3 flex justify-between">
-                <Link className="no-underline no-after logo" to="/"><img alt="anton sten" style={{ width: '98px' }} src="/images/antonsten.svg"/></Link>
-                <div className="inline-block sm:hidden cursor-pointer" onClick={ this.showMenu }>
+              <div className="w-full sm:w-1/3 flex justify-between pt-2">
+                <Link className="no-underline no-after logo" to="/"><img alt="anton sten" style={{ width: '100px' }} src="/images/antonsten.svg"/></Link>                <div className="inline-block sm:hidden cursor-pointer" onClick={ this.showMenu }>
                   <img alt="menu" src="/images/menu.svg"/>
                 </div>
               </div>
               <div className="w-full sm:w-2/3 hidden sm:flex">
                 <ul className="list-reset text-right hidden sm:flex justify-between text-lg w-full">
                   <li className="inline-block pl-2">
-                    <Link className="text-black no-underline" to="/about" rel="prev">
+                    <Link className="text-blue-darker no-underline" to="/about" rel="prev">
                       About
                     </Link>
                   </li>
                   <li className="inline-block pl-8">
-                    <Link className="text-black no-underline" to="/work" rel="prev">
+                    <Link className="text-blue-darker no-underline" to="/work" rel="prev">
                       Work
                     </Link>
                   </li>
                   <li className="inline-block pl-8">
-                    <Link className="text-black no-underline" to="/work-with-me" rel="prev">
+                    <Link className="text-blue-darker no-underline" to="/work-with-me" rel="prev">
                       Work With Me
                     </Link>
                   </li>
                   <li className="inline-block pl-8">
-                    <Link className="text-black no-underline" to="/blog" rel="prev">
+                    <Link className="text-blue-darker no-underline" to="/blog" rel="prev">
                       Writing
                     </Link>
                   </li>
                   <li className="inline-block pl-8">
-                    <Link className="text-black no-underline" to="/contact" rel="prev">
+                    <Link className="text-blue-darker no-underline" to="/contact" rel="prev">
                       Contact
                     </Link>
                   </li>

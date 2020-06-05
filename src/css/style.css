@@ -30,10 +30,7 @@ header a, header a:hover {
   @apply font-sans text-xs;
 }
 
-[aria-current] {
-  text-decoration: underline;
-  color: #ff0048;
-}
+
 
 header ul {
   margin-top: 0;
@@ -42,14 +39,14 @@ header ul {
 
 
 
-/* footer */
+/* footer
 
 footer {
-  border-top: 2px solid #F2F2F2;
+  border-top: 2px solid #F0F1F7;
 }
-
+*/
 footer a {
-  @apply font-sans text-sm;
+  @apply font-serif text-base;
   border: none;
 }
 
@@ -97,7 +94,7 @@ blockquote, blockquote p {
 
 @screen sm {
   ul, ol, p {
-    @apply text-base leading-normal font-normal;
+    @apply text-lg leading-normal font-normal text-blue-darkest;
   }
 }
 
@@ -107,7 +104,7 @@ blockquote, blockquote p {
 }
 
 h1 {
-  @apply mb-4 mt-3 text-3xl font-sans tracking-tight;
+  @apply mb-4 mt-3 text-3xl font-hero tracking-tight;
 }
 
 @screen sm {
@@ -120,10 +117,9 @@ h1 {
 
 h2 {
   margin-top: 3rem;
-  margin-bottom: 1rem;
   font-weight: 400;
 
-  @apply text-xl leading-normal font-sans;
+  @apply text-2xl leading-normal font-hero tracking-tight;
 }
 
 h3 {
@@ -131,13 +127,13 @@ h3 {
   margin-bottom: 1rem;
   font-weight: 400;
 
-  @apply text-lg leading-normal font-sans;
+  @apply text-lg leading-normal font-hero;
 }
 
 
 @screen sm {
   h2 {
-    @apply text-xl;
+    @apply text-2xl;
   }
 }
 
@@ -149,12 +145,12 @@ del {
   width: 100%;
   font-style: normal;
 
-  @apply text-xl leading-normal font-sans;
+  @apply text-xl leading-normal font-serif;
 }
 
 @screen sm {
   del {
-    @apply text-xl font-sans leading-normal;
+    @apply text-xl font-serif leading-normal;
   }
 }
 
@@ -175,7 +171,7 @@ del {
 /* components */
 
 .btn {
-  @apply bg-yellow uppercase text-black text-xs px-8 py-4 font-sans cursor-pointer inline-block rounded;
+  @apply bg-white uppercase text-blue-darkest text-xs px-8 py-4 font-sans cursor-pointer inline-block rounded;
   letter-spacing: 1px;
   font-weight: 700;
   text-decoration: none;
@@ -187,18 +183,18 @@ del {
 
 hr {
   height: 2px;
-  background-color: #F7F7F7;
+  background-color: #4B506D;
 }
 
 a:not(.no-underline):not(.btn), [aria-current]:not(.logo) {
-  box-shadow: inset 0 -3px 0 rgba(255,234,52,.7);
+  box-shadow: inset 0 -1px 0;
   color: inherit;
   text-decoration: none;
   position: relative;
 }
 
 a:not(.btn):not(.no-hover):not(.no-after):hover {
-  box-shadow: inset 0 -3px 0 rgba(255,234,52,.95);
+  box-shadow: inset 0 -2px 0 rgba(37,39,51);
   color: inherit;
   text-decoration: none;
 }
@@ -223,7 +219,8 @@ color: inherit;
 }
 
 blockquote {
-  @apply mb-8 text-lg bg-grey-lightest p-8 relative;
+
+  @apply mb-8 text-lg bg-blue-lightest p-8 relative border-l-2 border-blue-darkest;
 }
 
 blockquote:before {
@@ -353,7 +350,7 @@ a.btn {
   width: 220px;
   max-width: 100%;
 
-  @apply py-4 px-3 bg-yellow text-center text-black font-sans uppercase;
+  @apply py-4 px-3 bg-blue-darkest text-center text-white font-sans uppercase;
 }
 
 a.btn.btn-wide {

@@ -27,7 +27,7 @@ class About extends React.Component {
             </div>
 
             <div className="sm:-mx-16">
-            <div className="sm:flex w-full mt-16 mb-16 bg-grey-lightest p-8 sm:p-16 text-black">
+            <div className="sm:flex w-full mt-16 mb-16 bg-blue-lightest p-8 sm:p-16 text-blue-darkest">
             <div className="w-1/2 sm:w-1/3 text-grey text-xs font-sans mr-8 leading-normal pb-8"></div>
             <div className="w-full sm:w-2/3"><img alt="anton and meta" src="/images/anton_tall.jpg" /></div>
             </div>
@@ -37,34 +37,29 @@ class About extends React.Component {
             <div className="w-full sm:w-1/3"></div>
             <div className="w-full sm:w-2/3">
             <p>
-            <strike>The company is just me and my co-founder, Meta, a 14-year-old miniature pinscher. When she’s not napping in the corner of my office, she’s silently critiquing my work. Or maybe she’s just trying to tell me it’s time for a walk...</strike>. Meta quietly passed away on May 15, 2020 at the age of 15. She's forever in my heart.
-            </p>
-            <p>
             I spent the first decade of my career working for some world-renowned agencies, but now I work independently from my office in the lovely city of Lomma, Sweden. This way, my clients get the creative professional, the project manager, and the decision maker all in one, without the agency overhead.
             </p>
             </div>
             </div>
 
             <div className="sm:-mx-16">
-            <div className="sm:flex w-full mt-16 mb-16 bg-grey-lightest p-8 sm:p-16 text-black">
+            <div className="sm:flex w-full mt-16 mb-16 bg-blue-lightest p-8 sm:p-16 text-blue-darkest">
             <div className="w-1/2 sm:w-1/3 text-grey text-xs font-sans mr-8 leading-normal pb-8"><strong>This is Anfield</strong><br />Through years of trial and error, I've found the setting that optimizes my creative output.</div>
             <div className="w-full sm:w-2/3"><img src="/images/office_lomma.png" /></div>
             </div>
             </div>
 
             <div className="sm:-mx-16">
-              <div className="sm:flex w-full mt-16 mb-16 bg-grey-lightest p-8 sm:p-16 text-black">
+              <div className="sm:flex w-full bg-blue-darker sm:p-16 text-white">
                 <div className="w-1/2 sm:w-1/3"></div>
-                <div className="w-full sm:w-2/3">
-                  <h2 className="leading-tight">Selected interviews</h2>
-                  <p>
+                <div className="w-full sm:w-2/3 text-lg leading-normal">
+                  <h2 className="leading-tight">Selected interviews</h2><br />
                   <a href="https://theblog.adobe.com/qa-with-anton-sten-author-of-user-experiences-that-matter/">Adobe</a><br />
                   <a href="https://magazine.workingnotworking.com/magazine/2016/1/26/user-experiences-that-matter-by-anton-sten">Working not Working</a><br />
                   <a href="https://www.creativebloq.com/advice/the-art-of-going-freelance">.Net magazine</a><br />
                   <a href="https://www.casestudy.club/interviews/anton-sten">Case Study Club</a><br />
                   <a href="https://www.beingfreelance.com/season-4/mastering-freelance-anton-sten-ux-designer-podcast">Being Freelance Podcast, Episode 100</a><br />
                   Want me to talk design, user experiences or freelancing on your podcast? <a href="/contact">Let's talk! </a>
-                  </p>
                 </div>
               </div>
             </div>

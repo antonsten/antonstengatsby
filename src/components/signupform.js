@@ -61,23 +61,23 @@ class Form extends React.Component {
     const { email, title, text, submit } = this.state
 
     return (
-      <form name={ this.props.name ? this.props.name : 'newsletter' } onSubmit={ this.handleSubmit } className="mt-8 block sm:flex w-full mb-16 " method="POST" data-netlify="true" netlify-honeypot="bot-field" netlifyid="mc-embedded-subscribe-form" action="/thankyou/">
+      <form name={ this.props.name ? this.props.name : 'newsletter' } onSubmit={ this.handleSubmit } className="sm:mt-8 sm:-mx-16 bg-blue-darker text-white p-16" method="POST" data-netlify="true" netlify-honeypot="bot-field" netlifyid="mc-embedded-subscribe-form" action="/thankyou/">
         <div className="w-full sm:w-1/3"></div>
         <div className="w-full sm:w-2/3">
           { !this.props.naked &&
             <div>
               <h2>{ title }</h2>
-              <p className="leading-normal italic font-serif mt-4 pr-8 text-lg">{ text }</p>
+              <p className="italic font-serif pr-8 text-lg leading-tight text-white">{ text }</p>
               <p className="hidden">
                 <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
               </p>
             </div>
           }
           { !this.state.hasSignedUp &&
-            <div className="w-full mt-6 block flex flex-wrap">
+            <div className="w-full block flex flex-wrap">
               <label htmlFor="email" className="uppercase font-sans text-xs font-bold tracking-wide block w-full mb-2">e-mail</label>
               <div className="flex w-full mr-4">
-                <input type="email" id="email" value={ email } required="required" onChange={this.handleChange} name="email" className="text-xs uppercase font-sans bg-grey-lighter text-link font-bold tracking-wide px-4 mr-4 flex-1"/>
+                <input type="email" id="email" value={ email } required="required" onChange={this.handleChange} name="email" className="text-xs uppercase font-sans bg-white text-link font-bold tracking-wide px-4 mr-4 flex-1"/>
                 <input type="submit" id="sign-up-button" value={ submit } className="btn"/>
               </div>
             </div>

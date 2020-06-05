@@ -21,9 +21,7 @@ class Ne extends React.Component {
               <div className="w-full sm:w-1/3"></div>
               <div className="w-full sm:w-2/3">
                 <h1 className="pr-0 sm:pr-12">​​Nationalencyklopedin</h1>
-                <h2>
-                  ​Chances are, if you grew up in Sweden, you are familiar with Nationalencyklopedin; for decades, it’s been a prominent research tool (it was my generation’s Wikipedia), and it’s still an important learning resource for school kids today. Since it started in 1980, Nationalencyklopedin’s influence has spread to other countries in Europe and now includes the German equivalent Brockhaus.
-                </h2>
+                  ​<del>Chances are, if you grew up in Sweden, you are familiar with Nationalencyklopedin; for decades, it’s been a prominent research tool (it was my generation’s Wikipedia), and it’s still an important learning resource for school kids today. Since it started in 1980, Nationalencyklopedin’s influence has spread to other countries in Europe and now includes the German equivalent Brockhaus.</del>
               </div>
             </div>
 

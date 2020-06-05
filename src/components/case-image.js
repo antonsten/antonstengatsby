@@ -9,7 +9,7 @@ class CaseImage extends React.Component {
     let wideClasses = this.props.wide ? "w-full py-1" : "w-full sm:w-2/3 py-1"
 
     return (
-      <div className="sm:flex sm:-mx-16 bg-grey-lightest px-4 sm:px-16 mt-6 sm:mt-12">
+      <div className="sm:flex sm:-mx-16 bg-blue-lightest px-4 sm:px-16 mt-6 sm:mt-12">
         <div className={classes}>
           {this.props.heading &&
             <strong>
