@@ -134,6 +134,9 @@ h3 {
   h2 {
     @apply text-2xl;
   }
+  h3 {
+    @apply text-xl;
+  }
 }
 
 
