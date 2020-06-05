@@ -57,6 +57,7 @@ class BlogPostTemplate extends React.Component {
         <article>
           <div className="w-full sm:flex flex-wrap">
             <div className="w-full sm:w-1/3 relative">
+<<<<<<< Updated upstream
               <div style={{width: "inherit"}} className="fixed hidden sm:block -mt-12">
                 <div style={{opacity}}>
                   <span className="text-xs uppercase mt-3 block font-sans tracking-wide text-grey">Now reading</span>
@@ -77,6 +78,8 @@ class BlogPostTemplate extends React.Component {
                   </div>
                 </div>
               </div>
+=======
+>>>>>>> Stashed changes
             </div>
             <div className="w-full sm:w-2/3">
               <h1>{post.frontmatter.title}</h1>

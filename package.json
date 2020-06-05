@@ -5,8 +5,12 @@
   "version": "0.1.0",
   "author": "Alexander Hansson <alexander@hnssn.se>",
   "dependencies": {
+<<<<<<< Updated upstream
     "gatsby": "^2.19.12",
     "gatsby-cli": "^2.7.54",
+=======
+    "gatsby": "^2.20.6",
+>>>>>>> Stashed changes
     "gatsby-image": "^2.0.37",
     "gatsby-plugin-feed": "^2.2.1",
     "gatsby-plugin-google-analytics": "^2.0.18",
@@ -29,7 +33,17 @@
     "gatsby-remark-social-cards": "^0.4.1",
     "gatsby-source-filesystem": "^2.0.29",
     "gatsby-transformer-remark": "^2.3.8",
+<<<<<<< Updated upstream
     "gatsby-transformer-sharp": "^2.1.17",
+=======
+    "gatsby-transformer-sharp": "^2",
+    "git": "^0.1.5",
+    "netlify-cli": "^2.51.0",
+    "netlify-plugin-gatsby-cache": "^0.2.2",
+    "netlify-plugin-hashfiles": "^4.0.2",
+    "netlify-plugin-image-optim": "^0.2.0",
+    "netlify-plugin-no-more-404": "0.0.15",
+>>>>>>> Stashed changes
     "prismjs": "^1.16.0",
     "react": "^16.8.6",
     "react-cookies": "^0.1.1",

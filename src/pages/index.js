@@ -26,9 +26,15 @@ class BlogIndex extends React.Component {
                 <img src="/images/idea.jpg" className="pr-12 mt-4 gatsby-image-small" alt="Idea: Has This Ever Happened To You?"/>
               </div>
               <div className="w-full sm:w-2/3">
-                <h1 className="">Has This Ever Happened To You?</h1>
-                <p className="mb-4 mt-4">You’re struck with a million-dollar idea for a shiny new digital product. You slave for months over it, throw yourself a launch party with signature cocktails, and—it fails miserably.
+              <h1 className="leading-tight">Hello, I'm Anton. I lead UX for design-driven companies.</h1>
+              <p>My speciality? Using my design skills and business knowledge to not just make your digital product look pretty, but <a href="/work">to make it work.</a>
+              <br /><br />
+              I help companies design experiences that put the user first. My common sense approach to UX can help you get that stellar product out of the trash bin and into users’ daily lives.
+              <br /><br />
+              My background in both design and business puts me in an ideal position to help you take your digital products from so-so to GREAT.
+              </p>
 
+<<<<<<< Updated upstream
                 <br /><br />
 
                 …or, maybe you’re not facing a complete failure, but you’re seeing disappointing bounce rates, sagging app usage, or (heaven forbid) complaints from unhappy users.
@@ -52,6 +58,8 @@ class BlogIndex extends React.Component {
                 My background in both design and business puts me in an ideal position to help you take your digital products from so-so to GREAT.
                 </p>
               </div>
+=======
+>>>>>>> Stashed changes
             </div>
           </div>
 
@@ -101,7 +109,7 @@ class BlogIndex extends React.Component {
 
 
 
-          <Form title="Get my bi-weekly newsletter" text='"Great laser focused UX content, told in an easy to understand way, helping to make sure I keep my eye on the UX ball."' />
+          <Form title="Get my bi-weekly newsletter" text='"A great resource for anybody with an interest in the psychology of design, user behaviour and digital experiences."' />
         </div>
       </Layout>
     )

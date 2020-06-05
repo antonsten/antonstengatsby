@@ -27,9 +27,15 @@ class About extends React.Component {
             </div>
 
             <div className="sm:-mx-16">
+<<<<<<< Updated upstream
             <div className="sm:flex w-full mt-16 mb-16 bg-grey-lightest p-8 sm:p-16 text-black">
             <div className="w-1/2 sm:w-1/3 text-grey text-xs font-sans mr-8 leading-normal pb-8"><strong>Two co-founders</strong><br />Since day 1, the company has been me and my dog (my wife sits on the board too).</div>
             <div className="w-full sm:w-2/3"><img alt="anton and meta" src="/images/antonmeta.png" /></div>
+=======
+            <div className="sm:flex w-full mt-16 mb-16 bg-blue-lightest p-8 sm:p-16 text-blue-darkest">
+            <div className="w-1/2 sm:w-1/3 text-grey text-xs font-sans mr-8 leading-normal pb-8"></div>
+            <div className="w-full sm:w-2/3"><img alt="anton and meta" src="/images/anton_tall.jpg" /></div>
+>>>>>>> Stashed changes
             </div>
             </div>
 
@@ -37,23 +43,26 @@ class About extends React.Component {
             <div className="w-full sm:w-1/3"></div>
             <div className="w-full sm:w-2/3">
             <p>
+<<<<<<< Updated upstream
             The company is just me and my co-founder, Meta, a 14-year-old miniature pinscher. When she’s not napping in the corner of my office, she’s silently critiquing my work. Or maybe she’s just trying to tell me it’s time for a walk...
             </p>
             <p>
+=======
+>>>>>>> Stashed changes
             I spent the first decade of my career working for some world-renowned agencies, but now I work independently from my office in the lovely city of Lomma, Sweden. This way, my clients get the creative professional, the project manager, and the decision maker all in one, without the agency overhead.
             </p>
             </div>
             </div>
 
             <div className="sm:-mx-16">
-            <div className="sm:flex w-full mt-16 mb-16 bg-grey-lightest p-8 sm:p-16 text-black">
+            <div className="sm:flex w-full mt-16 mb-16 bg-blue-lightest p-8 sm:p-16 text-blue-darkest">
             <div className="w-1/2 sm:w-1/3 text-grey text-xs font-sans mr-8 leading-normal pb-8"><strong>This is Anfield</strong><br />Through years of trial and error, I've found the setting that optimizes my creative output.</div>
             <div className="w-full sm:w-2/3"><img src="/images/office_lomma.png" /></div>
             </div>
             </div>
 
             <div className="sm:-mx-16">
-              <div className="sm:flex w-full mt-16 mb-16 bg-grey-lightest p-8 sm:p-16 text-black">
+              <div className="sm:flex w-full mt-16 mb-16 bg-blue-darker p-8 sm:p-16 text-white">
                 <div className="w-1/2 sm:w-1/3"></div>
                 <div className="w-full sm:w-2/3">
                   <h2 className="leading-tight">Selected interviews</h2>

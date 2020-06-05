@@ -5,11 +5,15 @@ hr {
 
 html {
   background-color: #ffffff;
-  color: #333;
+  color: #252733;
 }
 
 body {
+<<<<<<< Updated upstream
   font-family: 'Lyon Text Web', serif;
+=======
+  font-family: 'Ashbury', sans-serif;
+>>>>>>> Stashed changes
   -webkit-font-smoothing: antialiased;
 }
 
@@ -19,10 +23,13 @@ h3 {
 }
 
 
+<<<<<<< Updated upstream
 /*
  *	WebFont Package Licensed to antonsten.com
  */
 
+=======
+>>>>>>> Stashed changes
  @font-face {
    font-family: 'Lyon Text Web';
    src: url('/fonts/LyonText-Regular-Web.woff2') format('woff2'),
@@ -32,21 +39,76 @@ h3 {
    font-stretch: normal;
  }
 
+<<<<<<< Updated upstream
+=======
+
+  @font-face {
+	font-family: "Wulkan Display";
+  src: url('/fonts/Wulkan Display Regular.woff2') format('woff2'),
+       url('/fonts/Wulkan Display Regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+>>>>>>> Stashed changes
  @font-face {
-   font-family: 'Lyon Text Web';
-   src: url('/fonts/LyonText-RegularItalic-Web.woff2') format('woff2'),
-        url('/fonts/LyonText-RegularItalic-Web.woff') format('woff');
+   font-family: 'Ashbury';
+   src: url('/fonts/italic_normal_normal.woff2') format('woff2'),
+        url('/fonts/italic_normal_normal.woff') format('woff');
    font-weight:  400;
    font-style:   italic;
    font-stretch: italic;
  }
 
  @font-face {
+<<<<<<< Updated upstream
 	font-family: "Prachar Regular";
   src: url('/fonts/3AC740_0_0.woff2') format('woff2'),
        url('/fonts/3AC740_0_0.woff') format('woff');
 	font-weight: normal;
 	font-style: normal;
+=======
+   font-family: 'Ashbury';
+   src: url('/fonts/normal_normal_normal.woff2') format('woff2'),
+        url('/fonts/normal_normal_normal.woff') format('woff');
+   font-weight:  400;
+   font-style:   normal;
+   font-stretch: normal;
+  unicode-range: U+000-5FF; /* Latin glyphs */
+ }
+
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/Inter-Regular.woff2?v=3.12") format("woff2"),
+       url("/fonts/Inter-Regular.woff?v=3.12") format("woff");
+   unicode-range: U+000-5FF; /* Latin glyphs */
+}
+@font-face {
+  font-family: 'Inter';
+  font-style:  italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/Inter-Italic.woff2?v=3.12") format("woff2"),
+       url("/fonts/Inter-Italic.woff?v=3.12") format("woff");
+       unicode-range: U+000-5FF; /* Latin glyphs */
+
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/Inter-SemiBold.woff2?v=3.12") format("woff2"),
+       url("/fonts/Inter-SemiBold.woff?v=3.12") format("woff");
+       unicode-range: U+000-5FF; /* Latin glyphs */
+
+>>>>>>> Stashed changes
 }
 
   @font-face {

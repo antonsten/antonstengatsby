@@ -26,42 +26,58 @@ export default () => (
     render={data => (
       <div className="w-full">
         <div className="sm:-mx-16 mb-16">
-          <div className="sm:flex w-full mt-8 bg-grey-lightest p-8 sm:p-16 sm:pb-0 text-black">
+          <div className="sm:flex w-full mt-8 bg-blue-lightest p-8 sm:p-16 sm:pb-0 text-black">
             <div className="w-1/2 sm:w-1/3"></div>
             <div className="w-full sm:w-2/3">
               <h2 className="leading-tight mt-0 mb-0">Curated content</h2>
             </div>
           </div>
 
-          <div className="sm:flex w-full bg-grey-lightest p-8 sm:p-16 sm:pb-6 text-black">
+          <div className="sm:flex w-full bg-blue-lightest p-8 sm:p-16 sm:pb-6 text-black">
             <div className="mb-6 w-1/2 sm:w-1/3 text-xs font-sans uppercase font-bold">Books</div>
+<<<<<<< Updated upstream
             <div className="w-full sm:w-2/3 text-lg font-serif leading-tight">
+=======
+            <div className="w-full sm:w-2/3 leading-tight text-lg">
+>>>>>>> Stashed changes
               <a href="https://www.antonsten.com/books/user-experiences-matter" target="_blank" rel="noopener noreferrer">User Experiences that Matter</a> (2016)<br />
               <a href="https://www.antonsten.com/books/masteringfreelance" target="_blank" rel="noopener noreferrer">Mastering Freelance</a> (2017)
             </div>
           </div>
 
-          <div className="sm:flex w-full bg-grey-lightest p-8 sm:p-16 sm:pb-6 text-black">
+          <div className="sm:flex w-full bg-blue-lightest p-8 sm:p-16 sm:pb-6 text-black">
             <div className="mb-6 w-1/2 sm:w-1/3 text-xs font-sans uppercase font-bold">Getting started in UX</div>
+<<<<<<< Updated upstream
             <div className="w-full sm:w-2/3 text-lg font-serif leading-tight">
+=======
+            <div className="w-full sm:w-2/3 leading-tight text-lg">
+>>>>>>> Stashed changes
               <a href="https://www.antonsten.com/whatsux/">What's a 'User Experience' Anyways?</a><br />
               <a href="https://www.antonsten.com/learn-ux/">How Do You Learn UX?</a><br />
               <a href="https://www.antonsten.com/uxdesigner/">Working as a UX Designer</a>
             </div>
           </div>
 
-          <div className="sm:flex w-full bg-grey-lightest p-8 sm:p-16 sm:pb-6 text-black">
+          <div className="sm:flex w-full bg-blue-lightest p-8 sm:p-16 sm:pb-6 text-black">
             <div className="mb-6 w-1/2 sm:w-1/3 text-xs font-sans uppercase font-bold">Grow within UX</div>
+<<<<<<< Updated upstream
             <div className="w-full sm:w-2/3 text-lg font-serif leading-tight">
+=======
+            <div className="w-full sm:w-2/3 leading-tight text-lg">
+>>>>>>> Stashed changes
               <a href="https://www.antonsten.com/uxlead/">Working as a UX Lead</a><br />
               <a href="https://www.antonsten.com/uxstrategy/">Defining a UX Strategy</a><br />
               <a href="https://www.antonsten.com/writing-ux/">Writing as Part of the UX Process</a><br />
             </div>
           </div>
 
-          <div className="sm:flex w-full bg-grey-lightest p-8 sm:p-16 text-black">
+          <div className="sm:flex w-full bg-blue-lightest p-8 sm:p-16 text-black">
             <div className="mb-6 w-1/2 sm:w-1/3 text-xs font-sans uppercase font-bold">Most popular</div>
+<<<<<<< Updated upstream
             <div className="w-full sm:w-2/3 text-lg font-serif leading-tight mb-6 sm:mb-12">
+=======
+            <div className="w-full sm:w-2/3 leading-tight mb-6 sm:mb-12 text-lg">
+>>>>>>> Stashed changes
               <a href="https://www.antonsten.com/ai-ethics/">AI Ethics - A New Skill for UX-Designers</a><br />
               <a href="https://www.antonsten.com/moral-implications-apps/">Designer Ethics & The Moral Implications of our Apps</a><br />
               <a href="https://www.antonsten.com/future-ux-designer/">The Future of the UX-Designer</a><br />
@@ -71,7 +87,7 @@ export default () => (
 
   <div className="sm:flex w-full mt-16">
     <div className="w-1/2 sm:w-1/3"></div>
-    <div className="w-full sm:w-2/3">
+    <div className="w-full sm:w-2/3 text-lg">
       <h2 className="leading-tight">From my newsletter</h2>
     </div>
   </div>
@@ -81,8 +97,13 @@ export default () => (
       <div className="w-1/2 sm:w-1/3">
       </div>
       <div className="w-full sm:w-2/3">
+<<<<<<< Updated upstream
         <Link className="font-serif text-lg leading-tight text-black" to="/newsletter">
           Subscribers get these posts first. Sign up!
+=======
+        <Link className="leading-tight text-black text-lg" to="/newsletter">
+          Subscribers get these posts first.
+>>>>>>> Stashed changes
         </Link>
       </div>
     </div>
@@ -96,7 +117,11 @@ export default () => (
                 <span className="hidden sm:block text-xs uppercase font-sans tracking-wide text-grey">{node.frontmatter.date}</span>
               </div>
               <div className="w-full sm:w-2/3">
+<<<<<<< Updated upstream
                 <Link className="relative text-lg font-serif leading-tight no-underline text-black" to={node.fields.slug}>
+=======
+                <Link className="relative leading-tight no-underline text-black text-lg" to={node.fields.slug}>
+>>>>>>> Stashed changes
                   {title}
                 </Link>
               </div>

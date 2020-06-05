@@ -25,7 +25,7 @@ class Header extends React.Component {
 
             <div className="w-full sm:flex flex-wrap">
               <div className="w-full sm:w-1/3 flex justify-between">
-                <Link className="no-underline no-after logo" to="/"><img alt="anton sten" style={{ width: '98px' }} src="/images/antonsten.svg"/></Link>
+                <Link className="no-underline no-after logo font-hero" to="/">ANTON STEN</Link>
                 <div className="inline-block sm:hidden cursor-pointer" onClick={ this.showMenu }>
                   <img alt="menu" src="/images/menu.svg"/>
                 </div>

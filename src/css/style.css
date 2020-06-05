@@ -107,12 +107,20 @@ blockquote, blockquote p {
 }
 
 h1 {
+<<<<<<< Updated upstream
   @apply mb-4 mt-3 text-4xl font-hand tracking-tight;
+=======
+  @apply mb-4 mt-3 text-2xl font-hero tracking-tight;
+>>>>>>> Stashed changes
 }
 
 @screen sm {
   h1 {
+<<<<<<< Updated upstream
     @apply text-5xl mb-8 mt-8;
+=======
+    @apply text-4xl mb-8 mt-8;
+>>>>>>> Stashed changes
 
   }
 }
@@ -120,17 +128,23 @@ h1 {
 h2 {
   margin-top: 3rem;
   margin-bottom: 1rem;
-  font-weight: 400;
 
+<<<<<<< Updated upstream
   @apply text-3xl leading-normal font-sans;
+=======
+  @apply text-xl leading-tight font-hero;
+>>>>>>> Stashed changes
 }
 
 h3 {
   margin-top: 4rem;
   margin-bottom: 1rem;
-  font-weight: 400;
 
+<<<<<<< Updated upstream
   @apply text-xl leading-normal font-sans;
+=======
+  @apply text-lg leading-tight font-hero;
+>>>>>>> Stashed changes
 }
 
 
@@ -174,7 +188,11 @@ del {
 /* components */
 
 .btn {
+<<<<<<< Updated upstream
   @apply bg-yellow uppercase text-black text-xs px-8 py-4 font-sans cursor-pointer inline-block;
+=======
+  @apply bg-blue-darkest uppercase text-white text-xs px-8 py-4 font-sans cursor-pointer inline-block rounded;
+>>>>>>> Stashed changes
   letter-spacing: 1px;
   font-weight: 700;
   text-decoration: none;
@@ -190,14 +208,22 @@ hr {
 }
 
 a:not(.no-underline):not(.btn), [aria-current]:not(.logo) {
+<<<<<<< Updated upstream
   box-shadow: inset 0 -7px 0 #FFEA34;
+=======
+  box-shadow: inset 0 -1px 0;
+>>>>>>> Stashed changes
   color: inherit;
   text-decoration: none;
   position: relative;
 }
 
 a:not(.btn):not(.no-hover):not(.no-after):hover {
+<<<<<<< Updated upstream
   box-shadow: inset 0 -12px 0 #FFEA34;
+=======
+  box-shadow: inset 0 -1px 0 rgba(37,39,51);
+>>>>>>> Stashed changes
   color: inherit;
   text-decoration: none;
 }
@@ -227,7 +253,7 @@ color: inherit;
 }
 
 blockquote {
-  @apply mb-8 text-lg bg-grey-lightest p-8 relative;
+  @apply mb-8 text-lg bg-blue-darkest text-white p-8 relative;
 }
 
 blockquote:before {
@@ -357,7 +383,7 @@ a.btn {
   width: 220px;
   max-width: 100%;
 
-  @apply py-4 px-3 bg-yellow text-center text-black font-sans uppercase;
+  @apply py-4 px-3 bg-blue-darkest text-center text-white font-sans uppercase;
 }
 
 a.btn.btn-wide {

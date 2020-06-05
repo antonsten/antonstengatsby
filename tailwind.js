@@ -46,7 +46,7 @@ let defaultConfig = require('tailwindcss/defaultConfig')()
 let colors = {
   'transparent': 'transparent',
 
-  'black': '#282828',
+  'black': '#252733',
   'blacker': '#333',
   'grey-darkest': '#3d4852',
   'grey-darker': '#606f7b',
@@ -99,13 +99,13 @@ let colors = {
   'teal-lighter': '#a0f0ed',
   'teal-lightest': '#e8fffe',
 
-  'blue-darkest': '#12283a',
-  'blue-darker': '#1c3d5a',
-  'blue-dark': '#2779bd',
-  'blue': '#0070C9',
-  'blue-light': '#6cb2eb',
-  'blue-lighter': '#bcdefa',
-  'blue-lightest': '#eff8ff',
+  'blue-darkest': '#252733',
+  'blue-darker': '#4B506D',
+  'blue-dark': '#9FA2B4',
+  'blue': '#DFE0EB',
+  'blue-light': '#EBEDF0',
+  'blue-lighter': '#F0F1F7',
+  'blue-lightest': '#F7F8FC',
 
   'indigo-darkest': '#191e38',
   'indigo-darker': '#2f365f',
@@ -205,13 +205,13 @@ module.exports = {
       'sans-serif',
     ],
     'serif': [
-      'Lyon Text Web',
+      'Ashbury',
       'Georgia',
       'serif',
     ],
-    'hand': [
-      'Prachar Regular',
-      'serif',
+    'hero': [
+      'Wulkan Display',
+      'sans-serif',
     ],
   },
 
@@ -238,14 +238,23 @@ module.exports = {
 
   textSizes: {
     'xs': '12px',     // 11px
+<<<<<<< Updated upstream
     'sm': '.875rem',    // 14px
+=======
+    'sm': '.8rem',    // 14px
+>>>>>>> Stashed changes
     'base': '1rem',     // 16px
     'lg': '1.4rem',   // 20px
     'xl': '1.6rem',    // 24px
     '2xl': '1.75rem',    // 28px
     '3xl': '2rem',  // 30px
+<<<<<<< Updated upstream
     '4xl': '2.75rem',   // 36px
     '5xl': '4.25rem',      // 56px
+=======
+    '4xl': '3rem',   // 36px
+    '5xl': '3.5rem',      // 56px
+>>>>>>> Stashed changes
   },
 
 
@@ -599,7 +608,7 @@ module.exports = {
     'sm': '30rem',
     'md': '40rem',
     'lg': '50rem',
-    'xl': '740px',
+    'xl': '850px',
     '2xl': '70rem',
     '3xl': '80rem',
     '4xl': '90rem',
