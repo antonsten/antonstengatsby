@@ -85,7 +85,7 @@ li {
 ul, ol, p, .people-like-you {
   margin-bottom: 2rem;
   margin-top: 2rem;
-  @apply text-base leading-normal font-normal;
+  @apply text-lg leading-normal font-normal;
 }
 
 blockquote, blockquote p {
@@ -104,7 +104,7 @@ blockquote, blockquote p {
 }
 
 h1 {
-  @apply mb-4 mt-3 text-3xl font-hero tracking-tight;
+  @apply mb-4 mt-3 text-2xl font-hero tracking-tight;
 }
 
 @screen sm {
@@ -118,7 +118,7 @@ h2 {
   margin-top: 3rem;
   font-weight: 400;
 
-  @apply text-2xl leading-normal font-hero tracking-tight;
+  @apply text-xl leading-normal font-hero tracking-tight;
 }
 
 h3 {
