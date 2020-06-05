@@ -38,7 +38,7 @@ export default () => (
                     <span className="hidden sm:block text-xs uppercase font-sans tracking-wide text-grey">{node.frontmatter.date}</span>
                   </div>
                   <div className="w-full sm:w-2/3">
-                    <Link className="relative text-base font-sans leading-tight no-underline text-black" to={node.fields.slug}>
+                    <Link className="relative text-lg font-serif leading-tight no-underline text-blue-darkest" to={node.fields.slug}>
                       {title}
                     </Link>
                   </div>

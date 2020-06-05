@@ -46,7 +46,7 @@ footer {
 }
 */
 footer a {
-  @apply font-serif text-base;
+  @apply font-sans text-xs uppercase font-bold text-blue;
   border: none;
 }
 
@@ -109,7 +109,6 @@ h1 {
 
 @screen sm {
   h1 {
-    font-weight: 600;
     @apply text-4xl mb-8 mt-8;
 
   }

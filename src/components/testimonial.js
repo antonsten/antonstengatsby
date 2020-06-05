@@ -9,7 +9,7 @@ class Testimonial extends React.Component {
     return (
       <div className={ classes }>
         <blockquote>
-          <Link to="/testimonals/"><div className="w-full sm:flex h-full mt-16 block mb-16 bg-blue-darkest p-8 sm:p-16 text-white">
+          <Link to="/testimonials/"><div className="w-full sm:flex h-full mt-16 block mb-16 bg-blue-darkest p-8 sm:p-16 text-white">
             <div className="w-1/2 sm:w-1/3">
               { this.props.logo && <img alt={this.props.author} className="tesimonial-logo mb-4" src={ this.props.logo } />}
             </div>
