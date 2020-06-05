@@ -50,10 +50,10 @@ class About extends React.Component {
             </div>
 
             <div className="sm:-mx-16">
-              <div className="sm:flex w-full bg-blue-darker sm:p-16 text-white">
+              <div className="sm:flex w-full bg-blue-darker p-8 sm:p-16 text-white">
                 <div className="w-1/2 sm:w-1/3"></div>
                 <div className="w-full sm:w-2/3 text-lg leading-normal">
-                  <h2 className="leading-tight">Selected interviews</h2><br />
+                  <h2 className="leading-tight mt-0">Selected interviews</h2><br />
                   <a href="https://theblog.adobe.com/qa-with-anton-sten-author-of-user-experiences-that-matter/">Adobe</a><br />
                   <a href="https://magazine.workingnotworking.com/magazine/2016/1/26/user-experiences-that-matter-by-anton-sten">Working not Working</a><br />
                   <a href="https://www.creativebloq.com/advice/the-art-of-going-freelance">.Net magazine</a><br />
