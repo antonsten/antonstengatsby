@@ -239,7 +239,7 @@ module.exports = {
   textSizes: {
     'xs': '12px',     // 11px
     'sm': '.8rem',    // 14px
-    'base': '1rem',     // 16px
+    'base': '1.2rem',     // 16px
     'lg': '1.4rem',   // 20px
     'xl': '1.75rem',    // 24px
     '2xl': '2.5rem',    // 28px

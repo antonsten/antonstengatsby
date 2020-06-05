@@ -85,7 +85,7 @@ li {
 ul, ol, p, .people-like-you {
   margin-bottom: 2rem;
   margin-top: 2rem;
-  @apply text-lg leading-normal font-normal;
+  @apply text-base leading-normal font-normal;
 }
 
 blockquote, blockquote p {
