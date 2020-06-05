@@ -35,7 +35,7 @@ class BlogIndex extends React.Component {
 
           <Testimonial logo="/images/clients/svg/spotify-white.svg" alt="Spotify logo" text="Whenever someone asks me if I know any good freelance UX designers I always answer with Anton. He’s a great designer with superior business understanding who always put the user in the front seat and delivers bloody good work. If you ever get a chance to work with Anton, don’t miss it." author="Christian Wilsson, Head of Design, Spotify"/>
 
-          <div className="sm:-mx-16 bg-blue-lighter p-16">
+          <div className="sm:-mx-16 bg-blue-lighter p-16 mb-16">
 
                     <div className="w-full">
                       <div className="flex">

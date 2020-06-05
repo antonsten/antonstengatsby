@@ -61,12 +61,12 @@ class Form extends React.Component {
     const { email, title, text, submit } = this.state
 
     return (
-      <form name={ this.props.name ? this.props.name : 'newsletter' } onSubmit={ this.handleSubmit } className="sm:mt-8 sm:-mx-16 bg-blue-darker text-white p-16" method="POST" data-netlify="true" netlify-honeypot="bot-field" netlifyid="mc-embedded-subscribe-form" action="/thankyou/">
+      <form name={ this.props.name ? this.props.name : 'newsletter' } onSubmit={ this.handleSubmit } className="sm:mt-8 sm:-mx-16 bg-blue-darker flex text-white p-8 sm:p-16" method="POST" data-netlify="true" netlify-honeypot="bot-field" netlifyid="mc-embedded-subscribe-form" action="/thankyou/">
         <div className="w-full sm:w-1/3"></div>
         <div className="w-full sm:w-2/3">
           { !this.props.naked &&
             <div>
-              <h2>{ title }</h2>
+              <h2 className="mt-0">{ title }</h2>
               <p className="italic font-serif pr-8 text-lg leading-tight text-white">{ text }</p>
               <p className="hidden">
                 <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
