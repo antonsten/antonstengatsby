@@ -157,8 +157,8 @@ class Grid extends React.Component {
                   </span>
                 </div>
                 <div className="w-full sm:w-2/3 flex items-center">
-                  <div className="w-1/2">
-                    <img className="h-4 sm:h-4" alt="ikea logo" src="/images/clients/svg/ikea.svg"/>
+                  <div className="w-1/2"><p>IKEA</p>
+                     // <img className="h-4 sm:h-4" alt="ikea logo" src="/images/clients/svg/ikea.svg"/>
                   </div>
                   <div className="w-1/2">
                     <p>UX + Team Lead</p>
