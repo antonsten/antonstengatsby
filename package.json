@@ -31,7 +31,7 @@
     "gatsby-transformer-remark": "^2.3.8",
     "gatsby-transformer-sharp": "^2",
     "git": "^0.1.5",
-    "netlify-cli": "^2.51.0",
+    "netlify-cli": "^2.53.0",
     "netlify-plugin-gatsby-cache": "^0.2.1",
     "netlify-plugin-image-optim": "^0.2.0",
     "prismjs": "^1.16.0",

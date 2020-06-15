@@ -56,15 +56,19 @@ export default () => (
               <a href="https://www.antonsten.com/uxlead/">Working as a UX Lead</a><br />
               <a href="https://www.antonsten.com/uxstrategy/">Defining a UX Strategy</a><br />
               <a href="https://www.antonsten.com/writing-ux/">Writing as Part of the UX Process</a><br />
+              <a href="https://www.antonsten.com/wireframes/">Why wireframes are becoming obsolete</a><br />
+              <a href="https://www.antonsten.com/stakeholder/">
+Stakeholder interviews: asking the right questions</a>
             </div>
           </div>
 
           <div className="sm:flex w-full bg-blue-darkest p-8 sm:p-16 text-white">
-            <div className="mb-6 w-1/2 sm:w-1/3 text-xs font-sans uppercase font-bold">Most popular</div>
+            <div className="mb-6 w-1/2 sm:w-1/3 text-xs font-sans uppercase font-bold">Highlights</div>
             <div className="w-full sm:w-2/3 leading-tight mb-6 sm:mb-12 text-lg">
               <a href="https://www.antonsten.com/ai-ethics/">AI Ethics - A New Skill for UX-Designers</a><br />
               <a href="https://www.antonsten.com/moral-implications-apps/">Designer Ethics & The Moral Implications of our Apps</a><br />
               <a href="https://www.antonsten.com/future-ux-designer/">The Future of the UX-Designer</a><br />
+              <a href="https://www.antonsten.com/speak-business/">Why Designers Need To Speak Business</a>
           </div>
       </div>
   </div>

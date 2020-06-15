@@ -22,7 +22,7 @@ class BlogIndex extends React.Component {
             <div className="sm:flex w-full mb-16 p-8 sm:p-16 text-blue-darkest text-lg">
               <div className="w-1/2 sm:w-1/3"></div>
               <div className="w-full sm:w-2/3">
-                <h1 className="leading-tight -mt-8 text-xl sm:text-4xl">I'm Anton Stén, I enjoy leading UX for design-driven companies.</h1>
+                <h1 className="leading-tight -mt-8 text-xl sm:text-4xl">I'm Anton Stén, I lead UX for design-driven companies.</h1>
                 <p>My speciality? Using my design skills and business knowledge to not just make your digital product look pretty, but <a href="/work">to make it work.</a>
                 <br /><br />
                 I help companies design experiences that put the user first. My common sense approach to UX can help you get that stellar product out of the trash bin and into users’ daily lives.
