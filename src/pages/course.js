@@ -11,7 +11,7 @@ class Contact extends React.Component {
           <SEO title="Pick my brain!"/>
 
           <div className="sm:-mx-16">
-            <div className="sm:flex w-full mt-16 p-8 sm:p-16 text-black">
+            <div className="sm:flex w-full mt-16 p-8">
               <div className="w-1/2 sm:w-1/3"></div>
               <div className="w-full sm:w-2/3"><h1>Pick my brain!</h1>
               <del className="mb-8">
@@ -22,7 +22,7 @@ class Contact extends React.Component {
 
 
             <div className="sm:-mx-16">
-              <div className="sm:flex w-full sm:border-t-8 p-8 sm:p-16 text-black">
+              <div className="sm:flex w-full sm:border-t-8 p-8">
               <div className="w-1/2 sm:w-1/3"></div>
               <div className="w-full sm:w-2/3">
               <p>After teaching at Hyper Island for nearly two decades, I wanted to share the experience with more people. I wanted to be able to give advice to designers and teams while lowering the barrier to getting started.<br /><strong>Introducing Pick My Brain! </strong></p>
@@ -32,7 +32,7 @@ class Contact extends React.Component {
             </div>
 
 <div className="sm:-mx-16">
-  <div className="sm:flex w-full bg-grey-lightest p-8 sm:p-16 text-black">
+  <div className="sm:flex w-full bg-grey-lightest p-8">
     <div className="w-1/2 sm:w-1/3"></div>
     <div className="w-full sm:w-2/3">
       <p>
@@ -49,7 +49,7 @@ class Contact extends React.Component {
 </div>
 
 <div className="sm:-mx-16">
-  <div className="sm:flex w-full p-8 sm:p-16 text-black">
+  <div className="sm:flex w-full p-8">
     <div className="w-1/2 sm:w-1/3"></div>
     <div className="w-full sm:w-2/3">
       <h2 className="leading-tight">Who's this for?</h2>
@@ -60,16 +60,16 @@ class Contact extends React.Component {
 
 
   <div className="sm:-mx-16">
-  <div className="sm:flex w-full p-8 sm:p-16 text-black">
+  <div className="sm:flex w-full p-8 bg-blue-light">
   <div className="w-1/2 sm:w-1/3"></div>
   <div className="w-full sm:w-2/3"><h2 className="leading-tight">Cost</h2>
 <br /><br />
   <span class="font-sans font-bold text-sm uppercase">One single hour (1 hr)</span><br />
 <p className="leading-tight">A lot can be accomplished in one hour. We can work through topics such as your career, a project, or even something as specific as a product feature.<br /><br />
-$350 / hour</p></div></div></div>
+$350 / hour</p></div></div>
 
-<div className="sm:-mx-16">
-<div className="sm:flex w-full p-8 sm:p-16 text-black">
+
+<div className="sm:flex w-full p-8 bg-blue-light">
 <div className="w-1/2 sm:w-1/3"></div>
 <div className="w-full sm:w-2/3"><span class="font-sans font-bold text-sm uppercase">One hour - 5 pack! (1 hr x 5)</span><br />
 <p className="leading-tight">Like the one hour sessions, but want to make it recurring? Great, let's schedule for one hour every other week. This way we'll get through more at a more affordable rate.<br /><br />
@@ -77,7 +77,7 @@ $1500 / 5 hours</p></div></div>
 </div>
 
 <div className="sm:-mx-16">
-<div className="sm:flex w-full mb-16 bg-black p-8 sm:p-16 text-white">
+<div className="sm:flex w-full mb-16 bg-blue p-12">
 <div className="w-1/2 sm:w-1/3"></div>
 <div className="w-full sm:w-2/3"><span class="font-sans font-bold text-sm uppercase">Schedule</span><br />
 <p className="leading-tight">Are you interested? Great! Please fill out the form and I'll get back to you with more information!</p>
@@ -101,8 +101,8 @@ $1500 / 5 hours</p></div></div>
   <div className="sm:flex w-full mt-16 mb-16 bg-black p-8 sm:p-16 text-white">
     <div className="w-1/2 sm:w-1/3"></div>
     <div className="w-full sm:w-2/3">
-      <h2 className="leading-tight">Sell it to your boss</h2>
-      <p>There’s the old joke: the CFO asks the CEO what happens if we spend this money on educating our employees and they decide to leave? The CEO responds, what if we don’t and they decide to stay?
+      <h2 className="leading-tight text-white">Sell it to your boss</h2>
+      <p className="text-white">There’s the old joke: the CFO asks the CEO what happens if we spend this money on educating our employees and they decide to leave? The CEO responds, what if we don’t and they decide to stay?
       <br /><br />
       Educating employees is critical for any company's growth and success. By working more efficiently and removing friction, you'll see happier and more motivated employees.</p>
     </div>
@@ -115,6 +115,7 @@ $1500 / 5 hours</p></div></div>
     <div className="w-full sm:w-2/3">
       <h2 className="leading-tight">Questions</h2>
       <p>Happy to answer any questions you might have! <br />E-mail me on <a href="mailto:anton@antonsten.com">anton@antonsten.com</a></p>
+      <p><a class="btn" href="https://antonsten.typeform.com/to/j669Fg">Schedule</a></p>
     </div>
   </div>
 </div>
