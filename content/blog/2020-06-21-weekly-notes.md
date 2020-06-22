@@ -9,14 +9,14 @@ tag: 'newsletter'
 
 Was generally really tired last week and the temperatures were high (no AC in Sweden).
 
-### Work
+## Work
 
 - Spoke with [TJ](https://southleft.com) and [Dan](http://danmall.me) about Figma
 - Herman Miller Strategy session x2
 - Spoke with Jenny Kahn about getting started with freelancing
 - First week in my new office
 
-### Personal
+## Personal
 
 - Two early morning walks
 - Two football games (I now have a bruised rib)
