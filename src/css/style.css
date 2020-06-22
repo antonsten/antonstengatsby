@@ -126,7 +126,7 @@ h3 {
   margin-bottom: 1rem;
   font-weight: 400;
 
-  @apply text-lg leading-normal font-hero;
+  @apply text-lg leading-normal font-sans;
 }
 
 
