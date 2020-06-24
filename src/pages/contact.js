@@ -11,12 +11,9 @@ class Contact extends React.Component {
   componentDidMount() {
       let fathom = window.fathom || null;
       document.getElementById('contact').addEventListener('click', () => {
-        if(fathom) {
-          fathom('trackGoal', 'PBKA0SF6', 0);
-        }
+          fathom.trackGoal('PBKA0SF6', 0);
       });
     }
-
   render() {
       return (
         <Layout>
