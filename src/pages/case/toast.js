@@ -53,7 +53,7 @@ Following our workshop in Boston - and some great meals! - we parted ways and re
 
           <CaseImage wide={true} image={data.image1.childImageSharp.fluid}/>
 
-          <Testimonial text="The only metrics that entrepreneurs should invest energy in collecting are those that help them make decisions. Unfortunately, the majority of data available in off-the- shelf analytics packages are what I call Vanity Metrics. They might make you feel good, but they don’t offer clear guidance for what to do." author="Eric Ries"/>
+          <Testimonial logo="/images/clients/svg/toast-white.svg" text="We came to Anton with a big, blue sky problem to solve. Anton has the rare ability to engage with user insights and business needs to produce a truly remarkable experience, which resulted in a product that out-performed our goals. Anton is open to exploring all kinds of solutions, and he taught us how to really serve our users. I'm grateful to have worked with him." author="Rachael Perry, Editor in Chief, Toast"/>
 
           <div className="sm:flex mt-6 sm:mt-12">
             <div className="w-full sm:w-1/3"></div>
