@@ -4,7 +4,6 @@ title: 'Weekly notes June 1 - 7'
 date: 2020-06-08T07:31:08+00:00
 author: Anton Sten
 slug: weekly-notes-06-07/
-tag: 'newsletter'
 ---
 
 

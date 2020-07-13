@@ -4,7 +4,6 @@ title: 'Weekly notes April 27 - May 3'
 date: 2020-05-03T07:31:08+00:00
 author: Anton Sten
 slug: weekly-notes-05-03/
-tag: 'newsletter'
 ---
 
 ## Work

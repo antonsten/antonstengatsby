@@ -4,7 +4,6 @@ title: 'Weekly notes May 25 - 31'
 date: 2020-06-01T07:31:08+00:00
 author: Anton Sten
 slug: weekly-notes-05-31/
-tag: 'newsletter'
 ---
 
 

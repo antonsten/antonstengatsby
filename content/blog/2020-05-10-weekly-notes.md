@@ -4,7 +4,6 @@ title: 'Weekly notes May 4 - 10'
 date: 2020-05-10T07:31:08+00:00
 author: Anton Sten
 slug: weekly-notes-05-10/
-tag: 'newsletter'
 ---
 
 ## Work
@@ -20,4 +19,4 @@ tag: 'newsletter'
 ## Personal
 
 - Completed three workouts
-- Enjoyed these pods: [Today Explained - Why Sweden stayed open](https://overcast.fm/+WEGlpiQHE), [Where Should We Begin? with Esther Perel - Happily Divorced](https://overcast.fm/+JIS2gVwKA) and [Making Sense with Sam Harris - The New Future of Work](https://overcast.fm/+Ic2gDqyQs). Each very different, each very good. 
+- Enjoyed these pods: [Today Explained - Why Sweden stayed open](https://overcast.fm/+WEGlpiQHE), [Where Should We Begin? with Esther Perel - Happily Divorced](https://overcast.fm/+JIS2gVwKA) and [Making Sense with Sam Harris - The New Future of Work](https://overcast.fm/+Ic2gDqyQs). Each very different, each very good.

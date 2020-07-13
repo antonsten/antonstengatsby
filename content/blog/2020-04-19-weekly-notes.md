@@ -4,7 +4,6 @@ title: 'Weekly notes April 13-19'
 date: 2020-04-19T07:31:08+00:00
 author: Anton Sten
 slug: weekly-notes-04-19/
-tag: 'newsletter'
 ---
 
 ## Work

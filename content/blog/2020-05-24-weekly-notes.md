@@ -4,7 +4,6 @@ title: 'Weekly notes May 18 - 24'
 date: 2020-05-24T07:31:08+00:00
 author: Anton Sten
 slug: weekly-notes-05-24/
-tag: 'newsletter'
 ---
 
 

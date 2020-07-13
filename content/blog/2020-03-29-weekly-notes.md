@@ -4,7 +4,6 @@ title: 'Weekly notes March 23-29'
 date: 2020-03-29T07:31:08+00:00
 author: Anton Sten
 slug: weekly-notes-03-23-29/
-tag: 'newsletter'
 ---
 
 Inspired by [Dan Mall's Weeknotes](http://danmall.me/articles/weeknotes-2020-02-23/), I thought I'd try something similar. Let me know if you find these interesting!

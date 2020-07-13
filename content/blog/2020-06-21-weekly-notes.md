@@ -4,7 +4,6 @@ title: 'Weekly notes June 15 - 21'
 date: 2020-06-21T07:31:08+00:00
 author: Anton Sten
 slug: weekly-notes-06-21/
-tag: 'newsletter'
 ---
 
 Was generally really tired last week and the temperatures were high (no AC in Sweden).

@@ -4,7 +4,6 @@ title: 'Weekly notes June 29 - July 5'
 date: 2020-07-06T07:31:08+00:00
 author: Anton Sten
 slug: weekly-notes-07-05/
-tag: 'newsletter'
 ---
 
 
@@ -12,7 +11,7 @@ tag: 'newsletter'
 ## Work
 
 - Talked about a couple of potential projects
-- Worked on a redesign of my website 
+- Worked on a redesign of my website
 
 ## Personal
 

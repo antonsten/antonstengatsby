@@ -4,7 +4,6 @@ title: 'Weekly notes March 30 - April 5'
 date: 2020-04-05T07:31:08+00:00
 author: Anton Sten
 slug: weekly-notes-04-05/
-tag: 'newsletter'
 ---
 
 Weird week to say the least.
@@ -21,4 +20,4 @@ Weird week to say the least.
 - Helped a friend move which was surprisingly relaxing and a welcome change.
 - Went to [Pastafabriken](https://www.instagram.com/pastafabriken/) for a nice outdoor lunch.
 - Watched [1917](https://www.youtube.com/watch?v=gZjQROMAh_s) - love Sam Mendes movies.
-- Outdoor season of Sunday football started! 
+- Outdoor season of Sunday football started!

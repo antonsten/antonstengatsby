@@ -4,10 +4,9 @@ title: 'Weekly notes May 11 - 17'
 date: 2020-05-17T07:31:08+00:00
 author: Anton Sten
 slug: weekly-notes-05-17/
-tag: 'newsletter'
 ---
 
-Tough, intense week. 
+Tough, intense week.
 
 ## Work
 
